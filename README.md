@@ -1,5 +1,19 @@
 # الرسومات والمهارات
 
+## الأحدث — محاولة من الريفرنس الأوضح
+
+**[المعاينة](drawings/palace-reference-redraw/palace_reference_preview.png)** · **[تحميل الحزمة كاملة](drawings/palace-reference-redraw/palace_reference_package.zip?raw=true)**
+
+- [PDF أساسي بدون أبعاد مضافة](drawings/palace-reference-redraw/palace_reference_redraw.pdf?raw=true)
+- [AutoCAD DXF](drawings/palace-reference-redraw/palace_reference_redraw.dxf?raw=true)
+- [كود AutoLISP مستقل](drawings/palace-reference-redraw/palace_reference_redraw.lsp?raw=true)
+- [التشغيل والفحوص وحدود المطابقة](drawings/palace-reference-redraw/README_AR.md)
+
+أُعيد ضبط الوردات والحجر وزخارف الإطارات والقواعد والعنوان. ما زالت بعض الزخارف تقريبية؛ ليست مطابقة حرفية مثبتة للريفرنس. المقاسات تقديرية. تشغيل LSP: **APPLOAD → PALACE**؛ الأبعاد الإضافية اختيارية.
+
+![معاينة محاولة الريفرنس الأوضح](drawings/palace-reference-redraw/palace_reference_preview.png)
+
+
 ## الأحدث: AutoLISP كامل — واجهة منظّفة وأبعاد تقديرية
 
 - **[تحميل الحزمة كاملة ZIP](drawings/palace-autolisp-clean/palace_autolisp_clean_package.zip?raw=true)**
