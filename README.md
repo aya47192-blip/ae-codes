@@ -1,5 +1,18 @@
 # الرسومات والمهارات
 
+## الواجهة الجديدة — خطوط سوداء موحّدة وخلفية بيضاء
+
+- [تحميل الحزمة كاملة ZIP](drawings/palace-uniform/palace_facade_package.zip?raw=true)
+- [تحميل AutoCAD DXF](drawings/palace-uniform/palace_facade_uniform.dxf?raw=true)
+- [تحميل PDF متجه](drawings/palace-uniform/palace_facade_uniform.pdf?raw=true)
+- [معاينة الرسم](drawings/palace-uniform/palace_facade_preview.png)
+- [التفاصيل والطبقات وحدود الدقة](drawings/palace-uniform/README_AR.md)
+
+سُمك موحّد **0.18 مم**، وجميع **2023** مسارًا مغلقة. يتضمن DXF مسطحًا أبيض خلف الحدود السوداء. الرسم واجهة بمقياس نسبي، والزخارف إعادة بناء هندسية تقريبية من الصورة.
+
+![معاينة الواجهة بخطوط موحدة](drawings/palace-uniform/palace_facade_preview.png)
+
+
 ## تحميل الواجهة — النسخة الثانية
 
 - [كل الملفات في ZIP](drawings/elevation-v2/elevation_v2_package.zip)

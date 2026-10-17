@@ -1,0 +1,6 @@
+ezdxf==1.4.4
+PyMuPDF==1.26.6
+pypdfium2==5.13.0
+Pillow==12.3.0
+cairocffi==1.7.1
+shapely==2.2.0
