@@ -1,0 +1,4 @@
+ezdxf==1.4.4
+PyMuPDF==1.26.6
+pypdfium2==5.13.0
+cairocffi==1.7.1

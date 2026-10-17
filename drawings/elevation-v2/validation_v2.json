@@ -1,0 +1,50 @@
+{
+  "method": "Manual geometric reconstruction from the chat-displayed reference; no raster pixel analysis available.",
+  "reference_dimensions": [
+    1776,
+    592
+  ],
+  "scale": "unitless image proportions; 1 CAD unit corresponds to one reference image coordinate unit",
+  "guarantees": "DXF read-back, valid independent line entities, PDF contains no embedded images; visual review only for resemblance.",
+  "limits": "Not an exact measured trace. No survey dimensions or claimed 100% line correspondence.",
+  "line_entities": 443,
+  "layers": {
+    "02_MAIN_STRUCTURE": 109,
+    "03_SECONDARY_ARCH": 205,
+    "04_FACADE_LOUVERS": 87,
+    "05_SHADING_HATCH": 41,
+    "01_GROUND_CUT": 1
+  },
+  "groups": {
+    "tower": 71,
+    "left_roof": 31,
+    "folded_facade": 24,
+    "central_glazing": 53,
+    "central_recess": 42,
+    "ramp": 7,
+    "main_roof": 56,
+    "main_fascia": 12,
+    "curtain_wall": 128,
+    "base_wall": 18,
+    "ground": 1
+  },
+  "dxf": {
+    "elevation_v2.dxf": {
+      "entities": 443,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    "elevation_v2_lineweights.dxf": {
+      "entities": 443,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    }
+  },
+  "pdf": {
+    "pages": 1,
+    "raster_images": 0,
+    "vector_segments": 443,
+    "max_coordinate_difference_from_dxf": 0.0014428597458286763,
+    "coordinate_tolerance": 0.002
+  }
+}

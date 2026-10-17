@@ -1,0 +1,5765 @@
+{
+  "width": 1776,
+  "height": 592,
+  "lines": [
+    {
+      "a": [
+        233.0,
+        125.0
+      ],
+      "b": [
+        565.0,
+        169.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.1,
+      "group": "tower"
+    },
+    {
+      "a": [
+        565.0,
+        169.0
+      ],
+      "b": [
+        590.0,
+        229.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.1,
+      "group": "tower"
+    },
+    {
+      "a": [
+        590.0,
+        229.0
+      ],
+      "b": [
+        598.0,
+        286.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.1,
+      "group": "tower"
+    },
+    {
+      "a": [
+        233.0,
+        125.0
+      ],
+      "b": [
+        233.0,
+        137.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        233.0,
+        137.0
+      ],
+      "b": [
+        273.0,
+        202.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        235.0,
+        127.0
+      ],
+      "b": [
+        563.0,
+        171.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        243.0,
+        154.0
+      ],
+      "b": [
+        243.0,
+        128.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        273.0,
+        202.0
+      ],
+      "b": [
+        273.0,
+        180.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        273.0,
+        180.0
+      ],
+      "b": [
+        566.0,
+        180.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        273.0,
+        180.0
+      ],
+      "b": [
+        297.98617511525,
+        299.9336405532
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        278.0,
+        203.0
+      ],
+      "b": [
+        299.97492591756,
+        299.88944609106
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        565.0,
+        170.0
+      ],
+      "b": [
+        577.0,
+        223.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        577.0,
+        223.0
+      ],
+      "b": [
+        585.0,
+        287.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        272.0,
+        132.2
+      ],
+      "b": [
+        272.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        301.0,
+        136.06666666666666
+      ],
+      "b": [
+        301.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        329.0,
+        139.8
+      ],
+      "b": [
+        329.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        358.0,
+        143.66666666666666
+      ],
+      "b": [
+        358.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        387.0,
+        147.53333333333333
+      ],
+      "b": [
+        387.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        416.0,
+        151.4
+      ],
+      "b": [
+        416.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        445.0,
+        155.26666666666665
+      ],
+      "b": [
+        445.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        474.0,
+        159.13333333333333
+      ],
+      "b": [
+        474.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        503.0,
+        163.0
+      ],
+      "b": [
+        503.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        531.0,
+        166.73333333333335
+      ],
+      "b": [
+        531.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        560.0,
+        170.6
+      ],
+      "b": [
+        560.0,
+        180.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "tower"
+    },
+    {
+      "a": [
+        318.0,
+        181.0
+      ],
+      "b": [
+        318.0,
+        298.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        284.0,
+        240.0
+      ],
+      "b": [
+        338.0,
+        240.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        549.0,
+        240.0
+      ],
+      "b": [
+        579.0,
+        240.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        409.0,
+        181.0
+      ],
+      "b": [
+        409.0,
+        195.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        409.0,
+        242.0
+      ],
+      "b": [
+        409.0,
+        252.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        521.0,
+        181.0
+      ],
+      "b": [
+        521.0,
+        195.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        521.0,
+        242.0
+      ],
+      "b": [
+        521.0,
+        252.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "tower"
+    },
+    {
+      "a": [
+        339.0,
+        196.0
+      ],
+      "b": [
+        549.0,
+        196.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        549.0,
+        196.0
+      ],
+      "b": [
+        549.0,
+        241.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        549.0,
+        241.0
+      ],
+      "b": [
+        339.0,
+        241.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        339.0,
+        241.0
+      ],
+      "b": [
+        339.0,
+        196.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        342.0,
+        198.0
+      ],
+      "b": [
+        547.0,
+        198.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        547.0,
+        198.0
+      ],
+      "b": [
+        547.0,
+        240.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        547.0,
+        240.0
+      ],
+      "b": [
+        342.0,
+        240.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        342.0,
+        240.0
+      ],
+      "b": [
+        342.0,
+        198.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        360.0,
+        198.0
+      ],
+      "b": [
+        360.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        379.0,
+        198.0
+      ],
+      "b": [
+        379.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        398.0,
+        198.0
+      ],
+      "b": [
+        398.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        417.0,
+        198.0
+      ],
+      "b": [
+        417.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        435.0,
+        198.0
+      ],
+      "b": [
+        435.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        454.0,
+        198.0
+      ],
+      "b": [
+        454.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        473.0,
+        198.0
+      ],
+      "b": [
+        473.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        492.0,
+        198.0
+      ],
+      "b": [
+        492.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        511.0,
+        198.0
+      ],
+      "b": [
+        511.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        530.0,
+        198.0
+      ],
+      "b": [
+        530.0,
+        240.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        339.0,
+        253.0
+      ],
+      "b": [
+        549.0,
+        253.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        549.0,
+        253.0
+      ],
+      "b": [
+        549.0,
+        290.4571428571
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        385.0000000005,
+        298.0
+      ],
+      "b": [
+        339.0,
+        298.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        339.0,
+        298.0
+      ],
+      "b": [
+        339.0,
+        253.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "tower"
+    },
+    {
+      "a": [
+        342.0,
+        255.0
+      ],
+      "b": [
+        547.0,
+        255.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        547.0,
+        255.0
+      ],
+      "b": [
+        547.0,
+        290.62857142866
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        509.333333333,
+        297.0
+      ],
+      "b": [
+        429.9999999994,
+        297.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        429.9999999994,
+        297.0
+      ],
+      "b": [
+        342.0,
+        297.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        342.0,
+        297.0
+      ],
+      "b": [
+        342.0,
+        255.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "tower"
+    },
+    {
+      "a": [
+        360.0,
+        255.0
+      ],
+      "b": [
+        360.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        379.0,
+        255.0
+      ],
+      "b": [
+        379.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        398.0,
+        255.0
+      ],
+      "b": [
+        398.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        417.0,
+        255.0
+      ],
+      "b": [
+        417.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        435.0,
+        255.0
+      ],
+      "b": [
+        435.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        454.0,
+        255.0
+      ],
+      "b": [
+        454.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        473.0,
+        255.0
+      ],
+      "b": [
+        473.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        492.0,
+        255.0
+      ],
+      "b": [
+        492.0,
+        297.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        511.0,
+        255.0
+      ],
+      "b": [
+        511.0,
+        296.61538461528
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        530.0,
+        255.0
+      ],
+      "b": [
+        530.0,
+        292.2307692309
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.57,
+      "group": "tower"
+    },
+    {
+      "a": [
+        583.0,
+        231.0
+      ],
+      "b": [
+        590.0,
+        286.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.56,
+      "group": "tower"
+    },
+    {
+      "a": [
+        587.0,
+        237.0
+      ],
+      "b": [
+        594.0,
+        286.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.56,
+      "group": "tower"
+    },
+    {
+      "a": [
+        591.0,
+        245.0
+      ],
+      "b": [
+        596.0,
+        286.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.56,
+      "group": "tower"
+    },
+    {
+      "a": [
+        77.0,
+        356.0
+      ],
+      "b": [
+        237.0,
+        313.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        237.0,
+        313.0
+      ],
+      "b": [
+        295.0,
+        301.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        295.0,
+        301.0
+      ],
+      "b": [
+        430.0,
+        298.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        77.0,
+        356.0
+      ],
+      "b": [
+        236.0,
+        311.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        236.0,
+        311.0
+      ],
+      "b": [
+        291.0,
+        330.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        282.1226573028,
+        303.6642777995277
+      ],
+      "b": [
+        245.0,
+        335.17098445595855
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        307.0,
+        300.73333333333335
+      ],
+      "b": [
+        268.0,
+        332.78756476683935
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        329.0,
+        300.24444444444447
+      ],
+      "b": [
+        290.0,
+        330.5077720207254
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        351.0,
+        299.75555555555553
+      ],
+      "b": [
+        313.0,
+        328.12435233160625
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        374.0,
+        299.24444444444447
+      ],
+      "b": [
+        335.0,
+        325.8445595854922
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        396.0,
+        298.75555555555553
+      ],
+      "b": [
+        357.0,
+        323.56476683937825
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        417.0,
+        298.2888888888889
+      ],
+      "b": [
+        380.0,
+        321.18134715025906
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        430.0,
+        298.0
+      ],
+      "b": [
+        402.0,
+        318.9015544041451
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        77.0,
+        356.0
+      ],
+      "b": [
+        237.0,
+        337.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        237.0,
+        337.0
+      ],
+      "b": [
+        237.0,
+        313.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        237.0,
+        313.0
+      ],
+      "b": [
+        291.0,
+        331.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        80.0,
+        354.0
+      ],
+      "b": [
+        236.0,
+        316.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.55,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        236.0,
+        316.0
+      ],
+      "b": [
+        281.0,
+        331.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.55,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        112.0,
+        348.0
+      ],
+      "b": [
+        237.0,
+        319.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        143.0,
+        344.0
+      ],
+      "b": [
+        237.0,
+        322.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        175.0,
+        341.0
+      ],
+      "b": [
+        237.0,
+        326.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        207.0,
+        338.0
+      ],
+      "b": [
+        237.0,
+        330.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        241.0,
+        317.0
+      ],
+      "b": [
+        281.0,
+        332.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        430.0,
+        297.0
+      ],
+      "b": [
+        475.0,
+        309.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        475.0,
+        309.0
+      ],
+      "b": [
+        505.0,
+        307.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        505.0,
+        307.0
+      ],
+      "b": [
+        505.0,
+        299.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        505.0,
+        299.0
+      ],
+      "b": [
+        430.0,
+        297.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        430.0,
+        297.0
+      ],
+      "b": [
+        430.0,
+        316.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        434.0,
+        300.0
+      ],
+      "b": [
+        475.0,
+        311.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        475.0,
+        311.0
+      ],
+      "b": [
+        505.0,
+        308.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        299.0,
+        301.0
+      ],
+      "b": [
+        429.0,
+        298.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "left_roof"
+    },
+    {
+      "a": [
+        77.0,
+        356.0
+      ],
+      "b": [
+        79.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.15,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        237.0,
+        337.0
+      ],
+      "b": [
+        430.0,
+        316.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        430.0,
+        316.0
+      ],
+      "b": [
+        505.0,
+        308.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        505.0,
+        299.0
+      ],
+      "b": [
+        531.0,
+        292.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        531.0,
+        292.0
+      ],
+      "b": [
+        566.0,
+        289.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        531.0,
+        292.0
+      ],
+      "b": [
+        466.0,
+        398.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        466.0,
+        398.0
+      ],
+      "b": [
+        346.0,
+        468.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        346.0,
+        468.0
+      ],
+      "b": [
+        339.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        566.0,
+        289.0
+      ],
+      "b": [
+        510.0,
+        334.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        77.45,
+        381.0
+      ],
+      "b": [
+        116.0,
+        351.4
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.88,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        78.2,
+        424.0
+      ],
+      "b": [
+        174.0,
+        344.5
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.88,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        131.0,
+        471.0
+      ],
+      "b": [
+        263.0,
+        334.2
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.88,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        267.0,
+        471.0
+      ],
+      "b": [
+        375.5,
+        322.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.88,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        339.0,
+        471.0
+      ],
+      "b": [
+        448.0,
+        315.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.88,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        346.0,
+        468.0
+      ],
+      "b": [
+        455.0,
+        314.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.88,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        123.0,
+        387.0
+      ],
+      "b": [
+        174.0,
+        426.4
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        173.0,
+        344.6
+      ],
+      "b": [
+        173.0,
+        392.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        174.0,
+        426.4
+      ],
+      "b": [
+        174.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        234.0,
+        364.3
+      ],
+      "b": [
+        309.0,
+        413.3
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        309.0,
+        329.2
+      ],
+      "b": [
+        309.0,
+        413.3
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        309.0,
+        401.0
+      ],
+      "b": [
+        366.0,
+        432.4
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        418.0,
+        367.0
+      ],
+      "b": [
+        465.0,
+        398.3
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.48,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        531.0,
+        292.0
+      ],
+      "b": [
+        535.0,
+        292.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        535.0,
+        292.0
+      ],
+      "b": [
+        470.0,
+        397.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.58,
+      "group": "folded_facade"
+    },
+    {
+      "a": [
+        346.0,
+        468.0
+      ],
+      "b": [
+        493.0,
+        404.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        493.0,
+        404.0
+      ],
+      "b": [
+        493.0,
+        373.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        493.0,
+        373.0
+      ],
+      "b": [
+        510.0,
+        365.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        510.0,
+        365.0
+      ],
+      "b": [
+        510.0,
+        334.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        510.0,
+        334.0
+      ],
+      "b": [
+        566.0,
+        312.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        360.0,
+        461.90476190512004
+      ],
+      "b": [
+        360.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        364.0,
+        460.16326530646
+      ],
+      "b": [
+        364.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        375.0,
+        455.37414965934
+      ],
+      "b": [
+        375.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        379.0,
+        453.63265306068
+      ],
+      "b": [
+        379.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        399.0,
+        444.92517006738
+      ],
+      "b": [
+        399.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        402.0,
+        443.61904761919
+      ],
+      "b": [
+        402.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        423.0,
+        434.47619047542
+      ],
+      "b": [
+        423.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        427.0,
+        432.73469387676
+      ],
+      "b": [
+        427.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        447.0,
+        424.02721088507
+      ],
+      "b": [
+        447.0,
+        445.05376344101404
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        447.0,
+        463.11016949135944
+      ],
+      "b": [
+        447.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        451.0,
+        422.28571428641
+      ],
+      "b": [
+        451.0,
+        443.59139784955573
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        451.0,
+        461.4491525424778
+      ],
+      "b": [
+        451.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        470.0,
+        414.01360544197
+      ],
+      "b": [
+        470.0,
+        436.6451612900927
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        470.0,
+        453.55932203416376
+      ],
+      "b": [
+        470.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        474.0,
+        412.27210884331
+      ],
+      "b": [
+        474.0,
+        435.1827956990094
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        474.0,
+        451.8983050848983
+      ],
+      "b": [
+        474.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        493.0,
+        404.00000000048
+      ],
+      "b": [
+        493.0,
+        428.23655913985635
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        493.0,
+        444.00847457605335
+      ],
+      "b": [
+        493.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        497.0,
+        371.11764705865
+      ],
+      "b": [
+        497.0,
+        426.774193548742
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        497.0,
+        442.34745762753846
+      ],
+      "b": [
+        497.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        510.0,
+        364.99999999963
+      ],
+      "b": [
+        510.0,
+        422.02150537664903
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        510.0,
+        436.9491525420011
+      ],
+      "b": [
+        510.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        514.0,
+        332.42857142827
+      ],
+      "b": [
+        514.0,
+        420.5591397844903
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        514.0,
+        435.28813559310805
+      ],
+      "b": [
+        514.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        521.0,
+        329.67857142853
+      ],
+      "b": [
+        521.0,
+        401.99999999959834
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        521.0,
+        432.3813559322233
+      ],
+      "b": [
+        521.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        525.0,
+        328.10714285702
+      ],
+      "b": [
+        525.0,
+        401.99999999993423
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        525.0,
+        430.7203389829893
+      ],
+      "b": [
+        525.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        535.0,
+        324.17857142905
+      ],
+      "b": [
+        535.0,
+        402.0000000003738
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        535.0,
+        426.56779660994766
+      ],
+      "b": [
+        535.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        539.0,
+        322.60714285754
+      ],
+      "b": [
+        539.0,
+        401.99999999995964
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        539.0,
+        424.9067796615269
+      ],
+      "b": [
+        539.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        556.0,
+        315.92857142822
+      ],
+      "b": [
+        556.0,
+        402.00000000037505
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        556.0,
+        421.9999999998618
+      ],
+      "b": [
+        556.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        560.0,
+        314.35714285671
+      ],
+      "b": [
+        560.0,
+        401.99999999983936
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        560.0,
+        422.00000000018105
+      ],
+      "b": [
+        560.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        564.0,
+        312.7857142852
+      ],
+      "b": [
+        564.0,
+        401.9999999997507
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        564.0,
+        422.0000000006943
+      ],
+      "b": [
+        564.0,
+        471.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.45,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        522.0,
+        339.0
+      ],
+      "b": [
+        535.0,
+        339.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        522.0,
+        357.0
+      ],
+      "b": [
+        535.0,
+        357.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        522.0,
+        376.0
+      ],
+      "b": [
+        535.0,
+        376.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        522.0,
+        395.0
+      ],
+      "b": [
+        535.0,
+        395.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        540.0,
+        329.0
+      ],
+      "b": [
+        556.0,
+        329.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        540.0,
+        349.0
+      ],
+      "b": [
+        556.0,
+        349.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        540.0,
+        369.0
+      ],
+      "b": [
+        556.0,
+        369.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        540.0,
+        389.0
+      ],
+      "b": [
+        556.0,
+        389.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.47,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        350.0,
+        469.0
+      ],
+      "b": [
+        428.0,
+        469.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        459.0,
+        468.0
+      ],
+      "b": [
+        545.0,
+        468.0
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.48,
+      "group": "central_glazing"
+    },
+    {
+      "a": [
+        566.0,
+        312.0
+      ],
+      "b": [
+        590.0,
+        333.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        590.0,
+        333.0
+      ],
+      "b": [
+        748.0,
+        333.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        566.0,
+        313.0
+      ],
+      "b": [
+        566.0,
+        402.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        590.0,
+        333.0
+      ],
+      "b": [
+        590.0,
+        402.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        590.0,
+        374.0
+      ],
+      "b": [
+        629.0,
+        374.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        629.0,
+        402.0
+      ],
+      "b": [
+        629.0,
+        342.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        629.0,
+        342.0
+      ],
+      "b": [
+        726.0,
+        342.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        726.0,
+        342.0
+      ],
+      "b": [
+        728.0,
+        347.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        728.0,
+        347.0
+      ],
+      "b": [
+        748.0,
+        347.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        726.0,
+        342.0
+      ],
+      "b": [
+        726.0,
+        359.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        645.0,
+        347.0
+      ],
+      "b": [
+        662.0,
+        347.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.6,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        662.0,
+        347.0
+      ],
+      "b": [
+        662.0,
+        357.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.6,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        662.0,
+        357.0
+      ],
+      "b": [
+        645.0,
+        357.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.6,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        645.0,
+        357.0
+      ],
+      "b": [
+        645.0,
+        347.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.6,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        748.0,
+        359.0
+      ],
+      "b": [
+        674.0,
+        359.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        674.0,
+        359.0
+      ],
+      "b": [
+        674.0,
+        367.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        674.0,
+        367.0
+      ],
+      "b": [
+        748.0,
+        367.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        726.0,
+        367.0
+      ],
+      "b": [
+        726.0,
+        401.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        698.0,
+        401.0
+      ],
+      "b": [
+        698.0,
+        377.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        698.0,
+        377.0
+      ],
+      "b": [
+        722.0,
+        377.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        722.0,
+        377.0
+      ],
+      "b": [
+        722.0,
+        401.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        711.0,
+        378.0
+      ],
+      "b": [
+        711.0,
+        401.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        566.0,
+        423.0
+      ],
+      "b": [
+        590.0,
+        433.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        590.0,
+        433.0
+      ],
+      "b": [
+        650.0,
+        433.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        650.0,
+        433.0
+      ],
+      "b": [
+        650.0,
+        459.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        650.0,
+        459.0
+      ],
+      "b": [
+        566.0,
+        459.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        590.0,
+        433.0
+      ],
+      "b": [
+        590.0,
+        459.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        558.0,
+        423.0
+      ],
+      "b": [
+        558.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        558.0,
+        471.0
+      ],
+      "b": [
+        650.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        650.0,
+        471.0
+      ],
+      "b": [
+        659.0,
+        467.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        659.0,
+        467.0
+      ],
+      "b": [
+        659.0,
+        423.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        566.0,
+        423.0
+      ],
+      "b": [
+        566.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        650.0,
+        423.0
+      ],
+      "b": [
+        650.0,
+        433.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        659.0,
+        423.0
+      ],
+      "b": [
+        668.0,
+        427.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        668.0,
+        427.0
+      ],
+      "b": [
+        748.0,
+        427.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        668.0,
+        427.0
+      ],
+      "b": [
+        668.0,
+        470.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        679.0,
+        427.0
+      ],
+      "b": [
+        679.0,
+        469.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        691.0,
+        427.0
+      ],
+      "b": [
+        691.0,
+        469.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        713.0,
+        427.0
+      ],
+      "b": [
+        713.0,
+        469.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        734.0,
+        427.0
+      ],
+      "b": [
+        734.0,
+        469.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.46,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        668.0,
+        470.0
+      ],
+      "b": [
+        679.0,
+        468.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        679.0,
+        468.0
+      ],
+      "b": [
+        748.0,
+        468.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.68,
+      "group": "central_recess"
+    },
+    {
+      "a": [
+        428.0,
+        452.0
+      ],
+      "b": [
+        521.0,
+        418.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        521.0,
+        418.0
+      ],
+      "b": [
+        521.0,
+        402.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        521.0,
+        402.0
+      ],
+      "b": [
+        748.0,
+        402.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        748.0,
+        402.0
+      ],
+      "b": [
+        748.0,
+        422.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        748.0,
+        422.0
+      ],
+      "b": [
+        546.0,
+        422.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        546.0,
+        422.0
+      ],
+      "b": [
+        428.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        428.0,
+        471.0
+      ],
+      "b": [
+        428.0,
+        452.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "ramp"
+    },
+    {
+      "a": [
+        566.0,
+        289.0
+      ],
+      "b": [
+        748.0000000020236,
+        274.26892950375264
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        758.9999999979814,
+        273.3785900784924
+      ],
+      "b": [
+        1030.9999999961,
+        251.3629242823
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1034.019927152,
+        251.118491536
+      ],
+      "b": [
+        1715.0,
+        196.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1715.0,
+        196.0
+      ],
+      "b": [
+        1712.0,
+        210.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1712.0,
+        210.0
+      ],
+      "b": [
+        1691.0,
+        220.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        598.0,
+        286.0
+      ],
+      "b": [
+        748.000000000002,
+        274.1614349775783
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.58,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        758.9999999981835,
+        273.29327354274426
+      ],
+      "b": [
+        1030.99999999455,
+        251.82600896904
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.58,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1035.0641727088,
+        251.50524914944
+      ],
+      "b": [
+        1713.0,
+        198.0
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.58,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1651.0,
+        201.0
+      ],
+      "b": [
+        1727.41190198334,
+        244.66394399048
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.95,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        625.0,
+        284.2147465437788
+      ],
+      "b": [
+        626.1646239091978,
+        286.7032591702697
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        665.0,
+        280.9705069124424
+      ],
+      "b": [
+        667.0591188429457,
+        285.14214152132763
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        705.0,
+        277.726267281106
+      ],
+      "b": [
+        708.0381148048275,
+        283.57779810704494
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        793.0,
+        270.5889400921659
+      ],
+      "b": [
+        798.4881549288215,
+        280.1249335047693
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        837.0,
+        267.0202764976959
+      ],
+      "b": [
+        843.8653009410439,
+        278.39269390599816
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        881.0,
+        263.4516129032258
+      ],
+      "b": [
+        889.3434384347881,
+        276.6565990307076
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        926.0,
+        259.8018433179723
+      ],
+      "b": [
+        935.9592993345311,
+        274.87707239058545
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        971.0,
+        256.1520737327189
+      ],
+      "b": [
+        982.6801237076666,
+        273.0935388459508
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1015.0,
+        252.58341013824884
+      ],
+      "b": [
+        1028.4638747438896,
+        271.3457773956199
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1059.0,
+        249.0147465437788
+      ],
+      "b": [
+        1070.700271751304,
+        264.70380435232823
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1104.0,
+        245.36497695852535
+      ],
+      "b": [
+        1121.376425803084,
+        267.7989082267086
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1139.0,
+        242.526267281106
+      ],
+      "b": [
+        1158.0262721187805,
+        266.39982695634757
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1162.0,
+        240.66082949308756
+      ],
+      "b": [
+        1182.1445184917382,
+        265.47913041431036
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1185.0,
+        238.7953917050691
+      ],
+      "b": [
+        1206.289727452341,
+        264.5574045951235
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1208.0,
+        236.92995391705068
+      ],
+      "b": [
+        1230.4618549617821,
+        263.6346511799645
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1231.0,
+        235.06451612903226
+      ],
+      "b": [
+        1254.660857076832,
+        262.71087184602607
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1254.0,
+        233.19907834101383
+      ],
+      "b": [
+        1278.8866899502486,
+        261.786068267324
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1277.0,
+        231.3336405529954
+      ],
+      "b": [
+        1303.1393098302137,
+        260.86024211432505
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1300.0,
+        229.46820276497695
+      ],
+      "b": [
+        1327.418673059528,
+        259.93339505334137
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1323.0,
+        227.60276497695853
+      ],
+      "b": [
+        1351.7247360761476,
+        259.0055287474541
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1346.0,
+        225.7373271889401
+      ],
+      "b": [
+        1376.0574554121401,
+        258.07664485564266
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1369.0,
+        223.87188940092165
+      ],
+      "b": [
+        1382.575401874578,
+        238.2501747281733
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1392.0,
+        222.00645161290322
+      ],
+      "b": [
+        1424.802689644287,
+        256.21583093491137
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1415.0,
+        220.1410138248848
+      ],
+      "b": [
+        1449.215118075302,
+        255.2839042062549
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1438.0,
+        218.27557603686637
+      ],
+      "b": [
+        1473.6540298960988,
+        254.3509664934986
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1461.0,
+        216.41013824884794
+      ],
+      "b": [
+        1498.119382108304,
+        253.41701943833607
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1484.0,
+        214.5447004608295
+      ],
+      "b": [
+        1522.611131805531,
+        252.48206467786585
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1507.0,
+        212.67926267281106
+      ],
+      "b": [
+        1547.1292361757942,
+        251.54610384725902
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1530.0,
+        210.8138248847926
+      ],
+      "b": [
+        1551.2551196801126,
+        231.1109215999497
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1553.0,
+        208.94838709677418
+      ],
+      "b": [
+        1596.2443381451776,
+        249.67117049399587
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1576.0,
+        207.08294930875576
+      ],
+      "b": [
+        1620.8412505804029,
+        248.7322012224899
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1599.0,
+        205.21751152073733
+      ],
+      "b": [
+        1645.4643473599535,
+        247.79223238273846
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1622.0,
+        203.3520737327189
+      ],
+      "b": [
+        1670.1135861311782,
+        246.85126559151607
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1645.0,
+        201.48663594470048
+      ],
+      "b": [
+        1694.788924632715,
+        245.90930246211212
+      ],
+      "layer": "04_FACADE_LOUVERS",
+      "width": 0.49,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1031.0,
+        250.0
+      ],
+      "b": [
+        1083.0113602169,
+        269.263466747
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.85,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1031.0,
+        271.24896265558
+      ],
+      "b": [
+        1031.0,
+        250.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.85,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1034.0,
+        254.0
+      ],
+      "b": [
+        1078.38969900912,
+        269.43989530752
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.52,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1382.0,
+        238.0
+      ],
+      "b": [
+        1423.9695605736,
+        256.247635032
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.85,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1382.0,
+        257.84979253114
+      ],
+      "b": [
+        1382.0,
+        238.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.85,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1385.0,
+        242.0
+      ],
+      "b": [
+        1419.26469469296,
+        256.42723987072
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.52,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1551.0,
+        231.0
+      ],
+      "b": [
+        1594.12938663406,
+        249.7519072322
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.85,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1551.0,
+        251.39834024888
+      ],
+      "b": [
+        1551.0,
+        231.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.85,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        1554.0,
+        235.0
+      ],
+      "b": [
+        1589.45919726076,
+        249.93018832031998
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.52,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        748.0,
+        231.0
+      ],
+      "b": [
+        759.0,
+        231.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        759.0,
+        231.0
+      ],
+      "b": [
+        759.0,
+        281.63236514544
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        749.36956521735,
+        282.0
+      ],
+      "b": [
+        748.0,
+        282.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        748.0,
+        282.0
+      ],
+      "b": [
+        748.0,
+        231.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "main_roof"
+    },
+    {
+      "a": [
+        566.0,
+        289.0
+      ],
+      "b": [
+        1771.0,
+        243.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1771.0,
+        243.0
+      ],
+      "b": [
+        1771.0,
+        255.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1771.0,
+        255.0
+      ],
+      "b": [
+        566.0,
+        312.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        566.0,
+        312.0
+      ],
+      "b": [
+        566.0,
+        289.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.05,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        664.0,
+        285.25892116182575
+      ],
+      "b": [
+        664.0,
+        307.3643153526971
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.54,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1085.0,
+        269.1875518672199
+      ],
+      "b": [
+        1085.0,
+        287.44979253112035
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.54,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1207.0,
+        264.53029045643154
+      ],
+      "b": [
+        1207.0,
+        281.67883817427384
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.54,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1313.0,
+        260.4838174273859
+      ],
+      "b": [
+        1313.0,
+        276.6647302904564
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.54,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1419.0,
+        256.43734439834026
+      ],
+      "b": [
+        1419.0,
+        271.650622406639
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.54,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1594.0,
+        249.75684647302904
+      ],
+      "b": [
+        1594.0,
+        263.3726141078838
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.54,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1741.0,
+        256.4
+      ],
+      "b": [
+        1740.0,
+        270.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.84,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        1740.0,
+        270.0
+      ],
+      "b": [
+        1771.0,
+        255.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.84,
+      "group": "main_fascia"
+    },
+    {
+      "a": [
+        748.0,
+        303.3908713692946
+      ],
+      "b": [
+        1739.0,
+        256.5136929460581
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1739.0,
+        256.5136929460581
+      ],
+      "b": [
+        1712.0,
+        462.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1712.0,
+        462.0
+      ],
+      "b": [
+        1397.0,
+        395.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1397.0,
+        395.0
+      ],
+      "b": [
+        1358.0,
+        405.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1358.0,
+        405.0
+      ],
+      "b": [
+        1141.0,
+        371.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1141.0,
+        371.0
+      ],
+      "b": [
+        1105.0,
+        377.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1105.0,
+        377.0
+      ],
+      "b": [
+        748.0,
+        317.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        748.0,
+        317.0
+      ],
+      "b": [
+        748.0,
+        303.3908713692946
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.98,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        748.85,
+        304.2016143340794
+      ],
+      "b": [
+        754.0882903657134,
+        303.9538279848299
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        754.0882903657134,
+        303.9538279848299
+      ],
+      "b": [
+        753.2145893723075,
+        317.0144803703885
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        753.2145893723075,
+        317.0144803703885
+      ],
+      "b": [
+        748.85,
+        316.2809359380679
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        748.85,
+        316.2809359380679
+      ],
+      "b": [
+        748.85,
+        304.2016143340794
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        756.2666151743515,
+        304.35134597292296
+      ],
+      "b": [
+        777.4182492987718,
+        303.3508122425562
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        777.4182492987718,
+        303.3508122425562
+      ],
+      "b": [
+        774.8709504225192,
+        320.1471924432371
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        774.8709504225192,
+        320.1471924432371
+      ],
+      "b": [
+        755.428532057551,
+        316.87955910458703
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        755.428532057551,
+        316.87955910458703
+      ],
+      "b": [
+        756.2666151743515,
+        304.35134597292296
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        780.1688552482731,
+        303.2207005918329
+      ],
+      "b": [
+        803.4067445307564,
+        302.12148093282747
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        803.4067445307564,
+        302.12148093282747
+      ],
+      "b": [
+        799.8801547788577,
+        324.3504200661512
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        799.8801547788577,
+        324.3504200661512
+      ],
+      "b": [
+        777.5339476812387,
+        320.59475500772777
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        777.5339476812387,
+        320.59475500772777
+      ],
+      "b": [
+        780.1688552482731,
+        303.2207005918329
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        806.1611828182466,
+        301.991188001386
+      ],
+      "b": [
+        829.3992799578837,
+        300.89195851013346
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        829.3992799578837,
+        300.89195851013346
+      ],
+      "b": [
+        824.886052250116,
+        328.5530919100601
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        824.886052250116,
+        328.5530919100601
+      ],
+      "b": [
+        802.5429232106196,
+        324.79794417232966
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        802.5429232106196,
+        324.79794417232966
+      ],
+      "b": [
+        806.1611828182466,
+        301.991188001386
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        832.1562614911155,
+        300.76154527578143
+      ],
+      "b": [
+        857.3973040201146,
+        299.56757064992837
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        857.3973040201146,
+        299.56757064992837
+      ],
+      "b": [
+        851.8876036779409,
+        333.0911677802828
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        851.8876036779409,
+        333.0911677802828
+      ],
+      "b": [
+        827.5487389901571,
+        329.00060228653757
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        827.5487389901571,
+        329.00060228653757
+      ],
+      "b": [
+        832.1562614911155,
+        300.76154527578143
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        860.1549661525592,
+        299.4371252212567
+      ],
+      "b": [
+        887.3986323875807,
+        298.1484206773594
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        887.3986323875807,
+        298.1484206773594
+      ],
+      "b": [
+        880.8865611407964,
+        337.96494214378794
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        880.8865611407964,
+        337.96494214378794
+      ],
+      "b": [
+        854.5502774568679,
+        333.53867597842174
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        854.5502774568679,
+        333.53867597842174
+      ],
+      "b": [
+        860.1549661525592,
+        299.4371252212567
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        890.1558366336325,
+        298.0179969080441
+      ],
+      "b": [
+        917.3996195883885,
+        296.7292868429643
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        917.3996195883885,
+        296.7292868429643
+      ],
+      "b": [
+        909.8857851793622,
+        342.8387613099334
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        909.8857851793622,
+        342.8387613099334
+      ],
+      "b": [
+        883.5492432359648,
+        338.41245173961454
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        883.5492432359648,
+        338.41245173961454
+      ],
+      "b": [
+        890.1558366336325,
+        298.0179969080441
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        920.1564844478472,
+        296.59887912762065
+      ],
+      "b": [
+        948.4014244108326,
+        295.2628114281267
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        948.4014244108326,
+        295.2628114281267
+      ],
+      "b": [
+        939.8843639396149,
+        347.88053925283305
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        939.8843639396149,
+        347.88053925283305
+      ],
+      "b": [
+        912.5484745105524,
+        343.28627212189815
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        912.5484745105524,
+        343.28627212189815
+      ],
+      "b": [
+        920.1564844478472,
+        296.59887912762065
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        951.1576707853568,
+        295.1324329689169
+      ],
+      "b": [
+        980.4037698987476,
+        293.7490075336777
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        980.4037698987476,
+        293.7490075336777
+      ],
+      "b": [
+        970.8825118844461,
+        353.0903120166702
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        970.8825118844461,
+        353.0903120166702
+      ],
+      "b": [
+        942.5470688339308,
+        348.32805268044916
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        942.5470688339308,
+        348.32805268044916
+      ],
+      "b": [
+        951.1576707853568,
+        295.1324329689169
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        983.1592163651437,
+        293.61866691244563
+      ],
+      "b": [
+        1013.4307275426931,
+        292.1867365081964
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1013.4307275426931,
+        292.1867365081964
+      ],
+      "b": [
+        1003.8608063743994,
+        358.6328825191834
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1003.8608063743994,
+        358.6328825191834
+      ],
+      "b": [
+        973.5452415299244,
+        353.53782960414554
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        973.5452415299244,
+        353.53782960414554
+      ],
+      "b": [
+        983.1592163651437,
+        293.61866691244563
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1016.177299091887,
+        292.0568156963258
+      ],
+      "b": [
+        1047.4094152791401,
+        290.57944588497855
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1047.4094152791401,
+        290.57944588497855
+      ],
+      "b": [
+        1035.8780305575588,
+        364.01392860038663
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1035.8780305575588,
+        364.01392860038663
+      ],
+      "b": [
+        1006.5241962464754,
+        359.0805110691121
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1006.5241962464754,
+        359.0805110691121
+      ],
+      "b": [
+        1016.177299091887,
+        292.0568156963258
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1050.1629544064697,
+        290.4491954864244
+      ],
+      "b": [
+        1081.4319112961307,
+        288.9700830028471
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1081.4319112961307,
+        288.9700830028471
+      ],
+      "b": [
+        1069.859835215026,
+        369.7251562739105
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1069.859835215026,
+        369.7251562739105
+      ],
+      "b": [
+        1038.5408409008542,
+        364.4614597505203
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1038.5408409008542,
+        364.4614597505203
+      ],
+      "b": [
+        1050.1629544064697,
+        290.4491954864244
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1084.178106826554,
+        288.8401799777565
+      ],
+      "b": [
+        1115.4505750898404,
+        287.3609013960077
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1115.4505750898404,
+        287.3609013960077
+      ],
+      "b": [
+        1103.8443163663287,
+        375.4368337783311
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1103.8443163663287,
+        375.4368337783311
+      ],
+      "b": [
+        1072.5232702827916,
+        370.1727924197535
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1072.5232702827916,
+        370.1727924197535
+      ],
+      "b": [
+        1084.178106826554,
+        288.8401799777565
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1118.190998757498,
+        287.2312713967907
+      ],
+      "b": [
+        1151.440028615643,
+        285.6584957105548
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1151.440028615643,
+        285.6584957105548
+      ],
+      "b": [
+        1139.7987436143767,
+        369.83158782828684
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1139.7987436143767,
+        369.83158782828684
+      ],
+      "b": [
+        1106.5766490369886,
+        375.3686035911848
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1106.5766490369886,
+        375.3686035911848
+      ],
+      "b": [
+        1118.190998757498,
+        287.2312713967907
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1154.1836774102023,
+        285.5287131534678
+      ],
+      "b": [
+        1188.4404099567994,
+        283.9082702031308
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1188.4404099567994,
+        283.9082702031308
+      ],
+      "b": [
+        1175.8507192007137,
+        375.0940110708125
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1175.8507192007137,
+        375.0940110708125
+      ],
+      "b": [
+        1142.5189209356322,
+        369.8715173334264
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1142.5189209356322,
+        369.8715173334264
+      ],
+      "b": [
+        1154.1836774102023,
+        285.5287131534678
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1191.1839404790448,
+        283.77849324066773
+      ],
+      "b": [
+        1225.4407357246782,
+        282.1580473244843
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1225.4407357246782,
+        282.1580473244843
+      ],
+      "b": [
+        1211.8504511573956,
+        380.7345220686336
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1211.8504511573956,
+        380.7345220686336
+      ],
+      "b": [
+        1178.5186184686077,
+        375.5120229376714
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1178.5186184686077,
+        375.5120229376714
+      ],
+      "b": [
+        1191.1839404790448,
+        283.77849324066773
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1228.1841653084757,
+        282.028275136703
+      ],
+      "b": [
+        1262.4410172423366,
+        280.40782653900163
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1262.4410172423366,
+        280.40782653900163
+      ],
+      "b": [
+        1247.8502194286784,
+        386.3750387563
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1247.8502194286784,
+        386.3750387563
+      ],
+      "b": [
+        1214.5183600681685,
+        381.1525354463584
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1214.5183600681685,
+        381.1525354463584
+      ],
+      "b": [
+        1228.1841653084757,
+        282.028275136703
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1265.1843596712267,
+        280.2780584739006
+      ],
+      "b": [
+        1299.4412629523695,
+        278.6576074473237
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1299.4412629523695,
+        278.6576074473237
+      ],
+      "b": [
+        1283.8500171028968,
+        392.015560050878
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1283.8500171028968,
+        392.015560050878
+      ],
+      "b": [
+        1250.5181367580774,
+        386.79305345307216
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1250.5181367580774,
+        386.79305345307216
+      ],
+      "b": [
+        1265.1843596712267,
+        280.2780584739006
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1302.18452936714,
+        278.52784297791135
+      ],
+      "b": [
+        1336.4414792780872,
+        276.9073897456093
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1336.4414792780872,
+        276.9073897456093
+      ],
+      "b": [
+        1319.849838917718,
+        397.65608512785457
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1319.849838917718,
+        397.65608512785457
+      ],
+      "b": [
+        1286.5179418449984,
+        392.43357590908744
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1286.5179418449984,
+        392.43357590908744
+      ],
+      "b": [
+        1302.18452936714,
+        278.52784297791135
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1339.1846788117705,
+        276.7776284398666
+      ],
+      "b": [
+        1373.4542281023487,
+        275.15657922031227
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1373.4542281023487,
+        275.15657922031227
+      ],
+      "b": [
+        1356.8392453827466,
+        403.4516603343568
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1356.8392453827466,
+        403.4516603343568
+      ],
+      "b": [
+        1322.51777023613,
+        398.0741020164537
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1322.51777023613,
+        398.0741020164537
+      ],
+      "b": [
+        1339.1846788117705,
+        276.7776284398666
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1376.1935570453304,
+        275.02700100475215
+      ],
+      "b": [
+        1413.4272604673765,
+        273.2657386852031
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1413.4272604673765,
+        273.2657386852031
+      ],
+      "b": [
+        1395.7941563102704,
+        393.91551838772983
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1395.7941563102704,
+        393.91551838772983
+      ],
+      "b": [
+        1359.59471808972,
+        403.1974256237684
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1359.59471808972,
+        403.1974256237684
+      ],
+      "b": [
+        1376.1935570453304,
+        275.02700100475215
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1416.1749400547824,
+        273.1357654599067
+      ],
+      "b": [
+        1449.4314123362044,
+        271.5626377254328
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1449.4314123362044,
+        271.5626377254328
+      ],
+      "b": [
+        1430.8689031147974,
+        400.8236623017176
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1430.8689031147974,
+        400.8236623017176
+      ],
+      "b": [
+        1398.5188447045216,
+        393.94285622715097
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1398.5188447045216,
+        393.94285622715097
+      ],
+      "b": [
+        1416.1749400547824,
+        273.1357654599067
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1452.1777662182062,
+        271.4327272098526
+      ],
+      "b": [
+        1485.4350194544813,
+        269.85956253394585
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1485.4350194544813,
+        269.85956253394585
+      ],
+      "b": [
+        1465.8658246565901,
+        408.2674519629878
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1465.8658246565901,
+        408.2674519629878
+      ],
+      "b": [
+        1433.5157544091508,
+        401.3866433706753
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1433.5157544091508,
+        401.3866433706753
+      ],
+      "b": [
+        1452.1777662182062,
+        271.4327272098526
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1488.1802332683296,
+        269.7297059469007
+      ],
+      "b": [
+        1521.4381824124775,
+        268.15650835253024
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1521.4381824124775,
+        268.15650835253024
+      ],
+      "b": [
+        1500.8631126716903,
+        415.71131957254875
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1500.8631126716903,
+        415.71131957254875
+      ],
+      "b": [
+        1468.513067853728,
+        408.8305163890457
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1468.513067853728,
+        408.8305163890457
+      ],
+      "b": [
+        1488.1802332683296,
+        269.7297059469007
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1524.182405549028,
+        268.0266986273988
+      ],
+      "b": [
+        1557.440978474904,
+        266.45347152634076
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1557.440978474904,
+        266.45347152634076
+      ],
+      "b": [
+        1535.8607054090248,
+        423.1552519960453
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1535.8607054090248,
+        423.1552519960453
+      ],
+      "b": [
+        1503.5107107841238,
+        416.2744594885267
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1503.5107107841238,
+        416.2744594885267
+      ],
+      "b": [
+        1524.182405549028,
+        268.0266986273988
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1560.1843329017795,
+        266.32370289370016
+      ],
+      "b": [
+        1593.4434679705123,
+        264.7504492016523
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1593.4434679705123,
+        264.7504492016523
+      ],
+      "b": [
+        1570.8585542507838,
+        430.5992388925464
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1570.8585542507838,
+        430.5992388925464
+      ],
+      "b": [
+        1538.5086260998705,
+        423.7184605239395
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1538.5086260998705,
+        423.7184605239395
+      ],
+      "b": [
+        1560.1843329017795,
+        266.32370289370016
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1596.1860545328525,
+        264.62071689123457
+      ],
+      "b": [
+        1629.445698690704,
+        263.0474391177926
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1629.445698690704,
+        263.0474391177926
+      ],
+      "b": [
+        1605.8566203977616,
+        438.0432720095227
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1605.8566203977616,
+        438.0432720095227
+      ],
+      "b": [
+        1573.5067691719933,
+        431.16251000277197
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1573.5067691719933,
+        431.16251000277197
+      ],
+      "b": [
+        1596.1860545328525,
+        264.62071689123457
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1632.1876017058823,
+        262.91773914114094
+      ],
+      "b": [
+        1665.447708985113,
+        261.34443946071264
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1665.447708985113,
+        261.34443946071264
+      ],
+      "b": [
+        1640.8548725101998,
+        445.48734468105715
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1640.8548725101998,
+        445.48734468105715
+      ],
+      "b": [
+        1608.5051046148621,
+        438.6066003985568
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1608.5051046148621,
+        438.6066003985568
+      ],
+      "b": [
+        1632.1876017058823,
+        262.91773914114094
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1668.1889996559603,
+        261.21476844972653
+      ],
+      "b": [
+        1701.449529983262,
+        259.64144875789566
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1701.449529983262,
+        259.64144875789566
+      ],
+      "b": [
+        1675.8532849975654,
+        452.93145146408415
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1675.8532849975654,
+        452.93145146408415
+      ],
+      "b": [
+        1643.5036040112618,
+        446.0507256669973
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1643.5036040112618,
+        446.0507256669973
+      ],
+      "b": [
+        1668.1889996559603,
+        261.21476844972653
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1704.1902689757148,
+        259.51180384289995
+      ],
+      "b": [
+        1737.4511872171709,
+        257.9384658016029
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1737.4511872171709,
+        257.9384658016029
+      ],
+      "b": [
+        1710.8518367581635,
+        460.37558787030656
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1710.8518367581635,
+        460.37558787030656
+      ],
+      "b": [
+        1678.502244277737,
+        453.49488089827935
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        1678.502244277737,
+        453.49488089827935
+      ],
+      "b": [
+        1704.1902689757148,
+        259.51180384289995
+      ],
+      "layer": "03_SECONDARY_ARCH",
+      "width": 0.69,
+      "group": "curtain_wall"
+    },
+    {
+      "a": [
+        748.0,
+        317.0
+      ],
+      "b": [
+        748.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 1.0,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        776.0,
+        322.10588235294114
+      ],
+      "b": [
+        776.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        893.0,
+        341.76974789915965
+      ],
+      "b": [
+        893.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        985.0,
+        357.23193277310924
+      ],
+      "b": [
+        985.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1032.0,
+        365.13109243697477
+      ],
+      "b": [
+        1032.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1103.0,
+        377.0638655462185
+      ],
+      "b": [
+        1103.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1153.0,
+        373.2801843317972
+      ],
+      "b": [
+        1153.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1200.0,
+        380.6442396313364
+      ],
+      "b": [
+        1200.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1316.0,
+        398.81935483870967
+      ],
+      "b": [
+        1316.0,
+        459.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1362.0,
+        404.3743589743589
+      ],
+      "b": [
+        1362.0,
+        459.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1432.0,
+        402.84444444444443
+      ],
+      "b": [
+        1432.0,
+        459.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1477.0,
+        412.415873015873
+      ],
+      "b": [
+        1477.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1520.0,
+        421.5619047619047
+      ],
+      "b": [
+        1520.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1566.0,
+        431.3460317460317
+      ],
+      "b": [
+        1566.0,
+        471.0
+      ],
+      "layer": "05_SHADING_HATCH",
+      "width": 0.5,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1220.0,
+        471.0
+      ],
+      "b": [
+        1220.0,
+        459.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.93,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1220.0,
+        459.0
+      ],
+      "b": [
+        1462.0,
+        459.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.93,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1462.0,
+        459.0
+      ],
+      "b": [
+        1462.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.93,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        1712.0,
+        462.0
+      ],
+      "b": [
+        1713.0,
+        471.0
+      ],
+      "layer": "02_MAIN_STRUCTURE",
+      "width": 0.9,
+      "group": "base_wall"
+    },
+    {
+      "a": [
+        79.0,
+        471.0
+      ],
+      "b": [
+        1713.0,
+        471.0
+      ],
+      "layer": "01_GROUND_CUT",
+      "width": 1.05,
+      "group": "ground"
+    }
+  ]
+}
