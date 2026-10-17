@@ -1,0 +1,32 @@
+{
+  "estimated_width_mm": 14000,
+  "estimated_tower_height_mm": 10610.687022900764,
+  "lineweight_mm": 0.18,
+  "source": "Manual visual reconstruction; dimensions explicitly estimated.",
+  "ornament_overlap_pairs_resolved": 186,
+  "unique_paths": 3284,
+  "closed_polyline_paths": 1136,
+  "junction_to_junction_chains": 2148,
+  "unique_segments": 42944,
+  "duplicate_segments": 0,
+  "loose_endpoints": 0,
+  "unconnected_proper_crossings": 0,
+  "dxf_audit_errors": 0,
+  "dxf_audit_fixes": 0,
+  "pdf_pages": 2,
+  "pdf_raster_images": 0,
+  "notes": "Shared edges are drawn once. Open entity chains terminate at connected junctions; complete contours remain closed as a network. Intended joints and leaded-glass motifs remain.",
+  "autocad_runtime_test": "Not available: interactive PALACE, native ActiveX dimensions, and display must be confirmed inside AutoCAD. Parser and mocked emitter tests are not an AutoCAD run.",
+  "lisp_balanced_and_parsed": true,
+  "lisp_functions_resolve": true,
+  "lisp_embedded_paths_match_dxf_source": true,
+  "lisp_polyline_emitter_mock_executions": 3284,
+  "lisp_mock_dxf_audit_errors": 0,
+  "lisp_insertion_scale_tests": [
+    0.5,
+    1,
+    1.25
+  ],
+  "lisp_block_builder_mock_execution": true,
+  "lisp_block_entity_count": 3285
+}

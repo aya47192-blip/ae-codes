@@ -1,5 +1,18 @@
 # الرسومات والمهارات
 
+## الأحدث: AutoLISP كامل — واجهة منظّفة وأبعاد تقديرية
+
+- **[تحميل الحزمة كاملة ZIP](drawings/palace-autolisp-clean/palace_autolisp_clean_package.zip?raw=true)**
+- [تحميل AutoLISP LSP](drawings/palace-autolisp-clean/palace_facade_clean.lsp?raw=true)
+- [تحميل AutoCAD DXF](drawings/palace-autolisp-clean/palace_clean_estimated_mm.dxf?raw=true)
+- [تحميل PDF بالأبعاد والجدول](drawings/palace-autolisp-clean/palace_clean_estimated_mm.pdf?raw=true)
+- [تعليمات التشغيل وحدود الدقة والفحوص](drawings/palace-autolisp-clean/README_AR.md)
+
+التشغيل: **APPLOAD → اختيار LSP → PALACE**. العرض الافتراضي 14000 مم قابل للتغيير. الأبعاد تقديرية، والزخارف إعادة بناء بصرية. الحواف المشتركة مرسومة مرة واحدة، دون نهايات سائبة. كود AutoLISP مفحوص بالمحلل والمحاكاة، ولم يُشغّل داخل AutoCAD هنا.
+
+![الواجهة المنظفة بالأبعاد](drawings/palace-autolisp-clean/palace_clean_preview.png)
+
+
 ## الواجهة الجديدة — خطوط سوداء موحّدة وخلفية بيضاء
 
 - [تحميل الحزمة كاملة ZIP](drawings/palace-uniform/palace_facade_package.zip?raw=true)

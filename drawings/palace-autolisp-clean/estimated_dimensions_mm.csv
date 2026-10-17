@@ -1,0 +1,17 @@
+id,description,estimated_width_mm,estimated_height_or_level_mm
+OVERALL_WIDTH,Overall facade width,14000,
+TOWER_HEIGHT,Highest crown above ground datum,,10611
+MIDDLE_CROWN,Middle crown above ground datum,,8641
+SIDE_CROWNS,Side crowns above ground datum,,8076
+BELT_CORNICE,Lower edge of first-floor belt above datum,,3298
+LEFT_DOOR,Left door opening,931,2046
+CENTRAL_DOOR,Projecting entrance door,947,1939
+LEFT_BALCONY,Left upper opening,1863,2000
+RIGHT_BALCONY,Right upper opening,1863,2000
+RECESS_OPENING,Recessed upper opening,1389,1893
+NARROW_TALL_WINDOWS,Narrow tall outer frames,901,4748
+MIDDLE_TALL_WINDOW,Middle tall outer frame,1221,4748
+GROUND_ROSE_WINDOWS,Outer rose-window frames,1221,1786
+LEFT_WING,Left front-wing width,4031,
+RIGHT_WING,Right front-wing width,3542,
+CENTRAL_BAY,Central bay width,3679,
