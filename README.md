@@ -1,5 +1,7 @@
 # الواجهة المستدامة — تتبّع الصورة الأصلية
 
+**[تحميل ملف الكاد فقط — ZIP](drawings/sustainable-facade/facade_cad.zip)** — افتحي الرابط واضغطي Download raw file (السهم لأسفل)، ثم فكّي الضغط وافتحي facade_cad.dxf داخل AutoCAD.
+
 المصدر: [IMG_3106.PNG](IMG_3106.PNG). نسخة للمراجعة بخطوط سوداء موحّدة، PDF متجهي وDXF وAutoLISP. **ليست مطابقة مضمونة 100% ولا كل مساراتها مغلقة**؛ التفاصيل وحدود الفحص موضّحة في [تعليمات النسخة](drawings/sustainable-facade/README_AR.md).
 
 [تحميل الحزمة كاملة](drawings/sustainable-facade/sustainable_facade_package.zip?raw=true) · [PDF](drawings/sustainable-facade/sustainable_facade.pdf?raw=true) · [DXF](drawings/sustainable-facade/sustainable_facade.dxf?raw=true) · [AutoLISP](drawings/sustainable-facade/sustainable_facade.lsp?raw=true)

@@ -1,0 +1,10 @@
+Extract facade_cad.zip first.
+Open AutoCAD, then use OPEN and select facade_cad.dxf.
+If DXF is hidden in the file picker, change Files of type to DXF.
+If the drawing is not visible, type Z, Enter, E, Enter (Zoom Extents).
+Use SAVEAS to save as DWG.
+
+Compatibility: AutoCAD 2000 ASCII DXF, millimetres, zero-width editable polylines.
+Colour 7 adapts to a black or white CAD background. Uniform lineweight: 0.13 mm.
+The geometry matches sustainable_facade.dxf.
+Not validated inside a real AutoCAD runtime. Existing tracing gaps remain.
