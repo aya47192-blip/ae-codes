@@ -1,3 +1,17 @@
+# الواجهة المستدامة — تصحيح استقامة الخطوط V2
+
+أُعيد بناء الحواف المعمارية بخطوط LINE مستقيمة والأقواس بعناصر ARC. السمك موحّد 0.13 مم. تفاصيل الزرع والحجر تحتاج مراجعة، ولا توجد مطالبة بمطابقة 100% أو إغلاق كل المسارات.
+
+**[تحميل الكاد الجديد داخل ZIP](drawings/sustainable-straight-v2/facade_straight_v2_cad.zip)** — اضغطي Download raw file، ثم Extract All، وافتحي **facade_straight_v2.dxf**.
+
+[PDF](drawings/sustainable-straight-v2/facade_straight_v2.pdf?raw=true) · [AutoLISP — الأمر FACADE2](drawings/sustainable-straight-v2/facade_straight_v2.lsp?raw=true) · [الحزمة كاملة](drawings/sustainable-straight-v2/facade_straight_v2_package.zip) · [التفاصيل والفحص](drawings/sustainable-straight-v2/README_AR.md)
+
+![الكورنيش قبل التصحيح وبعده](drawings/sustainable-straight-v2/cornice_comparison.png)
+
+---
+
+## أرشيف النسخ السابقة
+
 # الواجهة المستدامة — تتبّع الصورة الأصلية
 
 **[تحميل ملف الكاد فقط — ZIP](drawings/sustainable-facade/facade_cad.zip)** — افتحي الرابط واضغطي Download raw file (السهم لأسفل)، ثم فكّي الضغط وافتحي facade_cad.dxf داخل AutoCAD.

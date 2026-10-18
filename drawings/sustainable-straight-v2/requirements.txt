@@ -1,0 +1,8 @@
+numpy==2.5.4
+scipy==1.18.1
+shapely==2.2.0
+opencv-contrib-python-headless==5.0.0.93
+ezdxf==1.4.4
+cairocffi==1.7.1
+PyMuPDF==1.26.6
+Pillow>=10.1
