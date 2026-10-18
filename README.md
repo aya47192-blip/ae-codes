@@ -1,3 +1,13 @@
+# الواجهة المستدامة — تتبّع الصورة الأصلية
+
+المصدر: [IMG_3106.PNG](IMG_3106.PNG). نسخة للمراجعة بخطوط سوداء موحّدة، PDF متجهي وDXF وAutoLISP. **ليست مطابقة مضمونة 100% ولا كل مساراتها مغلقة**؛ التفاصيل وحدود الفحص موضّحة في [تعليمات النسخة](drawings/sustainable-facade/README_AR.md).
+
+[تحميل الحزمة كاملة](drawings/sustainable-facade/sustainable_facade_package.zip?raw=true) · [PDF](drawings/sustainable-facade/sustainable_facade.pdf?raw=true) · [DXF](drawings/sustainable-facade/sustainable_facade.dxf?raw=true) · [AutoLISP](drawings/sustainable-facade/sustainable_facade.lsp?raw=true)
+
+![المعاينة](drawings/sustainable-facade/preview.png)
+
+---
+
 # الرسومات والمهارات
 
 ## الأحدث — محاولة من الريفرنس الأوضح

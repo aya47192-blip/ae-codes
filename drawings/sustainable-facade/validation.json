@@ -1,0 +1,46 @@
+{
+  "source_sha256": "4e485e500c9f22db0f9fd9ca45d17b1d36a02ae0ad4b4c437a1f07ef6cbefbc2",
+  "source_size": [
+    1774,
+    887
+  ],
+  "method": "subpixel local-contrast centreline graph, shared junctions, tolerance-bounded polyline fitting; not manual redesign",
+  "source_pixels": 453419,
+  "paths": 17851,
+  "closed_paths": 1718,
+  "segments": 40832,
+  "duplicate_segments": 0,
+  "open_endpoints": 9947,
+  "dxf_audit_errors": 0,
+  "dxf_audit_fixes": 0,
+  "lineweight_mm": 0.13,
+  "assumed_baseline_width_mm": 20000,
+  "source_skeleton_distance_to_vector_px": {
+    "median": 0.0,
+    "p95": 0.3333333333333333,
+    "p99": 0.3333333333333333,
+    "max": 0.7453559924999299,
+    "within_1px_percent": 100.0
+  },
+  "vector_distance_outside_thresholded_source_ink_px": {
+    "p99": 0.6666666666666666,
+    "max": 3.0
+  },
+  "source_supported_subpixel_joins": 314,
+  "largest_junction_cluster_pixels": 6,
+  "limitations": [
+    "Pixel distances are internal extraction checks, not proof of exact source fidelity.",
+    "Source contains intentional open strokes and faint discontinuities; endpoints are retained rather than guessed closed.",
+    "Dimensions are estimated. No millimetre or 100-percent fidelity guarantee.",
+    "AutoLISP and DXF have not been opened inside real AutoCAD."
+  ],
+  "lisp_parsed": true,
+  "lisp_data_matches_dxf": true,
+  "lisp_emitter_mocked_paths": 17851,
+  "lisp_real_autocad_test": false,
+  "pdf_pages": 1,
+  "pdf_raster_images": 0,
+  "pdf_uniform_stroke_pt": [
+    0.368504
+  ]
+}

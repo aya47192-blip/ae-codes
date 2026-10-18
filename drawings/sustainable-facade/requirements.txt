@@ -1,0 +1,9 @@
+opencv-contrib-python-headless==5.0.0.93
+scikit-image==0.26.0
+numpy==2.5.4
+scipy==1.18.1
+shapely==2.2.0
+ezdxf==1.4.4
+cairocffi==1.7.1
+pypdfium2==5.13.0
+PyMuPDF==1.26.6
