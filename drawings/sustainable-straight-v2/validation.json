@@ -140,6 +140,12 @@
   "unintended_near_axis_angles_under_2_degrees": 0,
   "dxf_audit_errors": 0,
   "pdf_raster_images": 0,
+  "plant_color_aci": 94,
+  "plant_color_rgb": [
+    0,
+    127,
+    0
+  ],
   "uniform_lineweight_mm": 0.13,
   "native_spline_vs_scene_max_distance_px": 1.9062626282800656e-09,
   "lisp_entity_records_checked": 14167,

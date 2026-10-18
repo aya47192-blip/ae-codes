@@ -8,7 +8,7 @@ ROOT=Path(__file__).parent;OUT=Path(os.environ.get('FACADE_OUTPUT',str(ROOT/'out
 audit=d.audit();assert not audit.errors and not audit.fixes
 counts=collections.Counter(e.dxftype() for e in ms)
 assert all(e.dxftype() in ['LINE','ARC'] for e in ms if e.dxf.layer!='PLANTS')
-assert all(e.dxf.lineweight==13 and e.dxf.color==7 for e in ms)
+assert all(e.dxf.lineweight==13 and e.dxf.color==(94 if e.dxf.layer=='PLANTS' else 7) for e in ms)
 assert all(e.dxftype()!='IMAGE' for e in ms)
 # Test the actual cornice rails at every declared horizontal level.
 railchecks=[];MM=scene['mm_per_pixel']
@@ -78,7 +78,7 @@ def get(row,key):
  return r
 for row,e in zip(rows,ms):
  assert get(row,0)==[e.dxftype()] and get(row,8)==[e.dxf.layer]
- assert get(row,370)==[13] and get(row,62)==[7]
+ assert get(row,370)==[13] and get(row,62)==[94 if e.dxf.layer=='PLANTS' else 7]
  for code in [62,70,71,72,73,74,90,370]:assert all(type(v) is int for v in get(row,code)),(code,get(row,code))
  if e.dxftype()=='LINE':
   assert math.dist(get(row,10)[0],e.dxf.start)<1e-8 and math.dist(get(row,11)[0],e.dxf.end)<1e-8
@@ -102,5 +102,5 @@ pdf[0].get_pixmap(matrix=fitz.Matrix(1.5,1.5)).save(OUT/'pdf_check.png')
 old=Image.open(str(Path(__file__).resolve().parents[3]/'drawings/sustainable-facade/detail.png'));new=Image.open(OUT/'detail.png')
 box=(350*3,292*3,610*3,346*3);a=old.crop(box);b=new.crop(box);compare=Image.new('RGB',(a.width,2*a.height+70),'white');draw=ImageDraw.Draw(compare)
 draw.text((10,5),'PREVIOUS RASTER-CENTRELINE RESULT',fill='black');compare.paste(a,(0,25));draw.text((10,a.height+40),'NEW: ANALYTICAL STRAIGHT LINES',fill='black');compare.paste(b,(0,a.height+60));compare.save(OUT/'cornice_comparison.png')
-report={'dxf_version':d.dxfversion,'entities':dict(counts),'architecture_entity_types':['LINE','ARC'],'architecture_polylines':0,'architecture_splines':0,'straight_cornice_checks':railchecks,'duplicate_line_intervals':0,'duplicate_arcs':0,'zero_length_lines':0,'unintended_near_axis_angles_under_2_degrees':0,'dxf_audit_errors':len(audit.errors),'pdf_raster_images':0,'uniform_lineweight_mm':.13,'native_spline_vs_scene_max_distance_px':maxdiff,'lisp_entity_records_checked':len(rows),'lisp_arc_angles_checked_as_radians':True,'tested_in_real_autocad':False,'assumed_baseline_width_mm':20000,'limitations':['Geometric reconstruction from raster; not a guarantee of identical stroke count or 100% visual fidelity.','Dimensions are estimated.','Foliage and masonry detail retain source-extraction limitations; not every open stroke was closed.','Line and arc geometry was tested numerically, not by opening AutoCAD.']}
+report={'dxf_version':d.dxfversion,'entities':dict(counts),'architecture_entity_types':['LINE','ARC'],'architecture_polylines':0,'architecture_splines':0,'straight_cornice_checks':railchecks,'duplicate_line_intervals':0,'duplicate_arcs':0,'zero_length_lines':0,'unintended_near_axis_angles_under_2_degrees':0,'dxf_audit_errors':len(audit.errors),'pdf_raster_images':0,'plant_color_aci':94,'plant_color_rgb':[0,127,0],'uniform_lineweight_mm':.13,'native_spline_vs_scene_max_distance_px':maxdiff,'lisp_entity_records_checked':len(rows),'lisp_arc_angles_checked_as_radians':True,'tested_in_real_autocad':False,'assumed_baseline_width_mm':20000,'limitations':['Geometric reconstruction from raster; not a guarantee of identical stroke count or 100% visual fidelity.','Dimensions are estimated.','Foliage and masonry detail retain source-extraction limitations; not every open stroke was closed.','Line and arc geometry was tested numerically, not by opening AutoCAD.']}
 (OUT/'validation.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps({k:v for k,v in report.items() if k!='straight_cornice_checks'},indent=2))

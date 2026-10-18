@@ -477,17 +477,17 @@ for c in curves:
  if len(pp)<3:c['closed']=False
  c['points']=pp
 # Export all deliverables from the same analytical scene.
-scene={'image_size':[W,H],'mm_per_pixel':MM,'lines':lines,'arcs':arcs,'plants':curves}
+scene={'image_size':[W,H],'mm_per_pixel':MM,'plant_color_aci':94,'lines':lines,'arcs':arcs,'plants':curves}
 (OUT/'scene.json').write_text(json.dumps(scene,separators=(',',':')))
 def cad(p):return ((p[0]-1)*MM,(832-p[1])*MM)
 doc=ezdxf.new('R2000');doc.units=4;doc.header['$LWDISPLAY']=True
 layers=['ARCH','WINDOWS','GROUND','GLASS','LOUVERS','SOLAR','MASONRY','PLANTS']
-for name in layers:doc.layers.new(name,dxfattribs={'color':7,'lineweight':13})
+for name in layers:doc.layers.new(name,dxfattribs={'color':94 if name=='PLANTS' else 7,'lineweight':13})
 ms=doc.modelspace()
 for a,b,layer in lines:ms.add_line(cad(a),cad(b),dxfattribs={'layer':layer,'color':7,'lineweight':13})
 for arc in arcs:ms.add_arc(cad(arc['center']),arc['radius']*MM,arc['start'],arc['end'],dxfattribs={'layer':arc['layer'],'color':7,'lineweight':13})
 for c in curves:
- attrs={'layer':'PLANTS','color':7,'lineweight':13}
+ attrs={'layer':'PLANTS','color':94,'lineweight':13}
  if c['type']=='poly':ms.add_lwpolyline([cad(p) for p in c['points']],close=c['closed'],dxfattribs=attrs)
  else:
   entity=ms.add_open_spline([(*cad(p),0) for p in c['controls']],degree=c['degree'],knots=c['knots'],dxfattribs=attrs)
@@ -501,6 +501,7 @@ def paint(ctx):
  for a,b,layer in lines:ctx.move_to(*a);ctx.line_to(*b);ctx.stroke()
  for a in arcs:
   cx,cy=a['center'];r=a['radius'];ctx.arc(cx,cy,r,math.radians(-a['end']),math.radians(-a['start']));ctx.stroke()
+ ctx.set_source_rgb(0,127/255,0)
  for c in curves:
   if c['type']=='poly':pp=c['points']
   else:

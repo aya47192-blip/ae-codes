@@ -1,5 +1,7 @@
 # الواجهة المستدامة — تصحيح استقامة الخطوط V2
 
+**[تحميل الكاد والـPDF بالزرع الأخضر](drawings/sustainable-straight-v2/facade_green.zip)** — الزرع أخضر، والهندسة نفسها دون تغيير.
+
 أُعيد بناء الحواف المعمارية بخطوط LINE مستقيمة والأقواس بعناصر ARC. السمك موحّد 0.13 مم. تفاصيل الزرع والحجر تحتاج مراجعة، ولا توجد مطالبة بمطابقة 100% أو إغلاق كل المسارات.
 
 **[تحميل الكاد الجديد داخل ZIP](drawings/sustainable-straight-v2/facade_straight_v2_cad.zip)** — اضغطي Download raw file، ثم Extract All، وافتحي **facade_straight_v2.dxf**.

@@ -10,7 +10,7 @@ def pair(k,v):
  return f'({k} . {str(v) if isinstance(v,int) else num(v)})'
 rows=[]
 for e in d.modelspace():
- kind=e.dxftype();r=[pair(0,kind),'(100 . "AcDbEntity")',pair(8,e.dxf.layer),'(62 . 7)','(370 . 13)']
+ kind=e.dxftype();r=[pair(0,kind),'(100 . "AcDbEntity")',pair(8,e.dxf.layer),pair(62,e.dxf.color),'(370 . 13)']
  if kind=='LINE':r+=['(100 . "AcDbLine")',pair(10,e.dxf.start),pair(11,e.dxf.end)]
  elif kind=='ARC':r+=['(100 . "AcDbCircle")',pair(10,e.dxf.center),pair(40,e.dxf.radius),'(100 . "AcDbArc")',pair(50,math.radians(e.dxf.start_angle)),pair(51,math.radians(e.dxf.end_angle))]
  elif kind=='LWPOLYLINE':
@@ -49,7 +49,7 @@ text+='''
         (if (null (tblsearch "LAYER" name))
           (entmake (list '(0 . "LAYER") '(100 . "AcDbSymbolTableRecord")
             '(100 . "AcDbLayerTableRecord") (cons 2 name) '(70 . 0)
-            '(62 . 7) '(6 . "Continuous") '(370 . 13)))))
+            (cons 62 (if (= name "PLANTS") 94 7)) '(6 . "Continuous") '(370 . 13)))))
       (if (null (tblsearch "BLOCK" F2:BLOCK)) (F2:BUILD F2:BLOCK))
       (entmake (list '(0 . "INSERT") '(100 . "AcDbEntity") '(8 . "0")
         '(100 . "AcDbBlockReference") (cons 2 F2:BLOCK)
