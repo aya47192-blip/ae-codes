@@ -1,0 +1,8 @@
+numpy
+scipy
+shapely>=2.0
+opencv-python-headless
+ezdxf>=1.4
+cairocffi
+PyMuPDF
+Pillow

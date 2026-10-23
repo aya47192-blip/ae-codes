@@ -1,0 +1,155 @@
+{
+  "dxf_version": "AC1015",
+  "entities": {
+    "LINE": 6793,
+    "ARC": 67
+  },
+  "architecture_entity_types": [
+    "LINE",
+    "ARC"
+  ],
+  "architecture_polylines": 0,
+  "architecture_splines": 0,
+  "straight_cornice_checks": [
+    {
+      "source_offset_x": 0,
+      "source_y": 297,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 309,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 315,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 323,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 328,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 338,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 343,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 546,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 572,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 579,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 589,
+      "straight": true
+    },
+    {
+      "source_offset_x": 0,
+      "source_y": 593,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 297,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 309,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 315,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 323,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 328,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 338,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 343,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 546,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 572,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 579,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 589,
+      "straight": true
+    },
+    {
+      "source_offset_x": 809,
+      "source_y": 593,
+      "straight": true
+    }
+  ],
+  "duplicate_line_intervals": 0,
+  "duplicate_arcs": 0,
+  "zero_length_lines": 0,
+  "unintended_near_axis_angles_under_2_degrees": 0,
+  "dxf_audit_errors": 0,
+  "pdf_raster_images": 0,
+  "plant_entities": 0,
+  "plant_paths_in_scene": 0,
+  "uniform_lineweight_mm": 0.13,
+  "native_spline_vs_scene_max_distance_px": 0,
+  "lisp_entity_records_checked": 6860,
+  "lisp_arc_angles_checked_as_radians": true,
+  "tested_in_real_autocad": false,
+  "assumed_baseline_width_mm": 20000,
+  "limitations": [
+    "Geometric reconstruction from raster; not a guarantee of identical stroke count or 100% visual fidelity.",
+    "Dimensions are estimated.",
+    "Vegetation is removed; formerly hidden masonry joints are inferred from adjoining courses. Masonry is decorative linework, not a closed HATCH network.",
+    "Line and arc geometry was tested numerically, not by opening AutoCAD."
+  ]
+}
