@@ -1,0 +1,170 @@
+[
+  {
+    "option": 1,
+    "name_ar": "الصدفة الأصلية",
+    "name_en": "Scallop shell",
+    "original": "drawings/resort-shell-redesign/resort_plan_continuous.png",
+    "outline_png": "option_01_scallop_outline.png",
+    "sha256": "5f0f8ec6ab743816c9665b7eaf5129df17efa17cad65c70034e42e5d4314869e"
+  },
+  {
+    "option": 2,
+    "name_ar": "درع السلحفاة",
+    "name_en": "Turtle carapace",
+    "original": "drawings/resort-coastal-series2/option_02_turtle_left_corrected.png",
+    "outline_png": "option_02_turtle_outline.png",
+    "sha256": "985f19d33f34cb3bd5c5b37281775cb4f96b14b88e7f8ecd013a84957c7adc86"
+  },
+  {
+    "option": 3,
+    "name_ar": "نجم البحر",
+    "name_en": "Starfish",
+    "original": "drawings/resort-coastal-options/option_03_starfish.png",
+    "outline_png": "option_03_starfish_outline.png",
+    "sha256": "8dbbe91a2f8846ad0513b6134581b4086a319781111550105295644aad2c16cc"
+  },
+  {
+    "option": 4,
+    "name_ar": "قوقعة النوتيلوس",
+    "name_en": "Chambered nautilus",
+    "original": "drawings/resort-coastal-options/option_04_nautilus.png",
+    "outline_png": "option_04_nautilus_outline.png",
+    "sha256": "c118af210b83ded54ea9c34c9c79f56a15ce58bf042794e5e8cd2033c1ea51e2"
+  },
+  {
+    "option": 5,
+    "name_ar": "المرجان المتفرع",
+    "name_en": "Branching coral",
+    "original": "drawings/resort-coastal-options/option_05_coral.png",
+    "outline_png": "option_05_coral_outline.png",
+    "sha256": "a96be91ac3b5940d3cd2187728dec3900c5ee93e97c7f6963385ee7b77adaa58"
+  },
+  {
+    "option": 6,
+    "name_ar": "قرص قنفذ البحر",
+    "name_en": "Sand dollar",
+    "original": "drawings/resort-coastal-options/option_06_sand_dollar.png",
+    "outline_png": "option_06_sand_dollar_outline.png",
+    "sha256": "d1e72cdde2f94beaf0f74b026f0371aca3b9b4efa729ae1423e4b5681b5c89a9"
+  },
+  {
+    "option": 7,
+    "name_ar": "المانجروف",
+    "name_en": "Mangrove leaf",
+    "original": "drawings/resort-coastal-series2/option_07_mangrove_leaf.png",
+    "outline_png": "option_07_mangrove_outline.png",
+    "sha256": "91cf781d9e78afe9c82ad9f3e8c2f17ace5dc2fb2c2fbe93697eb32a7d73ab21"
+  },
+  {
+    "option": 8,
+    "name_ar": "المرجان المخّي",
+    "name_en": "Brain coral",
+    "original": "drawings/resort-coastal-series2/option_08_brain_coral.png",
+    "outline_png": "option_08_brain_coral_outline.png",
+    "sha256": "00383738534517ab4095e77ebc6dfcf9a0eecc189f9dfd5e87c127b4044b9c1f"
+  },
+  {
+    "option": 9,
+    "name_ar": "خياشيم السمكة",
+    "name_en": "Fish gills",
+    "original": "drawings/resort-coastal-series2/option_09_fish_gills.png",
+    "outline_png": "option_09_gills_outline.png",
+    "sha256": "b12598ecadbb44b767cf3051a2c742152df92efe76944b76462ce9495d669369"
+  },
+  {
+    "option": 10,
+    "name_ar": "الموج",
+    "name_en": "Coastal waves",
+    "original": "drawings/resort-coastal-series2/option_10_sea_waves.png",
+    "outline_png": "option_10_waves_outline.png",
+    "sha256": "4470c912da864d2f34482d18c6cff6664bfd563cd9987c622fd6741f36201960"
+  },
+  {
+    "option": 11,
+    "name_ar": "الدلتا",
+    "name_en": "Tidal delta",
+    "original": "drawings/resort-coastal-series2/option_11_tidal_delta.png",
+    "outline_png": "option_11_delta_outline.png",
+    "sha256": "23e47ef8d0b072d0a6eadee2902681b350116058d34df9c7c99413410430c782"
+  },
+  {
+    "option": 12,
+    "name_ar": "قشور السمك",
+    "name_en": "Fish scales",
+    "original": "drawings/resort-distinct-five/option_12_fish_scales.png",
+    "outline_png": "option_12_scales_outline.png",
+    "sha256": "8bdf75c454db7da8bd3bfdb331bfad84c236c93d5571d801f4c4180daec9ad02"
+  },
+  {
+    "option": 13,
+    "name_ar": "رغوة البحر",
+    "name_en": "Sea foam",
+    "original": "drawings/resort-distinct-five/option_13_sea_foam.png",
+    "outline_png": "option_13_foam_outline.png",
+    "sha256": "e12c275af0433356d99b5bdbb7ef1e2ce266d752451c510127fa83e88a11fa2a"
+  },
+  {
+    "option": 14,
+    "name_ar": "بلورات الملح",
+    "name_en": "Sea salt crystals",
+    "original": "drawings/resort-distinct-five/option_14_salt_crystals.png",
+    "outline_png": "option_14_salt_outline.png",
+    "sha256": "9daf335e5f03f3bbd5122b816378b94c6b9ea69504df6758d3716bb64c4ec9ef"
+  },
+  {
+    "option": 15,
+    "name_ar": "عشب البحر",
+    "name_en": "Kelp fronds",
+    "original": "drawings/resort-distinct-five/option_15_kelp.png",
+    "outline_png": "option_15_kelp_outline.png",
+    "sha256": "a9a2ff9c7b3533b3a758a3b159bf898857928efe024dc857b02aff128162719e"
+  },
+  {
+    "option": 16,
+    "name_ar": "الصدفة الهندسية",
+    "name_en": "Ribbed scallop shell",
+    "original": "drawings/resort-distinct-five/option_16_ribbed_shell.png",
+    "outline_png": "option_16_ribbed_shell_outline.png",
+    "sha256": "83b0308e129f42ebda15865dbc8cb196ed24c7bb628ab7eed4000c6a0f29df3d"
+  },
+  {
+    "option": 17,
+    "name_ar": "خلية النحل",
+    "name_en": "Honeycomb",
+    "original": "drawings/resort-nature-five/option_17_honeycomb.png",
+    "outline_png": "option_17_honeycomb_outline.png",
+    "sha256": "c6f634f9e536d4ebcc28a4fb088d793ebabcb15b7c602bd92d1774b47b5a130c"
+  },
+  {
+    "option": 18,
+    "name_ar": "اللوتس",
+    "name_en": "Lotus",
+    "original": "drawings/resort-nature-five/option_18_lotus.png",
+    "outline_png": "option_18_lotus_outline.png",
+    "sha256": "d35dc782541a4f579eaf328219febd0c7efc29e0dd29e2740beb8f6c371f8652"
+  },
+  {
+    "option": 19,
+    "name_ar": "الجنكة",
+    "name_en": "Ginkgo leaf",
+    "original": "drawings/resort-nature-five/option_19_ginkgo.png",
+    "outline_png": "option_19_ginkgo_outline.png",
+    "sha256": "1eafb85883977ac575536f940e56d45906e5c0297eed39fb9214ca4e1b45d622"
+  },
+  {
+    "option": 20,
+    "name_ar": "دوّار الشمس",
+    "name_en": "Sunflower seed head",
+    "original": "drawings/resort-nature-five/option_20_sunflower.png",
+    "outline_png": "option_20_sunflower_outline.png",
+    "sha256": "b78dd73005050fc36a4c1359b9724a98f8f0b99e1b4379585c89e2fa5b6dd00d"
+  },
+  {
+    "option": 21,
+    "name_ar": "الفراشة",
+    "name_en": "Butterfly wings",
+    "original": "drawings/resort-nature-five/option_21_butterfly.png",
+    "outline_png": "option_21_butterfly_outline.png",
+    "sha256": "855672b823b16702fbc46aa4f9ea83b7239fd7b45a4d9b3be190d1ad6915584c"
+  }
+]
