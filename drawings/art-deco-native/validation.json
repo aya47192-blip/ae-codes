@@ -1,0 +1,60 @@
+{
+  "source": "واجهه تعديل 1.dwg",
+  "input_dwg_version": "AC1032",
+  "source_header_INSUNITS": 1,
+  "coordinates_scaled": false,
+  "opening_count": 86,
+  "tall_openings": 53,
+  "small_openings": 33,
+  "source_glass_boundary_shift_max_source_units": 1e-08,
+  "drawing_coordinate_precision_decimal_places": 8,
+  "lineweight_mm": 0.25,
+  "monochrome_aci": 7,
+  "zero_length_segments": 0,
+  "overlapping_segment_length_source_units": 1.3369572116062045e-10,
+  "closed_design_profiles_checked": 458,
+  "profiles_with_missing_edges": [],
+  "closed_native_polylines": 152,
+  "noded_network_paths": 5059,
+  "closed_faces_polygonized": 2237,
+  "analytic_arcs_preserved": 72,
+  "ezdxf_audit_errors": 0,
+  "ezdxf_audit_fixes": 0,
+  "pdf_embedded_raster_images": 0,
+  "style_changes": [
+    "Continuous stepped geometric frames replace classical surrounds",
+    "Strong vertical rib bands",
+    "Closed diamond spandrel reliefs",
+    "Inset stepped sunburst within original roof datum",
+    "Classical cornice dentils removed"
+  ],
+  "limitations": [
+    "Source unit flag is inches, while facade dimension values include 3.0 floor intervals. Coordinates and unit flag are retained without asserting real-world units.",
+    "No structural or regulatory review.",
+    "Native AutoCAD desktop opening requires user verification."
+  ],
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 AC1015",
+    "entities_before": 5131,
+    "entities_after": 5131,
+    "max_coordinate_difference_source_units": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "converter_warnings": 0,
+    "layers_and_lineweights_preserved": true,
+    "closed_flags_preserved": true
+  },
+  "source_sha256": "8035a694cd2014293a2f62344a9208aab857490c1561e2196e94d8e3da2d94de",
+  "PDF_check": {
+    "before_after.pdf": {
+      "pages": 3,
+      "embedded_images": 0,
+      "nonblack_strokes": []
+    },
+    "art_deco_facade.pdf": {
+      "pages": 1,
+      "embedded_images": 0,
+      "nonblack_strokes": []
+    }
+  }
+}

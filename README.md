@@ -1,3 +1,13 @@
+# الأحدث — تحويل الواجهة الأصلية إلى آرت ديكو
+
+[تحميل DWG](drawings/art-deco-native/art_deco_facade.dwg?raw=true) · [تحميل DXF](drawings/art-deco-native/art_deco_facade.dxf?raw=true) · [الواجهة PDF](drawings/art-deco-native/art_deco_facade.pdf?raw=true) · [مقارنة قبل وبعد](drawings/art-deco-native/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/art-deco-native/art_deco_package.zip?raw=true)
+
+إعادة معالجة هندسية من ملف DWG المرفوع، مع حفظ إحداثيات زجاج الفتحات الـ٨٦. خطوط موحّدة السمك، وإطارات متدرجة وزخارف هندسية وتاج أشعة. [تفاصيل العمل والفحص](drawings/art-deco-native/README_AR.md).
+
+![الواجهة بعد تحويلها إلى آرت ديكو](drawings/art-deco-native/art_deco_preview.png)
+
+---
+
 # الواجهة المستدامة — تصحيح استقامة الخطوط V2
 
 **[تحميل الكاد والـPDF بالزرع الأخضر](drawings/sustainable-straight-v2/facade_green.zip)** — الزرع أخضر، والهندسة نفسها دون تغيير.
