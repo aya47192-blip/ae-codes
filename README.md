@@ -1,3 +1,13 @@
+# الأحدث — تصحيح الطراز: واجهة مستدامة معاصرة V2
+
+[تحميل DWG](drawings/sustainable-modern-v2/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-modern-v2/sustainable_facade.dxf?raw=true) · [معاينة التصحيح](drawings/sustainable-modern-v2/preview.png) · [مقارنة النسخة السابقة بالتصحيح PDF](drawings/sustainable-modern-v2/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/sustainable-modern-v2/sustainable_package.zip?raw=true)
+
+أُزيل التاج الباروكي وتيجان الأعمدة والتحليات، وأصبحت البراويز والكسوات مستقيمة وبسيطة، مع ألواح شمسية مدمجة بدل التاج. أعلى العقود مقترح تغطيته بحشوات خفيفة معزولة لتظهر رؤوس الفتحات مستطيلة. [التفاصيل وحدود المقترح والفحص](drawings/sustainable-modern-v2/README_AR.md).
+
+![الواجهة بعد تصحيح البراويز والتاج](drawings/sustainable-modern-v2/preview.png)
+
+---
+
 # الأحدث — تأهيل الواجهة بعناصر استدامة واضحة، بدون زرع
 
 [تحميل DWG](drawings/sustainable-retrofit-native/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-retrofit-native/sustainable_facade.dxf?raw=true) · [معاينة الواجهة](drawings/sustainable-retrofit-native/preview.png) · [قبل وبعد PDF](drawings/sustainable-retrofit-native/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/sustainable-retrofit-native/sustainable_package.zip?raw=true)

@@ -1,0 +1,98 @@
+{
+  "source": "واجهه تعديل 1.dwg",
+  "source_sha256": "142b9f83e8d894b3f590b33d519ff31ea1a6ba65815b050557f50836041d5310",
+  "source_version": "AC1032",
+  "units_flag_retained": 1,
+  "coordinates_scaled": false,
+  "removed_entities": {
+    "original_style_curves:ARC": 84,
+    "reconstructed_straight_source_geometry": 835,
+    "DIM:DIMENSION": 13,
+    "WINDOW:LINE": 62,
+    "WIND:LINE": 154,
+    "WALL:HATCH": 2,
+    "original_style_curves:CIRCLE": 2,
+    "WINDOUS:ARC": 26,
+    "WINDOUS:LINE": 502,
+    "WINDOUS:LWPOLYLINE": 28,
+    "ELEV:HATCH": 2,
+    "EXC:LWPOLYLINE": 652,
+    "WINDOUS:HATCH": 19,
+    "EXC:ARC": 524,
+    "EXC:LINE": 40,
+    "DR:LINE": 52,
+    "DR:LWPOLYLINE": 6,
+    "original_style_curves:ELLIPSE": 3,
+    "original_style_curves:SPLINE": 3,
+    "CARPET:HATCH": 2,
+    "CARPET:INSERT": 2,
+    "CARPET:LINE": 16,
+    "WINDOW:SPLINE": 1,
+    "WIND:SPLINE": 5,
+    "WIND:ELLIPSE": 1,
+    "DIM:LINE": 2,
+    "axis:LINE": 7,
+    "cir:CIRCLE": 7,
+    "TREE:INSERT": 17
+  },
+  "rooftop_PV_modules": 8,
+  "facade_BIPV_modules": 4,
+  "central_horizontal_blades": 8,
+  "perforated_side_shutters": 8,
+  "side_screen_perforations": 96,
+  "entrance_canopies": 4,
+  "replaced_balcony_guards": 5,
+  "new_closed_profiles_checked": 380,
+  "new_profiles_with_missing_edges": [],
+  "zero_length_segments": 0,
+  "overlap_length_source_units": 0,
+  "analytic_curve_counts": {},
+  "original_opening_positions_retained": true,
+  "visible_window_heads": "Rectangular inserts with insulated lightweight infill over original arched heads",
+  "classical_pediment_and_mouldings_removed": true,
+  "existing_lines_hidden_behind_opaque_shading_length": 0,
+  "cad_entities": 2095,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "lineweight_mm": 0.25,
+  "ACI_color": 7,
+  "pdf_embedded_images": 0,
+  "limitations": [
+    "No orientation, location, daylight or energy simulation supplied. Shading projection and PV inclination are conceptual.",
+    "No installed power, energy output, savings or regulatory compliance asserted.",
+    "Original unit flag is inches, with facade numeric floor intervals 3.0. No conversion or real-world unit inference applied.",
+    "Desktop Autodesk AutoCAD verification not performed."
+  ],
+  "curve_foreground_intersections": [],
+  "unintended_architectural_free_endpoints": 0,
+  "intentional_open_ground_datum_endpoints": 8,
+  "noding_precision_source_units": 1e-08,
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 2095,
+    "entities_after": 2095,
+    "max_coordinate_and_curve_parameter_difference": 0,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  },
+  "PDF_check": {
+    "before_after.pdf": {
+      "pages": 3,
+      "embedded_images": 0,
+      "stroke_colors": [
+        "black"
+      ]
+    },
+    "sustainable_facade.pdf": {
+      "pages": 1,
+      "embedded_images": 0,
+      "stroke_colors": [
+        "black"
+      ]
+    }
+  }
+}
