@@ -1,3 +1,13 @@
+# الأحدث — واجهة إسلامية معاصرة قليلة الزخارف
+
+[تحميل DWG](drawings/contemporary-islamic-facade/islamic_facade.dwg?raw=true) · [تحميل DXF](drawings/contemporary-islamic-facade/islamic_facade.dxf?raw=true) · [معاينة الواجهة](drawings/contemporary-islamic-facade/preview.png) · [قبل وبعد PDF](drawings/contemporary-islamic-facade/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/contemporary-islamic-facade/islamic_package.zip?raw=true)
+
+معالجة إسلامية معاصرة على إحداثيات الواجهة الأخيرة، بعقود مدببة بسيطة وحوائط سادة وعشر إشارات هندسية صغيرة فقط على الدرابزين. أُزيلت الحليات الكلاسيكية، دون إضافة زرع. [التفاصيل والفحص وحدود المقترح](drawings/contemporary-islamic-facade/README_AR.md).
+
+![الواجهة الإسلامية المعاصرة](drawings/contemporary-islamic-facade/preview.png)
+
+---
+
 # الأحدث — تصحيح الطراز: واجهة مستدامة معاصرة V2
 
 [تحميل DWG](drawings/sustainable-modern-v2/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-modern-v2/sustainable_facade.dxf?raw=true) · [معاينة التصحيح](drawings/sustainable-modern-v2/preview.png) · [مقارنة النسخة السابقة بالتصحيح PDF](drawings/sustainable-modern-v2/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/sustainable-modern-v2/sustainable_package.zip?raw=true)

@@ -1,0 +1,64 @@
+{
+  "source": "واجهه تعديل 1.dwg",
+  "source_sha256": "72a87efff09c1bc1bd202ff484c4091f8a759a0bae9225148d09e5f408b103ba",
+  "style": "Contemporary Islamic, restrained",
+  "window_groups": 42,
+  "pointed_window_heads": 18,
+  "rectangular_window_groups": 24,
+  "entrance_portals": 1,
+  "large_central_pointed_recesses": 1,
+  "balconies": 9,
+  "eight_point_reliefs": 10,
+  "plants": 0,
+  "classic_blocks_or_ornaments_reused": 0,
+  "entity_counts": {
+    "LWPOLYLINE": 651,
+    "ARC": 80
+  },
+  "lineweight_mm": 0.25,
+  "monochrome_ACI": 7,
+  "source_coordinate_scale": 1,
+  "units_flag_retained": 1,
+  "zero_length_segments": 0,
+  "linear_overlap_source_units": 3.183231456205249e-12,
+  "designed_profiles_checked": 147,
+  "profiles_missing_visible_edges": [],
+  "architectural_free_endpoints": [],
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "pdf_embedded_images": 0,
+  "limitations": [
+    "Window group coordinate envelopes come from the supplied DWG. New pointed glazing heads use infill within those envelopes, so visible glass shape and area change.",
+    "Balcony slab positions and floor levels follow DWG anchors; old stepped rails and decorative profiles are replaced.",
+    "Original unit flag indicates inches while facade floor values are near 3.3; no physical-unit conversion inferred.",
+    "No structural detailing or desktop Autodesk AutoCAD opening test performed."
+  ],
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 731,
+    "entities_after": 731,
+    "max_coordinate_and_curve_parameter_difference": 5.684341886080802e-14,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  },
+  "PDF_check": {
+    "before_after.pdf": {
+      "pages": 3,
+      "embedded_images": 0,
+      "stroke_colors": [
+        "black"
+      ]
+    },
+    "islamic_facade.pdf": {
+      "pages": 1,
+      "embedded_images": 0,
+      "stroke_colors": [
+        "black"
+      ]
+    }
+  }
+}
