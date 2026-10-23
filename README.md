@@ -1,3 +1,13 @@
+# الأحدث — تأهيل الواجهة بعناصر استدامة واضحة، بدون زرع
+
+[تحميل DWG](drawings/sustainable-retrofit-native/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-retrofit-native/sustainable_facade.dxf?raw=true) · [معاينة الواجهة](drawings/sustainable-retrofit-native/preview.png) · [قبل وبعد PDF](drawings/sustainable-retrofit-native/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/sustainable-retrofit-native/sustainable_package.zip?raw=true)
+
+تعديل مبني على الكاد الأصلي: ألواح شمسية ظاهرة، وكاسرات للشمس، وشاشات مثقبة، ومظلات للمداخل، مع إزالة الزرع والحفاظ على العقود ومواقع الفتحات. [تفاصيل التصميم والفحص](drawings/sustainable-retrofit-native/README_AR.md).
+
+![الواجهة المستدامة بدون زرع](drawings/sustainable-retrofit-native/preview.png)
+
+---
+
 # الأحدث — تحويل الواجهة الأصلية إلى آرت ديكو
 
 [تحميل DWG](drawings/art-deco-native/art_deco_facade.dwg?raw=true) · [تحميل DXF](drawings/art-deco-native/art_deco_facade.dxf?raw=true) · [الواجهة PDF](drawings/art-deco-native/art_deco_facade.pdf?raw=true) · [مقارنة قبل وبعد](drawings/art-deco-native/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/art-deco-native/art_deco_package.zip?raw=true)

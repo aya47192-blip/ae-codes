@@ -1,0 +1,84 @@
+{
+  "source": "واجهه تعديل 1.dwg",
+  "source_sha256": "142b9f83e8d894b3f590b33d519ff31ea1a6ba65815b050557f50836041d5310",
+  "source_version": "AC1032",
+  "units_flag_retained": 1,
+  "coordinates_scaled": false,
+  "removed_entities": {
+    "DIM:DIMENSION": 13,
+    "dimension_extension_on_WALLS": 16,
+    "WALL:HATCH": 2,
+    "ELEV:HATCH": 2,
+    "EXC:LWPOLYLINE": 652,
+    "WINDOUS:HATCH": 19,
+    "EXC:ARC": 524,
+    "EXC:LINE": 40,
+    "CARPET:HATCH": 2,
+    "CARPET:INSERT": 2,
+    "CARPET:LINE": 16,
+    "DIM:LINE": 2,
+    "axis:LINE": 7,
+    "cir:CIRCLE": 7,
+    "TREE:INSERT": 17
+  },
+  "PV_modules": 8,
+  "central_horizontal_blades": 8,
+  "perforated_side_shutters": 8,
+  "side_screen_perforations": 96,
+  "entrance_canopies": 4,
+  "replaced_balcony_guards": 5,
+  "new_closed_profiles_checked": 319,
+  "new_profiles_with_missing_edges": [],
+  "zero_length_segments": 0,
+  "overlap_length_source_units": 0,
+  "analytic_curve_counts": {
+    "ARC": 110,
+    "CIRCLE": 2,
+    "ELLIPSE": 4,
+    "SPLINE": 9
+  },
+  "original_curved_window_geometry_preserved": true,
+  "existing_lines_hidden_behind_opaque_shading_length": 86.43538615832468,
+  "cad_entities": 3958,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "lineweight_mm": 0.25,
+  "ACI_color": 7,
+  "pdf_embedded_images": 0,
+  "limitations": [
+    "No orientation, location, daylight or energy simulation supplied. Shading projection and PV inclination are conceptual.",
+    "No installed power, energy output, savings or regulatory compliance asserted.",
+    "Original unit flag is inches, with facade numeric floor intervals 3.0. No conversion or real-world unit inference applied.",
+    "Desktop Autodesk AutoCAD verification not performed."
+  ],
+  "curve_foreground_intersections": [],
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 3958,
+    "entities_after": 3958,
+    "max_coordinate_and_curve_parameter_difference": 5.684341886080802e-14,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  },
+  "PDF_check": {
+    "before_after.pdf": {
+      "pages": 3,
+      "embedded_images": 0,
+      "stroke_colors": [
+        "black"
+      ]
+    },
+    "sustainable_facade.pdf": {
+      "pages": 1,
+      "embedded_images": 0,
+      "stroke_colors": [
+        "black"
+      ]
+    }
+  },
+  "plant_entities_in_delivered_model": 0
+}
