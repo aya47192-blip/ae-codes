@@ -15,10 +15,14 @@
 - [ملف Blender كامل قابل للتعديل، بخامات مدمجة](https://raw.githubusercontent.com/aya47192-blip/ae-codes/main/drawings/ayaa-hotel-new-modern/ayaa_hotel_new_modern.blend)
 - [موديل GLB بخامات مدمجة](https://raw.githubusercontent.com/aya47192-blip/ae-codes/main/drawings/ayaa-hotel-new-modern/ayaa_hotel_new_modern.glb)
 
+## الإصدار المصحح 2
+
+تم تصحيح اتجاه جميع أوجه الأرضية لأعلى؛ كانت الأوجه المقلوبة سبباً في عدم ظهور الخامة على الوجه العلوي داخل برامج تعتمد على اتجاه الوجه. جميع خرائط الخامات وإحداثياتها محفوظة. فعّلي **View → Face Style → Shaded with Textures** لإظهار الصور.
+
 ## فتح الموديل في SketchUp
 
 1. حمّلي حزمة ZIP وفكّي الضغط بالكامل باستخدام **Extract All**.
-2. اتركي مجلد `textures` بجانب ملف `ayaa_hotel_new_modern.dae`.
+2. اتركي مجلد `textures` بجانب ملف `ayaa_hotel_new_modern_v2.dae`.
 3. من SketchUp اختاري **File → Import → COLLADA (*.dae)** ثم استوردي الملف.
 4. احفظي المشروع بصيغة SKP من داخل SketchUp.
 

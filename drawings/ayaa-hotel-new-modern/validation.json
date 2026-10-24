@@ -56,5 +56,112 @@
     "No native SKP is written; the supplied DAE package is intended for import into SketchUp.",
     "SketchUp desktop is unavailable; DAE geometry, hierarchy, materials and texture references were verified by independent reloading.",
     "Cutaway views hide upper geometry only for presentation; the editable model retains the complete protected shell."
-  ]
+  ],
+  "floor_face_orientation": {
+    "all_20_floor_fields_face_up": true,
+    "upward_triangles": 16436,
+    "texture_uvs_valid": true,
+    "fields": [
+      {
+        "name": "NEW_FLOOR_Central_stone_field",
+        "upward_triangles": 510,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Central_inner_champagne",
+        "upward_triangles": 1024,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Central_greige_band",
+        "upward_triangles": 1024,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Central_outer_champagne",
+        "upward_triangles": 1024,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Central_outer_ring",
+        "upward_triangles": 1024,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_East_lounge_field",
+        "upward_triangles": 258,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_East_lounge_border",
+        "upward_triangles": 520,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Lounge_field_31.4",
+        "upward_triangles": 258,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Lounge_border_31.4",
+        "upward_triangles": 520,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Lounge_field_21.7",
+        "upward_triangles": 258,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Lounge_border_21.7",
+        "upward_triangles": 520,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Bar_zone",
+        "upward_triangles": 258,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Bar_zone_border",
+        "upward_triangles": 520,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Reception_zone",
+        "upward_triangles": 258,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Reception_zone_border",
+        "upward_triangles": 520,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Reception_approach",
+        "upward_triangles": 320,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Reception_approach_border",
+        "upward_triangles": 511,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Main_movement_field",
+        "upward_triangles": 1307,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Main_movement_border",
+        "upward_triangles": 2532,
+        "valid_uvs": true
+      },
+      {
+        "name": "NEW_FLOOR_Base_ivory_field",
+        "upward_triangles": 3270,
+        "valid_uvs": true
+      }
+    ]
+  }
 }
