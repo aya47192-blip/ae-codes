@@ -1,0 +1,32 @@
+{
+  "style": "ANDALUSIAN",
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "decomposed_entities": 957,
+  "entity_types": {
+    "LWPOLYLINE": 957
+  },
+  "native_primitive_types": {
+    "L": 3001,
+    "A": 190
+  },
+  "duplicate_native_primitives": [],
+  "straight_overlap_length_source_units": 0.00035243923775851727,
+  "zero_length_entities": [],
+  "open_chain_endpoints_checked": 1304,
+  "max_valid_join_distance_source_units": 1.1190329763775285e-06,
+  "join_tolerance_source_units": 0.025,
+  "intentional_groundline_endpoints": [
+    [
+      56874.501897999995,
+      75731.553234
+    ],
+    [
+      87313.378337,
+      75731.553234
+    ]
+  ],
+  "unjoined_endpoints": [],
+  "native_spline_curves_not_raster_traces": true,
+  "paper_strokes_black_white_uniform_mm": 0.25
+}

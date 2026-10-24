@@ -1,0 +1,1583 @@
+{
+  "style": "GOTHIC",
+  "source_sheet_position": "upper left",
+  "source_unit_flag": 0,
+  "numeric_coordinate_scale_preserved": true,
+  "opening_schedule": [
+    {
+      "id": 1,
+      "bounds": [
+        65.6591,
+        105.2810909394443,
+        66.69631,
+        107.82722031999091
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          65.65910461542467,
+          105.2810909394443,
+          107.7210666811511
+        ],
+        [
+          66.69630982000092,
+          105.2810909394443,
+          107.7210666811511
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "bounds": [
+        69.47364,
+        105.2810909394443,
+        70.37364284847744,
+        107.8272203199921
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          69.47364284847761,
+          105.2810909394443,
+          107.7210666811511
+        ],
+        [
+          70.37364284847762,
+          105.2810909394443,
+          107.7210666811511
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "bounds": [
+        75.0294567671987,
+        105.2810909394443,
+        75.92946,
+        107.8272203199921
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          75.02945676719854,
+          105.2810909394443,
+          107.7210666811511
+        ],
+        [
+          75.92945676719854,
+          105.2810909394443,
+          107.7210666811511
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "bounds": [
+        86.81449555425446,
+        105.2810909394443,
+        87.7145,
+        107.8272203199921
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          87.7144955542543,
+          105.2810909394443,
+          107.7210666811511
+        ],
+        [
+          86.81449555425431,
+          105.2810909394443,
+          107.7210666811511
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "bounds": [
+        92.37030947297912,
+        105.2810909394443,
+        93.27031,
+        107.8272203199921
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          93.27030947297897,
+          105.2810909394443,
+          107.7210666811511
+        ],
+        [
+          92.37030947297896,
+          105.2810909394443,
+          107.7210666811511
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "bounds": [
+        71.36592,
+        104.34843620156569,
+        74.06782,
+        107.7210666811511
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          71.36592128499309,
+          104.34843620156569,
+          107.7210666811511
+        ],
+        [
+          74.06782280856083,
+          104.34843620156569,
+          106.8810909394443
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "bounds": [
+        80.71195,
+        104.34843620156569,
+        82.03201,
+        107.7210666811511
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          80.71194647850926,
+          104.34843620156569,
+          107.7210666811511
+        ],
+        [
+          82.03200584294731,
+          104.34843620156569,
+          107.7210666811511
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "bounds": [
+        88.67613,
+        104.34843620156569,
+        91.37803,
+        107.7210666811511
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          91.37803103646348,
+          104.34843620156569,
+          107.7210666811511
+        ],
+        [
+          88.67612951289202,
+          104.34843620156569,
+          106.8810909394443
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "bounds": [
+        78.25567296270407,
+        105.2810909394443,
+        78.95766,
+        107.6027748752493
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          78.95765532432209,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          78.25765532432209,
+          105.2810909394443,
+          107.3450371544331
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "bounds": [
+        79.20765532432318,
+        105.2810909394443,
+        79.90963768594011,
+        107.6027748752493
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          79.20765532432209,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          79.20765532432209,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          79.90765532432208,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          79.90765532432208,
+          105.2810909394443,
+          107.3450371544331
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "bounds": [
+        82.83431463551274,
+        105.2810909394443,
+        83.5363,
+        107.6027748752493
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          82.83629699713076,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          82.83629699713076,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          83.53629699713076,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          83.53629699713076,
+          105.2810909394443,
+          107.3450371544331
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "bounds": [
+        83.78629699713187,
+        105.2810909394443,
+        84.48827935874878,
+        107.6027748752493
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          83.78629699713076,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          84.48629699713076,
+          105.2810909394443,
+          107.3450371544331
+        ]
+      ]
+    },
+    {
+      "id": 13,
+      "bounds": [
+        95.58409839591137,
+        105.2810909394443,
+        96.28608075752828,
+        107.6027748752493
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          96.28608075752939,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          95.58608075752939,
+          105.2810909394443,
+          107.3450371544331
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "bounds": [
+        96.53608,
+        105.2810909394443,
+        97.23806311914741,
+        107.6027748752493
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          96.53608075752939,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          96.53608075752939,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          97.2360807575294,
+          105.2810909394443,
+          107.3450371544331
+        ],
+        [
+          97.2360807575294,
+          105.2810909394443,
+          107.3450371544331
+        ]
+      ]
+    },
+    {
+      "id": 15,
+      "bounds": [
+        65.65173240498243,
+        109.9284362015657,
+        66.72514887564265,
+        112.28919167613574
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          65.66344064031253,
+          109.93164801285491,
+          112.05952588839159
+        ],
+        [
+          66.71344064031253,
+          109.93164801285491,
+          112.05952588839159
+        ]
+      ]
+    },
+    {
+      "id": 16,
+      "bounds": [
+        69.46193461314417,
+        109.92843620156569,
+        70.38535108381106,
+        112.28597986484331
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          69.47364284847761,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          70.37364284847762,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 17,
+      "bounds": [
+        71.35605520879366,
+        109.92843620156569,
+        72.47947167945188,
+        112.2864798648429
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          71.36776344412277,
+          109.92843620156569,
+          112.0568140771024
+        ],
+        [
+          72.46776344412277,
+          109.92843620156569,
+          112.0568140771024
+        ]
+      ]
+    },
+    {
+      "id": 18,
+      "bounds": [
+        72.93605520879366,
+        109.92843620156569,
+        74.05947167945187,
+        112.2864798648429
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          72.94776344412277,
+          109.92843620156569,
+          112.0568140771024
+        ],
+        [
+          74.04776344412277,
+          109.92843620156569,
+          112.0568140771024
+        ]
+      ]
+    },
+    {
+      "id": 19,
+      "bounds": [
+        75.04967580443822,
+        109.92843620156569,
+        75.97309227510509,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          75.96138403977166,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          75.06138403977165,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 20,
+      "bounds": [
+        78.21152156444468,
+        109.92843620156569,
+        79.13493803511155,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          78.22322979977811,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          79.12322979977812,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 21,
+      "bounds": [
+        80.11126792539486,
+        109.92843620156569,
+        81.0346843960617,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          80.12297616072829,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          81.02297616072829,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 22,
+      "bounds": [
+        81.71026792539486,
+        109.92843620156569,
+        82.63368439606171,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          81.72197616072829,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          82.62197616072828,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 23,
+      "bounds": [
+        83.61001428634503,
+        109.92843620156569,
+        84.53343075701189,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          83.62172252167846,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          84.52172252167846,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 24,
+      "bounds": [
+        86.77086004634776,
+        109.92843620156569,
+        87.69427651701461,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          86.7825682816812,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          87.68256828168118,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 25,
+      "bounds": [
+        88.68448064200096,
+        109.92843620156569,
+        89.80789711265918,
+        112.2864798648429
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          88.69618887733007,
+          109.92843620156569,
+          112.0568140771024
+        ],
+        [
+          89.79618887733008,
+          109.92843620156569,
+          112.0568140771024
+        ]
+      ]
+    },
+    {
+      "id": 26,
+      "bounds": [
+        90.26448064200098,
+        109.92843620156569,
+        91.38789711265918,
+        112.2864798648429
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          90.27618887733007,
+          109.92843620156569,
+          112.0568140771024
+        ],
+        [
+          91.37618887733008,
+          109.92843620156569,
+          112.0568140771024
+        ]
+      ]
+    },
+    {
+      "id": 27,
+      "bounds": [
+        92.35860123764552,
+        109.92843620156569,
+        93.2820177083124,
+        112.28597986484331
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          92.37030947297896,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          93.27030947297897,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 28,
+      "bounds": [
+        96.03691412271016,
+        109.92843620156569,
+        96.96033059337702,
+        112.2859798648433
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          96.04862235804359,
+          109.92843620156569,
+          112.0563140771024
+        ],
+        [
+          96.9486223580436,
+          109.92843620156569,
+          112.0563140771024
+        ]
+      ]
+    },
+    {
+      "id": 29,
+      "bounds": [
+        65.36069,
+        114.388265170642,
+        66.11538,
+        116.12801
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          66.1130338631169,
+          114.388265170642,
+          115.7087037717931
+        ],
+        [
+          65.3630338631169,
+          114.388265170642,
+          115.7087037717931
+        ]
+      ]
+    },
+    {
+      "id": 30,
+      "bounds": [
+        66.29819,
+        114.388265170642,
+        67.05288,
+        116.12801
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          67.0505338631169,
+          114.388265170642,
+          115.7087037717931
+        ],
+        [
+          66.3005338631169,
+          114.388265170642,
+          115.7087037717931
+        ]
+      ]
+    },
+    {
+      "id": 31,
+      "bounds": [
+        72.08088568322114,
+        114.3020040622584,
+        72.5846412050244,
+        115.80018828117707
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          72.58276344412278,
+          114.3020040622584,
+          115.514741494023
+        ],
+        [
+          72.08276344412278,
+          114.3020040622584,
+          115.514741494023
+        ]
+      ]
+    },
+    {
+      "id": 32,
+      "bounds": [
+        72.83088568322114,
+        114.3020040622584,
+        73.3346412050244,
+        115.80018828117707
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          73.33276344412278,
+          114.3020040622584,
+          115.514741494023
+        ],
+        [
+          72.83276344412278,
+          114.3020040622584,
+          115.514741494023
+        ]
+      ]
+    },
+    {
+      "id": 33,
+      "bounds": [
+        89.40931111642846,
+        114.3020040622584,
+        89.9130666382317,
+        115.80018828117707
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          89.41118887733008,
+          114.3020040622584,
+          115.514741494023
+        ],
+        [
+          89.91118887733008,
+          114.3020040622584,
+          115.514741494023
+        ]
+      ]
+    },
+    {
+      "id": 34,
+      "bounds": [
+        90.15931111642846,
+        114.3020040622584,
+        90.6630666382317,
+        115.80018828117707
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          90.66118887733008,
+          114.3020040622584,
+          115.514741494023
+        ],
+        [
+          90.16118887733008,
+          114.3020040622584,
+          115.514741494023
+        ]
+      ]
+    },
+    {
+      "id": 35,
+      "bounds": [
+        78.6810354946413,
+        113.7127689268224,
+        80.07789478575896,
+        114.64736880204529
+      ],
+      "kind": "dormer",
+      "source_method": "native vertical jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          78.6810354946413,
+          113.7127689268224,
+          114.47744950663
+        ],
+        [
+          80.07789478575896,
+          113.7127689268224,
+          114.47744950663
+        ]
+      ]
+    },
+    {
+      "id": 36,
+      "bounds": [
+        82.66705753569762,
+        113.7127689268224,
+        84.06391682681154,
+        114.64736880204529
+      ],
+      "kind": "dormer",
+      "source_method": "native vertical jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          84.06391682681154,
+          113.7127689268224,
+          114.47744950663
+        ],
+        [
+          82.66705753569762,
+          113.7127689268224,
+          114.47744950663
+        ]
+      ]
+    },
+    {
+      "id": 37,
+      "bounds": [
+        95.7959721227185,
+        113.7127689268224,
+        97.19283141383613,
+        114.64736880204529
+      ],
+      "kind": "dormer",
+      "source_method": "native vertical jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          97.19283141383613,
+          113.7127689268224,
+          114.47744950663
+        ],
+        [
+          95.7959721227185,
+          113.7127689268224,
+          114.47744950663
+        ]
+      ]
+    },
+    {
+      "id": 39,
+      "bounds": [
+        63.9925,
+        109.9284362015657,
+        64.2998,
+        112.2928
+      ],
+      "kind": "window",
+      "source_method": "source narrow side arch; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          64.01477390321055,
+          109.93164801285491,
+          112.05952588839159
+        ],
+        [
+          64.27749629409323,
+          109.93164801285491,
+          112.05952588839159
+        ]
+      ]
+    },
+    {
+      "id": 40,
+      "bounds": [
+        64.0875,
+        114.388265170642,
+        64.4179,
+        115.998
+      ],
+      "kind": "window",
+      "source_method": "source narrow side jambs; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          64.08745333539778,
+          114.388265170642,
+          115.732172633291
+        ],
+        [
+          64.41791462806324,
+          114.388265170642,
+          115.732172633291
+        ]
+      ]
+    },
+    {
+      "id": 41,
+      "bounds": [
+        65.51483383918708,
+        120.936663,
+        65.77871390050598,
+        121.73683329832312
+      ],
+      "kind": "lantern",
+      "source_method": "native source lantern arch and full jamb coordinates"
+    },
+    {
+      "id": 42,
+      "bounds": [
+        66.06611144859606,
+        120.936663,
+        66.34746764518286,
+        121.73683329936293
+      ],
+      "kind": "lantern",
+      "source_method": "native source lantern arch and full jamb coordinates"
+    },
+    {
+      "id": 43,
+      "bounds": [
+        66.63485382572411,
+        120.936663,
+        66.898733887043,
+        121.73683329832312
+      ],
+      "kind": "lantern",
+      "source_method": "native source lantern arch and full jamb coordinates"
+    }
+  ],
+  "opening_groups": 42,
+  "new_components": {
+    "window": 42,
+    "mass": 6,
+    "band": 5,
+    "roof_background": 1,
+    "crown": 7,
+    "railing": 3,
+    "stairs": 4,
+    "column": 7,
+    "roof": 1,
+    "ground": 1
+  },
+  "native_blocks": 65,
+  "native_closed_contours": 231,
+  "connected_native_chains": 1074,
+  "old_ornament_curves_reused": 0,
+  "original_style_blocks_reused": 0,
+  "stroke_aci": 7,
+  "lineweight_mm": 0.25,
+  "linetype": "Continuous",
+  "source_structural_line_segments_retained": 0,
+  "block_schedule": [
+    {
+      "block": "GOTHIC_WINDOW_001",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        66177.705,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_002",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        69923.64142423873,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_003",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        75479.45838359935,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_004",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        87264.49777712724,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_005",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        92820.30973648955,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_006",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72716.87,
+        104348.4362015657
+      ],
+      "entities": 27
+    },
+    {
+      "block": "GOTHIC_WINDOW_007",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        81371.98000000001,
+        104348.4362015657
+      ],
+      "entities": 27
+    },
+    {
+      "block": "GOTHIC_WINDOW_008",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        90027.08,
+        104348.4362015657
+      ],
+      "entities": 27
+    },
+    {
+      "block": "GOTHIC_WINDOW_009",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        78606.66648135203,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_010",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        79558.64650513165,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_011",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        83185.30731775636,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_012",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        84137.28817794033,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_013",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        95935.08957671984,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_014",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        96887.07155957371,
+        105281.0909394443
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_015",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        66188.44064031253,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_016",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        69923.64284847761,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_017",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        71917.76344412277,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_018",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        73497.76344412277,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_019",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        75511.38403977166,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_020",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        78673.22979977811,
+        109928.4362015657
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_021",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        80572.97616072827,
+        109928.4362015657
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_022",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        82171.97616072829,
+        109928.4362015657
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_023",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        84071.72252167846,
+        109928.4362015657
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_024",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        87232.56828168117,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_025",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        89246.18887733007,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_026",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        90826.18887733009,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_027",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        92820.30947297894,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_028",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        96498.62235804359,
+        109928.4362015657
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_029",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        65738.035,
+        114388.265170642
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_030",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        66675.535,
+        114388.265170642
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_031",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72332.76344412277,
+        114302.0040622584
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_032",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        73082.76344412277,
+        114302.0040622584
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_033",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        89661.18887733007,
+        114302.0040622584
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_034",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        90411.18887733007,
+        114302.0040622584
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_035",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        79379.46514020012,
+        113712.7689268224
+      ],
+      "entities": 21
+    },
+    {
+      "block": "GOTHIC_WINDOW_036",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        83365.48718125458,
+        113712.7689268224
+      ],
+      "entities": 21
+    },
+    {
+      "block": "GOTHIC_WINDOW_037",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        96494.40176827731,
+        113712.7689268224
+      ],
+      "entities": 21
+    },
+    {
+      "block": "GOTHIC_WINDOW_039",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        64146.15000000001,
+        109928.4362015657
+      ],
+      "entities": 10
+    },
+    {
+      "block": "GOTHIC_WINDOW_040",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        64252.700000000004,
+        114388.265170642
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_041",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        65646.77386984653,
+        120936.663
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_042",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        66206.78954688947,
+        120936.663
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_WINDOW_043",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        66766.79385638355,
+        120936.663
+      ],
+      "entities": 11
+    },
+    {
+      "block": "GOTHIC_MAIN_PITCHED_ROOF",
+      "kind": "roof_background",
+      "anchor_source_coordinates": [
+        81000.0,
+        113498.436
+      ],
+      "entities": 4
+    },
+    {
+      "block": "GOTHIC_TOWER_CORNICE",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        66207.0,
+        116686.16
+      ],
+      "entities": 1
+    },
+    {
+      "block": "GOTHIC_CROWN_WEST_FRONT",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        72623.3,
+        113498.436
+      ],
+      "entities": 20
+    },
+    {
+      "block": "GOTHIC_CROWN_EAST_FRONT",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        89569.15000000001,
+        113498.436
+      ],
+      "entities": 20
+    },
+    {
+      "block": "GOTHIC_CROWN_DORMER_1",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        79379.46514020012,
+        114877.3688020453
+      ],
+      "entities": 22
+    },
+    {
+      "block": "GOTHIC_CROWN_DORMER_2",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        83365.48718125458,
+        114877.3688020453
+      ],
+      "entities": 22
+    },
+    {
+      "block": "GOTHIC_CROWN_DORMER_3",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        96494.40176827731,
+        114877.3688020453
+      ],
+      "entities": 22
+    },
+    {
+      "block": "GOTHIC_POINTED_TOWER_CROWN",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        66207.0,
+        117718.7
+      ],
+      "entities": 35
+    },
+    {
+      "block": "GOTHIC_RAILING_1",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        65000.0,
+        108880.0
+      ],
+      "entities": 36
+    },
+    {
+      "block": "GOTHIC_RAILING_2",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        72750.0,
+        108880.0
+      ],
+      "entities": 51
+    },
+    {
+      "block": "GOTHIC_RAILING_3",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        89560.0,
+        108880.0
+      ],
+      "entities": 57
+    },
+    {
+      "block": "GOTHIC_STAIRS_PORTICO",
+      "kind": "stairs",
+      "anchor_source_coordinates": [
+        63538.43502356825,
+        103898.4362015657
+      ],
+      "entities": 7
+    },
+    {
+      "block": "GOTHIC_STAIRS_ENTRANCE_1",
+      "kind": "stairs",
+      "anchor_source_coordinates": [
+        72716.87,
+        103898.4362015657
+      ],
+      "entities": 6
+    },
+    {
+      "block": "GOTHIC_STAIRS_ENTRANCE_2",
+      "kind": "stairs",
+      "anchor_source_coordinates": [
+        81371.98000000001,
+        103898.4362015657
+      ],
+      "entities": 6
+    },
+    {
+      "block": "GOTHIC_STAIRS_ENTRANCE_3",
+      "kind": "stairs",
+      "anchor_source_coordinates": [
+        90027.08,
+        103898.4362015657
+      ],
+      "entities": 6
+    },
+    {
+      "block": "GOTHIC_COLUMN_001",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        62900.0,
+        104348.43620156571
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_COLUMN_002",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        64099.99999999999,
+        104348.43620156571
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_COLUMN_003",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        68988.20000000001,
+        103898.4362015657
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_COLUMN_004",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        76658.4,
+        103898.4362015657
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_COLUMN_005",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        85185.5,
+        103898.4362015657
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_COLUMN_006",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        93952.8,
+        103898.4362015657
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_COLUMN_007",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        98143.4,
+        103898.4362015657
+      ],
+      "entities": 5
+    },
+    {
+      "block": "GOTHIC_ROOF_TILING_1",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        0.0,
+        0.0
+      ],
+      "entities": 98
+    }
+  ],
+  "notes": [
+    "Individual windows, columns, balcony guards, crowns and ornaments are independent new blocks. Structural linework remains separate modelspace entities.",
+    "Native coordinate scale and source opening envelopes retained; window head profiles and decorative silhouettes change for the new style.",
+    "Source unit flag is undefined (0); no physical unit is inferred.",
+    "Closed profiles and native circular/cubic curves are used. Mullions and courses meet their boundaries rather than being forced into closed shapes."
+  ]
+}

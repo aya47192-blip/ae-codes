@@ -1,3 +1,9 @@
+## الأحدث: أربع واجهات — قوطي، يوناني إحيائي، أندلسي، وآرت نوفو
+
+[تحميل الحزمة الكاملة DWG + DXF + PDF](drawings/four-elevations-restyled/four_styles_full_package.zip) · [DWG مجمّع](drawings/four-elevations-restyled/four_facades.dwg) · [قبل / بعد PDF](drawings/four-elevations-restyled/before_after_all.pdf) · [التفاصيل والملفات المنفصلة](drawings/four-elevations-restyled/README.md)
+
+![الواجهات الأربع بعد تغيير الطرز](drawings/four-elevations-restyled/overview.png)
+
 ## الأحدث: لوبي الفندق حسب المرجع — الإصدار 3
 
 [تحميل الموديل والخامات لـSketchUp](drawings/ayaa-hotel-reference-modern/SketchUp_reference_modern_v3.zip) · [عرض التصميم PDF](drawings/ayaa-hotel-reference-modern/presentation.pdf) · [التفاصيل وطريقة الفتح](drawings/ayaa-hotel-reference-modern/README.md)

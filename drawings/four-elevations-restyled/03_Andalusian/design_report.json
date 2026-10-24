@@ -1,0 +1,2130 @@
+{
+  "style": "ANDALUSIAN",
+  "source_sheet_position": "lower left",
+  "source_unit_flag": 0,
+  "numeric_coordinate_scale_preserved": true,
+  "opening_schedule": [
+    {
+      "id": 1,
+      "bounds": [
+        58.663980744493045,
+        76.03155,
+        60.429656995734575,
+        80.0970520800064
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          58.66575701294886,
+          76.03155323426553,
+          79.41984649371857
+        ],
+        [
+          60.427880727280396,
+          76.03155323426367,
+          79.41879331620538
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "bounds": [
+        62.56377473468785,
+        76.03155,
+        64.32945098592937,
+        80.09705208000454
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          64.32767471747519,
+          76.0315532342618,
+          79.41879331620352
+        ],
+        [
+          62.56555100314365,
+          76.03155323426367,
+          79.4198464937167
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "bounds": [
+        66.46261148841758,
+        76.03155,
+        68.22828773965911,
+        80.09705208000454
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          66.46438775687339,
+          76.03155323426367,
+          79.4198464937167
+        ],
+        [
+          68.22651147120493,
+          76.0315532342618,
+          79.41879331620352
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "bounds": [
+        75.95959249538797,
+        76.03155,
+        77.7252687466295,
+        80.09705208000454
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          75.96136876384216,
+          76.0315532342618,
+          79.41879331620352
+        ],
+        [
+          77.7234924781737,
+          76.03155323426367,
+          79.4198464937167
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "bounds": [
+        79.8584292491177,
+        76.03155,
+        81.62410550035924,
+        80.09705208000454
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          81.62232923190342,
+          76.03155323426367,
+          79.4198464937167
+        ],
+        [
+          79.86020551757188,
+          76.0315532342618,
+          79.41879331620352
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "bounds": [
+        83.7582232393125,
+        76.03155,
+        85.52389949055403,
+        80.0970520800064
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          83.75999950776668,
+          76.03155323426367,
+          79.41879331620538
+        ],
+        [
+          85.52212322209822,
+          76.03155323426553,
+          79.41984649371857
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "bounds": [
+        70.37076,
+        76.34395,
+        70.96902,
+        78.09007192996106
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          70.37076478797243,
+          76.34395149316394,
+          77.91909095526987
+        ],
+        [
+          70.96901789433183,
+          76.34395149316208,
+          77.919090955268
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "bounds": [
+        71.79481,
+        76.34395,
+        72.39307,
+        78.09007
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          72.39306667070137,
+          76.34395149316394,
+          77.91909095526987
+        ],
+        [
+          71.7948135643457,
+          76.34395149316394,
+          77.91909095526987
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "bounds": [
+        73.21886,
+        76.34395,
+        73.81712,
+        78.09007192996106
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          73.21886234071525,
+          76.34395149316208,
+          77.919090955268
+        ],
+        [
+          73.81711544707464,
+          76.34395149316394,
+          77.91909095526987
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "bounds": [
+        58.54125116709666,
+        81.8513271974338,
+        59.09972512098448,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          59.098131840050684,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          58.54284444803419,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "bounds": [
+        59.965996678557715,
+        81.834,
+        60.524470632445535,
+        83.47761040134657
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          60.52287735151174,
+          81.83400003525743,
+          83.26850247884856
+        ],
+        [
+          59.967589959495236,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "bounds": [
+        62.441045157295186,
+        81.8513271974338,
+        62.999519111183005,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          62.99792583024921,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          62.442638438232706,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 13,
+      "bounds": [
+        63.86579066875251,
+        81.834,
+        64.42426462264034,
+        83.47761040134657
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          64.42267134170653,
+          81.83400003525743,
+          83.26850247884856
+        ],
+        [
+          63.86738394969003,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "bounds": [
+        66.34083914748999,
+        81.8513271974338,
+        66.8993131013778,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          66.89771982044401,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          66.3424324284275,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 15,
+      "bounds": [
+        67.7655846589473,
+        81.834,
+        68.32405861283513,
+        83.47761040134657
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          68.32246533190133,
+          81.83400003525743,
+          83.26850247884856
+        ],
+        [
+          67.76717793988483,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 16,
+      "bounds": [
+        70.3899576291223,
+        81.8513271974338,
+        70.94843158301012,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          70.94683830207633,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          70.39155091005983,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 17,
+      "bounds": [
+        71.8163,
+        81.834,
+        72.37158,
+        83.47761
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          72.37158381352992,
+          81.8340000352593,
+          83.26850247884856
+        ],
+        [
+          71.81629642151715,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 18,
+      "bounds": [
+        73.23944865203696,
+        81.8513271974338,
+        73.79792260592477,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          73.24104193297075,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          73.79632932498725,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 19,
+      "bounds": [
+        75.86382162221196,
+        81.834,
+        76.42229557609977,
+        83.47761040134657
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          75.86541490314575,
+          81.83400003525743,
+          83.26850247884856
+        ],
+        [
+          76.42070229516224,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 20,
+      "bounds": [
+        77.28856713366928,
+        81.8513271974338,
+        77.8470410875571,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          77.29016041460308,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          77.84544780661957,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 21,
+      "bounds": [
+        79.76361561240675,
+        81.834,
+        80.32208956629457,
+        83.47761040134657
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          79.76520889334054,
+          81.83400003525743,
+          83.26850247884856
+        ],
+        [
+          80.32049628535705,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 22,
+      "bounds": [
+        81.18836112386407,
+        81.8513271974338,
+        81.7468350777519,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          81.18995440479787,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          81.74524179681437,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 23,
+      "bounds": [
+        83.66340960260155,
+        81.834,
+        84.22188355648937,
+        83.47761040134657
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          83.66500288353535,
+          81.83400003525743,
+          83.26850247884856
+        ],
+        [
+          84.22029027555185,
+          81.8340000352593,
+          83.26850247884856
+        ]
+      ]
+    },
+    {
+      "id": 24,
+      "bounds": [
+        85.0881551140626,
+        81.8513271974338,
+        85.64662906795041,
+        83.49493756352294
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          85.08974839499639,
+          81.8513271974338,
+          83.28582964102493
+        ],
+        [
+          85.64503578701289,
+          81.85132719743567,
+          83.28582964102493
+        ]
+      ]
+    },
+    {
+      "id": 25,
+      "bounds": [
+        58.85557406886476,
+        86.02624235641525,
+        60.26423348775511,
+        87.84622834790115
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          60.262753264043944,
+          86.02624235641525,
+          87.305621334975
+        ],
+        [
+          58.85705429257872,
+          86.02624235641525,
+          87.3064638769863
+        ]
+      ]
+    },
+    {
+      "id": 26,
+      "bounds": [
+        62.75536805906329,
+        86.02624235641525,
+        64.16402747795362,
+        87.84622834790115
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          62.75684828277724,
+          86.02624235641525,
+          87.3064638769863
+        ],
+        [
+          64.16254725424247,
+          86.02624235641525,
+          87.305621334975
+        ]
+      ]
+    },
+    {
+      "id": 27,
+      "bounds": [
+        66.65516204925808,
+        86.02624235641525,
+        68.06382146814842,
+        87.84622834790115
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          66.65664227297204,
+          86.02624235641525,
+          87.3064638769863
+        ],
+        [
+          68.06234124443726,
+          86.02624235641525,
+          87.305621334975
+        ]
+      ]
+    },
+    {
+      "id": 28,
+      "bounds": [
+        76.12405876689866,
+        86.02624235641525,
+        77.532718185789,
+        87.84622834790115
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          76.12553899060981,
+          86.02624235641525,
+          87.305621334975
+        ],
+        [
+          77.53123796207504,
+          86.02624235641525,
+          87.3064638769863
+        ]
+      ]
+    },
+    {
+      "id": 29,
+      "bounds": [
+        80.02385275709345,
+        86.02624235641525,
+        81.43251217598379,
+        87.84622834790115
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          80.0253329808046,
+          86.02624235641525,
+          87.305621334975
+        ],
+        [
+          81.43103195226985,
+          86.02624235641525,
+          87.3064638769863
+        ]
+      ]
+    },
+    {
+      "id": 30,
+      "bounds": [
+        83.92364674729198,
+        86.02624235641525,
+        85.33230616618232,
+        87.84622834790115
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          85.33082594246837,
+          86.02624235641525,
+          87.3064638769863
+        ],
+        [
+          83.92512697100314,
+          86.02624235641525,
+          87.305621334975
+        ]
+      ]
+    },
+    {
+      "id": 31,
+      "bounds": [
+        58.19896,
+        89.07882,
+        58.64125,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          58.64125116269337,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          58.198960680347405,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 32,
+      "bounds": [
+        58.82898,
+        89.07882,
+        59.14422,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          58.82897596676694,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          59.1442188893375,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 33,
+      "bounds": [
+        59.19422,
+        89.07882,
+        59.57469,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          59.1942188893375,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          59.57468724248605,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 34,
+      "bounds": [
+        59.62469,
+        89.07882,
+        60.07689,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          59.62468724248605,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          60.076894337799864,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 35,
+      "bounds": [
+        60.12689,
+        89.07882,
+        60.67125,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          60.67125199800404,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          60.67125199800776,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          60.12689433779987,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 36,
+      "bounds": [
+        60.72125,
+        89.07882,
+        61.17346,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          60.721251998004035,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          61.17345909331785,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          60.721251998007766,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 37,
+      "bounds": [
+        61.22346,
+        89.07882,
+        61.60393,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          61.22345909331786,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          61.60392744646641,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 38,
+      "bounds": [
+        61.65393,
+        89.07882,
+        61.96917,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          61.653927446466405,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          61.96917036903696,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 39,
+      "bounds": [
+        62.1569,
+        89.07882,
+        62.59919,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          62.15689517311426,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          62.599185655460225,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 40,
+      "bounds": [
+        81.58869,
+        89.07882,
+        82.03099,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          81.58869457958686,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          82.03098506193282,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 41,
+      "bounds": [
+        82.21871,
+        89.07882,
+        82.53395,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          82.21870986601012,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          82.53395278858068,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 42,
+      "bounds": [
+        82.58395,
+        89.07882,
+        82.96442,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          82.58395278858067,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          82.96442114172922,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 43,
+      "bounds": [
+        83.01442,
+        89.07882,
+        83.46663,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          83.46662823703932,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          83.01442114172923,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          83.46662823704304,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 44,
+      "bounds": [
+        83.51663,
+        89.07882,
+        84.06099,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          84.0609858972472,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          83.51662823703931,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          83.51662823704304,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 45,
+      "bounds": [
+        84.11099,
+        89.07882,
+        84.56319,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          84.11098589724722,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          84.56319299256103,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 46,
+      "bounds": [
+        84.61319,
+        89.07882,
+        84.99366,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          84.61319299256103,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          84.99366134570958,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 47,
+      "bounds": [
+        85.04366,
+        89.07882,
+        85.3589,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          85.04366134570958,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          85.35890426828014,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 48,
+      "bounds": [
+        85.54663,
+        89.07882,
+        85.98892,
+        90.43333
+      ],
+      "kind": "clerestory",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          85.98891955469968,
+          89.0788236697031,
+          90.43332857791648
+        ],
+        [
+          85.54662907235371,
+          89.0788236697031,
+          90.43332857791648
+        ]
+      ]
+    },
+    {
+      "id": 49,
+      "bounds": [
+        71.21674,
+        85.41870805144252,
+        72.97114,
+        87.09053
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          72.97113652153732,
+          85.41870805144252,
+          87.09052686854207
+        ],
+        [
+          71.21674371350976,
+          85.41870805144252,
+          87.09052686854207
+        ]
+      ]
+    },
+    {
+      "id": 50,
+      "bounds": [
+        71.08195,
+        88.22771,
+        73.10593,
+        90.63515
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          73.10210667079362,
+          88.22771253398003,
+          89.65386784437614
+        ],
+        [
+          71.08577356425347,
+          88.22771253398003,
+          89.65386784437614
+        ]
+      ]
+    },
+    {
+      "id": 51,
+      "bounds": [
+        70.39584842310519,
+        92.930892,
+        70.92461541023525,
+        93.75011374769915
+      ],
+      "kind": "tower",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          70.39584842310519,
+          92.93089248732605,
+          93.68278633765073
+        ],
+        [
+          70.92461541023525,
+          92.93089248732605,
+          93.68278687481896
+        ]
+      ]
+    },
+    {
+      "id": 52,
+      "bounds": [
+        71.82955662395851,
+        92.930892,
+        72.09394011752354,
+        93.75011374769969
+      ],
+      "kind": "tower",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          71.82955662395851,
+          92.93089248732605,
+          93.68278633765073
+        ]
+      ]
+    },
+    {
+      "id": 53,
+      "bounds": [
+        73.26326482481184,
+        92.930892,
+        73.79203181194188,
+        93.75011374769915
+      ],
+      "kind": "tower",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          73.26326482481184,
+          92.93089248732605,
+          93.68278687481896
+        ],
+        [
+          73.79203181194188,
+          92.93089248732605,
+          93.68278633765073
+        ]
+      ]
+    },
+    {
+      "id": 54,
+      "bounds": [
+        71.45934,
+        96.22797,
+        71.93723,
+        97.09271414987126
+      ],
+      "kind": "lantern",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          71.45934357545572,
+          96.22797307703958,
+          97.09271414987126
+        ],
+        [
+          71.9372296019909,
+          96.2279730770433,
+          97.09271414987126
+        ]
+      ]
+    },
+    {
+      "id": 55,
+      "bounds": [
+        72.25065,
+        96.22797,
+        72.72854,
+        97.09271414987126
+      ],
+      "kind": "lantern",
+      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          72.25065063305618,
+          96.2279730770433,
+          97.09271414987126
+        ],
+        [
+          72.72853665959137,
+          96.22797307703958,
+          97.09271414987126
+        ]
+      ]
+    },
+    {
+      "id": 56,
+      "bounds": [
+        62.98347735954123,
+        89.0788236697031,
+        63.92527404719637,
+        90.13115819554864
+      ],
+      "kind": "window",
+      "source_method": "native upper-wing arch and jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          62.989441385329236,
+          89.0788236697031,
+          89.86163134219439
+        ],
+        [
+          63.91931002140837,
+          89.0788236697031,
+          89.86163134219439
+        ]
+      ]
+    },
+    {
+      "id": 57,
+      "bounds": [
+        66.88327134973602,
+        89.0788236697031,
+        67.82506803739118,
+        90.13115819554864
+      ],
+      "kind": "window",
+      "source_method": "native upper-wing arch and jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          67.81910401160316,
+          89.0788236697031,
+          89.86163134219439
+        ],
+        [
+          66.88923537552404,
+          89.0788236697031,
+          89.86163134219439
+        ]
+      ]
+    },
+    {
+      "id": 58,
+      "bounds": [
+        76.3628121976559,
+        89.0788236697031,
+        77.30460888531105,
+        90.13115819554864
+      ],
+      "kind": "window",
+      "source_method": "native upper-wing arch and jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          77.29864485952305,
+          89.0788236697031,
+          89.86163134219439
+        ],
+        [
+          76.36877622344392,
+          89.0788236697031,
+          89.86163134219439
+        ]
+      ]
+    },
+    {
+      "id": 59,
+      "bounds": [
+        80.26260618785071,
+        89.0788236697031,
+        81.20440287550585,
+        90.13115819554864
+      ],
+      "kind": "window",
+      "source_method": "native upper-wing arch and jamb coordinates; refined to complete native jamb extents",
+      "native_jamb_segments": [
+        [
+          80.26857021363871,
+          89.0788236697031,
+          89.86163134219439
+        ],
+        [
+          81.19843884971785,
+          89.0788236697031,
+          89.86163134219439
+        ]
+      ]
+    }
+  ],
+  "opening_groups": 59,
+  "new_components": {
+    "window": 59,
+    "mass": 4,
+    "band": 13,
+    "arcade": 6,
+    "column": 8,
+    "frieze": 1,
+    "arch_surround": 1,
+    "crown": 3,
+    "panel": 2,
+    "ground": 1
+  },
+  "native_blocks": 80,
+  "native_closed_contours": 305,
+  "connected_native_chains": 957,
+  "old_ornament_curves_reused": 0,
+  "original_style_blocks_reused": 0,
+  "stroke_aci": 7,
+  "lineweight_mm": 0.25,
+  "linetype": "Continuous",
+  "source_structural_line_segments_retained": 0,
+  "block_schedule": [
+    {
+      "block": "ANDALUSIAN_WINDOW_001",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        59546.81887011381,
+        76031.55
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_002",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        63446.6128603086,
+        76031.55
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_003",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        67345.44961403834,
+        76031.55
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_004",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        76842.43062100874,
+        76031.55
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_005",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        80741.26737473847,
+        76031.55
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_006",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        84641.06136493327,
+        76031.55
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_007",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        70669.89000000001,
+        76343.95000000001
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_008",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72093.94,
+        76343.95000000001
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_009",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        73517.98999999999,
+        76343.95000000001
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_010",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        58820.488144040566,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_011",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        60245.23365550162,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_012",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        62720.282134239096,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_013",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        64145.02764569641,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_014",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        66620.0761244339,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_015",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        68044.82163589122,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_016",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        70669.19460606622,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_017",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72093.94,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_018",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        73518.68562898086,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_019",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        76143.05859915586,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_020",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        77567.8041106132,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_021",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        80042.85258935066,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_022",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        81467.59810080797,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_023",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        83942.64657954546,
+        81834.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_024",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        85367.3920910065,
+        81851.3271974338
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_025",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        59559.903778309934,
+        86026.24235641526
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_026",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        63459.69776850846,
+        86026.24235641526
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_027",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        67359.49175870325,
+        86026.24235641526
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_028",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        76828.38847634383,
+        86026.24235641526
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_029",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        80728.18246653861,
+        86026.24235641526
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_030",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        84627.97645673715,
+        86026.24235641526
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_031",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        58420.104999999996,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_032",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        58986.6,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_033",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        59384.455,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_034",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        59850.79,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_035",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        60399.07,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_036",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        60947.355,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_037",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        61413.69500000001,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_038",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        61811.549999999996,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_039",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        62378.045,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_040",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        81809.84000000001,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_041",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        82376.33,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_042",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        82774.185,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_043",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        83240.525,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_044",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        83788.81000000001,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_045",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        84337.09,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_046",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        84803.425,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_047",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        85201.28,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_048",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        85767.775,
+        89078.81999999999
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_049",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72093.94,
+        85418.70805144252
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_050",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72093.94,
+        88227.71
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_051",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        70660.23191667022,
+        92930.892
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_052",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        71961.74837074101,
+        92930.892
+      ],
+      "entities": 13
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_053",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        73527.64831837686,
+        92930.892
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_054",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        71698.285,
+        96227.97
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_055",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72489.595,
+        96227.97
+      ],
+      "entities": 13
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_056",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        63454.375703368794,
+        89078.8236697031
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_057",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        67354.16969356358,
+        89078.8236697031
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_058",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        76833.71054148347,
+        89078.8236697031
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ANDALUSIAN_WINDOW_059",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        80733.50453167828,
+        89078.8236697031
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ANDALUSIAN_GROUND_ARCADE_1",
+      "kind": "arcade",
+      "anchor_source_coordinates": [
+        59550.0,
+        75881.6
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_GROUND_ARCADE_2",
+      "kind": "arcade",
+      "anchor_source_coordinates": [
+        63450.0,
+        75881.6
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_GROUND_ARCADE_3",
+      "kind": "arcade",
+      "anchor_source_coordinates": [
+        67350.0,
+        75881.6
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_GROUND_ARCADE_4",
+      "kind": "arcade",
+      "anchor_source_coordinates": [
+        76840.0,
+        75881.6
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_GROUND_ARCADE_5",
+      "kind": "arcade",
+      "anchor_source_coordinates": [
+        80740.0,
+        75881.6
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_GROUND_ARCADE_6",
+      "kind": "arcade",
+      "anchor_source_coordinates": [
+        84640.0,
+        75881.6
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_001",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        57630.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_002",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        61500.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_003",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        65400.00000000001,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_004",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        69080.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_005",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        75060.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_006",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        78790.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_007",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        82690.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_COLUMN_008",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        86570.0,
+        76031.59999999999
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ANDALUSIAN_SEBKA_INTERSTOREY_BANDS",
+      "kind": "frieze",
+      "anchor_source_coordinates": [
+        72000.0,
+        84600.0
+      ],
+      "entities": 82
+    },
+    {
+      "block": "ANDALUSIAN_CENTRAL_ARCH_SURROUND",
+      "kind": "arch_surround",
+      "anchor_source_coordinates": [
+        72094.0,
+        88230.0
+      ],
+      "entities": 2
+    },
+    {
+      "block": "ANDALUSIAN_PAVILION_CAP_1",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        60400.0,
+        91040.0
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_PAVILION_CAP_2",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        83770.0,
+        91040.0
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ANDALUSIAN_ANDALUSIAN_TOWER_CREST",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        72094.0,
+        95200.0
+      ],
+      "entities": 18
+    },
+    {
+      "block": "ANDALUSIAN_BLIND_SEBKA_69.5",
+      "kind": "panel",
+      "anchor_source_coordinates": [
+        69500.0,
+        89000.0
+      ],
+      "entities": 6
+    },
+    {
+      "block": "ANDALUSIAN_BLIND_SEBKA_74.69",
+      "kind": "panel",
+      "anchor_source_coordinates": [
+        74690.0,
+        89000.0
+      ],
+      "entities": 6
+    }
+  ],
+  "notes": [
+    "Individual windows, columns, balcony guards, crowns and ornaments are independent new blocks. Structural linework remains separate modelspace entities.",
+    "Native coordinate scale and source opening envelopes retained; window head profiles and decorative silhouettes change for the new style.",
+    "Source unit flag is undefined (0); no physical unit is inferred.",
+    "Closed profiles and native circular/cubic curves are used. Mullions and courses meet their boundaries rather than being forced into closed shapes."
+  ]
+}

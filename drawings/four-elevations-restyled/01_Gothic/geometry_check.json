@@ -1,0 +1,32 @@
+{
+  "style": "GOTHIC",
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "decomposed_entities": 1074,
+  "entity_types": {
+    "LWPOLYLINE": 1074
+  },
+  "native_primitive_types": {
+    "L": 2492,
+    "A": 400
+  },
+  "duplicate_native_primitives": [],
+  "straight_overlap_length_source_units": 0,
+  "zero_length_entities": [],
+  "open_chain_endpoints_checked": 1680,
+  "max_valid_join_distance_source_units": 1.4588119825865665e-11,
+  "join_tolerance_source_units": 0.025,
+  "intentional_groundline_endpoints": [
+    [
+      62031.270047,
+      103898.436202
+    ],
+    [
+      99926.47181799999,
+      103898.436202
+    ]
+  ],
+  "unjoined_endpoints": [],
+  "native_spline_curves_not_raster_traces": true,
+  "paper_strokes_black_white_uniform_mm": 0.25
+}

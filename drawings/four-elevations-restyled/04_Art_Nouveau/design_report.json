@@ -1,0 +1,1333 @@
+{
+  "style": "ART NOUVEAU",
+  "source_sheet_position": "lower right",
+  "source_unit_flag": 0,
+  "numeric_coordinate_scale_preserved": true,
+  "opening_schedule": [
+    {
+      "id": 1,
+      "bounds": [
+        101.255079154287,
+        76.34823856873939,
+        103.73507915428699,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 2,
+      "bounds": [
+        105.288665434551,
+        76.34823856873939,
+        107.768665434551,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 3,
+      "bounds": [
+        109.188665434551,
+        76.34823856873939,
+        111.668665434551,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 4,
+      "bounds": [
+        116.98866543455101,
+        76.34823856873939,
+        119.468665434551,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 5,
+      "bounds": [
+        124.78866543455091,
+        76.34823856873939,
+        127.2686654345509,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 6,
+      "bounds": [
+        128.6886654345509,
+        76.34823856873939,
+        131.1686654345509,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 7,
+      "bounds": [
+        132.5886654345509,
+        76.34823856873939,
+        135.0686654345509,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 8,
+      "bounds": [
+        136.6386654345509,
+        76.34823856873939,
+        139.1186654345509,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 9,
+      "bounds": [
+        113.26936025400511,
+        76.40823856873938,
+        114.8795092779403,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 10,
+      "bounds": [
+        121.5778215911579,
+        76.40823856873938,
+        123.578119639032,
+        79.28823856873939
+      ],
+      "kind": "door",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 11,
+      "bounds": [
+        101.088665434551,
+        82.00823856873939,
+        102.168665434551,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 12,
+      "bounds": [
+        102.48866543455101,
+        82.00823856873939,
+        103.56866543455101,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 13,
+      "bounds": [
+        105.138665434551,
+        82.00823856873939,
+        106.218665434551,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 14,
+      "bounds": [
+        106.538665434551,
+        82.00823856873939,
+        107.618665434551,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 15,
+      "bounds": [
+        109.188665434551,
+        82.00823856873939,
+        110.268665434551,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 16,
+      "bounds": [
+        110.588665434551,
+        82.00823856873939,
+        111.668665434551,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 17,
+      "bounds": [
+        116.9961053358284,
+        81.96823856873938,
+        119.45672511771,
+        87.1446267316615
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 18,
+      "bounds": [
+        124.78866543455091,
+        82.00823856873939,
+        125.8686654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 19,
+      "bounds": [
+        126.1886654345509,
+        82.00823856873939,
+        127.2686654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 20,
+      "bounds": [
+        128.6886654345509,
+        82.00823856873939,
+        129.7686654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 21,
+      "bounds": [
+        130.0886654345509,
+        82.00823856873939,
+        131.1686654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 22,
+      "bounds": [
+        132.5886654345509,
+        82.00823856873939,
+        133.6686654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 23,
+      "bounds": [
+        133.9886654345509,
+        82.00823856873939,
+        135.0686654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 24,
+      "bounds": [
+        113.0258305879575,
+        82.1311826617656,
+        114.6158305879575,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 25,
+      "bounds": [
+        121.8415002811407,
+        82.1311826617656,
+        123.4315002811406,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 26,
+      "bounds": [
+        136.6386654345509,
+        82.1311826617656,
+        137.7186654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 27,
+      "bounds": [
+        138.0386654345509,
+        82.1311826617656,
+        139.1186654345509,
+        83.98823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 28,
+      "bounds": [
+        101.088665434551,
+        85.74823856873938,
+        102.168665434551,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 29,
+      "bounds": [
+        102.48866543455101,
+        85.74823856873938,
+        103.56866543455101,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 30,
+      "bounds": [
+        105.138665434551,
+        85.74823856873938,
+        106.218665434551,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 31,
+      "bounds": [
+        106.538665434551,
+        85.74823856873938,
+        107.618665434551,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 32,
+      "bounds": [
+        109.188665434551,
+        85.74823856873938,
+        110.268665434551,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 33,
+      "bounds": [
+        110.588665434551,
+        85.74823856873938,
+        111.668665434551,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 34,
+      "bounds": [
+        113.0258305879575,
+        85.7311826617656,
+        114.6158305879575,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 35,
+      "bounds": [
+        121.8415002811407,
+        85.7311826617656,
+        123.4315002811406,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 36,
+      "bounds": [
+        124.78866543455091,
+        85.74823856873938,
+        125.8686654345509,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 37,
+      "bounds": [
+        126.1886654345509,
+        85.74823856873938,
+        127.2686654345509,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 38,
+      "bounds": [
+        128.6886654345509,
+        85.74823856873938,
+        129.7686654345509,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 39,
+      "bounds": [
+        130.0886654345509,
+        85.74823856873938,
+        131.1686654345509,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 40,
+      "bounds": [
+        132.5886654345509,
+        85.74823856873938,
+        133.6686654345509,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 41,
+      "bounds": [
+        133.9886654345509,
+        85.74823856873938,
+        135.0686654345509,
+        87.58823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 42,
+      "bounds": [
+        136.1786654345509,
+        85.74823856873938,
+        139.9786654345509,
+        87.64823856873939
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 43,
+      "bounds": [
+        115.67246852973899,
+        86.39023541382083,
+        116.70150717242849,
+        87.74823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 44,
+      "bounds": [
+        119.7558236966734,
+        86.39023541382083,
+        120.7848623393592,
+        87.74823856873938
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 45,
+      "bounds": [
+        134.3695904379454,
+        89.88623856873939,
+        136.37814451906502,
+        91.93642678998167
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 46,
+      "bounds": [
+        136.84214451906502,
+        89.88623856873939,
+        138.85069860018461,
+        91.93642678998167
+      ],
+      "kind": "window",
+      "source_method": "source panel bounds"
+    },
+    {
+      "id": 47,
+      "bounds": [
+        92.04771823725524,
+        75.89823856873939,
+        94.88857588151517,
+        82.70349851276667
+      ],
+      "kind": "gate",
+      "source_method": "source panel bounds"
+    }
+  ],
+  "opening_groups": 47,
+  "new_components": {
+    "window": 47,
+    "source": 1,
+    "mass": 3,
+    "band": 17,
+    "column": 11,
+    "railing": 17,
+    "crown": 2,
+    "roof": 1,
+    "roof_background": 1,
+    "roof_dormer": 2,
+    "roof_vent": 4,
+    "masonry": 1,
+    "frieze": 1,
+    "ground": 1
+  },
+  "native_blocks": 86,
+  "native_closed_contours": 291,
+  "connected_native_chains": 972,
+  "old_ornament_curves_reused": 0,
+  "original_style_blocks_reused": 0,
+  "stroke_aci": 7,
+  "lineweight_mm": 0.25,
+  "linetype": "Continuous",
+  "source_structural_line_segments_retained": 0,
+  "block_schedule": [
+    {
+      "block": "ART_NOUVEAU_WINDOW_001",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        102495.079154287,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_002",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        106528.665434551,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_003",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        110428.66543455099,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_004",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        118228.665434551,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_005",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        126028.6654345509,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_006",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        129928.6654345509,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_007",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        133828.66543455087,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_008",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        137878.6654345509,
+        76348.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_009",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        114074.4347659727,
+        76408.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_010",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        122577.97061509495,
+        76408.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_011",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        101628.665434551,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_012",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        103028.66543455102,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_013",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        105678.66543455099,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_014",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        107078.665434551,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_015",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        109728.665434551,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_016",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        111128.665434551,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_017",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        118226.41522676921,
+        81968.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_018",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        125328.66543455092,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_019",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        126728.66543455089,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_020",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        129228.66543455092,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_021",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        130628.6654345509,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_022",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        133128.6654345509,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_023",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        134528.6654345509,
+        82008.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_024",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        113820.8305879575,
+        82131.1826617656
+      ],
+      "entities": 13
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_025",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        122636.50028114066,
+        82131.1826617656
+      ],
+      "entities": 13
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_026",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        137178.6654345509,
+        82131.1826617656
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_027",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        138578.66543455087,
+        82131.1826617656
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_028",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        101628.665434551,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_029",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        103028.66543455102,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_030",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        105678.66543455099,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_031",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        107078.665434551,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_032",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        109728.665434551,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_033",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        111128.665434551,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_034",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        113820.8305879575,
+        85731.1826617656
+      ],
+      "entities": 13
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_035",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        122636.50028114066,
+        85731.1826617656
+      ],
+      "entities": 13
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_036",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        125328.66543455092,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_037",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        126728.66543455089,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_038",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        129228.66543455092,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_039",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        130628.6654345509,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_040",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        133128.6654345509,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_041",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        134528.6654345509,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_042",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        138078.66543455087,
+        85748.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_043",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        116186.98785108374,
+        86390.23541382083
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_044",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        120270.3430180163,
+        86390.23541382083
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_045",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        135373.86747850518,
+        89886.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_046",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        137846.4215596248,
+        89886.23856873938
+      ],
+      "entities": 9
+    },
+    {
+      "block": "ART_NOUVEAU_WINDOW_047",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        93468.1470593852,
+        75898.23856873938
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_001",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        104511.872294419,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_002",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        108478.665434551,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_003",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        112469.01284427806,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_004",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        115934.08735624565,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_005",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        120523.24351285445,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_006",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        124183.39253679145,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_007",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        127978.66543455089,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_008",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        131878.6654345509,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_009",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        135853.6654345509,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_0",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        102328.665434551,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_1",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        106378.665434551,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_2",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        110428.66543455099,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_3",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        113820.8305879575,
+        81690.0
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_4",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        122636.50028114066,
+        81690.0
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_5",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        126028.6654345509,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_6",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        129928.6654345509,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_7",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        133828.66543455087,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_81.95_8",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        137878.6654345509,
+        81690.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_0",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        102328.665434551,
+        85350.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_1",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        106378.665434551,
+        85350.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_2",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        110428.66543455099,
+        85350.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_3",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        113820.8305879575,
+        85350.0
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_4",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        122636.50028114066,
+        85350.0
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_5",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        126028.6654345509,
+        85350.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_6",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        129928.6654345509,
+        85350.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_85.65_7",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        133828.66543455087,
+        85350.0
+      ],
+      "entities": 12
+    },
+    {
+      "block": "ART_NOUVEAU_CROWN_CENTRE",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        118228.67,
+        90178.24
+      ],
+      "entities": 6
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_010",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        89920.0,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_COLUMN_011",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        97070.0,
+        75898.24
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_CROWN_GATE",
+      "kind": "crown",
+      "anchor_source_coordinates": [
+        93468.0,
+        85093.40000000001
+      ],
+      "entities": 6
+    },
+    {
+      "block": "ART_NOUVEAU_CORNER_TOWER_ROOF",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        136610.144519,
+        93423.22679
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ART_NOUVEAU_MAIN_ROOF_ENVELOPE",
+      "kind": "roof_background",
+      "anchor_source_coordinates": [
+        118230.0,
+        90178.24
+      ],
+      "entities": 2
+    },
+    {
+      "block": "ART_NOUVEAU_ROOF_DORMER_1",
+      "kind": "roof_dormer",
+      "anchor_source_coordinates": [
+        110428.665435,
+        90648.238569
+      ],
+      "entities": 2
+    },
+    {
+      "block": "ART_NOUVEAU_ROOF_DORMER_2",
+      "kind": "roof_dormer",
+      "anchor_source_coordinates": [
+        126028.66543499999,
+        90648.238569
+      ],
+      "entities": 2
+    },
+    {
+      "block": "ART_NOUVEAU_ROOF_VENT_1",
+      "kind": "roof_vent",
+      "anchor_source_coordinates": [
+        104278.66500000001,
+        89248.23999999999
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_ROOF_VENT_2",
+      "kind": "roof_vent",
+      "anchor_source_coordinates": [
+        108478.66500000001,
+        89248.23999999999
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_ROOF_VENT_3",
+      "kind": "roof_vent",
+      "anchor_source_coordinates": [
+        127978.665,
+        89248.23999999999
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_ROOF_VENT_4",
+      "kind": "roof_vent",
+      "anchor_source_coordinates": [
+        131878.665,
+        89248.23999999999
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_ORGANIC_FRIEZE",
+      "kind": "frieze",
+      "anchor_source_coordinates": [
+        0.0,
+        80550.0
+      ],
+      "entities": 36
+    }
+  ],
+  "notes": [
+    "Individual windows, columns, balcony guards, crowns and ornaments are independent new blocks. Structural linework remains separate modelspace entities.",
+    "Native coordinate scale and source opening envelopes retained; window head profiles and decorative silhouettes change for the new style.",
+    "Source unit flag is undefined (0); no physical unit is inferred.",
+    "Closed profiles and native circular/cubic curves are used. Mullions and courses meet their boundaries rather than being forced into closed shapes."
+  ]
+}
