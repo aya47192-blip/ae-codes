@@ -1,3 +1,13 @@
+# الأحدث — تصحيح الوصلات والتيجان الإسلامية V2
+
+[تحميل DWG](drawings/islamic-connected-v2/islamic_facade.dwg?raw=true) · [تحميل DXF](drawings/islamic-connected-v2/islamic_facade.dxf?raw=true) · [معاينة](drawings/islamic-connected-v2/preview.png) · [مقارنة قبل وبعد](drawings/islamic-connected-v2/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/islamic-connected-v2/islamic_package.zip?raw=true)
+
+شرافات إسلامية هندسية بدل أشرطة التيجان القديمة، وإصلاح الوصلات وتنظيف بقايا البلوكات. فحص الاتصال وجد صفر نهايات حرة داخل نطاق الواجهة؛ خطا الأرض مفتوحان خارج المبنى. [تفاصيل الفحص وحدوده](drawings/islamic-connected-v2/README_AR.md).
+
+![التصحيح](drawings/islamic-connected-v2/preview.png)
+
+---
+
 # الأحدث — الواجهة الأصلية بتفاصيل إسلامية
 
 [تحميل DWG](drawings/islamic-original-adaptation/islamic_facade.dwg?raw=true) · [تحميل DXF](drawings/islamic-original-adaptation/islamic_facade.dxf?raw=true) · [معاينة](drawings/islamic-original-adaptation/preview.png) · [قبل وبعد PDF](drawings/islamic-original-adaptation/before_after.pdf?raw=true) · [تحميل الحزمة](drawings/islamic-original-adaptation/islamic_package.zip?raw=true)

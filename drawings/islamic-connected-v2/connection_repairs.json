@@ -1,0 +1,824 @@
+{
+  "extensions": [
+    [
+      [
+        329.20386597,
+        107.8859
+      ],
+      [
+        329.20386597,
+        107.659835
+      ]
+    ],
+    [
+      [
+        333.33443654,
+        108.4359
+      ],
+      [
+        333.33443654,
+        108.351933
+      ]
+    ],
+    [
+      [
+        336.62647341,
+        93.2978462
+      ],
+      [
+        336.62647341,
+        93.2354462
+      ]
+    ],
+    [
+      [
+        338.68928164,
+        93.56701598
+      ],
+      [
+        338.79073424,
+        93.56701598
+      ]
+    ],
+    [
+      [
+        338.73233465,
+        93.46701598
+      ],
+      [
+        338.79073424,
+        93.46701598
+      ]
+    ],
+    [
+      [
+        336.83443654,
+        93.73746342
+      ],
+      [
+        336.83443654,
+        93.73701598
+      ]
+    ],
+    [
+      [
+        337.001,
+        94.33746342
+      ],
+      [
+        337.009,
+        94.33746342
+      ]
+    ],
+    [
+      [
+        337.38443654,
+        109.34038
+      ],
+      [
+        337.38443654,
+        109.2545306
+      ]
+    ],
+    [
+      [
+        338.046,
+        94.33746342
+      ],
+      [
+        338.038,
+        94.33746342
+      ]
+    ],
+    [
+      [
+        339.3,
+        92.59601598
+      ],
+      [
+        339.3180379296905,
+        92.59601598
+      ]
+    ],
+    [
+      [
+        339.08443654,
+        109.34038
+      ],
+      [
+        339.08443654,
+        109.2545306
+      ]
+    ],
+    [
+      [
+        339.40936419,
+        92.535
+      ],
+      [
+        339.40936419,
+        92.61160453784166
+      ]
+    ],
+    [
+      [
+        341.13344167,
+        109.34038
+      ],
+      [
+        341.13344167,
+        109.109247
+      ]
+    ],
+    [
+      [
+        342.6595089,
+        92.535
+      ],
+      [
+        342.6595089,
+        92.59374398451418
+      ]
+    ],
+    [
+      [
+        342.73,
+        92.59601598
+      ],
+      [
+        342.70796207030946,
+        92.59601598
+      ]
+    ],
+    [
+      [
+        342.73,
+        92.67601598
+      ],
+      [
+        342.5065261653405,
+        92.67601598
+      ]
+    ],
+    [
+      [
+        343.24425438,
+        93.46701598
+      ],
+      [
+        343.18585479,
+        93.46701598
+      ]
+    ],
+    [
+      [
+        343.28730738,
+        93.56701598
+      ],
+      [
+        343.18585479,
+        93.56701598
+      ]
+    ],
+    [
+      [
+        344.023,
+        94.33746342
+      ],
+      [
+        344.031,
+        94.33746342
+      ]
+    ],
+    [
+      [
+        344.68443654,
+        109.34038
+      ],
+      [
+        344.68443654,
+        109.2545306
+      ]
+    ],
+    [
+      [
+        345.068,
+        94.33746342
+      ],
+      [
+        345.06,
+        94.33746342
+      ]
+    ],
+    [
+      [
+        345.23443654,
+        93.73746342
+      ],
+      [
+        345.23443654,
+        93.73701598
+      ]
+    ],
+    [
+      [
+        348.73443654,
+        108.4359
+      ],
+      [
+        348.73443654,
+        108.351933
+      ]
+    ],
+    [
+      [
+        352.86258484,
+        107.8859
+      ],
+      [
+        352.86258484,
+        107.659835
+      ]
+    ]
+  ],
+  "orphan_fragments": [
+    {
+      "handle": "3E",
+      "type": "LWPOLYLINE",
+      "length": 0.05000170999998943
+    },
+    {
+      "handle": "8D",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795606135987
+    },
+    {
+      "handle": "94",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795606135987
+    },
+    {
+      "handle": "9B",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795606135987
+    },
+    {
+      "handle": "A2",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795959689347
+    },
+    {
+      "handle": "12F",
+      "type": "LWPOLYLINE",
+      "length": 1.9666621002132987
+    },
+    {
+      "handle": "16F",
+      "type": "LWPOLYLINE",
+      "length": 0.29038151000003154
+    },
+    {
+      "handle": "1B0",
+      "type": "LWPOLYLINE",
+      "length": 0.0500027700000345
+    },
+    {
+      "handle": "1F1",
+      "type": "LWPOLYLINE",
+      "length": 1.8100000000000023
+    },
+    {
+      "handle": "1F3",
+      "type": "LWPOLYLINE",
+      "length": 1.8100000000000023
+    },
+    {
+      "handle": "1F5",
+      "type": "LWPOLYLINE",
+      "length": 1.804023849999993
+    },
+    {
+      "handle": "1F7",
+      "type": "LWPOLYLINE",
+      "length": 2.668960169999991
+    },
+    {
+      "handle": "2C8",
+      "type": "LWPOLYLINE",
+      "length": 0.00242227000001094
+    },
+    {
+      "handle": "2C9",
+      "type": "LWPOLYLINE",
+      "length": 0.00242227000001094
+    },
+    {
+      "handle": "2FE",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "312",
+      "type": "LWPOLYLINE",
+      "length": 0.08058304999998711
+    },
+    {
+      "handle": "32B",
+      "type": "LWPOLYLINE",
+      "length": 1.730000008137722e-06
+    },
+    {
+      "handle": "32C",
+      "type": "LWPOLYLINE",
+      "length": 1.730000008137722e-06
+    },
+    {
+      "handle": "339",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "345",
+      "type": "LWPOLYLINE",
+      "length": 0.0037999999999982492
+    },
+    {
+      "handle": "369",
+      "type": "LWPOLYLINE",
+      "length": 0.08058304999998711
+    },
+    {
+      "handle": "378",
+      "type": "LWPOLYLINE",
+      "length": 0.0006809299999872565
+    },
+    {
+      "handle": "379",
+      "type": "LWPOLYLINE",
+      "length": 0.0006809299999872565
+    },
+    {
+      "handle": "386",
+      "type": "LWPOLYLINE",
+      "length": 0.0037999999999982492
+    },
+    {
+      "handle": "392",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "3A8",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "3AE",
+      "type": "LWPOLYLINE",
+      "length": 0.029079480000007152
+    },
+    {
+      "handle": "3AF",
+      "type": "LWPOLYLINE",
+      "length": 0.1195201099999963
+    },
+    {
+      "handle": "3B0",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "3BD",
+      "type": "LWPOLYLINE",
+      "length": 0.10829168000000777
+    },
+    {
+      "handle": "3C5",
+      "type": "LWPOLYLINE",
+      "length": 0.0529840200000109
+    },
+    {
+      "handle": "3DA",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "3E8",
+      "type": "LWPOLYLINE",
+      "length": 0.10829168000000777
+    },
+    {
+      "handle": "41B",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "420",
+      "type": "LWPOLYLINE",
+      "length": 0.01141211999998859
+    },
+    {
+      "handle": "427",
+      "type": "LWPOLYLINE",
+      "length": 0.10829168000000777
+    },
+    {
+      "handle": "42C",
+      "type": "LWPOLYLINE",
+      "length": 0.11750000000000682
+    },
+    {
+      "handle": "449",
+      "type": "LWPOLYLINE",
+      "length": 0.10829168000000777
+    },
+    {
+      "handle": "45B",
+      "type": "LWPOLYLINE",
+      "length": 0.0002970000000033224
+    },
+    {
+      "handle": "485",
+      "type": "LWPOLYLINE",
+      "length": 0.0002970000000033224
+    },
+    {
+      "handle": "4B4",
+      "type": "LWPOLYLINE",
+      "length": 0.0002970000000033224
+    },
+    {
+      "handle": "4B7",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "4D2",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "4E5",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "4F2",
+      "type": "LWPOLYLINE",
+      "length": 0.006735639999988052
+    },
+    {
+      "handle": "4F7",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "4FB",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "523",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "52E",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "541",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "550",
+      "type": "LWPOLYLINE",
+      "length": 0.0529840200000109
+    },
+    {
+      "handle": "553",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "557",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "55B",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "55E",
+      "type": "LWPOLYLINE",
+      "length": 0.10781178999999952
+    },
+    {
+      "handle": "55F",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "563",
+      "type": "LWPOLYLINE",
+      "length": 0.000479890000008254
+    },
+    {
+      "handle": "570",
+      "type": "LWPOLYLINE",
+      "length": 0.0037999999999982492
+    },
+    {
+      "handle": "58F",
+      "type": "LWPOLYLINE",
+      "length": 0.08058304999998711
+    },
+    {
+      "handle": "5A1",
+      "type": "LWPOLYLINE",
+      "length": 0.0006809300000440999
+    },
+    {
+      "handle": "5A2",
+      "type": "LWPOLYLINE",
+      "length": 0.0006809300000440999
+    },
+    {
+      "handle": "5AE",
+      "type": "LWPOLYLINE",
+      "length": 0.0037999999999982492
+    },
+    {
+      "handle": "5BC",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "5CC",
+      "type": "LWPOLYLINE",
+      "length": 1.980000035928242e-06
+    },
+    {
+      "handle": "5CE",
+      "type": "LWPOLYLINE",
+      "length": 1.980000035928242e-06
+    },
+    {
+      "handle": "5EB",
+      "type": "LWPOLYLINE",
+      "length": 0.08058304999998711
+    },
+    {
+      "handle": "5F5",
+      "type": "LWPOLYLINE",
+      "length": 0.040015979999992624
+    },
+    {
+      "handle": "5FF",
+      "type": "LWPOLYLINE",
+      "length": 0.0007408700000155477
+    },
+    {
+      "handle": "60E",
+      "type": "LWPOLYLINE",
+      "length": 0.1115697799999964
+    },
+    {
+      "handle": "612",
+      "type": "LWPOLYLINE",
+      "length": 0.057997499999999036
+    },
+    {
+      "handle": "618",
+      "type": "LWPOLYLINE",
+      "length": 0.02486994000003051
+    },
+    {
+      "handle": "61A",
+      "type": "LWPOLYLINE",
+      "length": 0.02486994000003051
+    },
+    {
+      "handle": "6FE",
+      "type": "LWPOLYLINE",
+      "length": 1.8100000000000023
+    },
+    {
+      "handle": "700",
+      "type": "LWPOLYLINE",
+      "length": 1.8100000000000023
+    },
+    {
+      "handle": "702",
+      "type": "LWPOLYLINE",
+      "length": 1.804023849999993
+    },
+    {
+      "handle": "704",
+      "type": "LWPOLYLINE",
+      "length": 2.668960169999991
+    },
+    {
+      "handle": "73A",
+      "type": "LWPOLYLINE",
+      "length": 1.9666621002132987
+    },
+    {
+      "handle": "751",
+      "type": "LWPOLYLINE",
+      "length": 0.05000252000000671
+    },
+    {
+      "handle": "782",
+      "type": "LWPOLYLINE",
+      "length": 0.2903815000000236
+    },
+    {
+      "handle": "83F",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795959689347
+    },
+    {
+      "handle": "845",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795606135987
+    },
+    {
+      "handle": "849",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795606135987
+    },
+    {
+      "handle": "84D",
+      "type": "LWPOLYLINE",
+      "length": 0.6322795606135987
+    },
+    {
+      "handle": "89B",
+      "type": "LWPOLYLINE",
+      "length": 0.05000252000000671
+    },
+    {
+      "handle": "925",
+      "type": "ARC",
+      "length": 0.2986544638827114
+    },
+    {
+      "handle": "934",
+      "type": "ARC",
+      "length": 0.29865446388271133
+    },
+    {
+      "handle": "939",
+      "type": "ARC",
+      "length": 1.2099999367346412e-06
+    },
+    {
+      "handle": "93A",
+      "type": "ARC",
+      "length": 3.900000251647737e-07
+    },
+    {
+      "handle": "93B",
+      "type": "ARC",
+      "length": 1.2099999367346412e-06
+    },
+    {
+      "handle": "93C",
+      "type": "ARC",
+      "length": 1.2099999367346412e-06
+    },
+    {
+      "handle": "93D",
+      "type": "ARC",
+      "length": 0.08102192424431705
+    },
+    {
+      "handle": "93E",
+      "type": "ARC",
+      "length": 0.08102192424431706
+    },
+    {
+      "handle": "93F",
+      "type": "ARC",
+      "length": 0.08102192424431558
+    },
+    {
+      "handle": "940",
+      "type": "ARC",
+      "length": 0.08102192424431705
+    },
+    {
+      "handle": "943",
+      "type": "ARC",
+      "length": 0.0899517456662229
+    },
+    {
+      "handle": "944",
+      "type": "ARC",
+      "length": 0.02995310607171681
+    },
+    {
+      "handle": "947",
+      "type": "ARC",
+      "length": 0.5538575712164878
+    },
+    {
+      "handle": "949",
+      "type": "ARC",
+      "length": 0.5538575662641927
+    },
+    {
+      "handle": "94A",
+      "type": "ARC",
+      "length": 0.003925650953176986
+    },
+    {
+      "handle": "3AD",
+      "type": "LWPOLYLINE",
+      "length": 0.00047988999999404314
+    },
+    {
+      "handle": "3D2",
+      "type": "LWPOLYLINE",
+      "length": 0.5057437699999809
+    },
+    {
+      "handle": "929",
+      "type": "ARC",
+      "length": 0.13893976628548
+    },
+    {
+      "handle": "938",
+      "type": "ARC",
+      "length": 0.13893976628547997
+    },
+    {
+      "handle": "948",
+      "type": "ARC",
+      "length": 0.27058190997710985
+    },
+    {
+      "handle": "928",
+      "type": "ARC",
+      "length": 0.14899700980995498
+    },
+    {
+      "handle": "935",
+      "type": "ARC",
+      "length": 0.14899701596535372
+    },
+    {
+      "handle": "927",
+      "type": "ARC",
+      "length": 0.22138554403806987
+    },
+    {
+      "handle": "936",
+      "type": "ARC",
+      "length": 0.22138554393131257
+    },
+    {
+      "handle": "926",
+      "type": "ARC",
+      "length": 0.1538186171231921
+    },
+    {
+      "handle": "937",
+      "type": "ARC",
+      "length": 0.15381861107455225
+    },
+    {
+      "handle": "97",
+      "type": "LWPOLYLINE",
+      "length": 0.04756354000002716
+    },
+    {
+      "handle": "850",
+      "type": "LWPOLYLINE",
+      "length": 0.04756353000001923
+    }
+  ],
+  "remaining_external_datum_endpoints": [
+    [
+      359.58824787,
+      89.73701598
+    ],
+    [
+      323.81953874,
+      89.73701598
+    ],
+    [
+      323.81953874,
+      90.03701598
+    ],
+    [
+      359.58824787,
+      90.03701598
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "design": "Repaired Islamic adaptation with fully replaced stepped Islamic roof crenellations",
+  "source_sha256": "72a87efff09c1bc1bd202ff484c4091f8a759a0bae9225148d09e5f408b103ba",
+  "source_entity_candidates_retained_or_locally_trimmed": 1364,
+  "replacement_components": {
+    "pointed_window_groups": 30,
+    "small_geometric_window_groups": 12,
+    "side_balconies": 8,
+    "central_balconies": 1,
+    "geometric_column_capitals": 6,
+    "Islamic_stepped_crenellation_bands": 8
+  },
+  "entity_counts": {
+    "ARC": 148,
+    "LWPOLYLINE": 3082
+  },
+  "zero_length_lines": 0,
+  "duplicate_linear_length": 5.911715561524034e-11,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "lineweight_mm": 0.25,
+  "ACI": 7,
+  "units_flag_preserved": 1,
+  "coordinate_scale": 1,
+  "window_groups": 42,
+  "pdf_raster_images": 0,
+  "limitations": [
+    "Facade styling study, not construction documentation.",
+    "Opening groups use source coordinate envelopes; the arch head and infill change within them.",
+    "Native source open linework is preserved where appropriate; not every elevation line is a closed polygon.",
+    "Physical source units are ambiguous; no rescaling performed.",
+    "Autodesk AutoCAD desktop is not installed; DWG checked by independent roundtrip instead."
+  ],
+  "connectivity": {
+    "tolerance_source_units": 1e-07,
+    "free_endpoints_before_repair": 148,
+    "axis_aligned_gaps_extended": 24,
+    "superseded_source_orphan_fragments_removed": 112,
+    "architectural_free_endpoints_after_repair": 0,
+    "open_external_site_datum_endpoints": 4
+  },
+  "restored_clean_material_course_fragments": 144,
+  "all_layers_continuous_linetype": true,
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 3230,
+    "entities_after": 3230,
+    "max_coordinate_and_curve_parameter_difference": 1.1368683772161603e-13,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  }
+}
