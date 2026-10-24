@@ -42,10 +42,10 @@
       "style": "ANDALUSIAN",
       "folder": "03_Andalusian",
       "opening_groups": 62,
-      "editable_blocks": 82,
+      "editable_blocks": 157,
       "duplicate_native_primitives": 0,
       "join_tolerance_source_units": 0.025,
-      "max_checked_join_distance_source_units": 0.000999879848677665,
+      "max_checked_join_distance_source_units": 0.0031310000049415976,
       "intentional_ground_line_endpoints": 2,
       "straight_overlap_numerical_residual_source_units": 0,
       "DWG_roundtrip_max_numeric_difference": 7.275957614183426e-12,
@@ -53,15 +53,14 @@
       "audit_fixes": 0,
       "converter_warnings": 0,
       "pdf_embedded_images": 0,
-      "native_ellipses_preserved": 86,
-      "native_splines_preserved": 20,
-      "native_arcs_preserved": 132,
       "new_unjoined_endpoints": 0,
-      "original_source_profile_termini_retained": 422,
-      "source_native_entities_verified": 1498,
+      "original_source_profile_termini_retained": 326,
+      "source_native_entities_verified": 926,
       "source_geometry_mismatches": 0,
       "source_reconstruction": false,
-      "validation_report": "03_Andalusian/geometry_check.json"
+      "validation_report": "03_Andalusian/geometry_check.json",
+      "source_ornament_entities_replaced": 572,
+      "horseshoe_surface_profiles": 68
     },
     {
       "style": "ART NOUVEAU",
@@ -83,7 +82,7 @@
   ],
   "lineweight_mm": 0.25,
   "architecture_anchor_checks": "architecture_anchor_check.json",
-  "native_blocks": 299,
+  "native_blocks": 374,
   "plants_added": 0,
   "old_ornament_blocks_reused": 0,
   "limitations": [
@@ -94,8 +93,8 @@
   "combined_DWG_validation": {
     "format": "Native DWG AutoCAD 2000 AC1015",
     "units_flag": 0,
-    "modelspace_entities": 2394,
-    "editable_blocks_verified": 299,
+    "modelspace_entities": 2279,
+    "editable_blocks_verified": 374,
     "max_numeric_coordinate_and_curve_difference": 4.3655745685100555e-11,
     "native_closed_flags_preserved": true,
     "spline_control_points_and_knots_preserved": true,
@@ -104,5 +103,5 @@
     "converter_warnings": 0,
     "lineweights_and_layers_preserved": true
   },
-  "andalusian_repair_note": "Original source native geometry retained, including exact ellipse normals; only surface alfiz and geometric friezes added. Original profile termini are retained without new invented connectors."
+  "andalusian_repair_note": "Original architecture and actual opening boundaries retained; external round mouldings and old keystones replaced by horseshoe surrounds, alfiz and sebka. Glazing divisions replaced."
 }

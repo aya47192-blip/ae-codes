@@ -1,4 +1,4 @@
-## تصحيح الواجهة الأندلسية من ملفها الأصلي
+## تحديث أندلسي: حليات حدوة الفرس وألفيز وسبكة على معمارية الأصل
 
 [تحميل الأوتوكاد المصحّح](drawings/andalusian-source-restored/andalusian.dwg) · [مقارنة الأصل والتصحيح](drawings/andalusian-source-restored/before_after.pdf) · [حزمة الأربع واجهات بعد التحديث](drawings/four-elevations-restyled/four_styles_full_package.zip) · [التفاصيل](drawings/andalusian-source-restored/README.md)
 

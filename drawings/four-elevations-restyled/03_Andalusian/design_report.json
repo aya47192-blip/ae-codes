@@ -3,11 +3,694 @@
   "source_units_flag": 0,
   "output_units_flag": 0,
   "numeric_coordinate_scale": 1,
-  "original_native_entities_retained_before_line_dedup": 1498,
+  "original_native_entities_retained_before_line_dedup": 926,
+  "source_ornamental_entities_replaced": 572,
+  "horseshoe_surface_surrounds": [
+    {
+      "component": "MOORISH_GROUND_1",
+      "centre": [
+        59546.81887011381,
+        79185.1003750064
+      ],
+      "radius": 1430,
+      "base": 75900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_1",
+      "centre": [
+        59546.81887011381,
+        79185.1003750064
+      ],
+      "radius": 1310,
+      "base": 76000.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_2",
+      "centre": [
+        63446.6128603086,
+        79185.10037500453
+      ],
+      "radius": 1430,
+      "base": 75900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_2",
+      "centre": [
+        63446.6128603086,
+        79185.10037500453
+      ],
+      "radius": 1310,
+      "base": 76000.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_3",
+      "centre": [
+        67345.44961403834,
+        79185.10037500453
+      ],
+      "radius": 1430,
+      "base": 75900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_3",
+      "centre": [
+        67345.44961403834,
+        79185.10037500453
+      ],
+      "radius": 1310,
+      "base": 76000.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_4",
+      "centre": [
+        76842.43062100874,
+        79185.10037500453
+      ],
+      "radius": 1430,
+      "base": 75900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_4",
+      "centre": [
+        76842.43062100874,
+        79185.10037500453
+      ],
+      "radius": 1310,
+      "base": 76000.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_5",
+      "centre": [
+        80741.26737473847,
+        79185.10037500453
+      ],
+      "radius": 1430,
+      "base": 75900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_5",
+      "centre": [
+        80741.26737473847,
+        79185.10037500453
+      ],
+      "radius": 1310,
+      "base": 76000.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_6",
+      "centre": [
+        84641.06136493327,
+        79185.1003750064
+      ],
+      "radius": 1430,
+      "base": 75900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_GROUND_6",
+      "centre": [
+        84641.06136493327,
+        79185.1003750064
+      ],
+      "radius": 1310,
+      "base": 76000.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_SMALL_GROUND_7",
+      "centre": [
+        70669.89000000001,
+        77742.97192996106
+      ],
+      "radius": 530,
+      "base": 76190.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_SMALL_GROUND_7",
+      "centre": [
+        70669.89000000001,
+        77742.97192996106
+      ],
+      "radius": 440,
+      "base": 76250.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_SMALL_GROUND_8",
+      "centre": [
+        72093.94,
+        77742.97
+      ],
+      "radius": 530,
+      "base": 76190.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_SMALL_GROUND_8",
+      "centre": [
+        72093.94,
+        77742.97
+      ],
+      "radius": 440,
+      "base": 76250.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_SMALL_GROUND_9",
+      "centre": [
+        73517.98999999999,
+        77742.97192996106
+      ],
+      "radius": 530,
+      "base": 76190.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_SMALL_GROUND_9",
+      "centre": [
+        73517.98999999999,
+        77742.97192996106
+      ],
+      "radius": 440,
+      "base": 76250.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_25",
+      "centre": [
+        59559.903778309934,
+        87118.6662643
+      ],
+      "radius": 1100,
+      "base": 85800.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_25",
+      "centre": [
+        59559.903778309934,
+        87118.6662643
+      ],
+      "radius": 1000,
+      "base": 85900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_26",
+      "centre": [
+        63459.69776850846,
+        87118.6662643
+      ],
+      "radius": 1100,
+      "base": 85800.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_26",
+      "centre": [
+        63459.69776850846,
+        87118.6662643
+      ],
+      "radius": 1000,
+      "base": 85900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_27",
+      "centre": [
+        67359.49175870325,
+        87118.6662643
+      ],
+      "radius": 1100,
+      "base": 85800.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_27",
+      "centre": [
+        67359.49175870325,
+        87118.6662643
+      ],
+      "radius": 1000,
+      "base": 85900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_28",
+      "centre": [
+        76828.38847634383,
+        87118.6662643
+      ],
+      "radius": 1100,
+      "base": 85800.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_28",
+      "centre": [
+        76828.38847634383,
+        87118.6662643
+      ],
+      "radius": 1000,
+      "base": 85900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_29",
+      "centre": [
+        80728.18246653861,
+        87118.6662643
+      ],
+      "radius": 1100,
+      "base": 85800.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_29",
+      "centre": [
+        80728.18246653861,
+        87118.6662643
+      ],
+      "radius": 1000,
+      "base": 85900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_30",
+      "centre": [
+        84627.97645673715,
+        87118.6662643
+      ],
+      "radius": 1100,
+      "base": 85800.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_UPPER_30",
+      "centre": [
+        84627.97645673715,
+        87118.6662643
+      ],
+      "radius": 1000,
+      "base": 85900.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_10",
+      "centre": [
+        58820.488144040566,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_10",
+      "centre": [
+        58820.488144040566,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_11",
+      "centre": [
+        60245.23365550162,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_11",
+      "centre": [
+        60245.23365550162,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_12",
+      "centre": [
+        62720.282134239096,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_12",
+      "centre": [
+        62720.282134239096,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_13",
+      "centre": [
+        64145.02764569641,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_13",
+      "centre": [
+        64145.02764569641,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_14",
+      "centre": [
+        66620.0761244339,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_14",
+      "centre": [
+        66620.0761244339,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_15",
+      "centre": [
+        68044.82163589122,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_15",
+      "centre": [
+        68044.82163589122,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_16",
+      "centre": [
+        70669.19460606622,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_16",
+      "centre": [
+        70669.19460606622,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_17",
+      "centre": [
+        72093.94,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_17",
+      "centre": [
+        72093.94,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_18",
+      "centre": [
+        73518.68562898086,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_18",
+      "centre": [
+        73518.68562898086,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_19",
+      "centre": [
+        76143.05859915586,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_19",
+      "centre": [
+        76143.05859915586,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_20",
+      "centre": [
+        77567.8041106132,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_20",
+      "centre": [
+        77567.8041106132,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_21",
+      "centre": [
+        80042.85258935066,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_21",
+      "centre": [
+        80042.85258935066,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_22",
+      "centre": [
+        81467.59810080797,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_22",
+      "centre": [
+        81467.59810080797,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_23",
+      "centre": [
+        83942.64657954546,
+        83178.796334
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_23",
+      "centre": [
+        83942.64657954546,
+        83178.796334
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_24",
+      "centre": [
+        85367.3920910065,
+        83196.123496
+      ],
+      "radius": 620,
+      "base": 81660.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_PAIRED_24",
+      "centre": [
+        85367.3920910065,
+        83196.123496
+      ],
+      "radius": 520,
+      "base": 81740.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_MAIN",
+      "centre": [
+        72093.94,
+        89600.0
+      ],
+      "radius": 1580,
+      "base": 88020.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_MAIN",
+      "centre": [
+        72093.94,
+        89600.0
+      ],
+      "radius": 1440,
+      "base": 88080.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_LIGHT_1",
+      "centre": [
+        70660.2319167,
+        93442.45999999999
+      ],
+      "radius": 550,
+      "base": 92780.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_LIGHT_1",
+      "centre": [
+        70660.2319167,
+        93442.45999999999
+      ],
+      "radius": 460,
+      "base": 92820.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_LIGHT_2",
+      "centre": [
+        72093.9401175,
+        93442.45999999999
+      ],
+      "radius": 550,
+      "base": 92780.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_LIGHT_2",
+      "centre": [
+        72093.9401175,
+        93442.45999999999
+      ],
+      "radius": 460,
+      "base": 92820.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_LIGHT_3",
+      "centre": [
+        73527.6483184,
+        93442.45999999999
+      ],
+      "radius": 550,
+      "base": 92780.0,
+      "role": "surface surround outside the preserved actual opening"
+    },
+    {
+      "component": "MOORISH_TOWER_LIGHT_3",
+      "centre": [
+        73527.6483184,
+        93442.45999999999
+      ],
+      "radius": 460,
+      "base": 92820.0,
+      "role": "surface surround outside the preserved actual opening"
+    }
+  ],
   "native_curved_entities": {
-    "ARC": 132,
+    "ARC": 124,
     "SPLINE": 20,
-    "ELLIPSE": 86
+    "ELLIPSE": 4
   },
   "identical_native_curves_removed": 0,
   "components": [
@@ -18,8 +701,8 @@
         0
       ],
       "kind": "architecture",
-      "line_count": 1639,
-      "curve_count": 108
+      "line_count": 1417,
+      "curve_count": 4
     },
     {
       "name": "ORIGINAL_OPENING_003",
@@ -28,8 +711,8 @@
         76031.55
       ],
       "kind": "opening",
-      "line_count": 68,
-      "curve_count": 4
+      "line_count": 6,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_014",
@@ -38,8 +721,8 @@
         81851.3271974338
       ],
       "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_027",
@@ -48,8 +731,8 @@
         86026.24235641526
       ],
       "kind": "opening",
-      "line_count": 34,
-      "curve_count": 4
+      "line_count": 16,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_002",
@@ -58,8 +741,8 @@
         76031.55
       ],
       "kind": "opening",
-      "line_count": 68,
-      "curve_count": 4
+      "line_count": 6,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_001",
@@ -68,8 +751,8 @@
         76031.55
       ],
       "kind": "opening",
-      "line_count": 68,
-      "curve_count": 4
+      "line_count": 6,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_013",
@@ -78,8 +761,8 @@
         81834.0
       ],
       "kind": "opening",
-      "line_count": 13,
-      "curve_count": 3
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_012",
@@ -88,8 +771,8 @@
         81851.3271974338
       ],
       "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_011",
@@ -98,18 +781,8 @@
         81834.0
       ],
       "kind": "opening",
-      "line_count": 13,
-      "curve_count": 3
-    },
-    {
-      "name": "ORIGINAL_OPENING_010",
-      "anchor": [
-        58820.488144040566,
-        81851.3271974338
-      ],
-      "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_026",
@@ -118,8 +791,8 @@
         86026.24235641526
       ],
       "kind": "opening",
-      "line_count": 34,
-      "curve_count": 4
+      "line_count": 16,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_025",
@@ -128,8 +801,8 @@
         86026.24235641526
       ],
       "kind": "opening",
-      "line_count": 34,
-      "curve_count": 4
+      "line_count": 16,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_056",
@@ -138,7 +811,7 @@
         89078.8236697031
       ],
       "kind": "opening",
-      "line_count": 18,
+      "line_count": 6,
       "curve_count": 2
     },
     {
@@ -212,6 +885,16 @@
       "curve_count": 0
     },
     {
+      "name": "ORIGINAL_OPENING_010",
+      "anchor": [
+        58820.488144040566,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 7,
+      "curve_count": 1
+    },
+    {
       "name": "ORIGINAL_OPENING_039",
       "anchor": [
         62378.045,
@@ -258,28 +941,8 @@
         85418.70805144252
       ],
       "kind": "opening",
-      "line_count": 6,
+      "line_count": 7,
       "curve_count": 0
-    },
-    {
-      "name": "ORIGINAL_OPENING_018",
-      "anchor": [
-        73518.68562898086,
-        81851.3271974338
-      ],
-      "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
-    },
-    {
-      "name": "ORIGINAL_OPENING_017",
-      "anchor": [
-        72093.94,
-        81834.0
-      ],
-      "kind": "opening",
-      "line_count": 16,
-      "curve_count": 4
     },
     {
       "name": "ORIGINAL_OPENING_061",
@@ -302,73 +965,13 @@
       "curve_count": 4
     },
     {
-      "name": "ORIGINAL_OPENING_008",
-      "anchor": [
-        72093.94,
-        76343.95000000001
-      ],
-      "kind": "opening",
-      "line_count": 16,
-      "curve_count": 4
-    },
-    {
-      "name": "ORIGINAL_OPENING_009",
-      "anchor": [
-        73517.98999999999,
-        76343.95000000001
-      ],
-      "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
-    },
-    {
-      "name": "ORIGINAL_OPENING_020",
-      "anchor": [
-        77567.8041106132,
-        81851.3271974338
-      ],
-      "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
-    },
-    {
-      "name": "ORIGINAL_OPENING_019",
-      "anchor": [
-        76143.05859915586,
-        81834.0
-      ],
-      "kind": "opening",
-      "line_count": 13,
-      "curve_count": 3
-    },
-    {
-      "name": "ORIGINAL_OPENING_004",
-      "anchor": [
-        76842.43062100874,
-        76031.55
-      ],
-      "kind": "opening",
-      "line_count": 68,
-      "curve_count": 4
-    },
-    {
-      "name": "ORIGINAL_OPENING_028",
-      "anchor": [
-        76828.38847634383,
-        86026.24235641526
-      ],
-      "kind": "opening",
-      "line_count": 34,
-      "curve_count": 4
-    },
-    {
       "name": "ORIGINAL_OPENING_058",
       "anchor": [
         76833.71054148347,
         89078.8236697031
       ],
       "kind": "opening",
-      "line_count": 18,
+      "line_count": 6,
       "curve_count": 2
     },
     {
@@ -378,8 +981,8 @@
         92930.892
       ],
       "kind": "opening",
-      "line_count": 16,
-      "curve_count": 4
+      "line_count": 4,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_053",
@@ -388,88 +991,78 @@
         92930.892
       ],
       "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 6,
+      "curve_count": 1
     },
     {
-      "name": "ORIGINAL_OPENING_024",
+      "name": "ORIGINAL_OPENING_028",
       "anchor": [
-        85367.3920910065,
-        81851.3271974338
-      ],
-      "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
-    },
-    {
-      "name": "ORIGINAL_OPENING_023",
-      "anchor": [
-        83942.64657954546,
-        81834.0
-      ],
-      "kind": "opening",
-      "line_count": 13,
-      "curve_count": 3
-    },
-    {
-      "name": "ORIGINAL_OPENING_022",
-      "anchor": [
-        81467.59810080797,
-        81851.3271974338
-      ],
-      "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
-    },
-    {
-      "name": "ORIGINAL_OPENING_021",
-      "anchor": [
-        80042.85258935066,
-        81834.0
-      ],
-      "kind": "opening",
-      "line_count": 13,
-      "curve_count": 3
-    },
-    {
-      "name": "ORIGINAL_OPENING_005",
-      "anchor": [
-        80741.26737473847,
-        76031.55
-      ],
-      "kind": "opening",
-      "line_count": 68,
-      "curve_count": 4
-    },
-    {
-      "name": "ORIGINAL_OPENING_006",
-      "anchor": [
-        84641.06136493327,
-        76031.55
-      ],
-      "kind": "opening",
-      "line_count": 68,
-      "curve_count": 4
-    },
-    {
-      "name": "ORIGINAL_OPENING_029",
-      "anchor": [
-        80728.18246653861,
+        76828.38847634383,
         86026.24235641526
       ],
       "kind": "opening",
-      "line_count": 34,
-      "curve_count": 4
+      "line_count": 16,
+      "curve_count": 2
     },
     {
-      "name": "ORIGINAL_OPENING_030",
+      "name": "ORIGINAL_OPENING_019",
       "anchor": [
-        84627.97645673715,
-        86026.24235641526
+        76143.05859915586,
+        81834.0
       ],
       "kind": "opening",
-      "line_count": 34,
-      "curve_count": 4
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
+      "name": "ORIGINAL_OPENING_018",
+      "anchor": [
+        73518.68562898086,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
+      "name": "ORIGINAL_OPENING_017",
+      "anchor": [
+        72093.94,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_009",
+      "anchor": [
+        73517.98999999999,
+        76343.95000000001
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
+      "name": "ORIGINAL_OPENING_008",
+      "anchor": [
+        72093.94,
+        76343.95000000001
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_004",
+      "anchor": [
+        76842.43062100874,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 6,
+      "curve_count": 2
     },
     {
       "name": "ORIGINAL_OPENING_040",
@@ -518,8 +1111,28 @@
         89078.8236697031
       ],
       "kind": "opening",
-      "line_count": 18,
+      "line_count": 6,
       "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_030",
+      "anchor": [
+        84627.97645673715,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 16,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_024",
+      "anchor": [
+        85367.3920910065,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 7,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_045",
@@ -572,14 +1185,84 @@
       "curve_count": 0
     },
     {
+      "name": "ORIGINAL_OPENING_029",
+      "anchor": [
+        80728.18246653861,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 16,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_023",
+      "anchor": [
+        83942.64657954546,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
+      "name": "ORIGINAL_OPENING_022",
+      "anchor": [
+        81467.59810080797,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
+      "name": "ORIGINAL_OPENING_021",
+      "anchor": [
+        80042.85258935066,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
+      "name": "ORIGINAL_OPENING_006",
+      "anchor": [
+        84641.06136493327,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_005",
+      "anchor": [
+        80741.26737473847,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_020",
+      "anchor": [
+        77567.8041106132,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 1
+    },
+    {
       "name": "ORIGINAL_OPENING_007",
       "anchor": [
         70669.89000000001,
         76343.95000000001
       ],
       "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_016",
@@ -588,8 +1271,8 @@
         81851.3271974338
       ],
       "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_015",
@@ -598,8 +1281,8 @@
         81834.0
       ],
       "kind": "opening",
-      "line_count": 13,
-      "curve_count": 3
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_057",
@@ -608,7 +1291,7 @@
         89078.8236697031
       ],
       "kind": "opening",
-      "line_count": 18,
+      "line_count": 6,
       "curve_count": 2
     },
     {
@@ -618,8 +1301,8 @@
         92930.892
       ],
       "kind": "opening",
-      "line_count": 12,
-      "curve_count": 2
+      "line_count": 4,
+      "curve_count": 1
     },
     {
       "name": "ORIGINAL_OPENING_054",
@@ -642,13 +1325,353 @@
       "curve_count": 4
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_1",
+      "name": "MOORISH_GROUND_1",
+      "anchor": [
+        59546.81887011381,
+        76031.55
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 10,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_GROUND_2",
+      "anchor": [
+        63446.6128603086,
+        76031.55
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 10,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_GROUND_3",
+      "anchor": [
+        67345.44961403834,
+        76031.55
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 10,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_GROUND_4",
+      "anchor": [
+        76842.43062100874,
+        76031.55
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 10,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_GROUND_5",
+      "anchor": [
+        80741.26737473847,
+        76031.55
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 10,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_GROUND_6",
+      "anchor": [
+        84641.06136493327,
+        76031.55
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 10,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_SMALL_GROUND_7",
+      "anchor": [
+        70669.89000000001,
+        76343.95000000001
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_SMALL_GROUND_8",
+      "anchor": [
+        72093.94,
+        76343.95000000001
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_SMALL_GROUND_9",
+      "anchor": [
+        73517.98999999999,
+        76343.95000000001
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_UPPER_25",
+      "anchor": [
+        59559.903778309934,
+        86026.24235641526
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 8,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_UPPER_26",
+      "anchor": [
+        63459.69776850846,
+        86026.24235641526
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 8,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_UPPER_27",
+      "anchor": [
+        67359.49175870325,
+        86026.24235641526
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 8,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_UPPER_28",
+      "anchor": [
+        76828.38847634383,
+        86026.24235641526
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 8,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_UPPER_29",
+      "anchor": [
+        80728.18246653861,
+        86026.24235641526
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 8,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_UPPER_30",
+      "anchor": [
+        84627.97645673715,
+        86026.24235641526
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 8,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_10",
+      "anchor": [
+        58820.488144040566,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_11",
+      "anchor": [
+        60245.23365550162,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_12",
+      "anchor": [
+        62720.282134239096,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_13",
+      "anchor": [
+        64145.02764569641,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_14",
+      "anchor": [
+        66620.0761244339,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_15",
+      "anchor": [
+        68044.82163589122,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_16",
+      "anchor": [
+        70669.19460606622,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_17",
+      "anchor": [
+        72093.94,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_18",
+      "anchor": [
+        73518.68562898086,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_19",
+      "anchor": [
+        76143.05859915586,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_20",
+      "anchor": [
+        77567.8041106132,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_21",
+      "anchor": [
+        80042.85258935066,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_22",
+      "anchor": [
+        81467.59810080797,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_23",
+      "anchor": [
+        83942.64657954546,
+        81834.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_PAIRED_24",
+      "anchor": [
+        85367.3920910065,
+        81851.3271974338
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_TOWER_MAIN",
+      "anchor": [
+        72093.94,
+        88020.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 35,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_TOWER_LIGHT_1",
+      "anchor": [
+        70660.2319167,
+        92780.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_TOWER_LIGHT_2",
+      "anchor": [
+        72093.9401175,
+        92780.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "MOORISH_TOWER_LIGHT_3",
+      "anchor": [
+        73527.6483184,
+        92780.0
+      ],
+      "kind": "horseshoe_surround",
+      "line_count": 6,
+      "curve_count": 2
+    },
+    {
+      "name": "SEBKA_FRIEZE_BAY_1",
       "anchor": [
         59551.849500000004,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 41,
+      "line_count": 64,
       "curve_count": 0
     },
     {
@@ -662,13 +1685,13 @@
       "curve_count": 0
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_2",
+      "name": "SEBKA_FRIEZE_BAY_2",
       "anchor": [
         63451.643500000006,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 41,
+      "line_count": 64,
       "curve_count": 0
     },
     {
@@ -682,13 +1705,13 @@
       "curve_count": 0
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_3",
+      "name": "SEBKA_FRIEZE_BAY_3",
       "anchor": [
         67350.9585,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 41,
+      "line_count": 64,
       "curve_count": 0
     },
     {
@@ -702,23 +1725,23 @@
       "curve_count": 0
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_4",
+      "name": "SEBKA_FRIEZE_BAY_4",
       "anchor": [
         72093.94,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 58,
+      "line_count": 76,
       "curve_count": 0
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_5",
+      "name": "SEBKA_FRIEZE_BAY_5",
       "anchor": [
         76836.9215,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 41,
+      "line_count": 64,
       "curve_count": 0
     },
     {
@@ -732,13 +1755,13 @@
       "curve_count": 0
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_6",
+      "name": "SEBKA_FRIEZE_BAY_6",
       "anchor": [
         80736.23700000001,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 41,
+      "line_count": 64,
       "curve_count": 0
     },
     {
@@ -752,13 +1775,13 @@
       "curve_count": 0
     },
     {
-      "name": "ANDALUSIAN_FRIEZE_BAY_7",
+      "name": "SEBKA_FRIEZE_BAY_7",
       "anchor": [
         84636.031,
-        84750.0
+        84820.0
       ],
       "kind": "frieze",
-      "line_count": 41,
+      "line_count": 64,
       "curve_count": 0
     },
     {
@@ -778,7 +1801,7 @@
         85770.0
       ],
       "kind": "alfiz",
-      "line_count": 40,
+      "line_count": 8,
       "curve_count": 0
     },
     {
@@ -788,7 +1811,7 @@
         85770.0
       ],
       "kind": "alfiz",
-      "line_count": 40,
+      "line_count": 8,
       "curve_count": 0
     },
     {
@@ -798,7 +1821,7 @@
         85770.0
       ],
       "kind": "alfiz",
-      "line_count": 44,
+      "line_count": 12,
       "curve_count": 0
     },
     {
@@ -808,7 +1831,7 @@
         85770.0
       ],
       "kind": "alfiz",
-      "line_count": 44,
+      "line_count": 12,
       "curve_count": 0
     },
     {
@@ -818,7 +1841,7 @@
         85770.0
       ],
       "kind": "alfiz",
-      "line_count": 40,
+      "line_count": 8,
       "curve_count": 0
     },
     {
@@ -828,29 +1851,436 @@
         85770.0
       ],
       "kind": "alfiz",
-      "line_count": 40,
+      "line_count": 8,
       "curve_count": 0
     },
     {
-      "name": "TOWER_ANDALUSIAN_PANEL",
+      "name": "PAVILION_GIRIH_1",
+      "anchor": [
+        60400.0,
+        90500.0
+      ],
+      "kind": "frieze",
+      "line_count": 108,
+      "curve_count": 0
+    },
+    {
+      "name": "PAVILION_GIRIH_2",
+      "anchor": [
+        83770.0,
+        90500.0
+      ],
+      "kind": "frieze",
+      "line_count": 108,
+      "curve_count": 0
+    },
+    {
+      "name": "TOWER_SEBKA_PANEL",
       "anchor": [
         72093.94,
         91420.0
       ],
       "kind": "panel",
-      "line_count": 58,
+      "line_count": 76,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_1",
+      "anchor": [
+        59546.81887011463,
+        76031.55323426367
+      ],
+      "kind": "glazing",
+      "line_count": 11,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_2",
+      "anchor": [
+        63446.612860309426,
+        76031.55323426181
+      ],
+      "kind": "glazing",
+      "line_count": 11,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_3",
+      "anchor": [
+        67345.44961403916,
+        76031.55323426181
+      ],
+      "kind": "glazing",
+      "line_count": 11,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_4",
+      "anchor": [
+        76842.43062100792,
+        76031.55323426181
+      ],
+      "kind": "glazing",
+      "line_count": 11,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_5",
+      "anchor": [
+        80741.26737473765,
+        76031.55323426181
+      ],
+      "kind": "glazing",
+      "line_count": 11,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_6",
+      "anchor": [
+        84641.06136493245,
+        76031.55323426367
+      ],
+      "kind": "glazing",
+      "line_count": 11,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_7",
+      "anchor": [
+        70669.89134115214,
+        76343.95149316208
+      ],
+      "kind": "glazing",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_8",
+      "anchor": [
+        72093.94011752354,
+        76343.95149316394
+      ],
+      "kind": "glazing",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_9",
+      "anchor": [
+        73517.98889389494,
+        76343.95149316208
+      ],
+      "kind": "glazing",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_10",
+      "anchor": [
+        58820.488144042436,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_11",
+      "anchor": [
+        60245.233655503485,
+        81834.00003525743
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_12",
+      "anchor": [
+        62720.28213424096,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_13",
+      "anchor": [
+        64145.02764569828,
+        81834.00003525743
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_14",
+      "anchor": [
+        66620.07612443576,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_15",
+      "anchor": [
+        68044.82163589308,
+        81834.00003525743
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_16",
+      "anchor": [
+        70669.19460606808,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_17",
+      "anchor": [
+        72093.94011752354,
+        81834.00003525929
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_18",
+      "anchor": [
+        73518.685628979,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_19",
+      "anchor": [
+        76143.058599154,
+        81834.00003525743
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_20",
+      "anchor": [
+        77567.80411061132,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_21",
+      "anchor": [
+        80042.8525893488,
+        81834.00003525743
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_22",
+      "anchor": [
+        81467.59810080612,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_23",
+      "anchor": [
+        83942.6465795436,
+        81834.00003525743
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_24",
+      "anchor": [
+        85367.39209100464,
+        81851.3271974338
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_25",
+      "anchor": [
+        59559.90377831133,
+        86026.24235641526
+      ],
+      "kind": "glazing",
+      "line_count": 10,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_26",
+      "anchor": [
+        63459.69776850985,
+        86026.24235641526
+      ],
+      "kind": "glazing",
+      "line_count": 10,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_27",
+      "anchor": [
+        67359.49175870465,
+        86026.24235641526
+      ],
+      "kind": "glazing",
+      "line_count": 10,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_28",
+      "anchor": [
+        76828.38847634243,
+        86026.24235641526
+      ],
+      "kind": "glazing",
+      "line_count": 10,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_29",
+      "anchor": [
+        80728.18246653723,
+        86026.24235641526
+      ],
+      "kind": "glazing",
+      "line_count": 10,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_30",
+      "anchor": [
+        84627.97645673575,
+        86026.24235641526
+      ],
+      "kind": "glazing",
+      "line_count": 10,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_49",
+      "anchor": [
+        72093.94011752354,
+        85418.70805144252
+      ],
+      "kind": "glazing",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_50",
+      "anchor": [
+        72093.94011752354,
+        88336.85432502383
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_51",
+      "anchor": [
+        70660.23191667022,
+        92930.89248732605
+      ],
+      "kind": "glazing",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_52",
+      "anchor": [
+        72093.94011752354,
+        92930.89248732605
+      ],
+      "kind": "glazing",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_53",
+      "anchor": [
+        73527.64831837686,
+        92930.89248732605
+      ],
+      "kind": "glazing",
+      "line_count": 4,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_56",
+      "anchor": [
+        63454.3757033688,
+        89078.8236697031
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_57",
+      "anchor": [
+        67354.1696935636,
+        89078.8236697031
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_58",
+      "anchor": [
+        76833.71054148348,
+        89078.8236697031
+      ],
+      "kind": "glazing",
+      "line_count": 8,
+      "curve_count": 0
+    },
+    {
+      "name": "GLAZING_59",
+      "anchor": [
+        80733.50453167828,
+        89078.8236697031
+      ],
+      "kind": "glazing",
+      "line_count": 8,
       "curve_count": 0
     }
   ],
   "rough_openings_reconstructed": 0,
-  "glazing_patterns_replaced": 0,
+  "glazing_patterns_replaced": 39,
   "architectural_mass_reconstructed": false,
-  "original_ellipses_and_splines_preserved": true,
+  "actual_glass_heads_and_jambs_locked": 102,
   "notes": [
-    "All original building linework is carried forward; only redundant strokes and a shared external ground extension are cleaned.",
-    "New alfiz and geometric friezes are surface details, outside the original openings and within existing blank bands."
-  ],
-  "opening_groups": 62,
-  "source_original_insert": "A$C55165132",
-  "native_blocks": 82
+    "Source structural planes and actual opening boundaries are carried forward; only explicitly classified nonstructural mouldings and their connectors are replaced.",
+    "Round external mouldings and old keystones are replaced by double horseshoe surrounds, alfiz and interlaced sebka friezes, while all rough opening positions and dimensions remain unchanged."
+  ]
 }

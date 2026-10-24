@@ -1,0 +1,5898 @@
+{
+  "source_units_flag": 0,
+  "output_units_flag": 0,
+  "numeric_coordinate_scale": 1,
+  "source_entities_verified": 926,
+  "source_curve_samples_checked": 13164,
+  "source_geometry_max_distance": 0.0012493623507907614,
+  "source_geometry_mismatches": [],
+  "retained_layers": {
+    "source": 926
+  },
+  "join_tolerance_source_units": 0.025,
+  "max_valid_join_distance": 0.0031310000049415976,
+  "unjoined_endpoints": [
+    {
+      "entity": 0,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        57222.425701,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 69,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        58605.757013,
+        78773.442269
+      ],
+      "nearest": 282.8378846754362
+    },
+    {
+      "entity": 71,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        58605.757013,
+        78920.895118
+      ],
+      "nearest": 332.55216127819585
+    },
+    {
+      "entity": 97,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        60487.880727,
+        78773.442269
+      ],
+      "nearest": 282.83788488403144
+    },
+    {
+      "entity": 98,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        60487.880727,
+        78920.895118
+      ],
+      "nearest": 332.55216149734383
+    },
+    {
+      "entity": 106,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        78777.59191
+      ],
+      "nearest": 97.92411100000028
+    },
+    {
+      "entity": 108,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        78925.044759
+      ],
+      "nearest": 97.92411100000027
+    },
+    {
+      "entity": 109,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 111,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 112,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 114,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 115,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 117,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 118,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 120,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 121,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 123,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 124,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 126,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 133,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 134,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 136,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 137,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 139,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 140,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 142,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 143,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 145,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 148,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        62505.551003,
+        78773.442269
+      ],
+      "nearest": 282.8378844976716
+    },
+    {
+      "entity": 152,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 153,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 159,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 160,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 162,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 163,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 165,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 166,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 168,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 169,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 171,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 172,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 174,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 175,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        78777.59191
+      ],
+      "nearest": 101.57868299999973
+    },
+    {
+      "entity": 176,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        62505.551003,
+        78920.895118
+      ],
+      "nearest": 332.55216109115844
+    },
+    {
+      "entity": 177,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 179,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 180,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 182,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 183,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 185,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 186,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 188,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 189,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 191,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 192,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 194,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 195,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        62814.660601,
+        90428.121862
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 200,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64387.674717,
+        78773.442269
+      ],
+      "nearest": 282.83788506328705
+    },
+    {
+      "entity": 201,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64387.674717,
+        78920.895118
+      ],
+      "nearest": 332.55216168538817
+    },
+    {
+      "entity": 202,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        78773.907533
+      ],
+      "nearest": 97.92412100000365
+    },
+    {
+      "entity": 204,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        78921.360382
+      ],
+      "nearest": 97.92412100000365
+    },
+    {
+      "entity": 205,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 207,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 208,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 210,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 211,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 213,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 214,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 216,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 217,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 219,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 220,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 222,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 229,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 230,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 232,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 233,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 235,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 236,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 238,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 239,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 241,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 244,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        66404.387757,
+        78773.442269
+      ],
+      "nearest": 282.83788474534447
+    },
+    {
+      "entity": 248,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 249,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 251,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 252,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 254,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 255,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 257,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 258,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 260,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 261,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 263,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 264,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 266,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 267,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        78773.907533
+      ],
+      "nearest": 101.57867300001091
+    },
+    {
+      "entity": 268,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        66404.387757,
+        78920.895118
+      ],
+      "nearest": 332.55216135135987
+    },
+    {
+      "entity": 269,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        78921.360382
+      ],
+      "nearest": 101.5786730000109
+    },
+    {
+      "entity": 270,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 272,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 273,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 275,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 276,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 278,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 279,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 281,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 282,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 284,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 285,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 287,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 290,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68286.511471,
+        78773.442269
+      ],
+      "nearest": 282.8378848156097
+    },
+    {
+      "entity": 291,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68286.511471,
+        78920.895118
+      ],
+      "nearest": 332.55216142517975
+    },
+    {
+      "entity": 292,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68618.433217,
+        83103.51443
+      ],
+      "nearest": 41.46924373613846
+    },
+    {
+      "entity": 293,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68755.235812,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 322,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68920.850435,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 334,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68921.807672,
+        83103.51443
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 336,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68921.807672,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 365,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68920.850435,
+        94548.422308
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 369,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68920.850435,
+        95260.451509
+      ],
+      "nearest": 1.7402839999995194
+    },
+    {
+      "entity": 374,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69830.185922,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 423,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70080.973968,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 423,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69835.152262,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 424,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69839.756424,
+        89628.196264
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 424,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70719.522295,
+        89628.196264
+      ],
+      "nearest": 65.29185832955118
+    },
+    {
+      "entity": 425,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69839.756424,
+        89934.704822
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 425,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70363.211941,
+        89934.704822
+      ],
+      "nearest": 163.2119410000014
+    },
+    {
+      "entity": 426,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69943.377816,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 426,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69839.756424,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 444,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70301.366272,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 462,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        71514.682169,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 462,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        71239.489865,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 463,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        71649.274456,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 468,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72077.294787,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 470,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72077.861845,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 471,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72110.01839,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 473,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72110.585448,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 475,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72538.60578,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 479,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72673.198066,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 479,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72948.39037,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 493,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74348.123811,
+        89628.196264
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 493,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        73468.35794,
+        89628.196264
+      ],
+      "nearest": 65.29162337853056
+    },
+    {
+      "entity": 494,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74348.123811,
+        89934.704822
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 494,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        73824.668294,
+        89934.704822
+      ],
+      "nearest": 165.3317059999972
+    },
+    {
+      "entity": 495,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        73886.513963,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 499,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74106.906267,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 499,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74352.727973,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 501,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74244.502419,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 501,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74348.123811,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 527,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74357.694313,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 573,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75267.0298,
+        95260.451509
+      ],
+      "nearest": 1.7402839999995194
+    },
+    {
+      "entity": 576,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75266.072563,
+        83103.51443
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 577,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75266.072563,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 578,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75267.0298,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 592,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75569.447018,
+        83103.51443
+      ],
+      "nearest": 41.46924368947506
+    },
+    {
+      "entity": 594,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75432.644423,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 620,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        81373.219634,
+        90428.121862
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 625,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75267.0298,
+        94548.422308
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 630,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75901.368764,
+        78773.442269
+      ],
+      "nearest": 282.83788477246907
+    },
+    {
+      "entity": 632,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75901.368764,
+        78920.895118
+      ],
+      "nearest": 332.55216137985667
+    },
+    {
+      "entity": 651,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        77783.492478,
+        78773.442269
+      ],
+      "nearest": 282.83788478848516
+    },
+    {
+      "entity": 652,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        77783.492478,
+        78920.895118
+      ],
+      "nearest": 332.55216139668295
+    },
+    {
+      "entity": 653,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        78773.907533
+      ],
+      "nearest": 101.57843799999682
+    },
+    {
+      "entity": 655,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        78921.360382
+      ],
+      "nearest": 101.57843799999682
+    },
+    {
+      "entity": 656,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 658,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 659,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 661,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 662,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 664,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 665,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 667,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 668,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 670,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 671,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 673,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 674,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 676,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 677,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 679,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 680,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 682,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 689,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 690,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 692,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 693,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 695,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 696,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 698,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 701,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79800.205518,
+        78773.442269
+      ],
+      "nearest": 282.83788502015085
+    },
+    {
+      "entity": 705,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 706,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 708,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 709,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 710,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79469.241008,
+        83103.51443
+      ],
+      "nearest": 41.46924349637364
+    },
+    {
+      "entity": 712,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79332.438413,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 715,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 716,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 718,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 719,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 721,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 722,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        78773.907533
+      ],
+      "nearest": 97.92335599999933
+    },
+    {
+      "entity": 723,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79800.205518,
+        78920.895118
+      ],
+      "nearest": 332.55216164006856
+    },
+    {
+      "entity": 724,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        78921.360382
+      ],
+      "nearest": 97.92335599999933
+    },
+    {
+      "entity": 725,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 727,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 728,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 730,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 731,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 733,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 734,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 736,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 737,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 739,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 740,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 742,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 749,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        81682.329232,
+        78773.442269
+      ],
+      "nearest": 282.8378845408033
+    },
+    {
+      "entity": 750,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        81682.329232,
+        78920.895118
+      ],
+      "nearest": 332.552161136471
+    },
+    {
+      "entity": 751,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        78777.59191
+      ],
+      "nearest": 101.57844800000021
+    },
+    {
+      "entity": 753,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 755,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 756,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 758,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 759,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 761,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 762,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 764,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 765,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 767,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 768,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 770,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 771,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 773,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 774,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 776,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 777,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 779,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 786,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 787,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 793,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 794,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 796,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 797,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 799,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 802,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83699.999508,
+        78773.442269
+      ],
+      "nearest": 282.83788484088194
+    },
+    {
+      "entity": 806,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 807,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 809,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 810,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 811,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83369.034998,
+        83103.51443
+      ],
+      "nearest": 41.46924330328665
+    },
+    {
+      "entity": 813,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83232.232403,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 816,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 817,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 819,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 820,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 822,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 823,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        78777.59191
+      ],
+      "nearest": 97.92334700000356
+    },
+    {
+      "entity": 824,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83699.999508,
+        78920.895118
+      ],
+      "nearest": 332.5521614520102
+    },
+    {
+      "entity": 825,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        78925.044759
+      ],
+      "nearest": 97.92334700000356
+    },
+    {
+      "entity": 826,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 828,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 829,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 831,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 832,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 834,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 835,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 837,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 838,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 840,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 841,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 843,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 856,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        85582.123222,
+        78773.442269
+      ],
+      "nearest": 282.8378847185813
+    },
+    {
+      "entity": 857,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        85582.123222,
+        78920.895118
+      ],
+      "nearest": 332.55216132352245
+    },
+    {
+      "entity": 910,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        86965.454534,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 931,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67359.49175839832,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 932,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67359.49175805094,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 936,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        66606.614295,
+        87001.127085
+      ],
+      "nearest": 238.00148967341042
+    },
+    {
+      "entity": 937,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        66606.642273,
+        87051.127077
+      ],
+      "nearest": 244.1259363793123
+    },
+    {
+      "entity": 945,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        68112.313266,
+        87000.284543
+      ],
+      "nearest": 237.92645005557085
+    },
+    {
+      "entity": 947,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        68112.341244,
+        87050.284535
+      ],
+      "nearest": 244.05091146883606
+    },
+    {
+      "entity": 948,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67370.72547391696,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504417087
+    },
+    {
+      "entity": 949,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67370.72547394347,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 952,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63460.655004321205,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 953,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63460.65500466859,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690159
+    },
+    {
+      "entity": 956,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59560.86101412641,
+        80092.61224467414
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 957,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59560.86101447379,
+        80096.97321885111
+      ],
+      "nearest": 398.01841846901607
+    },
+    {
+      "entity": 967,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        62706.820304,
+        87001.127085
+      ],
+      "nearest": 238.00148887788552
+    },
+    {
+      "entity": 968,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        62706.848283,
+        87051.127077
+      ],
+      "nearest": 244.12593657333016
+    },
+    {
+      "entity": 976,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        64212.519276,
+        87000.284543
+      ],
+      "nearest": 237.92644986310884
+    },
+    {
+      "entity": 978,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        64212.547254,
+        87050.284535
+      ],
+      "nearest": 244.05091127485494
+    },
+    {
+      "entity": 979,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63470.93148374868,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 980,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63470.93148372216,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504416942
+    },
+    {
+      "entity": 981,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        58807.026314,
+        87001.127085
+      ],
+      "nearest": 238.0014890740208
+    },
+    {
+      "entity": 982,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        58807.054293,
+        87051.127077
+      ],
+      "nearest": 244.12593677107049
+    },
+    {
+      "entity": 990,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        60312.725286,
+        87000.284543
+      ],
+      "nearest": 237.9264496669736
+    },
+    {
+      "entity": 992,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        60312.753264,
+        87050.284535
+      ],
+      "nearest": 244.05091107717132
+    },
+    {
+      "entity": 993,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59571.13749355016,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 994,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59571.13749352364,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504416942
+    },
+    {
+      "entity": 1017,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59148.13184,
+        83285.829641
+      ],
+      "nearest": 180.2965533863371
+    },
+    {
+      "entity": 1017,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        58492.844448,
+        83285.829641
+      ],
+      "nearest": 180.2965533080907
+    },
+    {
+      "entity": 1059,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76075.538991,
+        87050.284535
+      ],
+      "nearest": 244.05091142194553
+    },
+    {
+      "entity": 1060,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76075.566969,
+        87000.284543
+      ],
+      "nearest": 237.926450009062
+    },
+    {
+      "entity": 1067,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        77581.265941,
+        87001.127085
+      ],
+      "nearest": 238.00148873194684
+    },
+    {
+      "entity": 1069,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        77581.237962,
+        87051.127077
+      ],
+      "nearest": 244.12593642620178
+    },
+    {
+      "entity": 1071,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76817.15476110361,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 1072,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76817.15476113012,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504417087
+    },
+    {
+      "entity": 1092,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76828.38847699614,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 1093,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76828.38847664876,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 1108,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        83875.126971,
+        87050.284535
+      ],
+      "nearest": 244.0509110303024
+    },
+    {
+      "entity": 1109,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        83875.154949,
+        87000.284543
+      ],
+      "nearest": 237.92644962047189
+    },
+    {
+      "entity": 1116,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85380.853921,
+        87001.127085
+      ],
+      "nearest": 238.0014891205369
+    },
+    {
+      "entity": 1118,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85380.825942,
+        87051.127077
+      ],
+      "nearest": 244.1259368179718
+    },
+    {
+      "entity": 1120,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84616.74274152344,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504417087
+    },
+    {
+      "entity": 1121,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84616.74274149693,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 1122,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85039.748395,
+        83285.829641
+      ],
+      "nearest": 180.29655334093314
+    },
+    {
+      "entity": 1122,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85695.035787,
+        83285.829641
+      ],
+      "nearest": 180.29655335348062
+    },
+    {
+      "entity": 1138,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        79975.332981,
+        87050.284535
+      ],
+      "nearest": 244.0509112279932
+    },
+    {
+      "entity": 1139,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        79975.360959,
+        87000.284543
+      ],
+      "nearest": 237.9264498166144
+    },
+    {
+      "entity": 1146,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        81481.059931,
+        87001.127085
+      ],
+      "nearest": 238.00148892439444
+    },
+    {
+      "entity": 1148,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        81481.031952,
+        87051.127077
+      ],
+      "nearest": 244.12593662020979
+    },
+    {
+      "entity": 1150,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80716.94875132492,
+        87846.16508557364
+      ],
+      "nearest": 272.41325044170895
+    },
+    {
+      "entity": 1151,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80716.9487512984,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 1163,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84627.01922057329,
+        80096.97321885111
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 1164,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84627.01922092067,
+        80092.61224467414
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 1167,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80727.22523037849,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 1168,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80727.22523072588,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    }
+  ],
+  "intentional_ground_extensions": [],
+  "duplicate_native_primitives": [],
+  "zero_length_entities": [],
+  "straight_overlap_length_numerical_residual": 0,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "editable_components": 157,
+  "lineweight_mm": 0.25,
+  "stroke_color": "ACI7 black on white",
+  "no_plants": true,
+  "original_profile_endpoints_retained": [
+    {
+      "entity": 0,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        57222.425701,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 69,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        58605.757013,
+        78773.442269
+      ],
+      "nearest": 282.8378846754362
+    },
+    {
+      "entity": 71,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        58605.757013,
+        78920.895118
+      ],
+      "nearest": 332.55216127819585
+    },
+    {
+      "entity": 97,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        60487.880727,
+        78773.442269
+      ],
+      "nearest": 282.83788488403144
+    },
+    {
+      "entity": 98,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        60487.880727,
+        78920.895118
+      ],
+      "nearest": 332.55216149734383
+    },
+    {
+      "entity": 106,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        78777.59191
+      ],
+      "nearest": 97.92411100000028
+    },
+    {
+      "entity": 108,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        78925.044759
+      ],
+      "nearest": 97.92411100000027
+    },
+    {
+      "entity": 109,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 111,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 112,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 114,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 115,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 117,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 118,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 120,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 121,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 123,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 124,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 126,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61024.295889,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 133,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 134,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 136,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 137,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 139,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 140,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 142,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 143,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 145,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61122.219692,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 148,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        62505.551003,
+        78773.442269
+      ],
+      "nearest": 282.8378844976716
+    },
+    {
+      "entity": 152,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 153,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 159,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 160,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 162,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 163,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 165,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61881.27345,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 166,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 168,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 169,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 171,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 172,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 174,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61884.92788,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 175,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        78777.59191
+      ],
+      "nearest": 101.57868299999973
+    },
+    {
+      "entity": 176,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        62505.551003,
+        78920.895118
+      ],
+      "nearest": 332.55216109115844
+    },
+    {
+      "entity": 177,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 179,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 180,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 182,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 183,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 185,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 186,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 188,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 189,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 191,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 192,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 194,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        61982.851683,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 195,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        62814.660601,
+        90428.121862
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 200,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64387.674717,
+        78773.442269
+      ],
+      "nearest": 282.83788506328705
+    },
+    {
+      "entity": 201,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64387.674717,
+        78920.895118
+      ],
+      "nearest": 332.55216168538817
+    },
+    {
+      "entity": 202,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        78773.907533
+      ],
+      "nearest": 97.92412100000365
+    },
+    {
+      "entity": 204,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        78921.360382
+      ],
+      "nearest": 97.92412100000365
+    },
+    {
+      "entity": 205,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 207,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 208,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 210,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 211,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 213,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 214,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 216,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 217,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 219,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 220,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 222,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        64924.089879,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 229,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 230,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 232,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 233,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 235,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 236,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 238,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 239,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 241,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65022.013682,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 244,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        66404.387757,
+        78773.442269
+      ],
+      "nearest": 282.83788474534447
+    },
+    {
+      "entity": 248,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 249,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 251,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 252,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 254,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 255,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 257,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65781.06744,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 258,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 260,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 261,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 263,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 264,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 266,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65784.72187,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 267,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        78773.907533
+      ],
+      "nearest": 101.57867300001091
+    },
+    {
+      "entity": 268,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        66404.387757,
+        78920.895118
+      ],
+      "nearest": 332.55216135135987
+    },
+    {
+      "entity": 269,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        78921.360382
+      ],
+      "nearest": 101.5786730000109
+    },
+    {
+      "entity": 270,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 272,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 273,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 275,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 276,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 278,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 279,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 281,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 282,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 284,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 285,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 287,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        65882.645673,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 290,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68286.511471,
+        78773.442269
+      ],
+      "nearest": 282.8378848156097
+    },
+    {
+      "entity": 291,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68286.511471,
+        78920.895118
+      ],
+      "nearest": 332.55216142517975
+    },
+    {
+      "entity": 292,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68618.433217,
+        83103.51443
+      ],
+      "nearest": 41.46924373613846
+    },
+    {
+      "entity": 293,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68755.235812,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 322,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68920.850435,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 334,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68921.807672,
+        83103.51443
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 336,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68921.807672,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 365,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68920.850435,
+        94548.422308
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 369,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        68920.850435,
+        95260.451509
+      ],
+      "nearest": 1.7402839999995194
+    },
+    {
+      "entity": 374,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69830.185922,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 423,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70080.973968,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 423,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69835.152262,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 424,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69839.756424,
+        89628.196264
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 424,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70719.522295,
+        89628.196264
+      ],
+      "nearest": 65.29185832955118
+    },
+    {
+      "entity": 425,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69839.756424,
+        89934.704822
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 425,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70363.211941,
+        89934.704822
+      ],
+      "nearest": 163.2119410000014
+    },
+    {
+      "entity": 426,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69943.377816,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 426,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        69839.756424,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 444,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        70301.366272,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 462,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        71514.682169,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 462,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        71239.489865,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 463,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        71649.274456,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 468,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72077.294787,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 470,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72077.861845,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 471,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72110.01839,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 473,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72110.585448,
+        102847.606849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 475,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72538.60578,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 479,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72673.198066,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 479,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        72948.39037,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 493,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74348.123811,
+        89628.196264
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 493,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        73468.35794,
+        89628.196264
+      ],
+      "nearest": 65.29162337853056
+    },
+    {
+      "entity": 494,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74348.123811,
+        89934.704822
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 494,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        73824.668294,
+        89934.704822
+      ],
+      "nearest": 165.3317059999972
+    },
+    {
+      "entity": 495,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        73886.513963,
+        79217.716163
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 499,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74106.906267,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 499,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74352.727973,
+        93513.73156
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 501,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74244.502419,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 501,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74348.123811,
+        93778.429994
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 527,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        74357.694313,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 573,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75267.0298,
+        95260.451509
+      ],
+      "nearest": 1.7402839999995194
+    },
+    {
+      "entity": 576,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75266.072563,
+        83103.51443
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 577,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75266.072563,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 578,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75267.0298,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 592,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75569.447018,
+        83103.51443
+      ],
+      "nearest": 41.46924368947506
+    },
+    {
+      "entity": 594,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75432.644423,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 620,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        81373.219634,
+        90428.121862
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 625,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75267.0298,
+        94548.422308
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 630,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75901.368764,
+        78773.442269
+      ],
+      "nearest": 282.83788477246907
+    },
+    {
+      "entity": 632,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        75901.368764,
+        78920.895118
+      ],
+      "nearest": 332.55216137985667
+    },
+    {
+      "entity": 651,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        77783.492478,
+        78773.442269
+      ],
+      "nearest": 282.83788478848516
+    },
+    {
+      "entity": 652,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        77783.492478,
+        78920.895118
+      ],
+      "nearest": 332.55216139668295
+    },
+    {
+      "entity": 653,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        78773.907533
+      ],
+      "nearest": 101.57843799999682
+    },
+    {
+      "entity": 655,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        78921.360382
+      ],
+      "nearest": 101.57843799999682
+    },
+    {
+      "entity": 656,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 658,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 659,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 661,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 662,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 664,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 665,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 667,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 668,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 670,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 671,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 673,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78305.234562,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 674,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 676,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 677,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 679,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 680,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 682,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78403.158365,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 689,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 690,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 692,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 693,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 695,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 696,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 698,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        78406.812795,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 701,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79800.205518,
+        78773.442269
+      ],
+      "nearest": 282.83788502015085
+    },
+    {
+      "entity": 705,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 706,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 708,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 709,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 710,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79469.241008,
+        83103.51443
+      ],
+      "nearest": 41.46924349637364
+    },
+    {
+      "entity": 712,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79332.438413,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 715,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 716,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 718,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 719,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 721,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79165.866553,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 722,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        78773.907533
+      ],
+      "nearest": 97.92335599999933
+    },
+    {
+      "entity": 723,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79800.205518,
+        78920.895118
+      ],
+      "nearest": 332.55216164006856
+    },
+    {
+      "entity": 724,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        78921.360382
+      ],
+      "nearest": 97.92335599999933
+    },
+    {
+      "entity": 725,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        80871.673124
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 727,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        81019.125973
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 728,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        81461.484686
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 730,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        81608.937535
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 731,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84215.865424
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 733,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84373.124211
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 734,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84562.278473
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 736,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        84746.361162
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 737,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85310.031525
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 739,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85467.290313
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 740,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85656.444574
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 742,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        79263.790356,
+        85840.527263
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 749,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        81682.329232,
+        78773.442269
+      ],
+      "nearest": 282.8378845408033
+    },
+    {
+      "entity": 750,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        81682.329232,
+        78920.895118
+      ],
+      "nearest": 332.552161136471
+    },
+    {
+      "entity": 751,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        78777.59191
+      ],
+      "nearest": 101.57844800000021
+    },
+    {
+      "entity": 753,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 755,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 756,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 758,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 759,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 761,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 762,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 764,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 765,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 767,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 768,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 770,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82205.028552,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 771,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 773,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 774,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 776,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 777,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 779,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82302.952355,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 786,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 787,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 793,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 794,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 796,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 797,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 799,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        82306.606785,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 802,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83699.999508,
+        78773.442269
+      ],
+      "nearest": 282.83788484088194
+    },
+    {
+      "entity": 806,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 807,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 809,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 810,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 811,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83369.034998,
+        83103.51443
+      ],
+      "nearest": 41.46924330328665
+    },
+    {
+      "entity": 813,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83232.232403,
+        83357.918352
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 816,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 817,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 819,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 820,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 822,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83065.660544,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 823,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        78777.59191
+      ],
+      "nearest": 97.92334700000356
+    },
+    {
+      "entity": 824,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83699.999508,
+        78920.895118
+      ],
+      "nearest": 332.5521614520102
+    },
+    {
+      "entity": 825,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        78925.044759
+      ],
+      "nearest": 97.92334700000356
+    },
+    {
+      "entity": 826,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        80875.3575
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 828,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        81022.810349
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 829,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        81465.169062
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 831,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        81612.621912
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 832,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84219.5498
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 834,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84376.808588
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 835,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84565.962849
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 837,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        84750.045538
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 838,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85313.715901
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 840,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85470.974689
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 841,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85660.12895
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 843,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        83163.584347,
+        85844.211639
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 856,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        85582.123222,
+        78773.442269
+      ],
+      "nearest": 282.8378847185813
+    },
+    {
+      "entity": 857,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        85582.123222,
+        78920.895118
+      ],
+      "nearest": 332.55216132352245
+    },
+    {
+      "entity": 910,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        86965.454534,
+        75731.553234
+      ],
+      "nearest": null
+    },
+    {
+      "entity": 931,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67359.49175839832,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 932,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67359.49175805094,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 936,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        66606.614295,
+        87001.127085
+      ],
+      "nearest": 238.00148967341042
+    },
+    {
+      "entity": 937,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        66606.642273,
+        87051.127077
+      ],
+      "nearest": 244.1259363793123
+    },
+    {
+      "entity": 945,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        68112.313266,
+        87000.284543
+      ],
+      "nearest": 237.92645005557085
+    },
+    {
+      "entity": 947,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        68112.341244,
+        87050.284535
+      ],
+      "nearest": 244.05091146883606
+    },
+    {
+      "entity": 948,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67370.72547391696,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504417087
+    },
+    {
+      "entity": 949,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        67370.72547394347,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 952,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63460.655004321205,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 953,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63460.65500466859,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690159
+    },
+    {
+      "entity": 956,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59560.86101412641,
+        80092.61224467414
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 957,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59560.86101447379,
+        80096.97321885111
+      ],
+      "nearest": 398.01841846901607
+    },
+    {
+      "entity": 967,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        62706.820304,
+        87001.127085
+      ],
+      "nearest": 238.00148887788552
+    },
+    {
+      "entity": 968,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        62706.848283,
+        87051.127077
+      ],
+      "nearest": 244.12593657333016
+    },
+    {
+      "entity": 976,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        64212.519276,
+        87000.284543
+      ],
+      "nearest": 237.92644986310884
+    },
+    {
+      "entity": 978,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        64212.547254,
+        87050.284535
+      ],
+      "nearest": 244.05091127485494
+    },
+    {
+      "entity": 979,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63470.93148374868,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 980,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        63470.93148372216,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504416942
+    },
+    {
+      "entity": 981,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        58807.026314,
+        87001.127085
+      ],
+      "nearest": 238.0014890740208
+    },
+    {
+      "entity": 982,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        58807.054293,
+        87051.127077
+      ],
+      "nearest": 244.12593677107049
+    },
+    {
+      "entity": 990,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        60312.725286,
+        87000.284543
+      ],
+      "nearest": 237.9264496669736
+    },
+    {
+      "entity": 992,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        60312.753264,
+        87050.284535
+      ],
+      "nearest": 244.05091107717132
+    },
+    {
+      "entity": 993,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59571.13749355016,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 994,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59571.13749352364,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504416942
+    },
+    {
+      "entity": 1017,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        59148.13184,
+        83285.829641
+      ],
+      "nearest": 180.2965533863371
+    },
+    {
+      "entity": 1017,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        58492.844448,
+        83285.829641
+      ],
+      "nearest": 180.2965533080907
+    },
+    {
+      "entity": 1059,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76075.538991,
+        87050.284535
+      ],
+      "nearest": 244.05091142194553
+    },
+    {
+      "entity": 1060,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76075.566969,
+        87000.284543
+      ],
+      "nearest": 237.926450009062
+    },
+    {
+      "entity": 1067,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        77581.265941,
+        87001.127085
+      ],
+      "nearest": 238.00148873194684
+    },
+    {
+      "entity": 1069,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        77581.237962,
+        87051.127077
+      ],
+      "nearest": 244.12593642620178
+    },
+    {
+      "entity": 1071,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76817.15476110361,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 1072,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76817.15476113012,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504417087
+    },
+    {
+      "entity": 1092,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76828.38847699614,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 1093,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        76828.38847664876,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 1108,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        83875.126971,
+        87050.284535
+      ],
+      "nearest": 244.0509110303024
+    },
+    {
+      "entity": 1109,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        83875.154949,
+        87000.284543
+      ],
+      "nearest": 237.92644962047189
+    },
+    {
+      "entity": 1116,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85380.853921,
+        87001.127085
+      ],
+      "nearest": 238.0014891205369
+    },
+    {
+      "entity": 1118,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85380.825942,
+        87051.127077
+      ],
+      "nearest": 244.1259368179718
+    },
+    {
+      "entity": 1120,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84616.74274152344,
+        87846.16508557364
+      ],
+      "nearest": 272.4132504417087
+    },
+    {
+      "entity": 1121,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84616.74274149693,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 1122,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85039.748395,
+        83285.829641
+      ],
+      "nearest": 180.29655334093314
+    },
+    {
+      "entity": 1122,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        85695.035787,
+        83285.829641
+      ],
+      "nearest": 180.29655335348062
+    },
+    {
+      "entity": 1138,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        79975.332981,
+        87050.284535
+      ],
+      "nearest": 244.0509112279932
+    },
+    {
+      "entity": 1139,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        79975.360959,
+        87000.284543
+      ],
+      "nearest": 237.9264498166144
+    },
+    {
+      "entity": 1146,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        81481.059931,
+        87001.127085
+      ],
+      "nearest": 238.00148892439444
+    },
+    {
+      "entity": 1148,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        81481.031952,
+        87051.127077
+      ],
+      "nearest": 244.12593662020979
+    },
+    {
+      "entity": 1150,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80716.94875132492,
+        87846.16508557364
+      ],
+      "nearest": 272.41325044170895
+    },
+    {
+      "entity": 1151,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80716.9487512984,
+        87842.67630457341
+      ],
+      "nearest": 3.488781000225572
+    },
+    {
+      "entity": 1163,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84627.01922057329,
+        80096.97321885111
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 1164,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        84627.01922092067,
+        80092.61224467414
+      ],
+      "nearest": 4.360974176976029
+    },
+    {
+      "entity": 1167,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80727.22523037849,
+        80096.97321884925
+      ],
+      "nearest": 398.0184184690161
+    },
+    {
+      "entity": 1168,
+      "layer": "02_SOURCE_OPENINGS",
+      "point": [
+        80727.22523072588,
+        80092.61224467227
+      ],
+      "nearest": 4.360974176976029
+    }
+  ],
+  "new_unjoined_endpoints": [],
+  "open_endpoint_note": "Original profile termini are preserved without inventing connections across separate source building planes."
+}

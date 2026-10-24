@@ -11,36 +11,6 @@
       "component": "ORIGINAL_OPENING_003"
     },
     {
-      "handle": "31",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "32",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "33",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "34",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "35",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "36",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
       "handle": "37",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -53,16 +23,6 @@
     {
       "handle": "39",
       "type": "SPLINE",
-      "component": "ORIGINAL_OPENING_014"
-    },
-    {
-      "handle": "3A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_014"
-    },
-    {
-      "handle": "3B",
-      "type": "LINE",
       "component": "ORIGINAL_OPENING_014"
     },
     {
@@ -91,21 +51,6 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "41",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "42",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "43",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "44",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -123,41 +68,6 @@
     {
       "handle": "47",
       "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "48",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "49",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "4A",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "4B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_014"
-    },
-    {
-      "handle": "4C",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_014"
-    },
-    {
-      "handle": "4D",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "4E",
-      "type": "ELLIPSE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
@@ -251,106 +161,6 @@
       "component": "ORIGINAL_OPENING_002"
     },
     {
-      "handle": "61",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "62",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "63",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "64",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "65",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "66",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "67",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "68",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "69",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "6A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "6B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "6C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "6D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "6E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "6F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "70",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "71",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "72",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "73",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "74",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
       "handle": "75",
       "type": "ARC",
       "component": "ORIGINAL_OPENING_001"
@@ -396,43 +206,8 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "7E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "7F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "80",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "81",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "82",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
       "handle": "83",
       "type": "SPLINE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "84",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "85",
-      "type": "LINE",
       "component": "ORIGINAL_OPENING_013"
     },
     {
@@ -446,16 +221,6 @@
       "component": "ORIGINAL_OPENING_012"
     },
     {
-      "handle": "88",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_012"
-    },
-    {
-      "handle": "89",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_012"
-    },
-    {
       "handle": "8A",
       "type": "LWPOLYLINE",
       "component": "ORIGINAL_OPENING_012"
@@ -466,37 +231,12 @@
       "component": "ORIGINAL_OPENING_011"
     },
     {
-      "handle": "8C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "8D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
       "handle": "8E",
       "type": "LWPOLYLINE",
       "component": "ORIGINAL_OPENING_011"
     },
     {
-      "handle": "8F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_010"
-    },
-    {
-      "handle": "90",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_010"
-    },
-    {
       "handle": "91",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "92",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_026"
     },
@@ -526,26 +266,6 @@
       "component": "ORIGINAL_OPENING_026"
     },
     {
-      "handle": "98",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "99",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "9A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "9B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
       "handle": "9C",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_025"
@@ -564,16 +284,6 @@
       "handle": "9F",
       "type": "ARC",
       "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "A0",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_056"
-    },
-    {
-      "handle": "A1",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_056"
     },
     {
       "handle": "A2",
@@ -697,11 +407,6 @@
     },
     {
       "handle": "BA",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "BB",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_025"
     },
@@ -886,191 +591,6 @@
       "component": "ORIGINAL_OPENING_039"
     },
     {
-      "handle": "E0",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "E1",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "E2",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "E3",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "E4",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "E5",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "E6",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "E7",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "E8",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "E9",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "EA",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "EB",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "EC",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "ED",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "EE",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "EF",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "F0",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_025"
-    },
-    {
-      "handle": "F1",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "F2",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "F3",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "F4",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "F5",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "F6",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "F7",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "F8",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "F9",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "FA",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "FB",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "FC",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "FD",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "FE",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "FF",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "100",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "101",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_026"
-    },
-    {
-      "handle": "102",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "103",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "104",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "105",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -1232,451 +752,6 @@
     },
     {
       "handle": "125",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "126",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "127",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_001"
-    },
-    {
-      "handle": "128",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "129",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "12A",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "12B",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "12C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "12D",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "12E",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "12F",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "130",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "131",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "132",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "133",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "134",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "135",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_002"
-    },
-    {
-      "handle": "136",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "137",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "138",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "139",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "13A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "13B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "13C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "13D",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "13E",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "13F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "140",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "141",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "142",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "143",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "144",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "145",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_014"
-    },
-    {
-      "handle": "146",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "147",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "148",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "149",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "14A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "14B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "14C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "14D",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "14E",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "14F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "150",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "151",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "152",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "153",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "154",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "155",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_013"
-    },
-    {
-      "handle": "156",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "157",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "158",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "159",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "15A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_012"
-    },
-    {
-      "handle": "15B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_012"
-    },
-    {
-      "handle": "15C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_012"
-    },
-    {
-      "handle": "15D",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_012"
-    },
-    {
-      "handle": "15E",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "15F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "160",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "161",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "162",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "163",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "164",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "165",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "166",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "167",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "168",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "169",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "16A",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "16B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "16C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "16D",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "16E",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "16F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "170",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "171",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_011"
-    },
-    {
-      "handle": "172",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "173",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "174",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "175",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "176",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_010"
-    },
-    {
-      "handle": "177",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "178",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "179",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "17A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "17B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "17C",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "17D",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "17E",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
@@ -2061,18 +1136,8 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "1CB",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "1CC",
       "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1CD",
-      "type": "ELLIPSE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
@@ -2134,106 +1199,6 @@
       "handle": "1D9",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_050"
-    },
-    {
-      "handle": "1DA",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_050"
-    },
-    {
-      "handle": "1DB",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1DC",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1DD",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1DE",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1DF",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1E0",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1E1",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1E2",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1E3",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_018"
-    },
-    {
-      "handle": "1E4",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_018"
-    },
-    {
-      "handle": "1E5",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_018"
-    },
-    {
-      "handle": "1E6",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_018"
-    },
-    {
-      "handle": "1E7",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1E8",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1E9",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1EA",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "1EB",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "1EC",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "1ED",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
     },
     {
       "handle": "1EE",
@@ -2329,36 +1294,6 @@
       "handle": "200",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "201",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "202",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "203",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "204",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_009"
-    },
-    {
-      "handle": "205",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_009"
-    },
-    {
-      "handle": "206",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_009"
     },
     {
       "handle": "207",
@@ -2621,139 +1556,14 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "23B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "23C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "23D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_020"
-    },
-    {
-      "handle": "23E",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "23F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "240",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "241",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "242",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
-      "handle": "243",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
-      "handle": "244",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
       "handle": "245",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "246",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "247",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "248",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "249",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "24A",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
-      "handle": "24B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
-      "handle": "24C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
       "handle": "24D",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "24E",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "24F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "250",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "251",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "252",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "253",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "254",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "255",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_004"
     },
     {
       "handle": "256",
@@ -2764,61 +1574,6 @@
       "handle": "257",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "258",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_028"
-    },
-    {
-      "handle": "259",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "25A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "25B",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "25C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "25D",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "25E",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "25F",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "260",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_028"
-    },
-    {
-      "handle": "261",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_028"
-    },
-    {
-      "handle": "262",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_028"
     },
     {
       "handle": "263",
@@ -2926,62 +1681,7 @@
       "component": "ORIGINAL_OPENING_055"
     },
     {
-      "handle": "278",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "279",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "27A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "27B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "27C",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "27D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "27E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "27F",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "280",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "281",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "282",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_053"
-    },
-    {
-      "handle": "283",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
@@ -2989,21 +1689,6 @@
       "handle": "284",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "285",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_053"
-    },
-    {
-      "handle": "286",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_053"
-    },
-    {
-      "handle": "287",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_053"
     },
     {
       "handle": "288",
@@ -3054,26 +1739,6 @@
       "handle": "291",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "292",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_053"
-    },
-    {
-      "handle": "293",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_053"
-    },
-    {
-      "handle": "294",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "295",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
     },
     {
       "handle": "296",
@@ -3146,26 +1811,6 @@
       "component": "ORIGINAL_OPENING_058"
     },
     {
-      "handle": "2A4",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_058"
-    },
-    {
-      "handle": "2A5",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_058"
-    },
-    {
-      "handle": "2A6",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_028"
-    },
-    {
-      "handle": "2A7",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_028"
-    },
-    {
       "handle": "2A8",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_028"
@@ -3186,11 +1831,6 @@
       "component": "ORIGINAL_OPENING_028"
     },
     {
-      "handle": "2AC",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_028"
-    },
-    {
       "handle": "2AD",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_028"
@@ -3198,16 +1838,6 @@
     {
       "handle": "2AE",
       "type": "LWPOLYLINE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
-      "handle": "2AF",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_019"
-    },
-    {
-      "handle": "2B0",
-      "type": "LINE",
       "component": "ORIGINAL_OPENING_019"
     },
     {
@@ -3221,16 +1851,6 @@
       "component": "ORIGINAL_OPENING_018"
     },
     {
-      "handle": "2B3",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_018"
-    },
-    {
-      "handle": "2B4",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_018"
-    },
-    {
       "handle": "2B5",
       "type": "SPLINE",
       "component": "ORIGINAL_OPENING_018"
@@ -3241,24 +1861,9 @@
       "component": "ORIGINAL_OPENING_017"
     },
     {
-      "handle": "2B7",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "2B8",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
       "handle": "2B9",
       "type": "SPLINE",
       "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "2BA",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_009"
     },
     {
       "handle": "2BB",
@@ -3281,16 +1886,6 @@
       "component": "ORIGINAL_OPENING_009"
     },
     {
-      "handle": "2BF",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_009"
-    },
-    {
-      "handle": "2C0",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_009"
-    },
-    {
       "handle": "2C1",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_008"
@@ -3301,44 +1896,9 @@
       "component": "ORIGINAL_OPENING_008"
     },
     {
-      "handle": "2C3",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "2C4",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
       "handle": "2C5",
       "type": "ARC",
       "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "2C6",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "2C7",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "2C8",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "2C9",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "2CA",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
     },
     {
       "handle": "2CB",
@@ -4086,124 +2646,9 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "360",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "361",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "362",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "363",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "364",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "365",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "366",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "367",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "368",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_024"
-    },
-    {
-      "handle": "369",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "36A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "36B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "36C",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "36D",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
-      "handle": "36E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
-      "handle": "36F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
       "handle": "370",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "371",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "372",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "373",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "374",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "375",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
-      "handle": "376",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
-      "handle": "377",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_023"
     },
     {
       "handle": "378",
@@ -4211,324 +2656,14 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "379",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "37A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "37B",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "37C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "37D",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "37E",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "37F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "380",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "381",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_022"
-    },
-    {
-      "handle": "382",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_022"
-    },
-    {
-      "handle": "383",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_022"
-    },
-    {
-      "handle": "384",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_022"
-    },
-    {
-      "handle": "385",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "386",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "387",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "388",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "389",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
-      "handle": "38A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
-      "handle": "38B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
       "handle": "38C",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "38D",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "38E",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "38F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "390",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "391",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
-      "handle": "392",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
-      "handle": "393",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
       "handle": "394",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "395",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "396",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "397",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "398",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "399",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_020"
-    },
-    {
-      "handle": "39A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "39B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "39C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "39D",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "39E",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "39F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A0",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A1",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A2",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A3",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A4",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A5",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A6",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A7",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A8",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3A9",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "3AA",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "3AB",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3AC",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3AD",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3AE",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3AF",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B0",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B1",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B2",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B3",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B4",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B5",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B6",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3B7",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "3B8",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_006"
     },
     {
       "handle": "3B9",
@@ -4694,191 +2829,6 @@
       "handle": "3D9",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3DA",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3DB",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3DC",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3DD",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
-      "handle": "3DE",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3DF",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E0",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E1",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E2",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E3",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E4",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E5",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E6",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E7",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E8",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3E9",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3EA",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
-      "handle": "3EB",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
-      "handle": "3EC",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
-      "handle": "3ED",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
-      "handle": "3EE",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "3EF",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F0",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F1",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F2",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F3",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F4",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F5",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F6",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F7",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F8",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3F9",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3FA",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "3FB",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "3FC",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "3FD",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "3FE",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_030"
     },
     {
       "handle": "3FF",
@@ -5061,11 +3011,6 @@
       "component": "ORIGINAL_OPENING_030"
     },
     {
-      "handle": "423",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
       "handle": "424",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_030"
@@ -5191,16 +3136,6 @@
       "component": "ORIGINAL_OPENING_059"
     },
     {
-      "handle": "43D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_059"
-    },
-    {
-      "handle": "43E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_059"
-    },
-    {
       "handle": "43F",
       "type": "ARC",
       "component": "ORIGINAL_OPENING_030"
@@ -5219,26 +3154,6 @@
       "handle": "442",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "443",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "444",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_030"
-    },
-    {
-      "handle": "445",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
-      "handle": "446",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_029"
     },
     {
       "handle": "447",
@@ -5266,38 +3181,13 @@
       "component": "ORIGINAL_OPENING_029"
     },
     {
-      "handle": "44C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_029"
-    },
-    {
       "handle": "44D",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_029"
     },
     {
-      "handle": "44E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_024"
-    },
-    {
-      "handle": "44F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_024"
-    },
-    {
       "handle": "450",
       "type": "LWPOLYLINE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
-      "handle": "451",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_023"
-    },
-    {
-      "handle": "452",
-      "type": "LINE",
       "component": "ORIGINAL_OPENING_023"
     },
     {
@@ -5311,16 +3201,6 @@
       "component": "ORIGINAL_OPENING_022"
     },
     {
-      "handle": "455",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_022"
-    },
-    {
-      "handle": "456",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_022"
-    },
-    {
       "handle": "457",
       "type": "SPLINE",
       "component": "ORIGINAL_OPENING_022"
@@ -5331,44 +3211,9 @@
       "component": "ORIGINAL_OPENING_021"
     },
     {
-      "handle": "459",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
-      "handle": "45A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_021"
-    },
-    {
       "handle": "45B",
       "type": "SPLINE",
       "component": "ORIGINAL_OPENING_021"
-    },
-    {
-      "handle": "45C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "45D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "45E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "45F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "460",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
     },
     {
       "handle": "461",
@@ -5414,106 +3259,6 @@
       "handle": "469",
       "type": "ARC",
       "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "46A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "46B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "46C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "46D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "46E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "46F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "470",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "471",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "472",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "473",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_006"
-    },
-    {
-      "handle": "474",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "475",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "476",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "477",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "478",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "479",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "47A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "47B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "47C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
-    },
-    {
-      "handle": "47D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_005"
     },
     {
       "handle": "47E",
@@ -5606,41 +3351,6 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "490",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "491",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "492",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_020"
-    },
-    {
-      "handle": "493",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_020"
-    },
-    {
-      "handle": "494",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "495",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "496",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
       "handle": "497",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -5659,21 +3369,6 @@
       "handle": "49A",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "49B",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "49C",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "49D",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_028"
     },
     {
       "handle": "49E",
@@ -5696,16 +3391,6 @@
       "component": "ORIGINAL_OPENING_020"
     },
     {
-      "handle": "4A2",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_020"
-    },
-    {
-      "handle": "4A3",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_020"
-    },
-    {
       "handle": "4A4",
       "type": "SPLINE",
       "component": "ORIGINAL_OPENING_020"
@@ -5719,36 +3404,6 @@
       "handle": "4A6",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "4A7",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "4A8",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "4A9",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "4AA",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "4AB",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
-    },
-    {
-      "handle": "4AC",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_004"
     },
     {
       "handle": "4AD",
@@ -6171,43 +3826,8 @@
       "component": "ORIGINAL_OPENING_003"
     },
     {
-      "handle": "501",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "502",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "503",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "504",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "505",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
       "handle": "506",
       "type": "ARC",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "507",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "508",
-      "type": "LINE",
       "component": "ORIGINAL_OPENING_008"
     },
     {
@@ -6219,16 +3839,6 @@
       "handle": "50A",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "50B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_007"
-    },
-    {
-      "handle": "50C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_007"
     },
     {
       "handle": "50D",
@@ -6251,23 +3861,8 @@
       "component": "ORIGINAL_OPENING_007"
     },
     {
-      "handle": "511",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_007"
-    },
-    {
       "handle": "512",
       "type": "SPLINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "513",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "514",
-      "type": "LINE",
       "component": "ORIGINAL_OPENING_017"
     },
     {
@@ -6281,16 +3876,6 @@
       "component": "ORIGINAL_OPENING_016"
     },
     {
-      "handle": "517",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_016"
-    },
-    {
-      "handle": "518",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_016"
-    },
-    {
       "handle": "519",
       "type": "LWPOLYLINE",
       "component": "ORIGINAL_OPENING_016"
@@ -6301,27 +3886,12 @@
       "component": "ORIGINAL_OPENING_015"
     },
     {
-      "handle": "51B",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "51C",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
       "handle": "51D",
       "type": "LWPOLYLINE",
       "component": "ORIGINAL_OPENING_015"
     },
     {
       "handle": "51E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "51F",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_027"
     },
@@ -6344,26 +3914,6 @@
       "handle": "523",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "524",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "525",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "526",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_057"
-    },
-    {
-      "handle": "527",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_057"
     },
     {
       "handle": "528",
@@ -6436,26 +3986,6 @@
       "component": "ORIGINAL_OPENING_052"
     },
     {
-      "handle": "536",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "537",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "538",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_051"
-    },
-    {
-      "handle": "539",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_051"
-    },
-    {
       "handle": "53A",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -6506,83 +4036,13 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "544",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_051"
-    },
-    {
-      "handle": "545",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_051"
-    },
-    {
-      "handle": "546",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_051"
-    },
-    {
       "handle": "547",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "548",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "549",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_051"
-    },
-    {
-      "handle": "54A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "54B",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "54C",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "54D",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "54E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
-      "handle": "54F",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_052"
-    },
-    {
       "handle": "550",
       "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "551",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "552",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "553",
-      "type": "ELLIPSE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
@@ -6691,61 +4151,6 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "569",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "56A",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "56B",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
-      "handle": "56C",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "56D",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "56E",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "56F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "570",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "571",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "572",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "573",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_027"
-    },
-    {
       "handle": "574",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -6756,137 +4161,12 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "576",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_003"
-    },
-    {
-      "handle": "577",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "578",
-      "type": "LWPOLYLINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "579",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "57A",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "57B",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "57C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "57D",
-      "type": "ARC",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "57E",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "57F",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "580",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "581",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "582",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "583",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "584",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "585",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "586",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "587",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "588",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "589",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_015"
-    },
-    {
-      "handle": "58A",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "58B",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "58C",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "58D",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "58E",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_014"
-    },
-    {
-      "handle": "58F",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "590",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
     },
@@ -7151,36 +4431,6 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "5C5",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_007"
-    },
-    {
-      "handle": "5C6",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_007"
-    },
-    {
-      "handle": "5C7",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_007"
-    },
-    {
-      "handle": "5C8",
-      "type": "ARC",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "5C9",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
-      "handle": "5CA",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_008"
-    },
-    {
       "handle": "5CB",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
@@ -7276,106 +4526,6 @@
       "component": "SOURCE_ARCHITECTURE"
     },
     {
-      "handle": "5DE",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "5DF",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "5E0",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_017"
-    },
-    {
-      "handle": "5E1",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5E2",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5E3",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5E4",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5E5",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_016"
-    },
-    {
-      "handle": "5E6",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_016"
-    },
-    {
-      "handle": "5E7",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_016"
-    },
-    {
-      "handle": "5E8",
-      "type": "ELLIPSE",
-      "component": "ORIGINAL_OPENING_016"
-    },
-    {
-      "handle": "5E9",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5EA",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5EB",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5EC",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5ED",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5EE",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5EF",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5F0",
-      "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "5F1",
-      "type": "LINE",
-      "component": "ORIGINAL_OPENING_050"
-    },
-    {
       "handle": "5F2",
       "type": "LINE",
       "component": "ORIGINAL_OPENING_050"
@@ -7436,18 +4586,8 @@
       "component": "ORIGINAL_OPENING_050"
     },
     {
-      "handle": "5FE",
-      "type": "ELLIPSE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
       "handle": "5FF",
       "type": "LINE",
-      "component": "SOURCE_ARCHITECTURE"
-    },
-    {
-      "handle": "600",
-      "type": "ELLIPSE",
       "component": "SOURCE_ARCHITECTURE"
     },
     {
@@ -7489,6 +4629,2868 @@
       "handle": "608",
       "type": "LINE",
       "component": "SOURCE_ARCHITECTURE"
+    }
+  ],
+  "replaced_surface_ornament": [
+    {
+      "handle": "31",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "32",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "33",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "34",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "35",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "36",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "3A",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "3B",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "41",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "42",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "43",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "48",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "49",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "4A",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "4B",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "4C",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "4D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "4E",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "61",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "62",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "63",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "64",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "65",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "66",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "67",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "68",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "69",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "6A",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "6B",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "6C",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "6D",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "6E",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "6F",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "70",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "71",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "72",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "73",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "74",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "7E",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "7F",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "80",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "81",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "82",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "84",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "85",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "88",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "89",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "8C",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "8D",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "8F",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "90",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "92",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "98",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "99",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "9A",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "9B",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "A0",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "A1",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "BB",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "E0",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "E1",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "E2",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "E3",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "E4",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "E5",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "E6",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "E7",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "E8",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "E9",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "EA",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "EB",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "EC",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "ED",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "EE",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "EF",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "F0",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "F1",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "F2",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "F3",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "F4",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "F5",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "F6",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "F7",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "F8",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "F9",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "FA",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "FB",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "FC",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "FD",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "FE",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "FF",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "100",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "101",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "102",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "103",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "104",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "126",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "127",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "128",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "129",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "12A",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "12B",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "12C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "12D",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "12E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "12F",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "130",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "131",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "132",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "133",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "134",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "135",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "136",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "137",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "138",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "139",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "13A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "13B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "13C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "13D",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "13E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "13F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "140",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "141",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "142",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "143",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "144",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "145",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "146",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "147",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "148",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "149",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "14A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "14B",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "14C",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "14D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "14E",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "14F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "150",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "151",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "152",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "153",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "154",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "155",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "156",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "157",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "158",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "159",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "15A",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "15B",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "15C",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "15D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "15E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "15F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "160",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "161",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "162",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "163",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "164",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "165",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "166",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "167",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "168",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "169",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "16A",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "16B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "16C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "16D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "16E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "16F",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "170",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "171",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "172",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "173",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "174",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "175",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "176",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "177",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "178",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "179",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "17A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "17B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "17C",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "17D",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "17E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1CB",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1CD",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1DA",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "1DB",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1DC",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1DD",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1DE",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1DF",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1E0",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1E1",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1E2",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1E3",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1E4",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "1E5",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "1E6",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "1E7",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1E8",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1E9",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "1EA",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1EB",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "1EC",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "1ED",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "201",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "202",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "203",
+      "type": "ARC",
+      "reason": "replace small lower-light external moulding"
+    },
+    {
+      "handle": "204",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "205",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "206",
+      "type": "ARC",
+      "reason": "replace small lower-light external moulding"
+    },
+    {
+      "handle": "23B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "23C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "23D",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "23E",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "23F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "240",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "241",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "242",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "243",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "244",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "246",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "247",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "248",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "249",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "24A",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "24B",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "24C",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "24E",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "24F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "250",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "251",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "252",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "253",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "254",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "255",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "258",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "259",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "25A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "25B",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "25C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "25D",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "25E",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "25F",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "260",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "261",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "262",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "278",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "279",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "27A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "27C",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "27D",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "27E",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "27F",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "280",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "281",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "282",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "283",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "285",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "286",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "287",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "292",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "293",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "294",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "295",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2A4",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2A5",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2A6",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "2A7",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "2AC",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2AF",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2B0",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2B3",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2B4",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2B7",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2B8",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2BA",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "2BF",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2C0",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2C3",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2C4",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "2C6",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "2C7",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "2C8",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "2C9",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "2CA",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "360",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "361",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "362",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "363",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "364",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "365",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "366",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "367",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "368",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "369",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "36A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "36B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "36C",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "36D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "36E",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "36F",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "371",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "372",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "373",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "374",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "375",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "376",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "377",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "379",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "37A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "37B",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "37C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "37D",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "37E",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "37F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "380",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "381",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "382",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "383",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "384",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "385",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "386",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "387",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "388",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "389",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "38A",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "38B",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "38D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "38E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "38F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "390",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "391",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "392",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "393",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "395",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "396",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "397",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "398",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "399",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "39A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "39B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "39C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "39D",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "39E",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "39F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A0",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A1",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3A2",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A3",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A4",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A5",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A6",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3A7",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3A8",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3A9",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3AA",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3AB",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3AC",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3AD",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3AE",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3AF",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3B0",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3B1",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3B2",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3B3",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3B4",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3B5",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3B6",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3B7",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3B8",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "3DA",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3DB",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3DC",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3DD",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "3DE",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3DF",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3E0",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3E1",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3E2",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3E3",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3E4",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3E5",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3E6",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3E7",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3E8",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3E9",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3EA",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3EB",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3EC",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "3ED",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "3EE",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "3EF",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F0",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3F1",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F2",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F3",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3F4",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F5",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F6",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F7",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3F8",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3F9",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3FA",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "3FB",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3FC",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "3FD",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "3FE",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "423",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "43D",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "43E",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "443",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "444",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "445",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "446",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "44C",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "44E",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "44F",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "451",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "452",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "455",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "456",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "459",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "45A",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "45C",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "45D",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "45E",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "45F",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "460",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "46A",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "46B",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "46C",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "46D",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "46E",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "46F",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "470",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "471",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "472",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "473",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "474",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "475",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "476",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "477",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "478",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "479",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "47A",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "47B",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "47C",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "47D",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "490",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "491",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "492",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "493",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "494",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "495",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "496",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "49B",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "49C",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "49D",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "4A2",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4A3",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4A7",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4A8",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4A9",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4AA",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4AB",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "4AC",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "501",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "502",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "503",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "504",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "505",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "507",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "508",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "50B",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "50C",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "511",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "513",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "514",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "517",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "518",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "51B",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "51C",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "51F",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "524",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "525",
+      "type": "LINE",
+      "reason": "replace old interior glazing mullion within unchanged opening"
+    },
+    {
+      "handle": "526",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "527",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "536",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "537",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "538",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "539",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "544",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "545",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "546",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "548",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "549",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "54A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "54B",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "54C",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "54D",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "54E",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "54F",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "551",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "552",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "553",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "569",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "56A",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "56B",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "56C",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "56D",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "56E",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "56F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "570",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "571",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "572",
+      "type": "ARC",
+      "reason": "replace original upper arch surface moulding"
+    },
+    {
+      "handle": "573",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "576",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "577",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "578",
+      "type": "LWPOLYLINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "579",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "57A",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "57B",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "57C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "57D",
+      "type": "ARC",
+      "reason": "replace original ground arch surface moulding"
+    },
+    {
+      "handle": "57F",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "580",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "581",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "582",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "583",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "584",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "585",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "587",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "588",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "589",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "58A",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "58B",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "58C",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "58D",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "58E",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "58F",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "590",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5C5",
+      "type": "ARC",
+      "reason": "replace small lower-light external moulding"
+    },
+    {
+      "handle": "5C6",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5C7",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5C8",
+      "type": "ARC",
+      "reason": "replace small lower-light external moulding"
+    },
+    {
+      "handle": "5C9",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5CA",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5DE",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5DF",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5E0",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "5E1",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "5E2",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5E3",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5E4",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "5E5",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5E6",
+      "type": "LINE",
+      "reason": "replace original applied sill finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5E7",
+      "type": "LINE",
+      "reason": "replace original applied jamb finish outside unchanged rough opening"
+    },
+    {
+      "handle": "5E8",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "5E9",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5EA",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5EB",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "5EC",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5ED",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5EE",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "5EF",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5F0",
+      "type": "LINE",
+      "reason": "replace old nonstructural arch moulding / keystone connector"
+    },
+    {
+      "handle": "5F1",
+      "type": "LINE",
+      "reason": "replace old glass transom within unchanged opening"
+    },
+    {
+      "handle": "5FE",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
+    },
+    {
+      "handle": "600",
+      "type": "ELLIPSE",
+      "reason": "replace original nonstructural curved window moulding; native clear opening curve retained"
     }
   ]
 }

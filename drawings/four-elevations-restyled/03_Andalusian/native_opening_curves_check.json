@@ -1,9 +1,7 @@
 {
-  "all_original_native_curve_parameters_preserved": true,
-  "ellipses": 86,
-  "splines": 20,
-  "arcs": 132,
-  "negative_ellipse_normals_preserved": true,
-  "new_glazing_curves": 0,
-  "rounding_comparison_source_units": 1e-05
+  "retained_source_native_curves_verified": 80,
+  "output_native_curves": 148,
+  "new_unjoined_endpoints": 0,
+  "inherited_source_profile_ends": 326,
+  "native_curve_parameters_preserved": true
 }
