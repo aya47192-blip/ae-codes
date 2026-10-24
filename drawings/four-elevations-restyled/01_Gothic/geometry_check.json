@@ -2,19 +2,19 @@
   "style": "GOTHIC",
   "audit_errors": 0,
   "audit_fixes": 0,
-  "decomposed_entities": 1074,
+  "decomposed_entities": 1093,
   "entity_types": {
-    "LWPOLYLINE": 1074
+    "LWPOLYLINE": 1093
   },
   "native_primitive_types": {
-    "L": 2492,
-    "A": 400
+    "L": 2537,
+    "A": 404
   },
   "duplicate_native_primitives": [],
   "straight_overlap_length_source_units": 0,
   "zero_length_entities": [],
-  "open_chain_endpoints_checked": 1680,
-  "max_valid_join_distance_source_units": 1.4588119825865665e-11,
+  "open_chain_endpoints_checked": 1716,
+  "max_valid_join_distance_source_units": 1.626953582672133e-11,
   "join_tolerance_source_units": 0.025,
   "intentional_groundline_endpoints": [
     [

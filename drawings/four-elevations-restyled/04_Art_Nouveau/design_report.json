@@ -522,14 +522,14 @@
       "source_method": "source panel bounds"
     }
   ],
-  "opening_groups": 47,
+  "opening_groups": 45,
   "new_components": {
-    "window": 47,
+    "window": 43,
     "source": 1,
     "mass": 3,
     "band": 17,
-    "column": 11,
-    "railing": 17,
+    "column": 17,
+    "railing": 14,
     "crown": 2,
     "roof": 1,
     "roof_background": 1,
@@ -537,11 +537,17 @@
     "roof_vent": 4,
     "masonry": 1,
     "frieze": 1,
+    "projection": 6,
+    "projection_masonry": 2,
+    "detail": 2,
+    "rear_glazing": 1,
+    "arch_surround": 2,
+    "architecture": 1,
     "ground": 1
   },
-  "native_blocks": 86,
-  "native_closed_contours": 291,
-  "connected_native_chains": 1284,
+  "native_blocks": 99,
+  "native_closed_contours": 292,
+  "connected_native_chains": 1440,
   "old_ornament_curves_reused": 0,
   "original_style_blocks_reused": 0,
   "stroke_aci": 7,
@@ -694,15 +700,6 @@
       "entities": 16
     },
     {
-      "block": "ART_NOUVEAU_WINDOW_017",
-      "kind": "window",
-      "anchor_source_coordinates": [
-        118226.41522676921,
-        81968.23856873938
-      ],
-      "entities": 17
-    },
-    {
       "block": "ART_NOUVEAU_WINDOW_018",
       "kind": "window",
       "anchor_source_coordinates": [
@@ -763,7 +760,7 @@
         113820.8305879575,
         82131.1826617656
       ],
-      "entities": 20
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_025",
@@ -772,7 +769,7 @@
         122636.50028114066,
         82131.1826617656
       ],
-      "entities": 20
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_026",
@@ -853,7 +850,7 @@
         113820.8305879575,
         85731.1826617656
       ],
-      "entities": 20
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_035",
@@ -862,7 +859,7 @@
         122636.50028114066,
         85731.1826617656
       ],
-      "entities": 20
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_036",
@@ -925,25 +922,7 @@
         138078.66543455087,
         85748.23856873938
       ],
-      "entities": 17
-    },
-    {
-      "block": "ART_NOUVEAU_WINDOW_043",
-      "kind": "window",
-      "anchor_source_coordinates": [
-        116186.98785108374,
-        86390.23541382083
-      ],
-      "entities": 17
-    },
-    {
-      "block": "ART_NOUVEAU_WINDOW_044",
-      "kind": "window",
-      "anchor_source_coordinates": [
-        120270.3430180163,
-        86390.23541382083
-      ],
-      "entities": 17
+      "entities": 15
     },
     {
       "block": "ART_NOUVEAU_WINDOW_045",
@@ -960,15 +939,6 @@
       "anchor_source_coordinates": [
         137846.4215596248,
         89886.23856873938
-      ],
-      "entities": 17
-    },
-    {
-      "block": "ART_NOUVEAU_WINDOW_047",
-      "kind": "window",
-      "anchor_source_coordinates": [
-        93468.1470593852,
-        75898.23856873938
       ],
       "entities": 17
     },
@@ -1084,31 +1054,13 @@
       "block": "ART_NOUVEAU_RAILING_81.95_3",
       "kind": "railing",
       "anchor_source_coordinates": [
-        113820.8305879575,
-        81690.0
-      ],
-      "entities": 10
-    },
-    {
-      "block": "ART_NOUVEAU_RAILING_81.95_4",
-      "kind": "railing",
-      "anchor_source_coordinates": [
-        122636.50028114066,
-        81690.0
-      ],
-      "entities": 10
-    },
-    {
-      "block": "ART_NOUVEAU_RAILING_81.95_5",
-      "kind": "railing",
-      "anchor_source_coordinates": [
         126028.6654345509,
         81690.0
       ],
       "entities": 12
     },
     {
-      "block": "ART_NOUVEAU_RAILING_81.95_6",
+      "block": "ART_NOUVEAU_RAILING_81.95_4",
       "kind": "railing",
       "anchor_source_coordinates": [
         129928.6654345509,
@@ -1117,7 +1069,7 @@
       "entities": 12
     },
     {
-      "block": "ART_NOUVEAU_RAILING_81.95_7",
+      "block": "ART_NOUVEAU_RAILING_81.95_5",
       "kind": "railing",
       "anchor_source_coordinates": [
         133828.66543455087,
@@ -1126,7 +1078,7 @@
       "entities": 12
     },
     {
-      "block": "ART_NOUVEAU_RAILING_81.95_8",
+      "block": "ART_NOUVEAU_RAILING_81.95_6",
       "kind": "railing",
       "anchor_source_coordinates": [
         137878.6654345509,
@@ -1165,31 +1117,13 @@
       "block": "ART_NOUVEAU_RAILING_85.65_3",
       "kind": "railing",
       "anchor_source_coordinates": [
-        113820.8305879575,
-        85350.0
-      ],
-      "entities": 10
-    },
-    {
-      "block": "ART_NOUVEAU_RAILING_85.65_4",
-      "kind": "railing",
-      "anchor_source_coordinates": [
-        122636.50028114066,
-        85350.0
-      ],
-      "entities": 10
-    },
-    {
-      "block": "ART_NOUVEAU_RAILING_85.65_5",
-      "kind": "railing",
-      "anchor_source_coordinates": [
         126028.6654345509,
         85350.0
       ],
       "entities": 12
     },
     {
-      "block": "ART_NOUVEAU_RAILING_85.65_6",
+      "block": "ART_NOUVEAU_RAILING_85.65_4",
       "kind": "railing",
       "anchor_source_coordinates": [
         129928.6654345509,
@@ -1198,7 +1132,7 @@
       "entities": 12
     },
     {
-      "block": "ART_NOUVEAU_RAILING_85.65_7",
+      "block": "ART_NOUVEAU_RAILING_85.65_5",
       "kind": "railing",
       "anchor_source_coordinates": [
         133828.66543455087,
@@ -1214,24 +1148,6 @@
         90178.24
       ],
       "entities": 6
-    },
-    {
-      "block": "ART_NOUVEAU_COLUMN_010",
-      "kind": "column",
-      "anchor_source_coordinates": [
-        89920.0,
-        75898.24
-      ],
-      "entities": 3
-    },
-    {
-      "block": "ART_NOUVEAU_COLUMN_011",
-      "kind": "column",
-      "anchor_source_coordinates": [
-        97070.0,
-        75898.24
-      ],
-      "entities": 3
     },
     {
       "block": "ART_NOUVEAU_CROWN_GATE",
@@ -1258,7 +1174,7 @@
         118230.0,
         90178.24
       ],
-      "entities": 3
+      "entities": 4
     },
     {
       "block": "ART_NOUVEAU_ROOF_DORMER_1",
@@ -1322,6 +1238,377 @@
         80550.0
       ],
       "entities": 36
+    },
+    {
+      "block": "ART_NOUVEAU_PROJECTING_WINDOW_PIER_1",
+      "kind": "projection",
+      "anchor_source_coordinates": [
+        113875.566982145,
+        81968.23856873938
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ART_NOUVEAU_PIER_MASONRY_JOINTS_1",
+      "kind": "projection_masonry",
+      "anchor_source_coordinates": [
+        113875.566982145,
+        81968.23856873938
+      ],
+      "entities": 18
+    },
+    {
+      "block": "ART_NOUVEAU_PIER_SPANDREL_PANEL_1",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        113820.8305879575,
+        84850.0
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ART_NOUVEAU_PROJECTING_WINDOW_PIER_2",
+      "kind": "projection",
+      "anchor_source_coordinates": [
+        122581.76388695509,
+        81968.23856873938
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ART_NOUVEAU_PIER_MASONRY_JOINTS_2",
+      "kind": "projection_masonry",
+      "anchor_source_coordinates": [
+        122581.76388695509,
+        81968.23856873938
+      ],
+      "entities": 18
+    },
+    {
+      "block": "ART_NOUVEAU_PIER_SPANDREL_PANEL_2",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        122636.50028114066,
+        84850.0
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ART_NOUVEAU_RECESSED_LOGGIA_REAR_GLAZING",
+      "kind": "rear_glazing",
+      "anchor_source_coordinates": [
+        118228.665434551,
+        81968.23856873938
+      ],
+      "entities": 50
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_CENTRAL_LEFT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        116762.53025699999,
+        81968.23856873938
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_CENTRAL_RIGHT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        119694.8006125,
+        81968.23856873938
+      ],
+      "entities": 7
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_ARCH_CENTRAL_LOGGIA",
+      "kind": "arch_surround",
+      "anchor_source_coordinates": [
+        118228.665434551,
+        85938.85262882279
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ART_NOUVEAU_RAILING_RECESSED_CENTRE",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        118201.667023,
+        81248.23856873938
+      ],
+      "entities": 11
+    },
+    {
+      "block": "ART_NOUVEAU_LOGGIA_FRONT_FLOOR",
+      "kind": "architecture",
+      "anchor_source_coordinates": [
+        118228.665434551,
+        81968.23856873938
+      ],
+      "entities": 1
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_UPPER_1",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        104278.665434551,
+        81968.23856873938
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_UPPER_2",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        108478.66078399999,
+        81968.23856873938
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_UPPER_3",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        127978.665434551,
+        81968.23856873938
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_UPPER_4",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        131878.66543455102,
+        81968.23856873938
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ART_NOUVEAU_CORNER_RETURN_1",
+      "kind": "projection",
+      "anchor_source_coordinates": [
+        100378.665434551,
+        81968.23856873938
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_CORNER_RETURN_2",
+      "kind": "projection",
+      "anchor_source_coordinates": [
+        135778.665434551,
+        81968.23856873938
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ART_NOUVEAU_GATE_MASONRY_PIER_1",
+      "kind": "projection",
+      "anchor_source_coordinates": [
+        89865.97556149999,
+        75898.23856873938
+      ],
+      "entities": 27
+    },
+    {
+      "block": "ART_NOUVEAU_GATE_MASONRY_PIER_2",
+      "kind": "projection",
+      "anchor_source_coordinates": [
+        97070.3185575,
+        75898.23856873938
+      ],
+      "entities": 27
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_GATE_LEFT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        91802.01188149999,
+        75898.23856873938
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_COLUMN_GATE_RIGHT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        95134.28223699999,
+        75898.23856873938
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ART_NOUVEAU_STRUCTURAL_ARCH_GATE",
+      "kind": "arch_surround",
+      "anchor_source_coordinates": [
+        93468.1470593852,
+        81283.06969063671
+      ],
+      "entities": 4
+    }
+  ],
+  "architecture_review": [
+    {
+      "feature": "projecting_window_pier_1",
+      "source_reference": "Native pier side edges and projecting capital outline",
+      "anchors_source_coordinates": [
+        112078.66543455,
+        115672.46852974,
+        81968.23856874,
+        89148.23856874,
+        111908.66543455,
+        115822.46852974,
+        89408.23856874
+      ]
+    },
+    {
+      "feature": "projecting_window_pier_2",
+      "source_reference": "Native pier side edges and projecting capital outline",
+      "anchors_source_coordinates": [
+        120784.86233936,
+        124378.66543455,
+        81968.23856874,
+        89148.23856874,
+        120634.86233936,
+        124548.66543455,
+        89408.23856874
+      ]
+    },
+    {
+      "feature": "column_CENTRAL_LEFT",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        116524.454763,
+        117000.605751,
+        81968.23856874,
+        84849.629242,
+        115666.561434,
+        117242.429167,
+        85671.182662
+      ]
+    },
+    {
+      "feature": "column_CENTRAL_RIGHT",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        119456.725118,
+        119932.876107,
+        81968.23856874,
+        84849.629242,
+        119214.901702,
+        120790.769435,
+        85671.182662
+      ]
+    },
+    {
+      "feature": "supported_arch_CENTRAL_LOGGIA",
+      "source_reference": "Native source arc centre, inner/outer radii and springing impost",
+      "anchors_source_coordinates": [
+        118228.66543455,
+        85938.85262882,
+        1278.38593992,
+        1728.38593992,
+        85671.182662
+      ]
+    },
+    {
+      "feature": "column_UPPER_1",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        104028.66543455,
+        104528.66543455,
+        81968.23856874,
+        87362.661,
+        103878.66543455,
+        104678.66543455,
+        87748.23856874
+      ]
+    },
+    {
+      "feature": "column_UPPER_2",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        108228.660784,
+        108728.660784,
+        81968.23856874,
+        87362.661,
+        108078.660784,
+        108878.660784,
+        87748.23856874
+      ]
+    },
+    {
+      "feature": "column_UPPER_3",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        127728.66543455,
+        128228.66543455,
+        81968.23856874,
+        87362.661,
+        127578.66543455,
+        128378.66543455,
+        87748.23856874
+      ]
+    },
+    {
+      "feature": "column_UPPER_4",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        131628.66543455,
+        132128.66543455,
+        81968.23856874,
+        87362.661,
+        131478.66543455,
+        132278.66543455,
+        87748.23856874
+      ]
+    },
+    {
+      "feature": "column_GATE_LEFT",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        91563.936387,
+        92040.087376,
+        75898.23856874,
+        80600.0,
+        91250.0,
+        92320.0,
+        80980.0
+      ]
+    },
+    {
+      "feature": "column_GATE_RIGHT",
+      "source_reference": "Native source shaft edges, base, capital spread and upper bearing level",
+      "anchors_source_coordinates": [
+        94896.206743,
+        95372.357731,
+        75898.23856874,
+        80600.0,
+        94616.0,
+        95686.0,
+        80980.0
+      ]
+    },
+    {
+      "feature": "supported_arch_GATE",
+      "source_reference": "Native source arc centre, inner/outer radii and springing impost",
+      "anchors_source_coordinates": [
+        93468.14705939,
+        81283.06969064,
+        1420.42882213,
+        1920.42882213,
+        80980.0
+      ]
+    },
+    {
+      "feature": "recessed_central_loggia",
+      "source_reference": "Native recessed plane, separate from the two projecting window piers and front arch/columns",
+      "anchors_source_coordinates": [
+        115672.46852974,
+        120784.86233936,
+        81968.23856874,
+        87748.23856874
+      ]
     }
   ],
   "notes": [
@@ -1329,5 +1616,7 @@
     "Native coordinate scale and source opening envelopes retained; window head profiles and decorative silhouettes change for the new style.",
     "Source unit flag is undefined (0); no physical unit is inferred.",
     "Closed profiles and native circular/cubic curves are used. Mullions and courses meet their boundaries rather than being forced into closed shapes."
-  ]
+  ],
+  "source_panel_groups": 47,
+  "opening_count_note": "Source panels 17, 43 and 44 belong to one recessed glazing plane, now modeled behind separate supporting columns and arch. Panel 47 is an open gate, not glazing."
 }

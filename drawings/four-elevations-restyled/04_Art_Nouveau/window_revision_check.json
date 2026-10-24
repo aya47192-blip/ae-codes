@@ -1,6 +1,6 @@
 {
-  "opening_bounds_unchanged": true,
-  "glazing_straight_segments_verified_axis_aligned": 551,
-  "true_circular_head_spans": 94,
-  "leaning_or_organic_glazing_splines": 0
+  "axis_aligned_glazing_lines_verified": 583,
+  "true_circular_head_spans": 86,
+  "leaning_glazing_splines": 0,
+  "recessed_rear_glazing_separate": true
 }

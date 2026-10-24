@@ -2,20 +2,20 @@
   "style": "GREEK REVIVAL",
   "audit_errors": 0,
   "audit_fixes": 0,
-  "decomposed_entities": 1121,
+  "decomposed_entities": 1150,
   "entity_types": {
-    "LWPOLYLINE": 1108,
+    "LWPOLYLINE": 1137,
     "SPLINE": 13
   },
   "native_primitive_types": {
-    "L": 3008,
+    "L": 3196,
     "B": 26
   },
   "duplicate_native_primitives": [],
   "straight_overlap_length_source_units": 0,
   "zero_length_entities": [],
-  "open_chain_endpoints_checked": 1678,
-  "max_valid_join_distance_source_units": 3.253907165344266e-11,
+  "open_chain_endpoints_checked": 1724,
+  "max_valid_join_distance_source_units": 0.02129200001945719,
   "join_tolerance_source_units": 0.025,
   "intentional_groundline_endpoints": [
     [

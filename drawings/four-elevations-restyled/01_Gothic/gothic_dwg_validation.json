@@ -1,8 +1,8 @@
 {
   "format": "Native DWG AutoCAD 2000 AC1015",
   "units_flag": 0,
-  "modelspace_entities": 161,
-  "editable_blocks_verified": 65,
+  "modelspace_entities": 168,
+  "editable_blocks_verified": 66,
   "max_numeric_coordinate_and_curve_difference": 1.4551915228366852e-11,
   "native_closed_flags_preserved": true,
   "spline_control_points_and_knots_preserved": true,

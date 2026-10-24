@@ -963,24 +963,36 @@
       ],
       "kind": "lantern",
       "source_method": "native source lantern arch and full jamb coordinates"
+    },
+    {
+      "id": 44,
+      "bounds": [
+        63.964265866,
+        104.3484362015657,
+        64.327534784,
+        107.822010884
+      ],
+      "kind": "window",
+      "source_method": "Native source corner-portico opening jambs and head, omitted by initial panel extraction"
     }
   ],
-  "opening_groups": 42,
+  "opening_groups": 43,
   "new_components": {
-    "window": 42,
-    "mass": 6,
+    "window": 43,
+    "mass": 8,
     "band": 5,
     "roof_background": 1,
     "crown": 7,
     "railing": 3,
     "stairs": 4,
-    "column": 7,
+    "column": 6,
     "roof": 1,
+    "architecture": 1,
     "ground": 1
   },
-  "native_blocks": 65,
-  "native_closed_contours": 231,
-  "connected_native_chains": 1074,
+  "native_blocks": 66,
+  "native_closed_contours": 232,
+  "connected_native_chains": 1093,
   "old_ornament_curves_reused": 0,
   "original_style_blocks_reused": 0,
   "stroke_aci": 7,
@@ -1367,13 +1379,22 @@
       "entities": 11
     },
     {
+      "block": "GOTHIC_WINDOW_044",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        64145.900325,
+        104348.43620156571
+      ],
+      "entities": 15
+    },
+    {
       "block": "GOTHIC_MAIN_PITCHED_ROOF",
       "kind": "roof_background",
       "anchor_source_coordinates": [
         81000.0,
         113498.436
       ],
-      "entities": 4
+      "entities": 5
     },
     {
       "block": "GOTHIC_TOWER_CORNICE",
@@ -1436,7 +1457,7 @@
         66207.0,
         117718.7
       ],
-      "entities": 35
+      "entities": 36
     },
     {
       "block": "GOTHIC_RAILING_1",
@@ -1469,7 +1490,7 @@
       "block": "GOTHIC_STAIRS_PORTICO",
       "kind": "stairs",
       "anchor_source_coordinates": [
-        63538.43502356825,
+        63538.43504706825,
         103898.4362015657
       ],
       "entities": 7
@@ -1505,7 +1526,7 @@
       "block": "GOTHIC_COLUMN_001",
       "kind": "column",
       "anchor_source_coordinates": [
-        62900.0,
+        63650.0,
         104348.43620156571
       ],
       "entities": 5
@@ -1514,8 +1535,8 @@
       "block": "GOTHIC_COLUMN_002",
       "kind": "column",
       "anchor_source_coordinates": [
-        64099.99999999999,
-        104348.43620156571
+        68988.20000000001,
+        103898.4362015657
       ],
       "entities": 5
     },
@@ -1523,7 +1544,7 @@
       "block": "GOTHIC_COLUMN_003",
       "kind": "column",
       "anchor_source_coordinates": [
-        68988.20000000001,
+        76658.40343399999,
         103898.4362015657
       ],
       "entities": 5
@@ -1532,7 +1553,7 @@
       "block": "GOTHIC_COLUMN_004",
       "kind": "column",
       "anchor_source_coordinates": [
-        76658.4,
+        85185.548887,
         103898.4362015657
       ],
       "entities": 5
@@ -1541,7 +1562,7 @@
       "block": "GOTHIC_COLUMN_005",
       "kind": "column",
       "anchor_source_coordinates": [
-        85185.5,
+        93952.796978,
         103898.4362015657
       ],
       "entities": 5
@@ -1550,16 +1571,7 @@
       "block": "GOTHIC_COLUMN_006",
       "kind": "column",
       "anchor_source_coordinates": [
-        93952.8,
-        103898.4362015657
-      ],
-      "entities": 5
-    },
-    {
-      "block": "GOTHIC_COLUMN_007",
-      "kind": "column",
-      "anchor_source_coordinates": [
-        98143.4,
+        98143.439929,
         103898.4362015657
       ],
       "entities": 5
@@ -1572,6 +1584,28 @@
         0.0
       ],
       "entities": 98
+    },
+    {
+      "block": "GOTHIC_PORTICO_BRACKET",
+      "kind": "architecture",
+      "anchor_source_coordinates": [
+        63650.0,
+        107438.72909600001
+      ],
+      "entities": 1
+    }
+  ],
+  "architecture_review": [
+    {
+      "feature": "corner_portico",
+      "source_reference": "Native corner support and bracket, with the adjacent narrow opening restored",
+      "anchors_source_coordinates": [
+        62341.270047,
+        63790.0,
+        104348.436202,
+        107438.729096,
+        108598.436202
+      ]
     }
   ],
   "notes": [
@@ -1579,5 +1613,6 @@
     "Native coordinate scale and source opening envelopes retained; window head profiles and decorative silhouettes change for the new style.",
     "Source unit flag is undefined (0); no physical unit is inferred.",
     "Closed profiles and native circular/cubic curves are used. Mullions and courses meet their boundaries rather than being forced into closed shapes."
-  ]
+  ],
+  "source_panel_groups": 43
 }

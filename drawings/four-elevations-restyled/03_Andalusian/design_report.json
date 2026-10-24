@@ -1202,11 +1202,11 @@
       "bounds": [
         71.82955662395851,
         92.930892,
-        72.09394011752354,
+        72.35832361108857,
         93.75011374769969
       ],
       "kind": "tower",
-      "source_method": "source panel bounds; refined to complete native jamb extents",
+      "source_method": "Full native centre tower light jamb width, corrected from half-panel cell",
       "native_jamb_segments": [
         [
           71.82955662395851,
@@ -1377,10 +1377,10 @@
       ]
     }
   ],
-  "opening_groups": 59,
+  "opening_groups": 62,
   "new_components": {
-    "window": 59,
-    "mass": 4,
+    "window": 62,
+    "mass": 12,
     "band": 13,
     "arcade": 6,
     "column": 8,
@@ -1390,9 +1390,9 @@
     "panel": 2,
     "ground": 1
   },
-  "native_blocks": 80,
-  "native_closed_contours": 305,
-  "connected_native_chains": 957,
+  "native_blocks": 83,
+  "native_closed_contours": 310,
+  "connected_native_chains": 1001,
   "old_ornament_curves_reused": 0,
   "original_style_blocks_reused": 0,
   "stroke_aci": 7,
@@ -1863,10 +1863,10 @@
       "block": "ANDALUSIAN_WINDOW_052",
       "kind": "window",
       "anchor_source_coordinates": [
-        71961.74837074101,
+        72093.94011752354,
         92930.892
       ],
-      "entities": 13
+      "entities": 7
     },
     {
       "block": "ANDALUSIAN_WINDOW_053",
@@ -2119,6 +2119,132 @@
         89000.0
       ],
       "entities": 6
+    },
+    {
+      "block": "ANDALUSIAN_OCULUS_1",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        70753.56861295598,
+        79850.34626968333
+      ],
+      "entities": 8
+    },
+    {
+      "block": "ANDALUSIAN_OCULUS_2",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        72093.94011752354,
+        79850.34626968333
+      ],
+      "entities": 8
+    },
+    {
+      "block": "ANDALUSIAN_OCULUS_3",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        73434.3116220911,
+        79850.34626968333
+      ],
+      "entities": 8
+    }
+  ],
+  "architecture_review": [
+    {
+      "feature": "arcade_pier_1",
+      "source_reference": "Source bay pier footprint, joined continuously to the restyled storey cornices",
+      "anchors_source_coordinates": [
+        57222.426,
+        57981.479,
+        75731.553234,
+        84215.4
+      ]
+    },
+    {
+      "feature": "arcade_pier_2",
+      "source_reference": "Source bay pier footprint, joined continuously to the restyled storey cornices",
+      "anchors_source_coordinates": [
+        61122.22,
+        61881.273,
+        75731.553234,
+        84215.4
+      ]
+    },
+    {
+      "feature": "arcade_pier_3",
+      "source_reference": "Source bay pier footprint, joined continuously to the restyled storey cornices",
+      "anchors_source_coordinates": [
+        65022.014,
+        65781.067,
+        75731.553234,
+        84215.4
+      ]
+    },
+    {
+      "feature": "arcade_pier_4",
+      "source_reference": "Source bay pier footprint, joined continuously to the restyled storey cornices",
+      "anchors_source_coordinates": [
+        78406.813,
+        79165.867,
+        75731.553234,
+        84215.4
+      ]
+    },
+    {
+      "feature": "arcade_pier_5",
+      "source_reference": "Source bay pier footprint, joined continuously to the restyled storey cornices",
+      "anchors_source_coordinates": [
+        82306.607,
+        83065.661,
+        75731.553234,
+        84215.4
+      ]
+    },
+    {
+      "feature": "arcade_pier_6",
+      "source_reference": "Source bay pier footprint, joined continuously to the restyled storey cornices",
+      "anchors_source_coordinates": [
+        86206.401,
+        86965.455,
+        75731.553234,
+        84215.4
+      ]
+    },
+    {
+      "feature": "original_oculus_1",
+      "source_reference": "Native source circular opening centre and glazing radius",
+      "anchors_source_coordinates": [
+        70753.56861296,
+        79850.34626968,
+        350.51728874
+      ]
+    },
+    {
+      "feature": "original_oculus_2",
+      "source_reference": "Native source circular opening centre and glazing radius",
+      "anchors_source_coordinates": [
+        72093.94011752,
+        79850.34626968,
+        350.51728874
+      ]
+    },
+    {
+      "feature": "original_oculus_3",
+      "source_reference": "Native source circular opening centre and glazing radius",
+      "anchors_source_coordinates": [
+        73434.31162209,
+        79850.34626968,
+        350.51728874
+      ]
+    },
+    {
+      "feature": "central_tower_side_piers",
+      "source_reference": "Native outer and inner pier edges, retained on each source storey",
+      "anchors_source_coordinates": [
+        68920.85,
+        69830.186,
+        74357.694,
+        75267.03
+      ]
     }
   ],
   "notes": [
@@ -2126,5 +2252,7 @@
     "Native coordinate scale and source opening envelopes retained; window head profiles and decorative silhouettes change for the new style.",
     "Source unit flag is undefined (0); no physical unit is inferred.",
     "Closed profiles and native circular/cubic curves are used. Mullions and courses meet their boundaries rather than being forced into closed shapes."
-  ]
+  ],
+  "source_panel_groups": 59,
+  "opening_count_note": "Three original circular openings restored in addition to the source panel schedule."
 }

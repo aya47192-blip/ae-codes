@@ -1,0 +1,82 @@
+{
+  "source_elevation": 4,
+  "checks": [
+    {
+      "component": "ART_NOUVEAU_PROJECTING_WINDOW_PIER_1",
+      "anchor": [
+        112078.665434551,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 0.0,
+      "exported_vertex_distance": 5.19151339745528e-07
+    },
+    {
+      "component": "ART_NOUVEAU_PROJECTING_WINDOW_PIER_1",
+      "anchor": [
+        115672.46852973901,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 1.4551915228366852e-11,
+      "exported_vertex_distance": 3.6882618053191564e-07
+    },
+    {
+      "component": "ART_NOUVEAU_PROJECTING_WINDOW_PIER_2",
+      "anchor": [
+        120784.8623393592,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 0.0,
+      "exported_vertex_distance": 4.4378143889879094e-07
+    },
+    {
+      "component": "ART_NOUVEAU_PROJECTING_WINDOW_PIER_2",
+      "anchor": [
+        124378.66543455099,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 8.731149137020111e-11,
+      "exported_vertex_distance": 5.191639253377769e-07
+    },
+    {
+      "component": "ART_NOUVEAU_STRUCTURAL_COLUMN_CENTRAL_LEFT",
+      "anchor": [
+        116524.45476299999,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 4.0658051148056984e-07,
+      "exported_vertex_distance": 2.6061024982482195e-07
+    },
+    {
+      "component": "ART_NOUVEAU_STRUCTURAL_COLUMN_CENTRAL_LEFT",
+      "anchor": [
+        117000.605751,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 3.882014425471425e-07,
+      "exported_vertex_distance": 2.6061024982482195e-07
+    },
+    {
+      "component": "ART_NOUVEAU_STRUCTURAL_COLUMN_CENTRAL_RIGHT",
+      "anchor": [
+        119456.72511799999,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 2.899905666708946e-07,
+      "exported_vertex_distance": 2.6061025023109574e-07
+    },
+    {
+      "component": "ART_NOUVEAU_STRUCTURAL_COLUMN_CENTRAL_RIGHT",
+      "anchor": [
+        119932.876107,
+        81968.23856873938
+      ],
+      "source_vertex_distance": 4.95201675221324e-07,
+      "exported_vertex_distance": 2.6061024982482195e-07
+    }
+  ],
+  "source_and_export_tolerance": 0.025,
+  "projecting_window_piers_are_separate_blocks": true,
+  "two_arch_supports_are_separate_blocks": true,
+  "rear_glazing_is_separate_from_front_arch": true,
+  "depth_note": "Hierarchy follows the supplied 2D elevation; no undocumented numeric projection depth was inferred."
+}
