@@ -1,0 +1,55 @@
+{
+  "source_file": "\u0648\u0627\u062c\u0647\u0647 \u062a\u0639\u062f\u064a\u0644 1.dwg",
+  "source_sha256": "ae360cbd4d185d853571d63224f7817546f463656d07e2712d9e70e1a1bb8a73",
+  "style": "Moderate Baroque facade adaptation",
+  "numeric_coordinate_scale": 1,
+  "source_units_flag": 1,
+  "closed_designed_profiles": 477,
+  "elements": {
+    "window_groups": 32,
+    "broken_curved_pediments": 10,
+    "balconies": 10,
+    "volute_pilasters": 8
+  },
+  "opening_groups_from_WIN": 33,
+  "plants": 0,
+  "old_style_blocks_reused": 0,
+  "lineweight_mm": 0.25,
+  "ACI": 7,
+  "all_layers_continuous": true,
+  "entity_counts": {
+    "LWPOLYLINE": 1638,
+    "ARC": 741
+  },
+  "pdf_embedded_images": 0,
+  "limitations": [
+    "Decorative facade study; structural or construction detailing is not included.",
+    "Original opening coordinate envelopes, balcony level anchors and main mass bounds are retained; decorative projections and glass divisions change.",
+    "Native source unit flag retained without inferring physical scale.",
+    "Desktop Autodesk AutoCAD unavailable; independent DWG-to-DXF roundtrip passed with native coordinate and curve comparison."
+  ],
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "zero_length_straight_segments": 0,
+  "zero_sweep_arcs": 0,
+  "duplicate_straight_edge_length": 0,
+  "duplicate_native_arc_entities": 0,
+  "analytic_endpoint_check": {
+    "tolerance_source_units": 1e-07,
+    "free_endpoints": 0,
+    "method": "Test native line endpoints against other straight paths and analytic circular arcs, including connections to edge interiors."
+  },
+  "raster_entities": 0,
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 2379,
+    "entities_after": 2379,
+    "max_coordinate_and_curve_parameter_difference": 5.684341886080802e-14,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  }
+}

@@ -1,3 +1,13 @@
+# الأحدث — معالجة الواجهة بالطراز الباروكي
+
+[تحميل DWG](drawings/baroque-native/baroque_facade.dwg?raw=true) · [تحميل DXF](drawings/baroque-native/baroque_facade.dxf?raw=true) · [معاينة](drawings/baroque-native/preview.png) · [PDF](drawings/baroque-native/baroque_facade.pdf?raw=true) · [قبل وبعد وتفاصيل](drawings/baroque-native/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/baroque-native/baroque_package.zip?raw=true)
+
+باروك بتفاصيل متوسطة: تاج بقوس مكسور ولفائف، تيجان أعمدة، درابزين حجري وكارتوشات، دون زرع. فحص الاتصال وجد صفر نهايات حرة؛ وأُعيدت قراءة DWG ومقارنة هندسته. [تفاصيل التصميم والفحص وحدود المقترح](drawings/baroque-native/README_AR.md).
+
+![الواجهة الباروكية](drawings/baroque-native/preview.png)
+
+---
+
 # الأحدث — تصحيح الوصلات والتيجان الإسلامية V2
 
 [تحميل DWG](drawings/islamic-connected-v2/islamic_facade.dwg?raw=true) · [تحميل DXF](drawings/islamic-connected-v2/islamic_facade.dxf?raw=true) · [معاينة](drawings/islamic-connected-v2/preview.png) · [مقارنة قبل وبعد](drawings/islamic-connected-v2/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/islamic-connected-v2/islamic_package.zip?raw=true)
