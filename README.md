@@ -1,3 +1,9 @@
+## الأحدث: لوبي الفندق حسب المرجع — الإصدار 3
+
+[تحميل الموديل والخامات لـSketchUp](drawings/ayaa-hotel-reference-modern/SketchUp_reference_modern_v3.zip) · [عرض التصميم PDF](drawings/ayaa-hotel-reference-modern/presentation.pdf) · [التفاصيل وطريقة الفتح](drawings/ayaa-hotel-reference-modern/README.md)
+
+![التوزيع حسب المرجع](drawings/ayaa-hotel-reference-modern/plan.png)
+
 ## الأحدث: لوبي فندق AYAA — New Modern
 
 [الموديل والخامات لـSketchUp](drawings/ayaa-hotel-new-modern/SketchUp_import_package.zip) · [عرض التصميم PDF](drawings/ayaa-hotel-new-modern/presentation.pdf) · [المعاينة والتفاصيل](drawings/ayaa-hotel-new-modern/README.md)
