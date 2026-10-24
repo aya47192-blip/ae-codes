@@ -1,3 +1,9 @@
+## الأحدث: مول تجاري — فرعوني معاصر
+
+[تحميل الأوتوكاد DWG](drawings/egyptian-contemporary-mall/egyptian_mall.dwg) · [الحزمة كاملة](drawings/egyptian-contemporary-mall/egyptian_mall_package.zip) · [مقارنة الأصل والتعديل](drawings/egyptian-contemporary-mall/before_after.pdf) · [التفاصيل والفحص](drawings/egyptian-contemporary-mall/README.md)
+
+![واجهة المول](drawings/egyptian-contemporary-mall/preview.png)
+
 ## الأحدث: واجهة إسلامية معاصرة بروح مملوكية
 
 [تحميل ملف الأوتوكاد DWG](drawings/islamic-contemporary-mamluk/mamluk.dwg) · [الحزمة كاملة](drawings/islamic-contemporary-mamluk/mamluk_full_package.zip) · [قبل وبعد PDF](drawings/islamic-contemporary-mamluk/before_after.pdf) · [التفاصيل والفحص](drawings/islamic-contemporary-mamluk/README.md)

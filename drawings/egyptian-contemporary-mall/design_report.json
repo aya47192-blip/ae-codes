@@ -1,0 +1,543 @@
+{
+  "style": "Contemporary Egyptian Revival - restrained commercial mall facade",
+  "source_sheet_position": "single supplied facade",
+  "source_unit_flag": 1,
+  "numeric_coordinate_scale_preserved": true,
+  "opening_schedule": [
+    {
+      "id": 1,
+      "kind": "original_opening",
+      "bounds": [
+        414.725659433,
+        115.835849857,
+        415.686319605,
+        122.735849857
+      ],
+      "name": "LEFT_NARROW"
+    },
+    {
+      "id": 2,
+      "kind": "original_opening",
+      "bounds": [
+        416.37662221,
+        115.835849857,
+        417.67662221,
+        122.735849857
+      ],
+      "name": "LEFT_WIDE"
+    },
+    {
+      "id": 3,
+      "kind": "original_opening",
+      "bounds": [
+        418.20139646,
+        116.835089457,
+        418.843524225,
+        125.155089457
+      ],
+      "name": "TOWER_NARROW"
+    },
+    {
+      "id": 4,
+      "kind": "original_opening",
+      "bounds": [
+        419.745798158,
+        116.835849857,
+        420.743163206,
+        125.155849857
+      ],
+      "name": "TOWER_WIDE"
+    },
+    {
+      "id": 5,
+      "kind": "original_opening",
+      "bounds": [
+        422.361486064,
+        120.435849857,
+        424.365621487,
+        122.03505424
+      ],
+      "name": "BALCONY"
+    },
+    {
+      "id": 6,
+      "kind": "arched_entrance",
+      "bounds": [
+        422.318477773,
+        115.835849857244,
+        424.408477773,
+        118.754674043
+      ]
+    }
+  ],
+  "opening_groups": 6,
+  "source_panel_groups": 6,
+  "new_components": {
+    "ground": 1,
+    "roof": 2,
+    "door": 1,
+    "window": 5,
+    "cornice": 6,
+    "mass": 1,
+    "detail": 1,
+    "pilaster": 10,
+    "railing": 1,
+    "entrance_surround": 1,
+    "ornament": 1
+  },
+  "native_blocks": 28,
+  "native_closed_contours": 23,
+  "connected_native_chains": 514,
+  "old_ornament_curves_reused": 0,
+  "original_style_blocks_reused": 0,
+  "stroke_aci": 7,
+  "lineweight_mm": 0.25,
+  "linetype": "Continuous",
+  "source_structural_line_segments_retained": 148,
+  "block_schedule": [
+    {
+      "block": "EGYPTIAN_ENTRANCE_ROOF",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        423.0681014516758,
+        123.1339722882746
+      ],
+      "entities": 19
+    },
+    {
+      "block": "EGYPTIAN_ENTRANCE",
+      "kind": "door",
+      "anchor_source_coordinates": [
+        423.3634777731356,
+        115.835849857244
+      ],
+      "entities": 16
+    },
+    {
+      "block": "EGYPTIAN_WINDOW_TOWER_WIDE",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        420.244480682,
+        116.835849857
+      ],
+      "entities": 55
+    },
+    {
+      "block": "EGYPTIAN_WINDOW_BALCONY",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        423.3635537755,
+        120.435849857
+      ],
+      "entities": 52
+    },
+    {
+      "block": "EGYPTIAN_MAIN_ROOF",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        420.2444806829585,
+        127.4505885052976
+      ],
+      "entities": 11
+    },
+    {
+      "block": "EGYPTIAN_WINDOW_TOWER_NARROW",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        418.52246034250004,
+        116.835089457
+      ],
+      "entities": 59
+    },
+    {
+      "block": "EGYPTIAN_WINDOW_LEFT_WIDE",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        417.02662221,
+        115.835849857
+      ],
+      "entities": 5
+    },
+    {
+      "block": "EGYPTIAN_WINDOW_LEFT_NARROW",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        415.205989519,
+        115.835849857
+      ],
+      "entities": 15
+    },
+    {
+      "block": "EGYPTIAN_CAVETTO_TOWER",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        420.2444806825,
+        126.735849857244
+      ],
+      "entities": 10
+    },
+    {
+      "block": "EGYPTIAN_CAVETTO_LEFT",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        415.8745532595,
+        124.325725535
+      ],
+      "entities": 4
+    },
+    {
+      "block": "EGYPTIAN_CAVETTO_RIGHT",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        427.617666986,
+        124.325725535
+      ],
+      "entities": 8
+    },
+    {
+      "block": "EGYPTIAN_CAVETTO_ENTRANCE_CANOPY",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        423.2540284092257,
+        122.433972288
+      ],
+      "entities": 4
+    },
+    {
+      "block": "EGYPTIAN_CANOPY_FRIEZE",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        423.254028409,
+        122.633972288
+      ],
+      "entities": 2
+    },
+    {
+      "block": "EGYPTIAN_CAVETTO_REAR",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        426.63577097999996,
+        126.335725535
+      ],
+      "entities": 7
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_LEFT_EDGE",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        414.447666986,
+        115.085849857244
+      ],
+      "entities": 11
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_LEFT_MIDDLE",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        415.961536755,
+        115.085849857244
+      ],
+      "entities": 11
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_TOWER_LEFT",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        417.765525458,
+        115.085849857244
+      ],
+      "entities": 10
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_TOWER_MIDDLE",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        419.279395227,
+        115.085849857244
+      ],
+      "entities": 10
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_TOWER_RIGHT",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        421.209566137,
+        115.085849857244
+      ],
+      "entities": 10
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_TOWER_REAR",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        422.723435908,
+        124.325725535
+      ],
+      "entities": 10
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_RIGHT_LEFT",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        424.917666986,
+        115.085849857244
+      ],
+      "entities": 12
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_RIGHT_MIDDLE_A",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        426.425030633,
+        115.085849857244
+      ],
+      "entities": 10
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_RIGHT_MIDDLE_B",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        428.810303338,
+        115.085849857244
+      ],
+      "entities": 11
+    },
+    {
+      "block": "EGYPTIAN_PILASTER_RIGHT_EDGE",
+      "kind": "pilaster",
+      "anchor_source_coordinates": [
+        430.317666986,
+        115.085849857244
+      ],
+      "entities": 11
+    },
+    {
+      "block": "EGYPTIAN_BALCONY_RAILING",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        423.241019407,
+        119.135849857244
+      ],
+      "entities": 63
+    },
+    {
+      "block": "EGYPTIAN_ENTRANCE_SURROUND",
+      "kind": "entrance_surround",
+      "anchor_source_coordinates": [
+        423.3634777731356,
+        115.835849857244
+      ],
+      "entities": 2
+    },
+    {
+      "block": "EGYPTIAN_CAVETTO_ENTRANCE_LINTEL",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        423.363553776,
+        118.795849857
+      ],
+      "entities": 7
+    },
+    {
+      "block": "EGYPTIAN_WINGED_SUN",
+      "kind": "ornament",
+      "anchor_source_coordinates": [
+        423.3634777731356,
+        118.275
+      ],
+      "entities": 19
+    }
+  ],
+  "architecture_review": [
+    {
+      "component": "CAVETTO_TOWER",
+      "source_envelope": [
+        417.180552321,
+        126.735849857244,
+        423.308409044,
+        127.4505885052976
+      ],
+      "base_span": [
+        417.665525458,
+        422.823435908
+      ]
+    },
+    {
+      "component": "CAVETTO_LEFT",
+      "source_envelope": [
+        413.983581061,
+        124.325725535,
+        417.765525458,
+        124.740464183
+      ],
+      "base_span": [
+        414.342836519,
+        417.765525458
+      ]
+    },
+    {
+      "component": "CAVETTO_RIGHT",
+      "source_envelope": [
+        424.453581061,
+        124.325725535,
+        430.781752911,
+        124.740464183
+      ],
+      "base_span": [
+        424.812836518,
+        430.422497453
+      ]
+    },
+    {
+      "component": "CAVETTO_BRIDGE",
+      "source_envelope": [
+        421.390389832,
+        124.325725535,
+        424.812836518,
+        124.525725535
+      ],
+      "base_span": [
+        421.540389832,
+        424.812836518
+      ]
+    },
+    {
+      "component": "CAVETTO_ENTRANCE_CANOPY",
+      "source_envelope": [
+        421.5903898324514,
+        122.433972288,
+        424.917666986,
+        122.633972288
+      ],
+      "base_span": [
+        421.890389832,
+        424.917666986
+      ]
+    },
+    {
+      "component": "CAVETTO_REAR",
+      "source_envelope": [
+        422.723435908,
+        126.335725535,
+        430.548106052,
+        126.535725535
+      ],
+      "base_span": [
+        422.723435908,
+        430.41993502
+      ]
+    },
+    {
+      "component": "PILASTER_LEFT_EDGE",
+      "axis": 414.447666986,
+      "source_base_and_top": [
+        115.085849857244,
+        124.325725535
+      ],
+      "strip_width": 0.17
+    },
+    {
+      "component": "PILASTER_LEFT_MIDDLE",
+      "axis": 415.961536755,
+      "source_base_and_top": [
+        115.085849857244,
+        124.325725535
+      ],
+      "strip_width": 0.52
+    },
+    {
+      "component": "PILASTER_TOWER_LEFT",
+      "axis": 417.765525458,
+      "source_base_and_top": [
+        115.085849857244,
+        126.735849857244
+      ],
+      "strip_width": 0.2
+    },
+    {
+      "component": "PILASTER_TOWER_MIDDLE",
+      "axis": 419.279395227,
+      "source_base_and_top": [
+        115.085849857244,
+        126.735849857244
+      ],
+      "strip_width": 0.52
+    },
+    {
+      "component": "PILASTER_TOWER_RIGHT",
+      "axis": 421.209566137,
+      "source_base_and_top": [
+        115.085849857244,
+        126.735849857244
+      ],
+      "strip_width": 0.52
+    },
+    {
+      "component": "PILASTER_TOWER_REAR",
+      "axis": 422.723435908,
+      "source_base_and_top": [
+        124.325725535,
+        126.335725535
+      ],
+      "strip_width": 0.2
+    },
+    {
+      "component": "PILASTER_RIGHT_LEFT",
+      "axis": 424.917666986,
+      "source_base_and_top": [
+        115.085849857244,
+        124.325725535
+      ],
+      "strip_width": 0.17
+    },
+    {
+      "component": "PILASTER_RIGHT_MIDDLE_A",
+      "axis": 426.425030633,
+      "source_base_and_top": [
+        115.085849857244,
+        124.325725535
+      ],
+      "strip_width": 0.52
+    },
+    {
+      "component": "PILASTER_RIGHT_MIDDLE_B",
+      "axis": 428.810303338,
+      "source_base_and_top": [
+        115.085849857244,
+        124.325725535
+      ],
+      "strip_width": 0.52
+    },
+    {
+      "component": "PILASTER_RIGHT_EDGE",
+      "axis": 430.317666986,
+      "source_base_and_top": [
+        115.085849857244,
+        124.325725535
+      ],
+      "strip_width": 0.17
+    },
+    {
+      "component": "CAVETTO_ENTRANCE_LINTEL",
+      "source_envelope": [
+        422.168629779,
+        118.795849857,
+        424.558477773,
+        119.085849857
+      ],
+      "base_span": [
+        422.208629779,
+        424.518477773
+      ]
+    }
+  ],
+  "notes": [
+    "Original rough openings, body returns, roof outlines, balcony footprint and stair datums retained.",
+    "Quoin ornament, classical cornice profiles, scalloped roof texture, turned balusters and old door ornaments replaced within the existing facade zones.",
+    "Source numeric scale and INSUNITS flag 1 retained.",
+    "Papyrus forms are architectural relief motifs; no plants, figures or invented hieroglyphic text are added.",
+    "Native geometry, uniform black strokes and independent editable components."
+  ],
+  "source_file": "واجهه تعديل 1.dwg",
+  "source_entities_retained": 148
+}
