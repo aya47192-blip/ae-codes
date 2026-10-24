@@ -1,0 +1,105 @@
+[
+  {
+    "source_envelope": [
+      389.55709494499996,
+      116.125244678,
+      390.757094944,
+      117.77523470599999
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      391.25709494499995,
+      116.125244678,
+      392.457094944,
+      117.77523470599999
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      403.589319824,
+      116.125244678,
+      404.789319824,
+      117.77523470599999
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      405.28931982399996,
+      116.125244678,
+      406.489319824,
+      117.77523470599999
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      389.55709494499996,
+      119.72524467800001,
+      390.757094944,
+      121.375234706
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      391.25709494499995,
+      119.72524467800001,
+      392.457094944,
+      121.375234706
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      403.589319824,
+      119.72524467800001,
+      404.789319824,
+      121.375234706
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      405.28931982399996,
+      119.72524467800001,
+      406.489319824,
+      121.375234706
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      393.9334246795732,
+      119.6752446784204,
+      395.1334246795736,
+      121.37524467841976
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      400.9129900890885,
+      119.6752446784204,
+      402.1129900890889,
+      121.37524467841976
+    ],
+    "treatment": "full original arched opening retained; minimal insulated frame"
+  },
+  {
+    "source_envelope": [
+      396.428470936,
+      119.96589515400001,
+      399.623207384,
+      122.950087305
+    ],
+    "treatment": "large central arched opening restored using native source circular contours",
+    "source_native_arcs": [
+      "9FA9",
+      "A38E"
+    ]
+  }
+]

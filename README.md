@@ -1,3 +1,13 @@
+# الأحدث — استدامة مع الحفاظ على شكل الواجهة V2
+
+[تحميل DWG](drawings/sustainable-shape-v2/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-shape-v2/sustainable_facade.dxf?raw=true) · [الصورة](drawings/sustainable-shape-v2/preview.png) · [PDF](drawings/sustainable-shape-v2/sustainable_facade.pdf?raw=true) · [مقارنة بالأصل وجدول البدائل](drawings/sustainable-shape-v2/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/sustainable-shape-v2/sustainable_package.zip?raw=true)
+
+عودة العقود وبروز المدخل والجزء العلوي إلى نسب الأصل، مع توظيف حقول الحليات للتظليل والخلايا الشمسية والتهوية، بدون زرع. فحص الكاد: صفر نهايات حرة، وإعادة قراءة DWG ناجحة. [تفاصيل المعالجة والفحص](drawings/sustainable-shape-v2/README_AR.md).
+
+![التصحيح](drawings/sustainable-shape-v2/preview.png)
+
+---
+
 # الأحدث — واجهة مستدامة بدون زرع من الملف الجديد
 
 [تحميل DWG](drawings/sustainable-clean-new/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-clean-new/sustainable_facade.dxf?raw=true) · [الصورة](drawings/sustainable-clean-new/preview.png) · [PDF](drawings/sustainable-clean-new/sustainable_facade.pdf?raw=true) · [قبل وبعد](drawings/sustainable-clean-new/before_after.pdf?raw=true) · [الحزمة](drawings/sustainable-clean-new/sustainable_package.zip?raw=true)

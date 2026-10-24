@@ -1,0 +1,112 @@
+{
+  "source_sha256": "8da4bc7285157e17cb1bca4b8191bbcaca76c80580b91c40d4cf2836f5e8837a",
+  "proposal": "Form-preserving sustainable retrofit V2",
+  "retained_source_arch_handles": [
+    "9FA9",
+    "A38E",
+    "A033",
+    "A417",
+    "9FE2",
+    "9FE6",
+    "A3CB",
+    "A3C7",
+    "9FBD",
+    "A3A2",
+    "9E76",
+    "A35C"
+  ],
+  "features": {
+    "ventilated_eave_sections": 2,
+    "retained_arched_windows": 10,
+    "retained_central_source_arch": 1,
+    "reused_canopy_envelopes_with_louvres": 6,
+    "columnlets_replaced_with_vertical_shading_blades": 4,
+    "PV_fields": 13
+  },
+  "window_groups": 11,
+  "arched_entrances": 2,
+  "plants": 0,
+  "coordinate_scale": 1,
+  "units_flag": 1,
+  "lineweight_mm": 0.25,
+  "ACI": 7,
+  "entity_counts": {
+    "LWPOLYLINE": 1313,
+    "ARC": 52
+  },
+  "closed_design_profiles": 170,
+  "limitations": [
+    "Architectural retrofit study, not construction certification or verified energy performance.",
+    "Existing main mass and arched opening envelopes retained; glazing divisions, frame details and applied assemblies change.",
+    "Rigid BIPV fascia modules are separate flat rectangles, not panels bent to the canopy curve.",
+    "PV orientation, structure, ventilation and drainage require technical coordination.",
+    "Source units preserved; physical scale requires confirmation.",
+    "Desktop Autodesk AutoCAD unavailable; independent DWG roundtrip passed with source-coordinate and circular-curve comparison."
+  ],
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "zero_length_straight_segments": 0,
+  "zero_sweep_arcs": 0,
+  "duplicate_straight_edge_length": 1.1368683772161603e-12,
+  "duplicate_native_arc_entities": 0,
+  "analytic_endpoint_check": {
+    "tolerance_source_units": 1e-07,
+    "free_endpoints": 0,
+    "method": "Test native line endpoints against other straight paths and analytic circular arcs, including connections to edge interiors."
+  },
+  "raster_entities": 0,
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 1365,
+    "entities_after": 1365,
+    "max_coordinate_and_curve_parameter_difference": 7.105427357601002e-14,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  },
+  "functional_replacements": [
+    [
+      "Old shingle canopy fields",
+      "Six louvred shading boxes in the same locations and depth envelopes."
+    ],
+    [
+      "Four small window columnlets",
+      "Four plain vertical solar-control blades; shared sill masses kept."
+    ],
+    [
+      "Two upper ornamental motif cards",
+      "Two BIPV infill fields; original shoulder positions retained."
+    ],
+    [
+      "Ornamental circular rosette",
+      "A circular louvred exhaust/service vent at the same centre."
+    ],
+    [
+      "Curved entrance canopy",
+      "Original curved outline retained; separate flat BIPV modules fitted inside."
+    ],
+    [
+      "Upper curved crest",
+      "Original source curves retained as a louvred service screen."
+    ],
+    [
+      "Projecting wing cornices",
+      "Shaded ventilated eaves in the same projecting bands."
+    ],
+    [
+      "Corner stone dressing strips",
+      "Ventilated rainscreen strips in the same narrow zones."
+    ],
+    [
+      "Main and small arched openings",
+      "Full arched glass restored; the previous rectangular head infills removed."
+    ],
+    [
+      "Existing roof/parapet",
+      "Original roof height retained; four low PV banks added above it."
+    ]
+  ]
+}
