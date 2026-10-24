@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "source_rough_envelope": [
+      389.55709494499996,
+      116.125244678,
+      390.757094944,
+      117.77523470599999
+    ],
+    "new_rectangular_glazing": [
+      389.55709494499996,
+      116.125244678,
+      390.757094944,
+      117.17523470649996
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 2,
+    "source_rough_envelope": [
+      391.25709494499995,
+      116.125244678,
+      392.457094944,
+      117.77523470599999
+    ],
+    "new_rectangular_glazing": [
+      391.25709494499995,
+      116.125244678,
+      392.457094944,
+      117.17523470649996
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 3,
+    "source_rough_envelope": [
+      403.589319824,
+      116.125244678,
+      404.789319824,
+      117.77523470599999
+    ],
+    "new_rectangular_glazing": [
+      403.589319824,
+      116.125244678,
+      404.789319824,
+      117.17523470599997
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 4,
+    "source_rough_envelope": [
+      405.28931982399996,
+      116.125244678,
+      406.489319824,
+      117.77523470599999
+    ],
+    "new_rectangular_glazing": [
+      405.28931982399996,
+      116.125244678,
+      406.489319824,
+      117.17523470599997
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 5,
+    "source_rough_envelope": [
+      389.55709494499996,
+      119.72524467800001,
+      390.757094944,
+      121.375234706
+    ],
+    "new_rectangular_glazing": [
+      389.55709494499996,
+      119.72524467800001,
+      390.757094944,
+      120.77523470649997
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 6,
+    "source_rough_envelope": [
+      391.25709494499995,
+      119.72524467800001,
+      392.457094944,
+      121.375234706
+    ],
+    "new_rectangular_glazing": [
+      391.25709494499995,
+      119.72524467800001,
+      392.457094944,
+      120.77523470649997
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 7,
+    "source_rough_envelope": [
+      403.589319824,
+      119.72524467800001,
+      404.789319824,
+      121.375234706
+    ],
+    "new_rectangular_glazing": [
+      403.589319824,
+      119.72524467800001,
+      404.789319824,
+      120.77523470599998
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 8,
+    "source_rough_envelope": [
+      405.28931982399996,
+      119.72524467800001,
+      406.489319824,
+      121.375234706
+    ],
+    "new_rectangular_glazing": [
+      405.28931982399996,
+      119.72524467800001,
+      406.489319824,
+      120.77523470599998
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 9,
+    "source_rough_envelope": [
+      396.428470936,
+      119.96589515400001,
+      399.623207384,
+      122.950087305
+    ],
+    "new_rectangular_glazing": [
+      396.428470936,
+      119.96589515400001,
+      399.623207384,
+      121.35271908099999
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 10,
+    "source_rough_envelope": [
+      393.9334246795732,
+      119.6752446784204,
+      395.1334246795736,
+      121.37524467841976
+    ],
+    "new_rectangular_glazing": [
+      393.9334246795732,
+      119.6752446784204,
+      395.1334246795736,
+      120.77524467841957
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  },
+  {
+    "id": 11,
+    "source_rough_envelope": [
+      400.9129900890885,
+      119.6752446784204,
+      402.1129900890889,
+      121.37524467841976
+    ],
+    "new_rectangular_glazing": [
+      400.9129900890885,
+      119.6752446784204,
+      402.1129900890889,
+      120.77524467841957
+    ],
+    "upper_head": "external opaque insulated infill; central bank BIPV if wide"
+  }
+]

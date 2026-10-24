@@ -1,3 +1,13 @@
+# الأحدث — واجهة مستدامة بدون زرع من الملف الجديد
+
+[تحميل DWG](drawings/sustainable-clean-new/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-clean-new/sustainable_facade.dxf?raw=true) · [الصورة](drawings/sustainable-clean-new/preview.png) · [PDF](drawings/sustainable-clean-new/sustainable_facade.pdf?raw=true) · [قبل وبعد](drawings/sustainable-clean-new/before_after.pdf?raw=true) · [الحزمة](drawings/sustainable-clean-new/sustainable_package.zip?raw=true)
+
+ألواح شمسية، وكاسرات شمس، وكسوة مقترحة بفراغ تهوية، وتجميع مياه سقف، بدون زرع أو بلوكات زخرفية قديمة. فحص الاتصال والحواف: صفر نهايات حرة ولا حواف ظاهرة ناقصة؛ وإعادة قراءة DWG أعطت فرق إحداثيات صفرًا. [تفاصيل التصميم والفحص وحدود المقترح](drawings/sustainable-clean-new/README_AR.md).
+
+![الواجهة المستدامة](drawings/sustainable-clean-new/preview.png)
+
+---
+
 # الأحدث — معالجة الواجهة بالطراز الباروكي
 
 [تحميل DWG](drawings/baroque-native/baroque_facade.dwg?raw=true) · [تحميل DXF](drawings/baroque-native/baroque_facade.dxf?raw=true) · [معاينة](drawings/baroque-native/preview.png) · [PDF](drawings/baroque-native/baroque_facade.pdf?raw=true) · [قبل وبعد وتفاصيل](drawings/baroque-native/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/baroque-native/baroque_package.zip?raw=true)

@@ -1,0 +1,91 @@
+{
+  "source_file": "\u0648\u0627\u062c\u0647\u0647 \u062a\u0639\u062f\u064a\u0644 1.dwg",
+  "source_sha256": "8da4bc7285157e17cb1bca4b8191bbcaca76c80580b91c40d4cf2836f5e8837a",
+  "proposal": "Contemporary sustainable retrofit with no planting",
+  "source_main_mass": [
+    388.023207384,
+    114.725244678,
+    408.023207384,
+    125.475244678
+  ],
+  "source_roof_cap": 125.770538796,
+  "new_PV_top": 126.72,
+  "coordinate_scale": 1,
+  "source_units_flag": 1,
+  "features": {
+    "window_modules": 11,
+    "PV_banks": 7,
+    "horizontal_shading_sets": 6,
+    "service_vent_openings": 2,
+    "ventilated_cladding_bays": 4,
+    "entrances": 2,
+    "roof_PV_banks": 4,
+    "rainwater_downpipes": 2
+  },
+  "source_door_bounds": [
+    [
+      396.1232073843321,
+      115.47524456137761,
+      397.7232073843313,
+      118.22873775632415
+    ],
+    [
+      398.323207384331,
+      115.47524456137761,
+      399.9232073843302,
+      118.22873775632415
+    ]
+  ],
+  "source_service_opening_bounds": [
+    [
+      393.3432073843308,
+      124.2795125124659,
+      394.1032073843326,
+      124.9033924623361
+    ],
+    [
+      401.9432073843298,
+      124.2795125124659,
+      402.7032073843316,
+      124.9033924623361
+    ]
+  ],
+  "source_rough_window_groups": 11,
+  "plants": 0,
+  "reused_classical_blocks": 0,
+  "entity_counts": {
+    "LWPOLYLINE": 1356
+  },
+  "lineweight_mm": 0.25,
+  "ACI": 7,
+  "all_layers_continuous": true,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "zero_length_segments": 0,
+  "duplicate_straight_edge_length": 1.2732925824820995e-11,
+  "free_endpoints": 0,
+  "connectivity_tolerance_source_units": 1e-09,
+  "designed_closed_profiles": 162,
+  "profiles_missing_visible_edges": [],
+  "pdf_embedded_images": 0,
+  "limitations": [
+    "Architectural retrofit concept, not construction documents or verified energy performance.",
+    "Original rough opening coordinate envelopes retained. Rectangular glazing lies below the old arch spring; opaque insulated head covers the arch zone. Glass shape and area change.",
+    "Source coordinate scale retained; physical units require confirmation.",
+    "Roof PV is a new addition above the old parapet; main mass and opening positions are retained.",
+    "Final shading geometry, PV output and drainage design require orientation, climate, structure and services coordination.",
+    "Desktop Autodesk AutoCAD unavailable; independent DWG roundtrip passed with zero coordinate difference."
+  ],
+  "DWG_roundtrip": {
+    "format": "AutoCAD 2000 (AC1015)",
+    "entities_before": 1356,
+    "entities_after": 1356,
+    "max_coordinate_and_curve_parameter_difference": 0,
+    "warnings": 0,
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "layer_color_weight_preserved": true,
+    "polyline_closed_flags_preserved": true,
+    "spline_knots_and_control_points_preserved": true
+  }
+}
