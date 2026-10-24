@@ -1,3 +1,9 @@
+## الأحدث: لوبي الفندق New Modern — تصميم جديد V4
+
+[حزمة SketchUp بالخامات](drawings/ayaa-hotel-new-modern-v4/SketchUp_New_Modern_V4.zip) · [عرض التصميم](drawings/ayaa-hotel-new-modern-v4/presentation.pdf) · [البلان](drawings/ayaa-hotel-new-modern-v4/plan.png) · [التفاصيل](drawings/ayaa-hotel-new-modern-v4/README.md)
+
+![لوبي V4](drawings/ayaa-hotel-new-modern-v4/overview.png)
+
 ## الأحدث: واجهة تجارية بطراز الهاي تك
 
 [تحميل DWG](drawings/high-tech-commercial/hightech.dwg) · [مقارنة قبل وبعد](drawings/high-tech-commercial/before_after.pdf) · [الحزمة](drawings/high-tech-commercial/hightech_package.zip) · [التفاصيل والفحص](drawings/high-tech-commercial/README.md)

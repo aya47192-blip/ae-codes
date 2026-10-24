@@ -1,0 +1,311 @@
+[
+  {
+    "old": "Source reception desk",
+    "source_groups": [
+      160
+    ],
+    "new": "NEW_Reception_New_Stone_Desk"
+  },
+  {
+    "old": "Source bar and four stools",
+    "source_groups": [
+      252,
+      253,
+      254,
+      255,
+      256
+    ],
+    "new": "NEW_Low_Beverage_Bar plus four NEW_Bar_Pedestal_Stool assemblies, beverage equipment and drinkware"
+  },
+  {
+    "old": "Source flower floor pattern",
+    "source_groups": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "new": "NEW_CENTRE_ continuous stone-and-metal ribbons on unchanged raised platform"
+  },
+  {
+    "old": "Source entrance artwork",
+    "source_groups": [
+      193
+    ],
+    "new": "NEW_Entrance_Abstract_Sculpture"
+  },
+  {
+    "old": "Source wave wall panels",
+    "source_groups": [
+      195
+    ],
+    "new": "NEW_Rear_Abstract_Feature_Wall"
+  },
+  {
+    "old": "Source reception wall panels",
+    "source_groups": [
+      202
+    ],
+    "new": "NEW_Reception_Backdrop"
+  },
+  {
+    "old": "Source framed wall artwork",
+    "source_groups": [
+      216
+    ],
+    "new": "NEW_Side_Abstract_Triptych"
+  },
+  {
+    "old": "Source decorative planters",
+    "source_groups": [
+      176,
+      247,
+      248
+    ],
+    "new": "NEW_Side_Console_Planter and two NEW_Rear_Planter assemblies"
+  },
+  {
+    "old": "Source seating clusters",
+    "source_groups": [
+      189,
+      190,
+      191,
+      241,
+      242,
+      243,
+      244,
+      249,
+      250
+    ],
+    "new": "Six bucket armchairs, four cloud sofas, four ottomans, two club chairs and individual tables in the same layout zones"
+  },
+  {
+    "old": "Source column wood ribs and light details",
+    "source_groups": [
+      180,
+      183,
+      184,
+      217,
+      218,
+      219,
+      220,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      237,
+      238,
+      239,
+      240,
+      245,
+      246
+    ],
+    "new": "Exact original column cores with new smooth stone finish, flush bronze inlays and a single reveal; no source wood-rib meshes retained"
+  },
+  {
+    "old": "Source wall lamps",
+    "new": [
+      {
+        "source_groups": [
+          196,
+          197,
+          204,
+          205,
+          206,
+          207,
+          209
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_1",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          198,
+          199,
+          200,
+          201,
+          203,
+          208,
+          210
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_2",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          221
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_3",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          222
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_4",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          223
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_5",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          224
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_6",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          257
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_7",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          258
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_8",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          259
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_9",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          260
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_10",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          261
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_11",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          262
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_12",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          263
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_13",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          264
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_14",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          265
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_15",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          266
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_16",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          267
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_17",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          268
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_18",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          269
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_19",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          270
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_20",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          271
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_21",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          272
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_22",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          273
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_23",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          274
+        ],
+        "new_component": "NEW_Wall_Opal_Sconce_24",
+        "role": "wall_light"
+      },
+      {
+        "source_groups": [
+          176
+        ],
+        "new_component": "NEW_Side_Console_Planter",
+        "role": "decorative_planter"
+      }
+    ]
+  },
+  {
+    "old": "Previous option square pendants",
+    "new": "Three disc pendants over the centre and three cylindrical pendants at the bar"
+  }
+]

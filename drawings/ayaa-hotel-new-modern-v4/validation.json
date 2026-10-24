@@ -1,0 +1,82 @@
+{
+  "architecture": {
+    "protected_reference_meshes_checked": 641,
+    "changed_coordinates_or_face_counts": [],
+    "centre_step_levels_m": [
+      0.22,
+      0.39,
+      0.56
+    ],
+    "entrance_step_levels_m": [
+      0.22,
+      0.3065
+    ],
+    "column_meshes_preserved": 22
+  },
+  "layout": {
+    "furniture_groups_checked": 36,
+    "planting_groups_checked": 95,
+    "furniture_collisions": [],
+    "furniture_outside_floor": [],
+    "opening_obstructions": [],
+    "opening_zones_checked": [
+      "main_entrance",
+      "front_side_door",
+      "west_upper",
+      "west_middle_1",
+      "west_middle_2",
+      "west_lower",
+      "rear_left_glazing",
+      "rear_right_glazing",
+      "east_rear_opening",
+      "east_service_1",
+      "east_service_2"
+    ],
+    "centre_platform_original_risers_m": [
+      0.17,
+      0.17
+    ],
+    "main_entrance_original_riser_m": 0.0865,
+    "bar_top_above_main_floor_m": 0.8,
+    "bar_top_absolute_z_m": 1.02,
+    "adjacent_planter_lip_absolute_z_m": 1.04,
+    "bar_staff_clear_gap_m": 0.96,
+    "rear_seating_clear_glazing_lane_m_approx": 1.1,
+    "notes": [
+      "Seating clusters follow reference zones; rear sofas are set inward to leave through routes at blue openings.",
+      "Low furniture retained at windows. No tall backbar added. The reception wall finish replaces the existing decorative wall panel, in the same original zone."
+    ]
+  },
+  "floor": {
+    "main": {
+      "surface_area_m2": 616.0591180532574,
+      "uncovered_area_m2": 0.0,
+      "overlap_m2": 1.1368683772161603e-13,
+      "finish_z_m": 0.224
+    },
+    "centre": {
+      "surface_area_m2": 43.45202492567478,
+      "uncovered_area_m2": 0.0,
+      "overlap_m2": 0,
+      "finish_z_m": 0.563
+    }
+  },
+  "new_independent_asset_roots": 187,
+  "source_meshes_removed_and_replaced": 4314,
+  "old_flower_pattern_meshes_reused": 0,
+  "old_wall_lighting_meshes_reused": 0,
+  "DAE": {
+    "geometry_instances": 1577,
+    "triangles": 341348,
+    "max_world_bounds_error_m": 1.52587890625e-05,
+    "texture_images": 9,
+    "missing_textures": [],
+    "new_assembly_nodes_present": true,
+    "unit_m": 1.0
+  },
+  "limitations": [
+    "DAE plus texture maps is intended for import into SketchUp; this is not a native SKP export.",
+    "SketchUp Desktop unavailable; geometry, grouping, materials and UV references were verified by independent reloading.",
+    "Ruby helper converts imported NEW_ groups to native SketchUp components; helper was not run inside SketchUp here."
+  ]
+}

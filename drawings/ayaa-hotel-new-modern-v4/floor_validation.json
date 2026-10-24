@@ -1,0 +1,14 @@
+{
+  "main": {
+    "surface_area_m2": 616.0591180532574,
+    "uncovered_area_m2": 0.0,
+    "overlap_m2": 1.1368683772161603e-13,
+    "finish_z_m": 0.224
+  },
+  "centre": {
+    "surface_area_m2": 43.45202492567478,
+    "uncovered_area_m2": 0.0,
+    "overlap_m2": 0,
+    "finish_z_m": 0.563
+  }
+}

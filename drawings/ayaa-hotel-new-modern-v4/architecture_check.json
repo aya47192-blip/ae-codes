@@ -1,0 +1,14 @@
+{
+  "protected_reference_meshes_checked": 641,
+  "changed_coordinates_or_face_counts": [],
+  "centre_step_levels_m": [
+    0.22,
+    0.39,
+    0.56
+  ],
+  "entrance_step_levels_m": [
+    0.22,
+    0.3065
+  ],
+  "column_meshes_preserved": 22
+}
