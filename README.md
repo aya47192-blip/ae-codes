@@ -1,3 +1,9 @@
+## الأحدث: واجهة إسلامية معاصرة بروح مملوكية
+
+[تحميل ملف الأوتوكاد DWG](drawings/islamic-contemporary-mamluk/mamluk.dwg) · [الحزمة كاملة](drawings/islamic-contemporary-mamluk/mamluk_full_package.zip) · [قبل وبعد PDF](drawings/islamic-contemporary-mamluk/before_after.pdf) · [التفاصيل والفحص](drawings/islamic-contemporary-mamluk/README.md)
+
+![الواجهة الإسلامية المعاصرة](drawings/islamic-contemporary-mamluk/preview.png)
+
 ## الأحدث: أربع واجهات — قوطي، يوناني إحيائي، أندلسي، وآرت نوفو
 
 [تحميل الحزمة الكاملة DWG + DXF + PDF](drawings/four-elevations-restyled/four_styles_full_package.zip) · [DWG مجمّع](drawings/four-elevations-restyled/four_facades.dwg) · [قبل / بعد PDF](drawings/four-elevations-restyled/before_after_all.pdf) · [التفاصيل والملفات المنفصلة](drawings/four-elevations-restyled/README.md)

@@ -1,0 +1,6546 @@
+{
+  "retained": [
+    {
+      "handle": "AD49",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD4A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD4B",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD4C",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD4D",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD4E",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD4F",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD50",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD51",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD52",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD53",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD54",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD55",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD56",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD57",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD58",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD59",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD5A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD5D",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD5E",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD5F",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD60",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD61",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD62",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD63",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD64",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD65",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD66",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD67",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD68",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD69",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD6A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD6B",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD6C",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD6D",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD6E",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD74",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD75",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD76",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD77",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD78",
+      "layer": "ELEV",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD79",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD7A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD7B",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD7C",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD7D",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD7E",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD7F",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD80",
+      "layer": "GLASS",
+      "type": "LINE",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD81",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD82",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD83",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD84",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD85",
+      "layer": "GLASS",
+      "type": "ARC",
+      "asset": "ORIGINAL_DOME"
+    },
+    {
+      "handle": "AD86",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD87",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD88",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD89",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD8A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD8B",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD8C",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD8D",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD8E",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD8F",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD90",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AD91",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD92",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD93",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD94",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD95",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD96",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD97",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "AD9A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_LEFT"
+    },
+    {
+      "handle": "ADCD",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD0",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD1",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD2",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD3",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD4",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD5",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD6",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_3_RIGHT"
+    },
+    {
+      "handle": "ADD7",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADEA",
+      "layer": "ELEV",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADEB",
+      "layer": "ST",
+      "type": "LWPOLYLINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "ADEC",
+      "layer": "ELEV",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADED",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADEE",
+      "layer": "GLASS",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADEF",
+      "layer": "GLASS",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADF0",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADF4",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "ADF5",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "ADF6",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE08",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE09",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE0A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE0B",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE0C",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE0D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE0E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE0F",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE10",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE31",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE32",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE4D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE4E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE6F",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE70",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE71",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE72",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "AE73",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_3"
+    },
+    {
+      "handle": "AE74",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE75",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE76",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE77",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_3"
+    },
+    {
+      "handle": "AE83",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE84",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE93",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE94",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE95",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE96",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE97",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE98",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE99",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AE9A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AEA9",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AEAA",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AEB2",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AEB7",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEB8",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEB9",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEBA",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEBB",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AEBC",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AEBD",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEBE",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEBF",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEE0",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEE1",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEFC",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AEFD",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF1E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF1F",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF20",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF21",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF22",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF23",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF24",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF25",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF26",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_1"
+    },
+    {
+      "handle": "AF38",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AF39",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AF3A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF3E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF3F",
+      "layer": "GLASS",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF40",
+      "layer": "GLASS",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF41",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF42",
+      "layer": "ELEV",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF43",
+      "layer": "ST",
+      "type": "LWPOLYLINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AF44",
+      "layer": "ELEV",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF57",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_1"
+    },
+    {
+      "handle": "AF58",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF59",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF5A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF5B",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF5C",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF5D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF5E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF61",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_LEFT"
+    },
+    {
+      "handle": "AF94",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF97",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF98",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF99",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF9A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF9B",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF9C",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF9D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_1_RIGHT"
+    },
+    {
+      "handle": "AF9E",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AF9F",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AFA0",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AFA1",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AFA2",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AFA3",
+      "layer": "ST",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "AFA4",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFA5",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFA6",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFA7",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFA8",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFA9",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFAA",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFAB",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFAC",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFAD",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "AFAE",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFAF",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB0",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB1",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB2",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB3",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB4",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB5",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB6",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB7",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB8",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "AFB9",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_RIGHT"
+    },
+    {
+      "handle": "B06E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B06F",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B070",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B071",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B072",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B073",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B074",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B075",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B076",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B077",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B078",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B079",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "INLAY_LEFT"
+    },
+    {
+      "handle": "B08B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B096",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B097",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B098",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B099",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B09A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B09B",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B09C",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B09D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B09E",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B09F",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B0C0",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B0C1",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B0DC",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B0DD",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B0FE",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B0FF",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B100",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B101",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B102",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B103",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B104",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B105",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B106",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B109",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B13B",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B13D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B140",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B141",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B142",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B143",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B144",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B145",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B146",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B147",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_RIGHT"
+    },
+    {
+      "handle": "B148",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "LOWER_WINDOW_2_LEFT"
+    },
+    {
+      "handle": "B149",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B14A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B14B",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B15E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B15F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B160",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B161",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B162",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B163",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B164",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B165",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B166",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B167",
+      "layer": "DLIM",
+      "type": "LINE",
+      "asset": "SOURCE_PORTAL_DEPTH"
+    },
+    {
+      "handle": "B176",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B177",
+      "layer": "ELEV",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B178",
+      "layer": "ST",
+      "type": "LWPOLYLINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B179",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B17A",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B17B",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B17C",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B17D",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B17E",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B17F",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B180",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B181",
+      "layer": "ELEV",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B182",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B183",
+      "layer": "GLASS",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B184",
+      "layer": "GLASS",
+      "type": "LWPOLYLINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B185",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B189",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "ENTRANCE_DOOR_2"
+    },
+    {
+      "handle": "B18A",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B18B",
+      "layer": "WALL",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B18C",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B18D",
+      "layer": "ELEV",
+      "type": "LINE",
+      "asset": "UPPER_WINDOW_2"
+    },
+    {
+      "handle": "B198",
+      "layer": "ELEVAT",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B199",
+      "layer": "ELEVAT",
+      "type": "LWPOLYLINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "B19A",
+      "layer": "ELEVAT",
+      "type": "LINE",
+      "asset": "SOURCE_ARCHITECTURE"
+    }
+  ],
+  "replaced": [
+    {
+      "handle": "AD98",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AD99",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AD9B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AD9C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AD9D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AD9E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AD9F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADA9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADAA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADAB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADAC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADAD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADAE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADAF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADB9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADBA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADBB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADBC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADBD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADBE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADBF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADC9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADCA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADCB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADCC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADCE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADCF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADDA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADDB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADDC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADDD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADDE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADDF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADE9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADF1",
+      "layer": "FRAME",
+      "type": "LWPOLYLINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADF2",
+      "layer": "FRAME",
+      "type": "LWPOLYLINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADF3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADF7",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADF8",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADF9",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADFA",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADFB",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADFC",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADFD",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADFE",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "ADFF",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE00",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE01",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE02",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE03",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE04",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE05",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE06",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE07",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE11",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE12",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE13",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE14",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE15",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE16",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE17",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE18",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE19",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE1A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE1B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE1C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE1D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE1E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE1F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE20",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE21",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE22",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE23",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE24",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE25",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE26",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE27",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE28",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE29",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE2A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE2B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE2C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE2D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE2E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE2F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE30",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE33",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE34",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE35",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE36",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE37",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE38",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE39",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE3A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE3B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE3C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE3D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE3E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE3F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE40",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE41",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE42",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE43",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE44",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE45",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE46",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE47",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE48",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE49",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE4A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE4B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE4C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE4F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE50",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE51",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE52",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE53",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE54",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE55",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE56",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE57",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE58",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE59",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE5A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE5B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE5C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE5D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE5E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE5F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE60",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE61",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE62",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE63",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE64",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE65",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE66",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE67",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE68",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE69",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE6A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE6B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE6C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE6D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE6E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE78",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE79",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE7A",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE7B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE7C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE7D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE7E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE7F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE80",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE81",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE82",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE85",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE86",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE87",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE88",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE89",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE8A",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE8B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE8C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE8D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE8E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE8F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE90",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE91",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE92",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE9B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE9C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE9D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE9E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AE9F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA0",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA1",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA2",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA3",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA4",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA5",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA6",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA7",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEA8",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEAB",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEAC",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEAD",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEAE",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEAF",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEB0",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEB1",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEB3",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEB4",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEB5",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEB6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEC9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AECA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AECB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AECC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AECD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AECE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AECF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AED9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEDA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEDB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEDC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEDD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEDE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEDF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEE9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEEA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEEB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEEC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEED",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEEE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEEF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEF9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEFA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEFB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEFE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AEFF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF00",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF01",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF02",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF03",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF04",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF05",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF06",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF07",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF08",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF09",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF0A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF0B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF0C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF0D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF0E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF0F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF10",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF11",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF12",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF13",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF14",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF15",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF16",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF17",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF18",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF19",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF1A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF1B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF1C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF1D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF27",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF28",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF29",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF2A",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF2B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF2C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF2D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF2E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF2F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF30",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF31",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF32",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF33",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF34",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF35",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF36",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF37",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF3B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF3C",
+      "layer": "FRAME",
+      "type": "LWPOLYLINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF3D",
+      "layer": "FRAME",
+      "type": "LWPOLYLINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF45",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF46",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF47",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF48",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF49",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF4A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF4B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF4C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF4D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF4E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF4F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF50",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF51",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF52",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF53",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF54",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF5F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF60",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF62",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF63",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF64",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF65",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF66",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF67",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF68",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF69",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF6A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF6B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF6C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF6D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF6E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF6F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF70",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF71",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF72",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF73",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF74",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF75",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF76",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF77",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF78",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF79",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF7A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF7B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF7C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF7D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF7E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF7F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF80",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF81",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF82",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF83",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF84",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF85",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF86",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF87",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF88",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF89",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF8A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF8B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF8C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF8D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF8E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF8F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF90",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF91",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF92",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF93",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF95",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AF96",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFBA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFBB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFBC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFBD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFBE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFBF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFC9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFCA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFCB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFCC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFCD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFCE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFCF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFD9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFDA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFDB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFDC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFDD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFDE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFDF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFE9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFEA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFEB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFEC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFED",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFEE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFEF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFF9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFFA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFFB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFFC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFFD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFFE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "AFFF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B000",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B001",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B002",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B003",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B004",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B005",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B006",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B007",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B008",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B009",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B00A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B00B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B00C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B00D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B00E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B00F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B010",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B011",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B012",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B013",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B014",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B015",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B016",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B017",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B018",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B019",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B01A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B01B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B01C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B01D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B01E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B01F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B020",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B021",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B022",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B023",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B024",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B025",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B026",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B027",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B028",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B029",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B02A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B02B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B02C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B02D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B02E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B02F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B030",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B031",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B032",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B033",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B034",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B035",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B036",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B037",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B038",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B039",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B03A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B03B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B03C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B03D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B03E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B03F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B040",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B041",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B042",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B043",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B044",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B045",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B046",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B047",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B048",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B049",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B04A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B04B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B04C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B04D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B04E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B04F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B050",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B051",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B052",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B053",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B054",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B055",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B056",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B057",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B058",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B059",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B05A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B05B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B05C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B05D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B05E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B05F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B060",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B061",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B062",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B063",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B064",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B065",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B066",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B067",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B068",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B069",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B06A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B06B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B06C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B06D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B07A",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B07B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B07C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B07D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B07E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B07F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B080",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B081",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B082",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B083",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B084",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B085",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B086",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B087",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B088",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B089",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B08A",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B08C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B08D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B08E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B08F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B090",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B091",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B092",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B093",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B094",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B095",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0A9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0AA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0AB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0AC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0AD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0AE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0AF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0B9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0BA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0BB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0BC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0BD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0BE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0BF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0C9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0CA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0CB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0CC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0CD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0CE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0CF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0D9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0DA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0DB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0DE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0DF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0E9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0EA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0EB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0EC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0ED",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0EE",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0EF",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F0",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F1",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F2",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F3",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F4",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F5",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F6",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F7",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F8",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0F9",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0FA",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0FB",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0FC",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B0FD",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B107",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B108",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B10A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B10B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B10C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B10D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B10E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B10F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B110",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B111",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B112",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B113",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B114",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B115",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B116",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B117",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B118",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B119",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B11A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B11B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B11C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B11D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B11E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B11F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B120",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B121",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B122",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B123",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B124",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B125",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B126",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B127",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B128",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B129",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B12A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B12B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B12C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B12D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B12E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B12F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B130",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B131",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B132",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B133",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B134",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B135",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B136",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B137",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B138",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B139",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B13A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B13C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B13E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B13F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B14E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B14F",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B150",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B151",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B152",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B153",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B154",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B155",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B156",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B157",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B158",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B159",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B15A",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B15B",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B15C",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B15D",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B168",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B169",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B16A",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B16B",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B16C",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B16D",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B16E",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B16F",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B170",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B171",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B172",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B173",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B174",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B175",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B186",
+      "layer": "FRAME",
+      "type": "LWPOLYLINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B187",
+      "layer": "FRAME",
+      "type": "LWPOLYLINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B188",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B18E",
+      "layer": "GLASS",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B192",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B193",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B194",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B195",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B196",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    },
+    {
+      "handle": "B197",
+      "layer": "DLIM",
+      "type": "LINE",
+      "reason": "old triangular glazing, cladding repetition, handles or annotation detail"
+    }
+  ]
+}

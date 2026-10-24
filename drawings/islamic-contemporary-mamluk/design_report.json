@@ -1,0 +1,561 @@
+{
+  "style": "Islamic contemporary with Mamluk-inspired details",
+  "source_sheet_position": "single supplied facade",
+  "source_unit_flag": 1,
+  "numeric_coordinate_scale_preserved": true,
+  "opening_schedule": [
+    {
+      "component": "UPPER_WINDOW_1",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        430.0905272202062,
+        118.28177269736081,
+        432.30052722020616,
+        120.4917726973608
+      ]
+    },
+    {
+      "component": "UPPER_WINDOW_1",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        432.4005272202062,
+        118.28177269736081,
+        434.61052722020617,
+        120.4917726973608
+      ]
+    },
+    {
+      "component": "ENTRANCE_DOOR_1",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        431.2005272202062,
+        115.01177269736081,
+        432.30052722020616,
+        117.4117726973608
+      ]
+    },
+    {
+      "component": "ENTRANCE_DOOR_1",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        432.4005272202062,
+        115.01177269736081,
+        433.50052722020615,
+        117.4117726973608
+      ]
+    },
+    {
+      "component": "LOWER_WINDOW_1_LEFT",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        430.1180936496029,
+        114.9617726973607,
+        430.810282059198,
+        117.4617726973608
+      ]
+    },
+    {
+      "component": "LOWER_WINDOW_1_RIGHT",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        433.8907723812147,
+        114.9617726973607,
+        434.58296079081,
+        117.4617726973608
+      ]
+    },
+    {
+      "component": "UPPER_WINDOW_2",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        437.1740723593398,
+        118.28177269736081,
+        439.38407235933977,
+        120.4917726973608
+      ]
+    },
+    {
+      "component": "UPPER_WINDOW_2",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        439.4840723593398,
+        118.28177269736081,
+        441.69407235933977,
+        120.4917726973608
+      ]
+    },
+    {
+      "component": "ENTRANCE_DOOR_2",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        438.2840723593398,
+        115.01177269736081,
+        439.38407235933977,
+        117.4117726973608
+      ]
+    },
+    {
+      "component": "ENTRANCE_DOOR_2",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        439.4840723593398,
+        115.01177269736081,
+        440.58407235933976,
+        117.4117726973608
+      ]
+    },
+    {
+      "component": "LOWER_WINDOW_2_LEFT",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        437.2016387887363,
+        114.9617726973607,
+        437.8938271983316,
+        117.4617726973608
+      ]
+    },
+    {
+      "component": "LOWER_WINDOW_2_RIGHT",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        440.9743175203482,
+        114.9617726973607,
+        441.6665059299433,
+        117.4617726973608
+      ]
+    },
+    {
+      "component": "UPPER_WINDOW_3",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        444.2576174984735,
+        118.28177269736081,
+        446.4676174984735,
+        120.4917726973608
+      ]
+    },
+    {
+      "component": "UPPER_WINDOW_3",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        446.5676174984735,
+        118.28177269736081,
+        448.7776174984735,
+        120.4917726973608
+      ]
+    },
+    {
+      "component": "ENTRANCE_DOOR_3",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        445.3676174984735,
+        115.01177269736081,
+        446.4676174984735,
+        117.4117726973608
+      ]
+    },
+    {
+      "component": "ENTRANCE_DOOR_3",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        446.5676174984735,
+        115.01177269736081,
+        447.6676174984735,
+        117.4117726973608
+      ]
+    },
+    {
+      "component": "LOWER_WINDOW_3_LEFT",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        444.2851839278698,
+        114.9617726973607,
+        444.9773723374651,
+        117.4617726973608
+      ]
+    },
+    {
+      "component": "LOWER_WINDOW_3_RIGHT",
+      "role": "pointed insert within the unchanged source opening",
+      "bounds": [
+        448.0578626594818,
+        114.9617726973607,
+        448.7500510690768,
+        117.4617726973608
+      ]
+    }
+  ],
+  "opening_groups": 18,
+  "source_panel_groups": 18,
+  "new_components": {
+    "mass": 3,
+    "dome": 1,
+    "window": 9,
+    "door": 3,
+    "panel": 2,
+    "handle": 6,
+    "detail": 3,
+    "frieze": 2,
+    "muqarnas": 3,
+    "portal_relief": 1,
+    "vent": 6
+  },
+  "native_blocks": 36,
+  "native_closed_contours": 24,
+  "connected_native_chains": 550,
+  "old_ornament_curves_reused": 0,
+  "original_style_blocks_reused": 0,
+  "stroke_aci": 7,
+  "lineweight_mm": 0.25,
+  "linetype": "Continuous",
+  "source_structural_line_segments_retained": 289,
+  "block_schedule": [
+    {
+      "block": "MAMLUK_ORIGINAL_DOME",
+      "kind": "dome",
+      "anchor_source_coordinates": [
+        439.4340723593398,
+        123.0117726973608
+      ],
+      "entities": 15
+    },
+    {
+      "block": "MAMLUK_LOWER_WINDOW_3_LEFT",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        444.09518392787004,
+        114.9117726973608
+      ],
+      "entities": 18
+    },
+    {
+      "block": "MAMLUK_LOWER_WINDOW_3_RIGHT",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        448.4039568642792,
+        114.9117726973608
+      ],
+      "entities": 18
+    },
+    {
+      "block": "MAMLUK_ENTRANCE_DOOR_3",
+      "kind": "door",
+      "anchor_source_coordinates": [
+        446.5176174984735,
+        114.6117726973608
+      ],
+      "entities": 27
+    },
+    {
+      "block": "MAMLUK_UPPER_WINDOW_3",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        446.5176174984735,
+        118.2117726973609
+      ],
+      "entities": 30
+    },
+    {
+      "block": "MAMLUK_UPPER_WINDOW_1",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        432.3505272202062,
+        118.2117726973609
+      ],
+      "entities": 30
+    },
+    {
+      "block": "MAMLUK_ENTRANCE_DOOR_1",
+      "kind": "door",
+      "anchor_source_coordinates": [
+        432.3505272202062,
+        114.6117726973608
+      ],
+      "entities": 27
+    },
+    {
+      "block": "MAMLUK_LOWER_WINDOW_1_LEFT",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        429.92809364960317,
+        114.9117726973608
+      ],
+      "entities": 18
+    },
+    {
+      "block": "MAMLUK_LOWER_WINDOW_1_RIGHT",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        434.2368665860122,
+        114.9117726973608
+      ],
+      "entities": 18
+    },
+    {
+      "block": "MAMLUK_INLAY_RIGHT",
+      "kind": "panel",
+      "anchor_source_coordinates": [
+        442.8340723593404,
+        115.4117726973609
+      ],
+      "entities": 26
+    },
+    {
+      "block": "MAMLUK_INLAY_LEFT",
+      "kind": "panel",
+      "anchor_source_coordinates": [
+        436.034072359339,
+        115.4117726973609
+      ],
+      "entities": 26
+    },
+    {
+      "block": "MAMLUK_UPPER_WINDOW_2",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        439.4340723593398,
+        118.2117726973609
+      ],
+      "entities": 30
+    },
+    {
+      "block": "MAMLUK_LOWER_WINDOW_2_RIGHT",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        441.85650592994307,
+        114.9117726973608
+      ],
+      "entities": 19
+    },
+    {
+      "block": "MAMLUK_LOWER_WINDOW_2_LEFT",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        437.54773299353405,
+        114.9117726973608
+      ],
+      "entities": 19
+    },
+    {
+      "block": "MAMLUK_ENTRANCE_DOOR_2",
+      "kind": "door",
+      "anchor_source_coordinates": [
+        439.4340723593398,
+        114.6117726973608
+      ],
+      "entities": 27
+    },
+    {
+      "block": "MAMLUK_HANDLE_1_LEFT",
+      "kind": "handle",
+      "anchor_source_coordinates": [
+        432.16420672892616,
+        116.04498362077956
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_HANDLE_1_RIGHT",
+      "kind": "handle",
+      "anchor_source_coordinates": [
+        432.5368477114862,
+        116.04498362077956
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_SPANDREL_JOINTS_1",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        432.3505272202062,
+        114.6117726973608
+      ],
+      "entities": 4
+    },
+    {
+      "block": "MAMLUK_HANDLE_2_LEFT",
+      "kind": "handle",
+      "anchor_source_coordinates": [
+        439.24775186805977,
+        116.04498362077956
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_HANDLE_2_RIGHT",
+      "kind": "handle",
+      "anchor_source_coordinates": [
+        439.6203928506198,
+        116.04498362077956
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_SPANDREL_JOINTS_2",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        439.4340723593398,
+        114.6117726973608
+      ],
+      "entities": 4
+    },
+    {
+      "block": "MAMLUK_HANDLE_3_LEFT",
+      "kind": "handle",
+      "anchor_source_coordinates": [
+        446.3312970071935,
+        116.04498362077956
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_HANDLE_3_RIGHT",
+      "kind": "handle",
+      "anchor_source_coordinates": [
+        446.7039379897535,
+        116.04498362077956
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_SPANDREL_JOINTS_3",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        446.5176174984735,
+        114.6117726973608
+      ],
+      "entities": 4
+    },
+    {
+      "block": "MAMLUK_FRIEZE_1",
+      "kind": "frieze",
+      "anchor_source_coordinates": [
+        432.3505272202062,
+        121.0817726973608
+      ],
+      "entities": 18
+    },
+    {
+      "block": "MAMLUK_MUQARNAS_CORNICE_1",
+      "kind": "muqarnas",
+      "anchor_source_coordinates": [
+        432.3505272202062,
+        120.6917726973608
+      ],
+      "entities": 24
+    },
+    {
+      "block": "MAMLUK_FRIEZE_3",
+      "kind": "frieze",
+      "anchor_source_coordinates": [
+        446.5176174984735,
+        121.0817726973608
+      ],
+      "entities": 18
+    },
+    {
+      "block": "MAMLUK_MUQARNAS_CORNICE_3",
+      "kind": "muqarnas",
+      "anchor_source_coordinates": [
+        446.5176174984735,
+        120.6917726973608
+      ],
+      "entities": 24
+    },
+    {
+      "block": "MAMLUK_CENTRAL_IWAN_RELIEF",
+      "kind": "portal_relief",
+      "anchor_source_coordinates": [
+        439.4340723593398,
+        120.6417726973608
+      ],
+      "entities": 4
+    },
+    {
+      "block": "MAMLUK_CENTRAL_MUQARNAS_INNER",
+      "kind": "muqarnas",
+      "anchor_source_coordinates": [
+        439.4340723593398,
+        120.90177269736081
+      ],
+      "entities": 12
+    },
+    {
+      "block": "MAMLUK_VENT_1",
+      "kind": "vent",
+      "anchor_source_coordinates": [
+        430.2936727746791,
+        122.3617726973608
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_VENT_2",
+      "kind": "vent",
+      "anchor_source_coordinates": [
+        430.6136727746792,
+        122.3617726973608
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_VENT_3",
+      "kind": "vent",
+      "anchor_source_coordinates": [
+        430.93367277467917,
+        122.3617726973608
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_VENT_4",
+      "kind": "vent",
+      "anchor_source_coordinates": [
+        447.93447194399965,
+        122.3617726973608
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_VENT_5",
+      "kind": "vent",
+      "anchor_source_coordinates": [
+        448.25447194399965,
+        122.3617726973608
+      ],
+      "entities": 1
+    },
+    {
+      "block": "MAMLUK_VENT_6",
+      "kind": "vent",
+      "anchor_source_coordinates": [
+        448.57447194399964,
+        122.3617726973608
+      ],
+      "entities": 1
+    }
+  ],
+  "architecture_review": [
+    {
+      "protected_source_entities": 289,
+      "source_wall_and_step_layers_copied_without_reconstruction": true,
+      "source_portal_returns_preserved": true,
+      "source_opening_frames_preserved": true,
+      "source_dome_curves_preserved": true,
+      "source_unit_flag": 1
+    }
+  ],
+  "notes": [
+    "Original wall geometry, source opening frames, source dome and steps retained as native geometry.",
+    "New pointed inserts are inside the original openings, not new or moved rough openings.",
+    "Source coordinate scale and source unit flag INSUNITS=1 retained.",
+    "Architectural frame geometry is modelspace; complete window/door components and details are editable independent blocks.",
+    "No plants, raster images, gray tones or broken linetypes."
+  ],
+  "source_file": "واجهه تعديل 1.dwg",
+  "source_structural_entities_retained": 289,
+  "note": "Source architecture and neutral opening frames are retained exactly; only the decorative vocabulary is replaced. Pointed sash inserts do not change the rough opening boundaries.",
+  "new_glazing_inserts": 18,
+  "complete_existing_glazed_openings": 12,
+  "existing_roof_vents": 6
+}

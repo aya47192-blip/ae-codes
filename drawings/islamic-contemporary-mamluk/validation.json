@@ -1,0 +1,79 @@
+{
+  "source_units_flag": 1,
+  "output_units_flag": 1,
+  "numeric_coordinate_scale": 1,
+  "source_entities_verified": 289,
+  "source_curve_samples_checked": 3319,
+  "source_geometry_max_distance": 1.0051681000669785e-07,
+  "source_geometry_mismatches": [],
+  "retained_layers": {
+    "WALL": 70,
+    "GLASS": 20,
+    "ELEV": 159,
+    "ST": 15,
+    "DLIM": 22,
+    "ELEVAT": 3
+  },
+  "join_tolerance_source_units": 2e-06,
+  "max_valid_join_distance": 1.003264261578999e-07,
+  "unjoined_endpoints": [],
+  "intentional_ground_extensions": [
+    {
+      "entity": 32,
+      "point": [
+        458.468008868,
+        114.616341877
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 44,
+      "point": [
+        425.178891589,
+        114.616341877
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 69,
+      "point": [
+        425.178891589,
+        114.422378254
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 69,
+      "point": [
+        458.468008868,
+        114.422378254
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 70,
+      "point": [
+        425.178891589,
+        114.519360066
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 70,
+      "point": [
+        458.468008868,
+        114.519360066
+      ],
+      "reason": "original ground-line extension"
+    }
+  ],
+  "duplicate_native_primitives": [],
+  "zero_length_entities": [],
+  "straight_overlap_length_numerical_residual": 3.410605131648481e-13,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "editable_components": 36,
+  "lineweight_mm": 0.25,
+  "stroke_color": "ACI7 black on white",
+  "no_plants": true
+}
