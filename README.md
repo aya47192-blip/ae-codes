@@ -1,3 +1,13 @@
+# الأحدث — الواجهة الأصلية بتفاصيل إسلامية
+
+[تحميل DWG](drawings/islamic-original-adaptation/islamic_facade.dwg?raw=true) · [تحميل DXF](drawings/islamic-original-adaptation/islamic_facade.dxf?raw=true) · [معاينة](drawings/islamic-original-adaptation/preview.png) · [قبل وبعد PDF](drawings/islamic-original-adaptation/before_after.pdf?raw=true) · [تحميل الحزمة](drawings/islamic-original-adaptation/islamic_package.zip?raw=true)
+
+الحفاظ على كتلة الواجهة الأصلية وتدرج الكرانيش والقطاعات الخارجية للبلكونات، مع تحويل الشبابيك والتيجان والحشوات والزخارف إلى طابع إسلامي. [تفاصيل التعديل والفحص](drawings/islamic-original-adaptation/README_AR.md).
+
+![الواجهة الأصلية بتفاصيل إسلامية](drawings/islamic-original-adaptation/preview.png)
+
+---
+
 # الأحدث — واجهة إسلامية معاصرة قليلة الزخارف
 
 [تحميل DWG](drawings/contemporary-islamic-facade/islamic_facade.dwg?raw=true) · [تحميل DXF](drawings/contemporary-islamic-facade/islamic_facade.dxf?raw=true) · [معاينة الواجهة](drawings/contemporary-islamic-facade/preview.png) · [قبل وبعد PDF](drawings/contemporary-islamic-facade/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/contemporary-islamic-facade/islamic_package.zip?raw=true)
