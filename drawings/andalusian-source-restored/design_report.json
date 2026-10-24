@@ -1,0 +1,856 @@
+{
+  "style": "Andalusian facade treatment over unchanged original architecture",
+  "source_units_flag": 0,
+  "output_units_flag": 0,
+  "numeric_coordinate_scale": 1,
+  "original_native_entities_retained_before_line_dedup": 1498,
+  "native_curved_entities": {
+    "ARC": 132,
+    "SPLINE": 20,
+    "ELLIPSE": 86
+  },
+  "identical_native_curves_removed": 0,
+  "components": [
+    {
+      "name": "SOURCE_ARCHITECTURE",
+      "anchor": [
+        0,
+        0
+      ],
+      "kind": "architecture",
+      "line_count": 1639,
+      "curve_count": 108
+    },
+    {
+      "name": "ORIGINAL_OPENING_003",
+      "anchor": [
+        67345.44961403834,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 68,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_014",
+      "anchor": [
+        66620.0761244339,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_027",
+      "anchor": [
+        67359.49175870325,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 34,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_002",
+      "anchor": [
+        63446.6128603086,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 68,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_001",
+      "anchor": [
+        59546.81887011381,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 68,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_013",
+      "anchor": [
+        64145.02764569641,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 13,
+      "curve_count": 3
+    },
+    {
+      "name": "ORIGINAL_OPENING_012",
+      "anchor": [
+        62720.282134239096,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_011",
+      "anchor": [
+        60245.23365550162,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 13,
+      "curve_count": 3
+    },
+    {
+      "name": "ORIGINAL_OPENING_010",
+      "anchor": [
+        58820.488144040566,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_026",
+      "anchor": [
+        63459.69776850846,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 34,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_025",
+      "anchor": [
+        59559.903778309934,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 34,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_056",
+      "anchor": [
+        63454.375703368794,
+        89078.8236697031
+      ],
+      "kind": "opening",
+      "line_count": 18,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_035",
+      "anchor": [
+        60399.07,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_036",
+      "anchor": [
+        60947.355,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_037",
+      "anchor": [
+        61413.69500000001,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_038",
+      "anchor": [
+        61811.549999999996,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_032",
+      "anchor": [
+        58986.6,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_033",
+      "anchor": [
+        59384.455,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_034",
+      "anchor": [
+        59850.79,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_039",
+      "anchor": [
+        62378.045,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_031",
+      "anchor": [
+        58420.104999999996,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_055",
+      "anchor": [
+        72489.595,
+        96227.97
+      ],
+      "kind": "opening",
+      "line_count": 7,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_050",
+      "anchor": [
+        72093.94,
+        88227.71
+      ],
+      "kind": "opening",
+      "line_count": 16,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_049",
+      "anchor": [
+        72093.94,
+        85418.70805144252
+      ],
+      "kind": "opening",
+      "line_count": 6,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_018",
+      "anchor": [
+        73518.68562898086,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_017",
+      "anchor": [
+        72093.94,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 16,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_061",
+      "anchor": [
+        72093.94011752354,
+        79413.1
+      ],
+      "kind": "opening",
+      "line_count": 0,
+      "curve_count": 8
+    },
+    {
+      "name": "ORIGINAL_OPENING_062",
+      "anchor": [
+        73434.3116220911,
+        79413.1
+      ],
+      "kind": "opening",
+      "line_count": 0,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_008",
+      "anchor": [
+        72093.94,
+        76343.95000000001
+      ],
+      "kind": "opening",
+      "line_count": 16,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_009",
+      "anchor": [
+        73517.98999999999,
+        76343.95000000001
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_020",
+      "anchor": [
+        77567.8041106132,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_019",
+      "anchor": [
+        76143.05859915586,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 13,
+      "curve_count": 3
+    },
+    {
+      "name": "ORIGINAL_OPENING_004",
+      "anchor": [
+        76842.43062100874,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 68,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_028",
+      "anchor": [
+        76828.38847634383,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 34,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_058",
+      "anchor": [
+        76833.71054148347,
+        89078.8236697031
+      ],
+      "kind": "opening",
+      "line_count": 18,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_052",
+      "anchor": [
+        72093.94011752354,
+        92930.892
+      ],
+      "kind": "opening",
+      "line_count": 16,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_053",
+      "anchor": [
+        73527.64831837686,
+        92930.892
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_024",
+      "anchor": [
+        85367.3920910065,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_023",
+      "anchor": [
+        83942.64657954546,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 13,
+      "curve_count": 3
+    },
+    {
+      "name": "ORIGINAL_OPENING_022",
+      "anchor": [
+        81467.59810080797,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_021",
+      "anchor": [
+        80042.85258935066,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 13,
+      "curve_count": 3
+    },
+    {
+      "name": "ORIGINAL_OPENING_005",
+      "anchor": [
+        80741.26737473847,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 68,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_006",
+      "anchor": [
+        84641.06136493327,
+        76031.55
+      ],
+      "kind": "opening",
+      "line_count": 68,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_029",
+      "anchor": [
+        80728.18246653861,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 34,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_030",
+      "anchor": [
+        84627.97645673715,
+        86026.24235641526
+      ],
+      "kind": "opening",
+      "line_count": 34,
+      "curve_count": 4
+    },
+    {
+      "name": "ORIGINAL_OPENING_040",
+      "anchor": [
+        81809.84000000001,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_048",
+      "anchor": [
+        85767.775,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_044",
+      "anchor": [
+        83788.81000000001,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_043",
+      "anchor": [
+        83240.525,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_059",
+      "anchor": [
+        80733.50453167828,
+        89078.8236697031
+      ],
+      "kind": "opening",
+      "line_count": 18,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_045",
+      "anchor": [
+        84337.09,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_046",
+      "anchor": [
+        84803.425,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_047",
+      "anchor": [
+        85201.28,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_041",
+      "anchor": [
+        82376.33,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 4,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_042",
+      "anchor": [
+        82774.185,
+        89078.81999999999
+      ],
+      "kind": "opening",
+      "line_count": 2,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_007",
+      "anchor": [
+        70669.89000000001,
+        76343.95000000001
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_016",
+      "anchor": [
+        70669.19460606622,
+        81851.3271974338
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_015",
+      "anchor": [
+        68044.82163589122,
+        81834.0
+      ],
+      "kind": "opening",
+      "line_count": 13,
+      "curve_count": 3
+    },
+    {
+      "name": "ORIGINAL_OPENING_057",
+      "anchor": [
+        67354.16969356358,
+        89078.8236697031
+      ],
+      "kind": "opening",
+      "line_count": 18,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_051",
+      "anchor": [
+        70660.23191667022,
+        92930.892
+      ],
+      "kind": "opening",
+      "line_count": 12,
+      "curve_count": 2
+    },
+    {
+      "name": "ORIGINAL_OPENING_054",
+      "anchor": [
+        71698.285,
+        96227.97
+      ],
+      "kind": "opening",
+      "line_count": 7,
+      "curve_count": 0
+    },
+    {
+      "name": "ORIGINAL_OPENING_060",
+      "anchor": [
+        70753.56861295598,
+        79413.1
+      ],
+      "kind": "opening",
+      "line_count": 0,
+      "curve_count": 4
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_1",
+      "anchor": [
+        59551.849500000004,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 41,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_GROUND_BAY_1",
+      "anchor": [
+        59551.849500000004,
+        75881.6
+      ],
+      "kind": "alfiz",
+      "line_count": 44,
+      "curve_count": 0
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_2",
+      "anchor": [
+        63451.643500000006,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 41,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_GROUND_BAY_2",
+      "anchor": [
+        63451.643500000006,
+        75881.6
+      ],
+      "kind": "alfiz",
+      "line_count": 44,
+      "curve_count": 0
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_3",
+      "anchor": [
+        67350.9585,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 41,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_GROUND_BAY_3",
+      "anchor": [
+        67350.9585,
+        75881.6
+      ],
+      "kind": "alfiz",
+      "line_count": 43,
+      "curve_count": 0
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_4",
+      "anchor": [
+        72093.94,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 58,
+      "curve_count": 0
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_5",
+      "anchor": [
+        76836.9215,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 41,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_GROUND_BAY_5",
+      "anchor": [
+        76836.9215,
+        75881.6
+      ],
+      "kind": "alfiz",
+      "line_count": 43,
+      "curve_count": 0
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_6",
+      "anchor": [
+        80736.23700000001,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 41,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_GROUND_BAY_6",
+      "anchor": [
+        80736.23700000001,
+        75881.6
+      ],
+      "kind": "alfiz",
+      "line_count": 43,
+      "curve_count": 0
+    },
+    {
+      "name": "ANDALUSIAN_FRIEZE_BAY_7",
+      "anchor": [
+        84636.031,
+        84750.0
+      ],
+      "kind": "frieze",
+      "line_count": 41,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_GROUND_BAY_7",
+      "anchor": [
+        84636.031,
+        75881.6
+      ],
+      "kind": "alfiz",
+      "line_count": 43,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_UPPER_1",
+      "anchor": [
+        59559.895,
+        85770.0
+      ],
+      "kind": "alfiz",
+      "line_count": 40,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_UPPER_2",
+      "anchor": [
+        63459.689,
+        85770.0
+      ],
+      "kind": "alfiz",
+      "line_count": 40,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_UPPER_3",
+      "anchor": [
+        67359.483,
+        85770.0
+      ],
+      "kind": "alfiz",
+      "line_count": 44,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_UPPER_4",
+      "anchor": [
+        76828.389,
+        85770.0
+      ],
+      "kind": "alfiz",
+      "line_count": 44,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_UPPER_5",
+      "anchor": [
+        80728.183,
+        85770.0
+      ],
+      "kind": "alfiz",
+      "line_count": 40,
+      "curve_count": 0
+    },
+    {
+      "name": "ALFIZ_UPPER_6",
+      "anchor": [
+        84627.977,
+        85770.0
+      ],
+      "kind": "alfiz",
+      "line_count": 40,
+      "curve_count": 0
+    },
+    {
+      "name": "TOWER_ANDALUSIAN_PANEL",
+      "anchor": [
+        72093.94,
+        91420.0
+      ],
+      "kind": "panel",
+      "line_count": 58,
+      "curve_count": 0
+    }
+  ],
+  "rough_openings_reconstructed": 0,
+  "glazing_patterns_replaced": 0,
+  "architectural_mass_reconstructed": false,
+  "original_ellipses_and_splines_preserved": true,
+  "notes": [
+    "All original building linework is carried forward; only redundant strokes and a shared external ground extension are cleaned.",
+    "New alfiz and geometric friezes are surface details, outside the original openings and within existing blank bands."
+  ],
+  "opening_groups": 62,
+  "source_original_insert": "A$C55165132",
+  "native_blocks": 82
+}

@@ -1,3 +1,9 @@
+## تصحيح الواجهة الأندلسية من ملفها الأصلي
+
+[تحميل الأوتوكاد المصحّح](drawings/andalusian-source-restored/andalusian.dwg) · [مقارنة الأصل والتصحيح](drawings/andalusian-source-restored/before_after.pdf) · [حزمة الأربع واجهات بعد التحديث](drawings/four-elevations-restyled/four_styles_full_package.zip) · [التفاصيل](drawings/andalusian-source-restored/README.md)
+
+![الواجهة الأندلسية المصححة](drawings/andalusian-source-restored/preview.png)
+
 ## الأحدث: مول تجاري — فرعوني معاصر
 
 [تحميل الأوتوكاد DWG](drawings/egyptian-contemporary-mall/egyptian_mall.dwg) · [الحزمة كاملة](drawings/egyptian-contemporary-mall/egyptian_mall_package.zip) · [مقارنة الأصل والتعديل](drawings/egyptian-contemporary-mall/before_after.pdf) · [التفاصيل والفحص](drawings/egyptian-contemporary-mall/README.md)

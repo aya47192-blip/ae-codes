@@ -1,0 +1,7494 @@
+{
+  "retained": [
+    {
+      "handle": "2F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "31",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "32",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "33",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "34",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "35",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "36",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "37",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "38",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "39",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "3A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "3B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "3C",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "3D",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "3E",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "40",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "42",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "43",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "44",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "45",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "46",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "47",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "49",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4A",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "4C",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "4D",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "50",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "51",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "52",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "53",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "54",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "56",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "58",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "5D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "5E",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "5F",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "60",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "61",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "62",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "63",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "64",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "65",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "66",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "67",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "68",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "69",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "6A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "6B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "6C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "6D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "6E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "6F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "70",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "71",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "72",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "73",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "74",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "75",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "76",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "77",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "78",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "79",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "7A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "7B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "7C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "7D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "7E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "7F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "80",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "81",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "82",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "83",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "84",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "85",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "86",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "87",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "88",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "89",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "8A",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "8B",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "8C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "8D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "8E",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "8F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_010"
+    },
+    {
+      "handle": "90",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_010"
+    },
+    {
+      "handle": "91",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "92",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "93",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "94",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "95",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "96",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "97",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "98",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "99",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "9A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "9B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "9C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "9D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "9E",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "9F",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "A0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "A1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "A2",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "A3",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "A4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "A5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "A6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "A7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_035"
+    },
+    {
+      "handle": "A8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_035"
+    },
+    {
+      "handle": "A9",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_036"
+    },
+    {
+      "handle": "AA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_036"
+    },
+    {
+      "handle": "AB",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_037"
+    },
+    {
+      "handle": "AC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_037"
+    },
+    {
+      "handle": "AD",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_038"
+    },
+    {
+      "handle": "AE",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_038"
+    },
+    {
+      "handle": "AF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_032"
+    },
+    {
+      "handle": "B0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_032"
+    },
+    {
+      "handle": "B1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_032"
+    },
+    {
+      "handle": "B2",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_032"
+    },
+    {
+      "handle": "B3",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_033"
+    },
+    {
+      "handle": "B4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_033"
+    },
+    {
+      "handle": "B5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_035"
+    },
+    {
+      "handle": "B6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_034"
+    },
+    {
+      "handle": "B7",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_010"
+    },
+    {
+      "handle": "B8",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_010"
+    },
+    {
+      "handle": "B9",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_010"
+    },
+    {
+      "handle": "BA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "BB",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "BC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "BD",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "BE",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "BF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_056"
+    },
+    {
+      "handle": "C0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "C9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "CA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "CB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "CC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "CD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "CE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "CF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "D0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "D1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "D2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "D3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "D4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "D5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_035"
+    },
+    {
+      "handle": "D6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_039"
+    },
+    {
+      "handle": "D7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_034"
+    },
+    {
+      "handle": "D8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_031"
+    },
+    {
+      "handle": "D9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "DA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "DB",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_031"
+    },
+    {
+      "handle": "DC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "DD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "DE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "DF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_039"
+    },
+    {
+      "handle": "E0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "E1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "E2",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "E3",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "E4",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E5",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E6",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E7",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "EA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "EB",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "EC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "ED",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "EE",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "EF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "F0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_025"
+    },
+    {
+      "handle": "F1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "F2",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "F3",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "F4",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "F5",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "F6",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "F7",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "F8",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "F9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "FA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "FB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "FC",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "FD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "FE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "FF",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "100",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "101",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_026"
+    },
+    {
+      "handle": "102",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "103",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "104",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "105",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "106",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "107",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "108",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "109",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "10A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "10B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "10C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "10D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "10E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "10F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "110",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "111",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "112",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "113",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "114",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "115",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "116",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "117",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "118",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "119",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "11A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "11B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "11C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "11D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "11E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "11F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "120",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "121",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "122",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "123",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "124",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "125",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "126",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "127",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_001"
+    },
+    {
+      "handle": "128",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "129",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "12A",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "12B",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "12C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "12D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "12E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "12F",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "130",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "131",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "132",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "133",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "134",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "135",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_002"
+    },
+    {
+      "handle": "136",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "137",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "138",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "139",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "13A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "13B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "13C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "13D",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "13E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "13F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "140",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "141",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "142",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "143",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "144",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "145",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "146",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "147",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "148",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "149",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "14A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "14B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "14C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "14D",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "14E",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "14F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "150",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "151",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "152",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "153",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "154",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "155",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_013"
+    },
+    {
+      "handle": "156",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "157",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "158",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "159",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "15A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "15B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "15C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "15D",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_012"
+    },
+    {
+      "handle": "15E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "15F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "160",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "161",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "162",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "163",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "164",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "165",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "166",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "167",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "168",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "169",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "16A",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "16B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "16C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "16D",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "16E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "16F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "170",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "171",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_011"
+    },
+    {
+      "handle": "172",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "173",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "174",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "175",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "176",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_010"
+    },
+    {
+      "handle": "177",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "178",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "179",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "17A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "17B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "17C",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "17D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "17E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "17F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "180",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "181",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "182",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "183",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "184",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "185",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "186",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "187",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "188",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "189",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "18A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "18B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "18C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "18D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "18E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "18F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "190",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "191",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "192",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "193",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "194",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "195",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "196",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "197",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "198",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "199",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "19A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "19B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "19C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "19D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "19E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "19F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1A9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1AA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1AB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1AC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1AD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1AE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1AF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1B9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1BA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1BB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1BC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1BD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1BE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1BF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C2",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1C6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "1C7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "1C8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "1C9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1CA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1CB",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1CC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1CD",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1CE",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "1CF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "1D0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "1D1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1D2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1D3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1D4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1D5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_049"
+    },
+    {
+      "handle": "1D6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_049"
+    },
+    {
+      "handle": "1D7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_049"
+    },
+    {
+      "handle": "1D8",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "1D9",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "1DA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "1DB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1DC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1DD",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1DE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1DF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1E0",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1E1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1E2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1E3",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "1E4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "1E5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "1E6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "1E7",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1E8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1E9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1EA",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1EB",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "1EC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "1ED",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "1EE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1EF",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "1F0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1F1",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1F2",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "1F3",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "1F4",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "1F5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1F6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1F7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1F8",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_062"
+    },
+    {
+      "handle": "1F9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1FA",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1FB",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_062"
+    },
+    {
+      "handle": "1FC",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_062"
+    },
+    {
+      "handle": "1FD",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_062"
+    },
+    {
+      "handle": "1FE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "1FF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "200",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "201",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "202",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "203",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "204",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "205",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "206",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "207",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "208",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "209",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "20A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "20B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "20C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "20D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "20E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "20F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "210",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "211",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "212",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "213",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "214",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "215",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "216",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "217",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "218",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "219",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "21A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "21B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "21C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "21D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "21E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "21F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "220",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "221",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "222",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "223",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "224",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "225",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "226",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "227",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "228",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "229",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "22A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "22B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "22C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "22D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "22E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "22F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "230",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "231",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "232",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "233",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "234",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "235",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "236",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "237",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "238",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "239",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "23A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "23B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "23C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "23D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "23E",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "23F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "240",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "241",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "242",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "243",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "244",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "245",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "246",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "247",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "248",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "249",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "24A",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "24B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "24C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "24D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "24E",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "24F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "250",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "251",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "252",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "253",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "254",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "255",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "256",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "257",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "258",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "259",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "25A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "25B",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "25C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "25D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "25E",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "25F",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "260",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "261",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "262",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "263",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "264",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "265",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "266",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "267",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "268",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "269",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "26A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "26B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "26C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "26D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "26E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "26F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "270",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "271",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "272",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "273",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "274",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "275",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "276",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "277",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_055"
+    },
+    {
+      "handle": "278",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "279",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "27A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "27B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "27C",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "27D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "27E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "27F",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "280",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "281",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "282",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "283",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "284",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "285",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "286",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "287",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "288",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "289",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "28A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "28B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "28C",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "28D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "28E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "28F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "290",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "291",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "292",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "293",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_053"
+    },
+    {
+      "handle": "294",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "295",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "296",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "297",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "298",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "299",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "29A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "29B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "29C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "29D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "29E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "29F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2A0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2A1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "2A2",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "2A3",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "2A4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "2A5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_058"
+    },
+    {
+      "handle": "2A6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2A7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2A8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2A9",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2AA",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2AB",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2AC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2AD",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "2AE",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "2AF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "2B0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "2B1",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_019"
+    },
+    {
+      "handle": "2B2",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "2B3",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "2B4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "2B5",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_018"
+    },
+    {
+      "handle": "2B6",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "2B7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "2B8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "2B9",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "2BA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2BB",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2BC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2BD",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2BE",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2BF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2C0",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_009"
+    },
+    {
+      "handle": "2C1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "2C2",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "2C3",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "2C4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "2C5",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "2C6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2C7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2C8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2C9",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2CA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2CB",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2CC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "2CD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2CE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2CF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2D9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2DA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2DB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2DC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2DD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2DE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2DF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2E9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2EA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2EB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2EC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2ED",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2EE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2EF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2F9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2FA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2FB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2FC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2FD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2FE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "2FF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "300",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "301",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "302",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "303",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "304",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "305",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "306",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "307",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "308",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "309",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "30F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "310",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "311",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "312",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "313",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "314",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "315",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "316",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "317",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "318",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "319",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "31A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "31B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "31C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "31D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "31E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "31F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "320",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "321",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "322",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "323",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "324",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "325",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "326",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "327",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "328",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "329",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "32A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "32B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "32C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "32D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "32E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "32F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "330",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "331",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "332",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "333",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "334",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "335",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "336",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "337",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "338",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "339",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "33A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "33B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "33C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "33D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "33E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "33F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "340",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "341",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "342",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "343",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "344",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "345",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "346",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "347",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "348",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "349",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "34A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "34B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "34C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "34D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "34E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "34F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "350",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "351",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "352",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "353",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "354",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "355",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "356",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "357",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "358",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "359",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "35A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "35B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "35C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "35D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "35E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "35F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "360",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "361",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "362",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "363",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "364",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "365",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "366",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "367",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "368",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_024"
+    },
+    {
+      "handle": "369",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "36A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "36B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "36C",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "36D",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "36E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "36F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "370",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "371",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "372",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "373",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "374",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "375",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "376",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "377",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "378",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "379",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "37A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "37B",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "37C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "37D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "37E",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "37F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "380",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "381",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "382",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "383",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "384",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "385",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "386",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "387",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "388",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "389",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "38A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "38B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "38C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "38D",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "38E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "38F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "390",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "391",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "392",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "393",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "394",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "395",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "396",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "397",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "398",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "399",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "39A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "39B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "39C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "39D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "39E",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "39F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A1",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A5",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A6",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A7",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A8",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3A9",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "3AA",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "3AB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3AC",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3AD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3AE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3AF",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B3",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B4",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B5",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B6",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3B7",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "3B8",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "3B9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3BA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3BB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3BC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3BD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3BE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3BF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3C9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3CA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3CB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3CC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3CD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3CE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3CF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3D9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3DA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3DB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3DC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3DD",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "3DE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3DF",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E2",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E6",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E7",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E8",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3E9",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3EA",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "3EB",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "3EC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "3ED",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "3EE",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "3EF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F0",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F3",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F7",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F8",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3F9",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3FA",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "3FB",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "3FC",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "3FD",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "3FE",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "3FF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_040"
+    },
+    {
+      "handle": "400",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "401",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "402",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "403",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_048"
+    },
+    {
+      "handle": "404",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "405",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "406",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_048"
+    },
+    {
+      "handle": "407",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_044"
+    },
+    {
+      "handle": "408",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_040"
+    },
+    {
+      "handle": "409",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_043"
+    },
+    {
+      "handle": "40A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "40B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "40C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "40D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "40E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "40F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "410",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "411",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "412",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "413",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "414",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "415",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "416",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "417",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "418",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "419",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "41F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "420",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "421",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "422",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "423",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "424",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "425",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_024"
+    },
+    {
+      "handle": "426",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_024"
+    },
+    {
+      "handle": "427",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_024"
+    },
+    {
+      "handle": "428",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_044"
+    },
+    {
+      "handle": "429",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_043"
+    },
+    {
+      "handle": "42A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_045"
+    },
+    {
+      "handle": "42B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_045"
+    },
+    {
+      "handle": "42C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_046"
+    },
+    {
+      "handle": "42D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_046"
+    },
+    {
+      "handle": "42E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_047"
+    },
+    {
+      "handle": "42F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_047"
+    },
+    {
+      "handle": "430",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_041"
+    },
+    {
+      "handle": "431",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_041"
+    },
+    {
+      "handle": "432",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_041"
+    },
+    {
+      "handle": "433",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_041"
+    },
+    {
+      "handle": "434",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_042"
+    },
+    {
+      "handle": "435",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_042"
+    },
+    {
+      "handle": "436",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_043"
+    },
+    {
+      "handle": "437",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_043"
+    },
+    {
+      "handle": "438",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "439",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "43A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "43B",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "43C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "43D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "43E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_059"
+    },
+    {
+      "handle": "43F",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "440",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "441",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "442",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "443",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "444",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_030"
+    },
+    {
+      "handle": "445",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "446",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "447",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "448",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "449",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "44A",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "44B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "44C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "44D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_029"
+    },
+    {
+      "handle": "44E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_024"
+    },
+    {
+      "handle": "44F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_024"
+    },
+    {
+      "handle": "450",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "451",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "452",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "453",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_023"
+    },
+    {
+      "handle": "454",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "455",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "456",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "457",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_022"
+    },
+    {
+      "handle": "458",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "459",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "45A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "45B",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_021"
+    },
+    {
+      "handle": "45C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "45D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "45E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "45F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "460",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "461",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "462",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "463",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "464",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "465",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "466",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "467",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "468",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "469",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "46A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "46B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "46C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "46D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "46E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "46F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "470",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "471",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "472",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "473",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_006"
+    },
+    {
+      "handle": "474",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "475",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "476",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "477",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "478",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "479",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "47A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "47B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "47C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "47D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "47E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "47F",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "480",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "481",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_005"
+    },
+    {
+      "handle": "482",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "483",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "484",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "485",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "486",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "487",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "488",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "489",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "48F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "490",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "491",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "492",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "493",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "494",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "495",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "496",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "497",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "498",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "499",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "49A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "49B",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "49C",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "49D",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "49E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "49F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4A0",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_028"
+    },
+    {
+      "handle": "4A1",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "4A2",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "4A3",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "4A4",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_020"
+    },
+    {
+      "handle": "4A5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4A6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4A7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4A8",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4A9",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4AA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4AB",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4AC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4AD",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_004"
+    },
+    {
+      "handle": "4AE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4AF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4B9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4BA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4BB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4BC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4BD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4BE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4BF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4C9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4CA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4CB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4CC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4CD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4CE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4CF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4D9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4DA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4DB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4DC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4DD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4DE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4DF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4E9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4EA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4EB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4EC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4ED",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4EE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4EF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4F9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4FA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4FB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4FC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4FD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4FE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "4FF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "500",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "501",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "502",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "503",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "504",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "505",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "506",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "507",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "508",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "509",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "50A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "50B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "50C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "50D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "50E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "50F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "510",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "511",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "512",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "513",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "514",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "515",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "516",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "517",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "518",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "519",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "51A",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "51B",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "51C",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "51D",
+      "type": "LWPOLYLINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "51E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "51F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "520",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "521",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "522",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "523",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "524",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "525",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "526",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "527",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "528",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "529",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "52A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "52B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "52C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "52D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "52E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "52F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "530",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "531",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "532",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "533",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "534",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "535",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "536",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "537",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "538",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "539",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "53A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "53B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "53C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "53D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "53E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "53F",
+      "type": "SPLINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "540",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "541",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "542",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "543",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "544",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "545",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "546",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "547",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "548",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "549",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_051"
+    },
+    {
+      "handle": "54A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "54B",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "54C",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "54D",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "54E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "54F",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_052"
+    },
+    {
+      "handle": "550",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "551",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "552",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "553",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "554",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "555",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "556",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "557",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "558",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "559",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "55F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "560",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "561",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "562",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "563",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "564",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "565",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "566",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "567",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_057"
+    },
+    {
+      "handle": "568",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "569",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "56A",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "56B",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "56C",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "56D",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "56E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "56F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "570",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "571",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "572",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "573",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_027"
+    },
+    {
+      "handle": "574",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "575",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "576",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_003"
+    },
+    {
+      "handle": "577",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "578",
+      "type": "LWPOLYLINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "579",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57B",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57D",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "57F",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "580",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "581",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "582",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "583",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "584",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "585",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "586",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "587",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "588",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "589",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_015"
+    },
+    {
+      "handle": "58A",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "58B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "58C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "58D",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "58E",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_014"
+    },
+    {
+      "handle": "58F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "590",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "591",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "592",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "593",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "594",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "595",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "596",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "597",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "598",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "599",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59A",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59B",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59C",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59D",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59E",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "59F",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5A9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5AA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5AB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5AC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5AD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5AE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5AF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5B9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5BA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5BB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5BC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5BD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5BE",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5BF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C1",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5C5",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "5C6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "5C7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_007"
+    },
+    {
+      "handle": "5C8",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "5C9",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "5CA",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_008"
+    },
+    {
+      "handle": "5CB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5CC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5CD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5CE",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_060"
+    },
+    {
+      "handle": "5CF",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_060"
+    },
+    {
+      "handle": "5D0",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_060"
+    },
+    {
+      "handle": "5D1",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5D2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5D3",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_060"
+    },
+    {
+      "handle": "5D4",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5D5",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5D6",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5D7",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "5D8",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "5D9",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "5DA",
+      "type": "ARC",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5DB",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5DC",
+      "type": "ARC",
+      "component": "ORIGINAL_OPENING_061"
+    },
+    {
+      "handle": "5DD",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5DE",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "5DF",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "5E0",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_017"
+    },
+    {
+      "handle": "5E1",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5E2",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5E3",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5E4",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5E5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "5E6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "5E7",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "5E8",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_016"
+    },
+    {
+      "handle": "5E9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5EA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5EB",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5EC",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5ED",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5EE",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5EF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5F0",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5F1",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "5F2",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "5F3",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "5F4",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_049"
+    },
+    {
+      "handle": "5F5",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_049"
+    },
+    {
+      "handle": "5F6",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_049"
+    },
+    {
+      "handle": "5F7",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5F8",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5F9",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5FA",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5FB",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "5FC",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "5FD",
+      "type": "ELLIPSE",
+      "component": "ORIGINAL_OPENING_050"
+    },
+    {
+      "handle": "5FE",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "5FF",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "600",
+      "type": "ELLIPSE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "601",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "602",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "603",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "604",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "605",
+      "type": "LINE",
+      "component": "ORIGINAL_OPENING_054"
+    },
+    {
+      "handle": "606",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "607",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "608",
+      "type": "LINE",
+      "component": "SOURCE_ARCHITECTURE"
+    }
+  ]
+}
