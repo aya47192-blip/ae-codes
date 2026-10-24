@@ -2,20 +2,21 @@
   "style": "ART NOUVEAU",
   "audit_errors": 0,
   "audit_fixes": 0,
-  "decomposed_entities": 972,
+  "decomposed_entities": 1284,
   "entity_types": {
-    "LWPOLYLINE": 467,
-    "SPLINE": 505
+    "LWPOLYLINE": 1073,
+    "SPLINE": 211
   },
   "native_primitive_types": {
-    "L": 1753,
-    "B": 860
+    "L": 2187,
+    "A": 306,
+    "B": 413
   },
   "duplicate_native_primitives": [],
   "straight_overlap_length_source_units": 0,
   "zero_length_entities": [],
-  "open_chain_endpoints_checked": 1360,
-  "max_valid_join_distance_source_units": 0.0019126098071522984,
+  "open_chain_endpoints_checked": 1984,
+  "max_valid_join_distance_source_units": 0.0013569949268085347,
   "join_tolerance_source_units": 0.025,
   "intentional_groundline_endpoints": [
     [

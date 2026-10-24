@@ -63,7 +63,7 @@
       "duplicate_native_primitives": 0,
       "unjoined_endpoints_above_tolerance": 0,
       "join_tolerance_source_units": 0.025,
-      "max_checked_join_distance_source_units": 0.0019126098071522984,
+      "max_checked_join_distance_source_units": 0.0013569949268085347,
       "intentional_ground_line_endpoints": 2,
       "straight_overlap_numerical_residual_source_units": 0,
       "DWG_roundtrip_max_numeric_difference": 4.3655745685100555e-11,
@@ -85,7 +85,7 @@
   "combined_DWG_validation": {
     "format": "Native DWG AutoCAD 2000 AC1015",
     "units_flag": 0,
-    "modelspace_entities": 1337,
+    "modelspace_entities": 1336,
     "editable_blocks_verified": 281,
     "max_numeric_coordinate_and_curve_difference": 4.3655745685100555e-11,
     "native_closed_flags_preserved": true,

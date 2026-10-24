@@ -541,7 +541,7 @@
   },
   "native_blocks": 86,
   "native_closed_contours": 291,
-  "connected_native_chains": 972,
+  "connected_native_chains": 1284,
   "old_ornament_curves_reused": 0,
   "original_style_blocks_reused": 0,
   "stroke_aci": 7,
@@ -556,7 +556,7 @@
         102495.079154287,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_002",
@@ -565,7 +565,7 @@
         106528.665434551,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_003",
@@ -574,7 +574,7 @@
         110428.66543455099,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_004",
@@ -583,7 +583,7 @@
         118228.665434551,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_005",
@@ -592,7 +592,7 @@
         126028.6654345509,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_006",
@@ -601,7 +601,7 @@
         129928.6654345509,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_007",
@@ -610,7 +610,7 @@
         133828.66543455087,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_008",
@@ -619,7 +619,7 @@
         137878.6654345509,
         76348.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_009",
@@ -628,7 +628,7 @@
         114074.4347659727,
         76408.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_010",
@@ -637,7 +637,7 @@
         122577.97061509495,
         76408.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_011",
@@ -646,7 +646,7 @@
         101628.665434551,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_012",
@@ -655,7 +655,7 @@
         103028.66543455102,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_013",
@@ -664,7 +664,7 @@
         105678.66543455099,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_014",
@@ -673,7 +673,7 @@
         107078.665434551,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_015",
@@ -682,7 +682,7 @@
         109728.665434551,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_016",
@@ -691,7 +691,7 @@
         111128.665434551,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_017",
@@ -700,7 +700,7 @@
         118226.41522676921,
         81968.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_018",
@@ -709,7 +709,7 @@
         125328.66543455092,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_019",
@@ -718,7 +718,7 @@
         126728.66543455089,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_020",
@@ -727,7 +727,7 @@
         129228.66543455092,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_021",
@@ -736,7 +736,7 @@
         130628.6654345509,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_022",
@@ -745,7 +745,7 @@
         133128.6654345509,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_023",
@@ -754,7 +754,7 @@
         134528.6654345509,
         82008.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_024",
@@ -763,7 +763,7 @@
         113820.8305879575,
         82131.1826617656
       ],
-      "entities": 13
+      "entities": 20
     },
     {
       "block": "ART_NOUVEAU_WINDOW_025",
@@ -772,7 +772,7 @@
         122636.50028114066,
         82131.1826617656
       ],
-      "entities": 13
+      "entities": 20
     },
     {
       "block": "ART_NOUVEAU_WINDOW_026",
@@ -781,7 +781,7 @@
         137178.6654345509,
         82131.1826617656
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_027",
@@ -790,7 +790,7 @@
         138578.66543455087,
         82131.1826617656
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_028",
@@ -799,7 +799,7 @@
         101628.665434551,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_029",
@@ -808,7 +808,7 @@
         103028.66543455102,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_030",
@@ -817,7 +817,7 @@
         105678.66543455099,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_031",
@@ -826,7 +826,7 @@
         107078.665434551,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_032",
@@ -835,7 +835,7 @@
         109728.665434551,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_033",
@@ -844,7 +844,7 @@
         111128.665434551,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_034",
@@ -853,7 +853,7 @@
         113820.8305879575,
         85731.1826617656
       ],
-      "entities": 13
+      "entities": 20
     },
     {
       "block": "ART_NOUVEAU_WINDOW_035",
@@ -862,7 +862,7 @@
         122636.50028114066,
         85731.1826617656
       ],
-      "entities": 13
+      "entities": 20
     },
     {
       "block": "ART_NOUVEAU_WINDOW_036",
@@ -871,7 +871,7 @@
         125328.66543455092,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_037",
@@ -880,7 +880,7 @@
         126728.66543455089,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_038",
@@ -889,7 +889,7 @@
         129228.66543455092,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_039",
@@ -898,7 +898,7 @@
         130628.6654345509,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_040",
@@ -907,7 +907,7 @@
         133128.6654345509,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_041",
@@ -916,7 +916,7 @@
         134528.6654345509,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 16
     },
     {
       "block": "ART_NOUVEAU_WINDOW_042",
@@ -925,7 +925,7 @@
         138078.66543455087,
         85748.23856873938
       ],
-      "entities": 9
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_043",
@@ -934,7 +934,7 @@
         116186.98785108374,
         86390.23541382083
       ],
-      "entities": 9
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_044",
@@ -943,7 +943,7 @@
         120270.3430180163,
         86390.23541382083
       ],
-      "entities": 9
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_045",
@@ -952,7 +952,7 @@
         135373.86747850518,
         89886.23856873938
       ],
-      "entities": 9
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_046",
@@ -961,7 +961,7 @@
         137846.4215596248,
         89886.23856873938
       ],
-      "entities": 9
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_WINDOW_047",
@@ -970,7 +970,7 @@
         93468.1470593852,
         75898.23856873938
       ],
-      "entities": 12
+      "entities": 17
     },
     {
       "block": "ART_NOUVEAU_COLUMN_001",
@@ -1258,7 +1258,7 @@
         118230.0,
         90178.24
       ],
-      "entities": 2
+      "entities": 3
     },
     {
       "block": "ART_NOUVEAU_ROOF_DORMER_1",
