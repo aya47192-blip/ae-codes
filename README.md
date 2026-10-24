@@ -1,3 +1,9 @@
+## الأحدث: واجهة تجارية بطراز الهاي تك
+
+[تحميل DWG](drawings/high-tech-commercial/hightech.dwg) · [مقارنة قبل وبعد](drawings/high-tech-commercial/before_after.pdf) · [الحزمة](drawings/high-tech-commercial/hightech_package.zip) · [التفاصيل والفحص](drawings/high-tech-commercial/README.md)
+
+![الهاي تك](drawings/high-tech-commercial/preview.png)
+
 ## تحديث أندلسي: حليات حدوة الفرس وألفيز وسبكة على معمارية الأصل
 
 [تحميل الأوتوكاد المصحّح](drawings/andalusian-source-restored/andalusian.dwg) · [مقارنة الأصل والتصحيح](drawings/andalusian-source-restored/before_after.pdf) · [حزمة الأربع واجهات بعد التحديث](drawings/four-elevations-restyled/four_styles_full_package.zip) · [التفاصيل](drawings/andalusian-source-restored/README.md)

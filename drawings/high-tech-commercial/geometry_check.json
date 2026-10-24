@@ -1,0 +1,118 @@
+{
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "duplicate_native_primitives": [],
+  "zero_length_entities": [],
+  "new_unjoined_endpoints": [],
+  "inherited_source_profile_ends": [
+    {
+      "entity": 0,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        407.403907719,
+        117.10413679
+      ]
+    },
+    {
+      "entity": 0,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        441.718653319,
+        117.10413679
+      ]
+    },
+    {
+      "entity": 1,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        407.403907719,
+        117.205687781
+      ]
+    },
+    {
+      "entity": 1,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        441.718653319,
+        117.205687781
+      ]
+    },
+    {
+      "entity": 2,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        407.403907719,
+        117.298100413
+      ]
+    },
+    {
+      "entity": 42,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        441.718653319,
+        117.298100413
+      ]
+    }
+  ],
+  "all_unjoined_endpoints": [
+    {
+      "entity": 0,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        407.403907719,
+        117.10413679
+      ]
+    },
+    {
+      "entity": 0,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        441.718653319,
+        117.10413679
+      ]
+    },
+    {
+      "entity": 1,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        407.403907719,
+        117.205687781
+      ]
+    },
+    {
+      "entity": 1,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        441.718653319,
+        117.205687781
+      ]
+    },
+    {
+      "entity": 2,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        407.403907719,
+        117.298100413
+      ]
+    },
+    {
+      "entity": 42,
+      "layer": "01_SOURCE_ARCHITECTURE",
+      "point": [
+        441.718653319,
+        117.298100413
+      ]
+    }
+  ],
+  "join_tolerance_source_units": 1e-06,
+  "max_valid_join_distance": 2.7424536475148856e-08,
+  "source_retained_entities_verified": 134,
+  "source_samples_checked": 4009,
+  "source_geometry_mismatches": [],
+  "source_max_distance": 4.999041538418357e-08,
+  "straight_overlap_numerical_residual": 3.410605131648481e-12,
+  "source_units_flag": 1,
+  "output_units_flag": 1,
+  "block_count": 107,
+  "no_plants": true
+}

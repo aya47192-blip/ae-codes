@@ -1,0 +1,3070 @@
+{
+  "retained": [
+    {
+      "handle": "DFB4",
+      "type": "LINE",
+      "source_layer": "WINDOUS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFB6",
+      "type": "LINE",
+      "source_layer": "WINDOUS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFC1",
+      "type": "LINE",
+      "source_layer": "GLASS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFC3",
+      "type": "LINE",
+      "source_layer": "GLASS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFCB",
+      "type": "LINE",
+      "source_layer": "WINDOUS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFD6",
+      "type": "LINE",
+      "source_layer": "WINDOUS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFDE",
+      "type": "LINE",
+      "source_layer": "WINDOUS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFE0",
+      "type": "LINE",
+      "source_layer": "GLASS",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "DFE2",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_2"
+    },
+    {
+      "handle": "DFE3",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_2"
+    },
+    {
+      "handle": "DFE4",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_1"
+    },
+    {
+      "handle": "DFE5",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_2"
+    },
+    {
+      "handle": "DFE6",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_2"
+    },
+    {
+      "handle": "DFE7",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_1"
+    },
+    {
+      "handle": "DFE8",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_1"
+    },
+    {
+      "handle": "DFE9",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_1"
+    },
+    {
+      "handle": "DFF9",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_1"
+    },
+    {
+      "handle": "DFFA",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_1"
+    },
+    {
+      "handle": "DFFD",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_1"
+    },
+    {
+      "handle": "E005",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_1"
+    },
+    {
+      "handle": "E006",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_1"
+    },
+    {
+      "handle": "E009",
+      "type": "LWPOLYLINE",
+      "source_layer": "ELEV",
+      "component": "DOOR_ASSEMBLY_1"
+    },
+    {
+      "handle": "E00A",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_1"
+    },
+    {
+      "handle": "E00C",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_1"
+    },
+    {
+      "handle": "E00D",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_1"
+    },
+    {
+      "handle": "E00E",
+      "type": "LINE",
+      "source_layer": "ELEVAT",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E00F",
+      "type": "LWPOLYLINE",
+      "source_layer": "ELEVAT",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E010",
+      "type": "LINE",
+      "source_layer": "ELEVAT",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E011",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E012",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E013",
+      "type": "LINE",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E014",
+      "type": "LINE",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E015",
+      "type": "LINE",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E016",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E017",
+      "type": "LINE",
+      "source_layer": "DLIM",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E025",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_5"
+    },
+    {
+      "handle": "E026",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_5"
+    },
+    {
+      "handle": "E030",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_5"
+    },
+    {
+      "handle": "E031",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_5"
+    },
+    {
+      "handle": "E034",
+      "type": "LWPOLYLINE",
+      "source_layer": "ELEV",
+      "component": "DOOR_ASSEMBLY_5"
+    },
+    {
+      "handle": "E035",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_5"
+    },
+    {
+      "handle": "E036",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_5"
+    },
+    {
+      "handle": "E037",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_5"
+    },
+    {
+      "handle": "E045",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_2"
+    },
+    {
+      "handle": "E046",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_2"
+    },
+    {
+      "handle": "E049",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_2"
+    },
+    {
+      "handle": "E051",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_2"
+    },
+    {
+      "handle": "E052",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_2"
+    },
+    {
+      "handle": "E055",
+      "type": "LWPOLYLINE",
+      "source_layer": "ELEV",
+      "component": "DOOR_ASSEMBLY_2"
+    },
+    {
+      "handle": "E056",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_2"
+    },
+    {
+      "handle": "E057",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_2"
+    },
+    {
+      "handle": "E058",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_2"
+    },
+    {
+      "handle": "E072",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_4"
+    },
+    {
+      "handle": "E073",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_4"
+    },
+    {
+      "handle": "E076",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_4"
+    },
+    {
+      "handle": "E07E",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_4"
+    },
+    {
+      "handle": "E07F",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_4"
+    },
+    {
+      "handle": "E082",
+      "type": "LWPOLYLINE",
+      "source_layer": "ELEV",
+      "component": "DOOR_ASSEMBLY_4"
+    },
+    {
+      "handle": "E083",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_4"
+    },
+    {
+      "handle": "E084",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_4"
+    },
+    {
+      "handle": "E085",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_4"
+    },
+    {
+      "handle": "E094",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_5"
+    },
+    {
+      "handle": "E0A2",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_3"
+    },
+    {
+      "handle": "E0A3",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_3"
+    },
+    {
+      "handle": "E0A6",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_3"
+    },
+    {
+      "handle": "E0AE",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_3"
+    },
+    {
+      "handle": "E0AF",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_3"
+    },
+    {
+      "handle": "E0B2",
+      "type": "LWPOLYLINE",
+      "source_layer": "ELEV",
+      "component": "DOOR_ASSEMBLY_3"
+    },
+    {
+      "handle": "E0B3",
+      "type": "LWPOLYLINE",
+      "source_layer": "GLASS",
+      "component": "DOOR_ASSEMBLY_3"
+    },
+    {
+      "handle": "E0B4",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_3"
+    },
+    {
+      "handle": "E0B5",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_STOREFRONT_3"
+    },
+    {
+      "handle": "E0B6",
+      "type": "LINE",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0B7",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0B8",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0B9",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0C0",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0C1",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_3"
+    },
+    {
+      "handle": "E0C2",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_3"
+    },
+    {
+      "handle": "E0C3",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_3"
+    },
+    {
+      "handle": "E0C4",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_3"
+    },
+    {
+      "handle": "E0C5",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_5"
+    },
+    {
+      "handle": "E0C6",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_5"
+    },
+    {
+      "handle": "E0C7",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_6"
+    },
+    {
+      "handle": "E0C8",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_5"
+    },
+    {
+      "handle": "E0C9",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_5"
+    },
+    {
+      "handle": "E0CA",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_6"
+    },
+    {
+      "handle": "E0CB",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_6"
+    },
+    {
+      "handle": "E0CC",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_6"
+    },
+    {
+      "handle": "E0CD",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_4"
+    },
+    {
+      "handle": "E0CE",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_4"
+    },
+    {
+      "handle": "E0CF",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_4"
+    },
+    {
+      "handle": "E0D0",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_4"
+    },
+    {
+      "handle": "E0D5",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "E0D6",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "E0D7",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "E0D8",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "E0D9",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_CENTRAL_OPENING"
+    },
+    {
+      "handle": "E0DE",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_2"
+    },
+    {
+      "handle": "E0DF",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_2"
+    },
+    {
+      "handle": "E0E0",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_1"
+    },
+    {
+      "handle": "E0E1",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_1"
+    },
+    {
+      "handle": "E0E2",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_3"
+    },
+    {
+      "handle": "E0E3",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_3"
+    },
+    {
+      "handle": "E0E4",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_5"
+    },
+    {
+      "handle": "E0E5",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_5"
+    },
+    {
+      "handle": "E0E6",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_4"
+    },
+    {
+      "handle": "E0E7",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_4"
+    },
+    {
+      "handle": "E0E8",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_6"
+    },
+    {
+      "handle": "E0E9",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "CLERESTORY_6"
+    },
+    {
+      "handle": "E0ED",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0EE",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0EF",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F0",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F1",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F2",
+      "type": "ARC",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F3",
+      "type": "ARC",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F4",
+      "type": "LINE",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F5",
+      "type": "ARC",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E0F6",
+      "type": "ARC",
+      "source_layer": "ELEV",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E118",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E118"
+    },
+    {
+      "handle": "E125",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E125"
+    },
+    {
+      "handle": "E132",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E132"
+    },
+    {
+      "handle": "E13F",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E13F"
+    },
+    {
+      "handle": "E14C",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E14D",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E14E",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E14F",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E150",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E151",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E153",
+      "type": "LINE",
+      "source_layer": "FRAME",
+      "component": "SOURCE_ARCHITECTURE"
+    },
+    {
+      "handle": "E178",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E178"
+    },
+    {
+      "handle": "E196",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E196"
+    },
+    {
+      "handle": "E1B4",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E1B4"
+    },
+    {
+      "handle": "E1D4",
+      "type": "LWPOLYLINE",
+      "source_layer": "FRAME",
+      "component": "WINDOW_E1D4"
+    }
+  ],
+  "replaced": [
+    {
+      "handle": "DFB0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFB9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFBA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFBB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFBC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFBD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFBE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFBF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFC9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFCA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFCC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFCD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFCE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFCF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFD9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFDA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFDB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFDC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFDD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFDF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFE1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFEA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFEB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFEC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFED",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFEE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFEF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFF8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFFB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFFC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFFE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "DFFF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E000",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E001",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E002",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E003",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E004",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E007",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E008",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E00B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E018",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E019",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E01A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E01B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E01C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E01D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E01E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E01F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E020",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E021",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E022",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E023",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E024",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E027",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E028",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E029",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E02A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E02B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E02C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E02D",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E02E",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E02F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E032",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E033",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E038",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E039",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E03A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E03B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E03C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E03D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E03E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E03F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E040",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E041",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E042",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E043",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E044",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E047",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E048",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E04A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E04B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E04C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E04D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E04E",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E04F",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E050",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E053",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E054",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E059",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E05A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E05B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E05C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E05D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E05E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E05F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E060",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E061",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E062",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E063",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E064",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E065",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E066",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E067",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E068",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E069",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E06A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E06B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E06C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E06D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E06E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E06F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E070",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E071",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E074",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E075",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E077",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E078",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E079",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E07A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E07B",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E07C",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E07D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E080",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E081",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E086",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E087",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E088",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E089",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E08A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E08B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E08C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E08D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E08E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E08F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E090",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E091",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E092",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E093",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E095",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E096",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E097",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E098",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E099",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E09A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E09B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E09C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E09D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E09E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E09F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0A9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0AA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0AB",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0AC",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0AD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0B0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0B1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0BA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0BB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0BC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0BD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0BE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0BF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0D1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0D2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0D3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0D4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0DA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0DB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0DC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0DD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0EA",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E0EB",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E0EC",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E0F7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0F8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0F9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0FA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0FB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0FC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0FD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0FE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E0FF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E100",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E101",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E102",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E103",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E104",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E105",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E106",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E107",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E108",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E109",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E10A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E10B",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E10C",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E10D",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E10E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E10F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E110",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E111",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E112",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E113",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E114",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E115",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E116",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E117",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E119",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E11A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E11B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E11C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E11D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E11E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E11F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E120",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E121",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E122",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E123",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E124",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E126",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E127",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E128",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E129",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E12A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E12B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E12C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E12D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E12E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E12F",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E130",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E131",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E133",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E134",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E135",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E136",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E137",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E138",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E139",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E13A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E13B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E13C",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E13D",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E13E",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E140",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E141",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E142",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E143",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E144",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E145",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E146",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E147",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E148",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E149",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E14A",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E14B",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E152",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E154",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E155",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E156",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E157",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E158",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E159",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E15A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E15B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E15C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E15D",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E15E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E15F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E160",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E161",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E162",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E163",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E164",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E165",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E166",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E167",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E168",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E169",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E16A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E16B",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E16C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E16D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E16E",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E16F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E170",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E171",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E172",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E173",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E174",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E175",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E176",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E177",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E179",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E17A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E17B",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E17C",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E17D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E17E",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E17F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E180",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E181",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E182",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E183",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E184",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E185",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E186",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E187",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E188",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E189",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E18A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E18B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E18C",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E18D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E18E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E18F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E190",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E191",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E192",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E193",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E194",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E195",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E197",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E198",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E199",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E19A",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E19B",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E19C",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E19D",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E19E",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E19F",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A2",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A3",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A7",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1A9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1AA",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1AB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1AC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1AD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1AE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1AF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B0",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B1",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B7",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1B9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1BA",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1BB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1BC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1BD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1BE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1BF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C0",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C1",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C5",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C8",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1C9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1CA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1CB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1CC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1CD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1CE",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1CF",
+      "type": "LWPOLYLINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1D9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1DA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1DB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1DC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1DD",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1DE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1DF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E4",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E5",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E6",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E7",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E8",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1E9",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1EA",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1EB",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1EC",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1ED",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1EE",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1EF",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1F0",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1F1",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1F2",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1F3",
+      "type": "LINE",
+      "reason": "replace old applied moulding, glass divisions, surface rib pattern or door handles"
+    },
+    {
+      "handle": "E1F4",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E1F5",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E1F6",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E1F7",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E1F8",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    },
+    {
+      "handle": "E1F9",
+      "type": "HATCH",
+      "reason": "source hatches omitted in outline drawing"
+    }
+  ]
+}

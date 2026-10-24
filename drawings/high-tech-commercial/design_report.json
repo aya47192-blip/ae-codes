@@ -1,0 +1,884 @@
+{
+  "style": "High-Tech commercial facade",
+  "source_units_flag": 1,
+  "output_units_flag": 1,
+  "numeric_coordinate_scale": 1,
+  "source_entities_retained": 134,
+  "source_entities_replaced": 452,
+  "native_editable_components": 107,
+  "components": [
+    {
+      "name": "SOURCE_ARCHITECTURE",
+      "kind": "architecture",
+      "anchor": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "SOURCE_CENTRAL_OPENING",
+      "kind": "opening_frame",
+      "anchor": [
+        421.6590884885184,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "CLERESTORY_2",
+      "kind": "window",
+      "anchor": [
+        418.916056007268,
+        131.596339458636
+      ]
+    },
+    {
+      "name": "CLERESTORY_1",
+      "kind": "window",
+      "anchor": [
+        418.119497512298,
+        131.596339458636
+      ]
+    },
+    {
+      "name": "SOURCE_STOREFRONT_1",
+      "kind": "opening_frame",
+      "anchor": [
+        413.2012601951013,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "DOOR_ASSEMBLY_1",
+      "kind": "door",
+      "anchor": [
+        413.2012601951013,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "SOURCE_STOREFRONT_5",
+      "kind": "opening_frame",
+      "anchor": [
+        430.0669167819352,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "DOOR_ASSEMBLY_5",
+      "kind": "door",
+      "anchor": [
+        430.0669167819352,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "SOURCE_STOREFRONT_2",
+      "kind": "opening_frame",
+      "anchor": [
+        417.3864631797187,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "DOOR_ASSEMBLY_2",
+      "kind": "door",
+      "anchor": [
+        417.3864631797187,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "SOURCE_STOREFRONT_4",
+      "kind": "opening_frame",
+      "anchor": [
+        425.9317137973183,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "DOOR_ASSEMBLY_4",
+      "kind": "door",
+      "anchor": [
+        425.9317137973183,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "SOURCE_STOREFRONT_3",
+      "kind": "opening_frame",
+      "anchor": [
+        421.6590884885184,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "DOOR_ASSEMBLY_3",
+      "kind": "door",
+      "anchor": [
+        421.6590884885184,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "CLERESTORY_3",
+      "kind": "window",
+      "anchor": [
+        419.712614502238,
+        131.596339458636
+      ]
+    },
+    {
+      "name": "CLERESTORY_5",
+      "kind": "window",
+      "anchor": [
+        424.4021209698,
+        131.596339458636
+      ]
+    },
+    {
+      "name": "CLERESTORY_6",
+      "kind": "window",
+      "anchor": [
+        425.1986794648,
+        131.596339458636
+      ]
+    },
+    {
+      "name": "CLERESTORY_4",
+      "kind": "window",
+      "anchor": [
+        423.6055624748,
+        131.596339458636
+      ]
+    },
+    {
+      "name": "WINDOW_E118",
+      "kind": "window",
+      "anchor": [
+        416.13646317971893,
+        128.4981004125882
+      ]
+    },
+    {
+      "name": "WINDOW_E125",
+      "kind": "window",
+      "anchor": [
+        416.13646317971893,
+        125.1981004125882
+      ]
+    },
+    {
+      "name": "WINDOW_E132",
+      "kind": "window",
+      "anchor": [
+        427.1364631797202,
+        128.4981004125882
+      ]
+    },
+    {
+      "name": "WINDOW_E13F",
+      "kind": "window",
+      "anchor": [
+        427.1364631797202,
+        125.1981004125882
+      ]
+    },
+    {
+      "name": "WINDOW_E178",
+      "kind": "window",
+      "anchor": [
+        413.2364631797188,
+        124.5981004125881
+      ]
+    },
+    {
+      "name": "WINDOW_E196",
+      "kind": "window",
+      "anchor": [
+        430.0364631797204,
+        127.8981004125882
+      ]
+    },
+    {
+      "name": "WINDOW_E1B4",
+      "kind": "window",
+      "anchor": [
+        430.0364631797204,
+        124.5981004125881
+      ]
+    },
+    {
+      "name": "WINDOW_E1D4",
+      "kind": "window",
+      "anchor": [
+        413.2364631797188,
+        127.8981004125882
+      ]
+    },
+    {
+      "name": "STOREFRONT_1",
+      "kind": "storefront",
+      "anchor": [
+        413.2012601951013,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "TRANSOM_GRID_1",
+      "kind": "glazing",
+      "anchor": [
+        413.2012601951013,
+        121.5981004125883
+      ]
+    },
+    {
+      "name": "LATTICE_BEAM_1",
+      "kind": "exposed_beam",
+      "anchor": [
+        413.2012601951013,
+        120.7981004125883
+      ]
+    },
+    {
+      "name": "DOOR_PULL_1_-1",
+      "kind": "handle",
+      "anchor": [
+        413.07126019510133,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "DOOR_PULL_1_1",
+      "kind": "handle",
+      "anchor": [
+        413.3312601951013,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "STOREFRONT_2",
+      "kind": "storefront",
+      "anchor": [
+        417.386463179719,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "TRANSOM_GRID_2",
+      "kind": "glazing",
+      "anchor": [
+        417.386463179719,
+        121.5981004125883
+      ]
+    },
+    {
+      "name": "LATTICE_BEAM_2",
+      "kind": "exposed_beam",
+      "anchor": [
+        417.386463179719,
+        120.7981004125883
+      ]
+    },
+    {
+      "name": "DOOR_PULL_2_-1",
+      "kind": "handle",
+      "anchor": [
+        417.256463179719,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "DOOR_PULL_2_1",
+      "kind": "handle",
+      "anchor": [
+        417.516463179719,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "STOREFRONT_3",
+      "kind": "storefront",
+      "anchor": [
+        421.65908848851836,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "TRANSOM_GRID_3",
+      "kind": "glazing",
+      "anchor": [
+        421.65908848851836,
+        121.5981004125883
+      ]
+    },
+    {
+      "name": "LATTICE_BEAM_3",
+      "kind": "exposed_beam",
+      "anchor": [
+        421.65908848851836,
+        120.7981004125883
+      ]
+    },
+    {
+      "name": "DOOR_PULL_3_-1",
+      "kind": "handle",
+      "anchor": [
+        421.52908848851837,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "DOOR_PULL_3_1",
+      "kind": "handle",
+      "anchor": [
+        421.78908848851836,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "STOREFRONT_4",
+      "kind": "storefront",
+      "anchor": [
+        425.931713797318,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "TRANSOM_GRID_4",
+      "kind": "glazing",
+      "anchor": [
+        425.931713797318,
+        121.5981004125883
+      ]
+    },
+    {
+      "name": "LATTICE_BEAM_4",
+      "kind": "exposed_beam",
+      "anchor": [
+        425.931713797318,
+        120.7981004125883
+      ]
+    },
+    {
+      "name": "DOOR_PULL_4_-1",
+      "kind": "handle",
+      "anchor": [
+        425.80171379731803,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "DOOR_PULL_4_1",
+      "kind": "handle",
+      "anchor": [
+        426.061713797318,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "STOREFRONT_5",
+      "kind": "storefront",
+      "anchor": [
+        430.0669167819351,
+        117.5981004125882
+      ]
+    },
+    {
+      "name": "TRANSOM_GRID_5",
+      "kind": "glazing",
+      "anchor": [
+        430.0669167819351,
+        121.5981004125883
+      ]
+    },
+    {
+      "name": "LATTICE_BEAM_5",
+      "kind": "exposed_beam",
+      "anchor": [
+        430.0669167819351,
+        120.7981004125883
+      ]
+    },
+    {
+      "name": "DOOR_PULL_5_-1",
+      "kind": "handle",
+      "anchor": [
+        429.9369167819351,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "DOOR_PULL_5_1",
+      "kind": "handle",
+      "anchor": [
+        430.1969167819351,
+        118.69810041258819
+      ]
+    },
+    {
+      "name": "MAIN_POINT_FIXED_GLAZING",
+      "kind": "glazing",
+      "anchor": [
+        421.6590884885184,
+        123.9481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_0_0",
+      "kind": "glass_fixing",
+      "anchor": [
+        419.70908848851843,
+        125.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_0_1",
+      "kind": "glass_fixing",
+      "anchor": [
+        419.70908848851843,
+        126.94810041258819
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_0_2",
+      "kind": "glass_fixing",
+      "anchor": [
+        419.70908848851843,
+        128.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_1_0",
+      "kind": "glass_fixing",
+      "anchor": [
+        421.00908848851844,
+        125.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_1_1",
+      "kind": "glass_fixing",
+      "anchor": [
+        421.00908848851844,
+        126.94810041258819
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_1_2",
+      "kind": "glass_fixing",
+      "anchor": [
+        421.00908848851844,
+        128.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_2_0",
+      "kind": "glass_fixing",
+      "anchor": [
+        422.3090884885184,
+        125.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_2_1",
+      "kind": "glass_fixing",
+      "anchor": [
+        422.3090884885184,
+        126.94810041258819
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_2_2",
+      "kind": "glass_fixing",
+      "anchor": [
+        422.3090884885184,
+        128.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_3_0",
+      "kind": "glass_fixing",
+      "anchor": [
+        423.6090884885184,
+        125.4481004125882
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_3_1",
+      "kind": "glass_fixing",
+      "anchor": [
+        423.6090884885184,
+        126.94810041258819
+      ]
+    },
+    {
+      "name": "SPIDER_FIXING_3_2",
+      "kind": "glass_fixing",
+      "anchor": [
+        423.6090884885184,
+        128.4481004125882
+      ]
+    },
+    {
+      "name": "MAIN_METAL_PORTAL",
+      "kind": "exposed_frame",
+      "anchor": [
+        421.6590884885184,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "LEFT_TENSION_PANEL",
+      "kind": "exposed_bracing",
+      "anchor": [
+        413.235,
+        126.62
+      ]
+    },
+    {
+      "name": "RIGHT_TENSION_PANEL",
+      "kind": "exposed_bracing",
+      "anchor": [
+        430.03499999999997,
+        126.62
+      ]
+    },
+    {
+      "name": "ROOF_OPEN_WEB_BEAM",
+      "kind": "exposed_beam",
+      "anchor": [
+        422.3481298463857,
+        133.2981004125882
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E118",
+      "kind": "opening_frame",
+      "anchor": [
+        416.13646317971893,
+        128.4981004125882
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E118",
+      "kind": "glazing",
+      "anchor": [
+        416.13646317971893,
+        128.4981004125882
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E125",
+      "kind": "opening_frame",
+      "anchor": [
+        416.13646317971893,
+        125.1981004125882
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E125",
+      "kind": "glazing",
+      "anchor": [
+        416.13646317971893,
+        125.1981004125882
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E132",
+      "kind": "opening_frame",
+      "anchor": [
+        427.1364631797202,
+        128.4981004125882
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E132",
+      "kind": "glazing",
+      "anchor": [
+        427.1364631797202,
+        128.4981004125882
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E13F",
+      "kind": "opening_frame",
+      "anchor": [
+        427.1364631797202,
+        125.1981004125882
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E13F",
+      "kind": "glazing",
+      "anchor": [
+        427.1364631797202,
+        125.1981004125882
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E178",
+      "kind": "opening_frame",
+      "anchor": [
+        413.2364631797188,
+        124.5981004125881
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E178",
+      "kind": "glazing",
+      "anchor": [
+        413.2364631797188,
+        124.5981004125881
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E196",
+      "kind": "opening_frame",
+      "anchor": [
+        430.0364631797204,
+        127.8981004125882
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E196",
+      "kind": "glazing",
+      "anchor": [
+        430.0364631797204,
+        127.8981004125882
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E1B4",
+      "kind": "opening_frame",
+      "anchor": [
+        430.0364631797204,
+        124.5981004125881
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E1B4",
+      "kind": "glazing",
+      "anchor": [
+        430.0364631797204,
+        124.5981004125881
+      ]
+    },
+    {
+      "name": "FRAME_CLOSURE_E1D4",
+      "kind": "opening_frame",
+      "anchor": [
+        413.2364631797188,
+        127.8981004125882
+      ]
+    },
+    {
+      "name": "SIDE_GLAZING_E1D4",
+      "kind": "glazing",
+      "anchor": [
+        413.2364631797188,
+        127.8981004125882
+      ]
+    },
+    {
+      "name": "SUNSHADE_1",
+      "kind": "sunshade",
+      "anchor": [
+        416.13646317971904,
+        129.6981004125882
+      ]
+    },
+    {
+      "name": "SUNSHADE_2",
+      "kind": "sunshade",
+      "anchor": [
+        416.13646317971904,
+        126.3981004125882
+      ]
+    },
+    {
+      "name": "SUNSHADE_3",
+      "kind": "sunshade",
+      "anchor": [
+        427.13646317971995,
+        129.6981004125882
+      ]
+    },
+    {
+      "name": "SUNSHADE_4",
+      "kind": "sunshade",
+      "anchor": [
+        427.13646317971995,
+        126.3981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_1",
+      "kind": "solar_fin",
+      "anchor": [
+        411.41,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_2",
+      "kind": "solar_fin",
+      "anchor": [
+        411.81,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_3",
+      "kind": "solar_fin",
+      "anchor": [
+        414.57,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_4",
+      "kind": "solar_fin",
+      "anchor": [
+        414.91,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_5",
+      "kind": "solar_fin",
+      "anchor": [
+        428.36,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_6",
+      "kind": "solar_fin",
+      "anchor": [
+        428.7,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_7",
+      "kind": "solar_fin",
+      "anchor": [
+        431.46,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "VERTICAL_FIN_8",
+      "kind": "solar_fin",
+      "anchor": [
+        431.86,
+        123.5981004125882
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_1",
+      "kind": "cladding_joint",
+      "anchor": [
+        416.5,
+        132.7
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_2",
+      "kind": "cladding_joint",
+      "anchor": [
+        418.2,
+        132.7
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_3",
+      "kind": "cladding_joint",
+      "anchor": [
+        420.2,
+        132.7
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_4",
+      "kind": "cladding_joint",
+      "anchor": [
+        422.2,
+        132.7
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_5",
+      "kind": "cladding_joint",
+      "anchor": [
+        424.2,
+        132.7
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_6",
+      "kind": "cladding_joint",
+      "anchor": [
+        426.2,
+        132.7
+      ]
+    },
+    {
+      "name": "UPPER_PANEL_SEAM_7",
+      "kind": "cladding_joint",
+      "anchor": [
+        428.2,
+        132.7
+      ]
+    },
+    {
+      "name": "PORTAL_CONNECTION_1",
+      "kind": "bolted_connection",
+      "anchor": [
+        418.03,
+        123.83
+      ]
+    },
+    {
+      "name": "PORTAL_CONNECTION_2",
+      "kind": "bolted_connection",
+      "anchor": [
+        425.29,
+        123.83
+      ]
+    },
+    {
+      "name": "PORTAL_CONNECTION_3",
+      "kind": "bolted_connection",
+      "anchor": [
+        418.03,
+        130.52
+      ]
+    },
+    {
+      "name": "PORTAL_CONNECTION_4",
+      "kind": "bolted_connection",
+      "anchor": [
+        425.29,
+        130.52
+      ]
+    },
+    {
+      "name": "SOURCE_FASCIA_RETURNS",
+      "kind": "architecture",
+      "anchor": [
+        0,
+        0
+      ]
+    }
+  ],
+  "no_plants": true,
+  "lineweight_mm": 0.25,
+  "source_architecture_reconstructed": false,
+  "source_file_sha256": "62a572541860f877154239d843c0016dd0f396aec2cc8fcd1236dc8fc1aaefdc",
+  "notes": [
+    "Original massing, curved wing roof outlines, recess returns, door leaf dimensions and all opening boundaries retained.",
+    "New metal framing, open-web beams, spandrel tension rods, point-fixed glazing and solar fins replace old mouldings and glass divisions.",
+    "Applied members are facade design elements; sizes and fixings require structural and facade-engineering design."
+  ]
+}
