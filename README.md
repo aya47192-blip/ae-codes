@@ -1,3 +1,9 @@
+## الأحدث: لوبي فندق AYAA — New Modern
+
+[الموديل والخامات لـSketchUp](drawings/ayaa-hotel-new-modern/SketchUp_import_package.zip) · [عرض التصميم PDF](drawings/ayaa-hotel-new-modern/presentation.pdf) · [المعاينة والتفاصيل](drawings/ayaa-hotel-new-modern/README.md)
+
+![لوبي الفندق](drawings/ayaa-hotel-new-modern/overview.png)
+
 # الأحدث — استدامة مع الحفاظ على شكل الواجهة V2
 
 [تحميل DWG](drawings/sustainable-shape-v2/sustainable_facade.dwg?raw=true) · [تحميل DXF](drawings/sustainable-shape-v2/sustainable_facade.dxf?raw=true) · [الصورة](drawings/sustainable-shape-v2/preview.png) · [PDF](drawings/sustainable-shape-v2/sustainable_facade.pdf?raw=true) · [مقارنة بالأصل وجدول البدائل](drawings/sustainable-shape-v2/before_after.pdf?raw=true) · [الحزمة كاملة](drawings/sustainable-shape-v2/sustainable_package.zip?raw=true)
