@@ -1,0 +1,19 @@
+{
+  "title": "BOHEMIAN V2",
+  "top_level_components_expected": 239,
+  "whole_furniture_components": 33,
+  "geometry_instances": 2795,
+  "original_geometry_instances": 2795,
+  "missing_or_duplicated_instances": 0,
+  "mesh_content_changes": 0,
+  "world_transform_changes": 0,
+  "missing_texture_maps": 0,
+  "errors": [],
+  "sketchup_desktop_tested": false,
+  "independent_pycollada_reload": {
+    "geometry_instances": 2795,
+    "triangles": 769911,
+    "max_world_bounds_error_m": 1.571661627508547e-05,
+    "all_parts_parse": true
+  }
+}
