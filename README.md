@@ -1,3 +1,9 @@
+## الأحدث: اللوبي — مودرن مصحّح + أوبشن بوهيمي
+
+[المودرن المصحّح](drawings/hotel-modern-corrected-v5/README.md) · [البوهيمي](drawings/hotel-bohemian-option-v1/README.md) · [مقارنة PDF](drawings/hotel-options-v5/comparison.pdf)
+
+![النسختان](drawings/hotel-options-v5/comparison.png)
+
 ## الأحدث: لوبي الفندق New Modern — تصميم جديد V4
 
 [حزمة SketchUp بالخامات](drawings/ayaa-hotel-new-modern-v4/SketchUp_New_Modern_V4.zip) · [عرض التصميم](drawings/ayaa-hotel-new-modern-v4/presentation.pdf) · [البلان](drawings/ayaa-hotel-new-modern-v4/plan.png) · [التفاصيل](drawings/ayaa-hotel-new-modern-v4/README.md)

@@ -1,0 +1,17 @@
+{
+  "main": {
+    "source_area_m2": 616.0591180532574,
+    "exported_area_m2": 616.0591173703579,
+    "uncovered_area_m2": 6.828995551266814e-07,
+    "triangle_overlap_m2": 8.436472853645682e-08,
+    "triangles": 1760
+  },
+  "centre": {
+    "source_area_m2": 43.45202492567478,
+    "exported_area_m2": 43.452022588287946,
+    "uncovered_area_m2": 2.337386831641197e-06,
+    "triangle_overlap_m2": 2.8337599360384047e-06,
+    "triangles": 276
+  },
+  "downward_faces": []
+}
