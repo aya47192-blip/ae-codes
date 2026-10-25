@@ -94,7 +94,7 @@ module AyaaLobbyDirect2026
       manifest.fetch('parts').each_with_index do |part, i|
         Sketchup.status_text = "Ayaa Lobby - #{manifest['title']} - #{i + 1}/#{total}: #{part['name']}"
         created << make_part(model, base, part, materials, prefix)
-        UI.refresh if i % 4 == 0
+        model.active_view.refresh if i % 4 == 0
       end
       raise 'Some components were not created.' unless created.length == total
       raise 'Some components are empty.' unless created.all? { |e| e.valid? && !e.bounds.empty? }
@@ -108,7 +108,7 @@ module AyaaLobbyDirect2026
       model.active_view.zoom(created)
       model.commit_operation
       operation_open = false
-      report = { 'components_created' => created.length, 'whole_furniture_components' => manifest['parts'].count { |p| p['category'] == 'furniture' }, 'build_method' => 'native SketchUp geometry; no DAE import', 'version' => '1.0.0' }
+      report = { 'components_created' => created.length, 'whole_furniture_components' => manifest['parts'].count { |p| p['category'] == 'furniture' }, 'build_method' => 'native SketchUp geometry; no DAE import', 'version' => '1.0.1' }
       puts JSON.pretty_generate(report)
       path = UI.savepanel('Save lobby as SketchUp', nil, manifest.fetch('output_skp'))
       if path

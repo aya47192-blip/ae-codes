@@ -1,12 +1,14 @@
+**Version1.0.1:** fixes the reported `undefined method refresh for UI:Module` error by calling `model.active_view.refresh`. Reinstall this RBZ, close ALL SketchUp windows, and reopen SketchUp before building. Geometry, furniture positions and materials are unchanged.
+
 # SketchUp lobby: one furnished model, independent whole-piece components
 
-[Download Ayaa Lobby extension](Ayaa_Lobby_Components.rbz)
+[Download Ayaa Lobby extension](Ayaa_Lobby_Components_v1_0_1.rbz)
 
 This RBZ includes both complete layouts: New Modern and latest Bohemian V2. It builds the entire selected lobby in one SketchUp model. Furniture is in the original reference positions. Each chair, sofa, table, counter and fixture is a separate complete top-level component. Users never open individual asset files.
 
 ## Installation
 
-1. Download Ayaa_Lobby_Components.rbz without unzipping it.
+1. Download Ayaa_Lobby_Components_v1_0_1.rbz without unzipping it.
 2. SketchUp Desktop: Extensions > Extension Manager > Install Extension. Select the RBZ.
 3. Open a new model. The default scale figure is allowed.
 4. Extensions > Ayaa Lobby > Build NEW MODERN (or BOHEMIAN V2).

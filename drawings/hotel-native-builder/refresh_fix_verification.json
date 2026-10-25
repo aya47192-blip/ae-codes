@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "fix": "Use Sketchup::View#refresh rather than nonexistent UI.refresh",
+  "ruby_syntax_checked": true,
+  "archive_crc_checked": true,
+  "changed_files": [
+    "ayaa_lobby_builder.rb",
+    "ayaa_lobby_builder/main.rb"
+  ],
+  "model_geometry_materials_uv_unchanged": true,
+  "sketchup_desktop_tested": false
+}
