@@ -1,0 +1,1452 @@
+{
+  "assemblies": [
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Entry_Cloud_Chair_1_0",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_01",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back",
+        "Entry_Cloud_Chair_1_0_Upholstered_Seat",
+        "Entry_Cloud_Chair_1_0_Plinth",
+        "Entry_Cloud_Chair_1_0_Pedestal"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion",
+        "BV2_Chair_Square_Seat_Frame",
+        "BV2_Fan_Back_Centre_Stem",
+        "BV2_Fan_Back_Handwoven_Cane",
+        "BV2_Fan_Back_Oval_Frame",
+        "BV2_Fan_Back_Timber_Stay",
+        "BV2_Fan_Back_Timber_Stay.001",
+        "BV2_Open_Chair_Arm",
+        "BV2_Open_Chair_Arm.001",
+        "BV2_Splayed_Chair_Leg",
+        "BV2_Splayed_Chair_Leg.001",
+        "BV2_Splayed_Chair_Leg.002",
+        "BV2_Splayed_Chair_Leg.003"
+      ],
+      "position": [
+        94.12999725341797,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Entry_Cloud_Chair_1_1",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_02",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.001",
+        "Entry_Cloud_Chair_1_1_Upholstered_Seat",
+        "Entry_Cloud_Chair_1_1_Plinth",
+        "Entry_Cloud_Chair_1_1_Pedestal"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.001",
+        "BV2_Chair_Square_Seat_Frame.001",
+        "BV2_Fan_Back_Centre_Stem.001",
+        "BV2_Fan_Back_Handwoven_Cane.001",
+        "BV2_Fan_Back_Oval_Frame.001",
+        "BV2_Fan_Back_Timber_Stay.002",
+        "BV2_Fan_Back_Timber_Stay.003",
+        "BV2_Open_Chair_Arm.002",
+        "BV2_Open_Chair_Arm.003",
+        "BV2_Splayed_Chair_Leg.004",
+        "BV2_Splayed_Chair_Leg.005",
+        "BV2_Splayed_Chair_Leg.006",
+        "BV2_Splayed_Chair_Leg.007"
+      ],
+      "position": [
+        95.56999969482422,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Entry_Oval_Table_1",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_01",
+      "removed_body_objects": [
+        "Entry_Oval_Table_1_Twin_Drum_Base.001",
+        "Entry_Oval_Table_1_Twin_Drum_Base",
+        "Entry_Oval_Table_1_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase",
+        "Dried_Stem",
+        "Dried_Olive_Sprig.001",
+        "Dried_Olive_Sprig"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing",
+        "BV2_Leg_Rope_Lashing.001",
+        "BV2_Leg_Rope_Lashing.002",
+        "BV2_Organic_Live_Edge_Teak_Top",
+        "BV2_Table_Ceramic_Dish",
+        "BV2_Tripod_Branch_Leg",
+        "BV2_Tripod_Branch_Leg.001",
+        "BV2_Tripod_Branch_Leg.002"
+      ],
+      "position": [
+        94.8499984741211,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Entry_Cloud_Chair_2_0",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_03",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.002",
+        "Entry_Cloud_Chair_2_0_Upholstered_Seat",
+        "Entry_Cloud_Chair_2_0_Plinth",
+        "Entry_Cloud_Chair_2_0_Pedestal"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.002",
+        "BV2_Chair_Square_Seat_Frame.002",
+        "BV2_Fan_Back_Centre_Stem.002",
+        "BV2_Fan_Back_Handwoven_Cane.002",
+        "BV2_Fan_Back_Oval_Frame.002",
+        "BV2_Fan_Back_Timber_Stay.004",
+        "BV2_Fan_Back_Timber_Stay.005",
+        "BV2_Open_Chair_Arm.004",
+        "BV2_Open_Chair_Arm.005",
+        "BV2_Splayed_Chair_Leg.008",
+        "BV2_Splayed_Chair_Leg.009",
+        "BV2_Splayed_Chair_Leg.010",
+        "BV2_Splayed_Chair_Leg.011"
+      ],
+      "position": [
+        98.33000183105469,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Entry_Cloud_Chair_2_1",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_04",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.003",
+        "Entry_Cloud_Chair_2_1_Upholstered_Seat",
+        "Entry_Cloud_Chair_2_1_Plinth",
+        "Entry_Cloud_Chair_2_1_Pedestal"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.003",
+        "BV2_Chair_Square_Seat_Frame.003",
+        "BV2_Fan_Back_Centre_Stem.003",
+        "BV2_Fan_Back_Handwoven_Cane.003",
+        "BV2_Fan_Back_Oval_Frame.003",
+        "BV2_Fan_Back_Timber_Stay.006",
+        "BV2_Fan_Back_Timber_Stay.007",
+        "BV2_Open_Chair_Arm.006",
+        "BV2_Open_Chair_Arm.007",
+        "BV2_Splayed_Chair_Leg.012",
+        "BV2_Splayed_Chair_Leg.013",
+        "BV2_Splayed_Chair_Leg.014",
+        "BV2_Splayed_Chair_Leg.015"
+      ],
+      "position": [
+        99.7699966430664,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Entry_Oval_Table_2",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_02",
+      "removed_body_objects": [
+        "Entry_Oval_Table_2_Twin_Drum_Base.001",
+        "Entry_Oval_Table_2_Twin_Drum_Base",
+        "Entry_Oval_Table_2_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.001",
+        "Dried_Stem.001",
+        "Dried_Olive_Sprig.003",
+        "Dried_Olive_Sprig.002"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.003",
+        "BV2_Leg_Rope_Lashing.004",
+        "BV2_Leg_Rope_Lashing.005",
+        "BV2_Organic_Live_Edge_Teak_Top.001",
+        "BV2_Table_Ceramic_Dish.001",
+        "BV2_Tripod_Branch_Leg.003",
+        "BV2_Tripod_Branch_Leg.004",
+        "BV2_Tripod_Branch_Leg.005"
+      ],
+      "position": [
+        99.05000305175781,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Entry_Cloud_Chair_3_0",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_05",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.004",
+        "Entry_Cloud_Chair_3_0_Upholstered_Seat",
+        "Entry_Cloud_Chair_3_0_Plinth",
+        "Entry_Cloud_Chair_3_0_Pedestal"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.004",
+        "BV2_Chair_Square_Seat_Frame.004",
+        "BV2_Fan_Back_Centre_Stem.004",
+        "BV2_Fan_Back_Handwoven_Cane.004",
+        "BV2_Fan_Back_Oval_Frame.004",
+        "BV2_Fan_Back_Timber_Stay.008",
+        "BV2_Fan_Back_Timber_Stay.009",
+        "BV2_Open_Chair_Arm.008",
+        "BV2_Open_Chair_Arm.009",
+        "BV2_Splayed_Chair_Leg.016",
+        "BV2_Splayed_Chair_Leg.017",
+        "BV2_Splayed_Chair_Leg.018",
+        "BV2_Splayed_Chair_Leg.019"
+      ],
+      "position": [
+        110.7699966430664,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Entry_Cloud_Chair_3_1",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_06",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.005",
+        "Entry_Cloud_Chair_3_1_Upholstered_Seat",
+        "Entry_Cloud_Chair_3_1_Plinth",
+        "Entry_Cloud_Chair_3_1_Pedestal"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.005",
+        "BV2_Chair_Square_Seat_Frame.005",
+        "BV2_Fan_Back_Centre_Stem.005",
+        "BV2_Fan_Back_Handwoven_Cane.005",
+        "BV2_Fan_Back_Oval_Frame.005",
+        "BV2_Fan_Back_Timber_Stay.010",
+        "BV2_Fan_Back_Timber_Stay.011",
+        "BV2_Open_Chair_Arm.010",
+        "BV2_Open_Chair_Arm.011",
+        "BV2_Splayed_Chair_Leg.020",
+        "BV2_Splayed_Chair_Leg.021",
+        "BV2_Splayed_Chair_Leg.022",
+        "BV2_Splayed_Chair_Leg.023"
+      ],
+      "position": [
+        112.20999908447266,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Entry_Oval_Table_3",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_03",
+      "removed_body_objects": [
+        "Entry_Oval_Table_3_Twin_Drum_Base.001",
+        "Entry_Oval_Table_3_Twin_Drum_Base",
+        "Entry_Oval_Table_3_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.002",
+        "Dried_Stem.002",
+        "Dried_Olive_Sprig.005",
+        "Dried_Olive_Sprig.004"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.006",
+        "BV2_Leg_Rope_Lashing.007",
+        "BV2_Leg_Rope_Lashing.008",
+        "BV2_Organic_Live_Edge_Teak_Top.002",
+        "BV2_Table_Ceramic_Dish.002",
+        "BV2_Tripod_Branch_Leg.006",
+        "BV2_Tripod_Branch_Leg.007",
+        "BV2_Tripod_Branch_Leg.008"
+      ],
+      "position": [
+        111.48999786376953,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "previous_root": "NEW_Cloud_Sofa_1",
+      "new_root": "NEW_BOHO2_Arched_Cane_Settee_01",
+      "removed_body_objects": [
+        "Woven_Sofa_Back",
+        "Pillow_Woven_Stripe.005",
+        "Pillow_Woven_Stripe.004",
+        "Pillow_Woven_Stripe.003",
+        "Pillow_Woven_Stripe.002",
+        "Pillow_Woven_Stripe.001",
+        "Pillow_Woven_Stripe",
+        "Open_Teak_Arm_Frame.001",
+        "Open_Teak_Arm_Frame",
+        "Boho_Sofa_Wood_Leg.003",
+        "Boho_Sofa_Wood_Leg.002",
+        "Boho_Sofa_Wood_Leg.001",
+        "Boho_Sofa_Wood_Leg",
+        "Boho_Sofa_Teak_Seat_Frame",
+        "Boho_Linen_Seat_Cushion.002",
+        "Boho_Linen_Seat_Cushion.001",
+        "Boho_Linen_Seat_Cushion",
+        "Boho_Linen_Back_Cushion.002",
+        "Boho_Linen_Back_Cushion.001",
+        "Boho_Linen_Back_Cushion",
+        "Boho_Accent_Pillow.001",
+        "Boho_Accent_Pillow"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Settee_Arched_Cane_Back",
+        "BV2_Settee_Back_Lower_Timber_Rail",
+        "BV2_Settee_Loose_Back_Pillow",
+        "BV2_Settee_Loose_Back_Pillow.001",
+        "BV2_Settee_Open_Bentwood_Arm",
+        "BV2_Settee_Open_Bentwood_Arm.001",
+        "BV2_Settee_Raked_Leg",
+        "BV2_Settee_Raked_Leg.001",
+        "BV2_Settee_Raked_Leg.002",
+        "BV2_Settee_Raked_Leg.003",
+        "BV2_Settee_Separate_Seat_Pillow",
+        "BV2_Settee_Separate_Seat_Pillow.001",
+        "BV2_Settee_Trapezoid_Frame"
+      ],
+      "position": [
+        95.05000305175781,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "previous_root": "NEW_Ottoman_1",
+      "new_root": "NEW_BOHO2_Hex_Jute_Pouf_01",
+      "removed_body_objects": [
+        "Ottoman_Drum"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Hexagonal_Braided_Pouf",
+        "BV2_Pouf_Braided_Seams"
+      ],
+      "position": [
+        94.29000091552734,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Lounge_Table_1",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_04",
+      "removed_body_objects": [
+        "Lounge_Table_1_Twin_Drum_Base.001",
+        "Lounge_Table_1_Twin_Drum_Base",
+        "Lounge_Table_1_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.003",
+        "Dried_Stem.003",
+        "Dried_Olive_Sprig.007",
+        "Dried_Olive_Sprig.006"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.009",
+        "BV2_Leg_Rope_Lashing.010",
+        "BV2_Leg_Rope_Lashing.011",
+        "BV2_Organic_Live_Edge_Teak_Top.003",
+        "BV2_Table_Ceramic_Dish.003",
+        "BV2_Tripod_Branch_Leg.009",
+        "BV2_Tripod_Branch_Leg.010",
+        "BV2_Tripod_Branch_Leg.011"
+      ],
+      "position": [
+        95.44000244140625,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "previous_root": "NEW_Cloud_Sofa_2",
+      "new_root": "NEW_BOHO2_Arched_Cane_Settee_02",
+      "removed_body_objects": [
+        "Woven_Sofa_Back.001",
+        "Pillow_Woven_Stripe.011",
+        "Pillow_Woven_Stripe.010",
+        "Pillow_Woven_Stripe.009",
+        "Pillow_Woven_Stripe.008",
+        "Pillow_Woven_Stripe.007",
+        "Pillow_Woven_Stripe.006",
+        "Open_Teak_Arm_Frame.003",
+        "Open_Teak_Arm_Frame.002",
+        "Boho_Sofa_Wood_Leg.007",
+        "Boho_Sofa_Wood_Leg.006",
+        "Boho_Sofa_Wood_Leg.005",
+        "Boho_Sofa_Wood_Leg.004",
+        "Boho_Sofa_Teak_Seat_Frame.001",
+        "Boho_Linen_Seat_Cushion.005",
+        "Boho_Linen_Seat_Cushion.004",
+        "Boho_Linen_Seat_Cushion.003",
+        "Boho_Linen_Back_Cushion.005",
+        "Boho_Linen_Back_Cushion.004",
+        "Boho_Linen_Back_Cushion.003",
+        "Boho_Accent_Pillow.003",
+        "Boho_Accent_Pillow.002"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Settee_Arched_Cane_Back.001",
+        "BV2_Settee_Back_Lower_Timber_Rail.001",
+        "BV2_Settee_Loose_Back_Pillow.002",
+        "BV2_Settee_Loose_Back_Pillow.003",
+        "BV2_Settee_Open_Bentwood_Arm.002",
+        "BV2_Settee_Open_Bentwood_Arm.003",
+        "BV2_Settee_Raked_Leg.004",
+        "BV2_Settee_Raked_Leg.005",
+        "BV2_Settee_Raked_Leg.006",
+        "BV2_Settee_Raked_Leg.007",
+        "BV2_Settee_Separate_Seat_Pillow.002",
+        "BV2_Settee_Separate_Seat_Pillow.003",
+        "BV2_Settee_Trapezoid_Frame.001"
+      ],
+      "position": [
+        115.48999786376953,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "previous_root": "NEW_Ottoman_2",
+      "new_root": "NEW_BOHO2_Hex_Jute_Pouf_02",
+      "removed_body_objects": [
+        "Ottoman_Drum.001"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Hexagonal_Braided_Pouf.001",
+        "BV2_Pouf_Braided_Seams.001"
+      ],
+      "position": [
+        116.25,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Lounge_Table_2",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_05",
+      "removed_body_objects": [
+        "Lounge_Table_2_Twin_Drum_Base.001",
+        "Lounge_Table_2_Twin_Drum_Base",
+        "Lounge_Table_2_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.004",
+        "Dried_Stem.004",
+        "Dried_Olive_Sprig.009",
+        "Dried_Olive_Sprig.008"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.012",
+        "BV2_Leg_Rope_Lashing.013",
+        "BV2_Leg_Rope_Lashing.014",
+        "BV2_Organic_Live_Edge_Teak_Top.004",
+        "BV2_Table_Ceramic_Dish.004",
+        "BV2_Tripod_Branch_Leg.012",
+        "BV2_Tripod_Branch_Leg.013",
+        "BV2_Tripod_Branch_Leg.014"
+      ],
+      "position": [
+        115.0999984741211,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "previous_root": "NEW_Cloud_Sofa_3",
+      "new_root": "NEW_BOHO2_Arched_Cane_Settee_03",
+      "removed_body_objects": [
+        "Woven_Sofa_Back.002",
+        "Pillow_Woven_Stripe.017",
+        "Pillow_Woven_Stripe.016",
+        "Pillow_Woven_Stripe.015",
+        "Pillow_Woven_Stripe.014",
+        "Pillow_Woven_Stripe.013",
+        "Pillow_Woven_Stripe.012",
+        "Open_Teak_Arm_Frame.005",
+        "Open_Teak_Arm_Frame.004",
+        "Boho_Sofa_Wood_Leg.011",
+        "Boho_Sofa_Wood_Leg.010",
+        "Boho_Sofa_Wood_Leg.009",
+        "Boho_Sofa_Wood_Leg.008",
+        "Boho_Sofa_Teak_Seat_Frame.002",
+        "Boho_Linen_Seat_Cushion.008",
+        "Boho_Linen_Seat_Cushion.007",
+        "Boho_Linen_Seat_Cushion.006",
+        "Boho_Linen_Back_Cushion.008",
+        "Boho_Linen_Back_Cushion.007",
+        "Boho_Linen_Back_Cushion.006",
+        "Boho_Accent_Pillow.005",
+        "Boho_Accent_Pillow.004"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Settee_Arched_Cane_Back.002",
+        "BV2_Settee_Back_Lower_Timber_Rail.002",
+        "BV2_Settee_Loose_Back_Pillow.004",
+        "BV2_Settee_Loose_Back_Pillow.005",
+        "BV2_Settee_Open_Bentwood_Arm.004",
+        "BV2_Settee_Open_Bentwood_Arm.005",
+        "BV2_Settee_Raked_Leg.008",
+        "BV2_Settee_Raked_Leg.009",
+        "BV2_Settee_Raked_Leg.010",
+        "BV2_Settee_Raked_Leg.011",
+        "BV2_Settee_Separate_Seat_Pillow.004",
+        "BV2_Settee_Separate_Seat_Pillow.005",
+        "BV2_Settee_Trapezoid_Frame.002"
+      ],
+      "position": [
+        107.25,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "previous_root": "NEW_Ottoman_3",
+      "new_root": "NEW_BOHO2_Hex_Jute_Pouf_03",
+      "removed_body_objects": [
+        "Ottoman_Drum.002"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Hexagonal_Braided_Pouf.002",
+        "BV2_Pouf_Braided_Seams.002"
+      ],
+      "position": [
+        106.48999786376953,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Lounge_Table_3",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_06",
+      "removed_body_objects": [
+        "Lounge_Table_3_Twin_Drum_Base.001",
+        "Lounge_Table_3_Twin_Drum_Base",
+        "Lounge_Table_3_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.005",
+        "Dried_Stem.005",
+        "Dried_Olive_Sprig.011",
+        "Dried_Olive_Sprig.010"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.015",
+        "BV2_Leg_Rope_Lashing.016",
+        "BV2_Leg_Rope_Lashing.017",
+        "BV2_Organic_Live_Edge_Teak_Top.005",
+        "BV2_Table_Ceramic_Dish.005",
+        "BV2_Tripod_Branch_Leg.015",
+        "BV2_Tripod_Branch_Leg.016",
+        "BV2_Tripod_Branch_Leg.017"
+      ],
+      "position": [
+        107.63999938964844,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "previous_root": "NEW_Cloud_Sofa_4",
+      "new_root": "NEW_BOHO2_Arched_Cane_Settee_04",
+      "removed_body_objects": [
+        "Woven_Sofa_Back.003",
+        "Pillow_Woven_Stripe.023",
+        "Pillow_Woven_Stripe.022",
+        "Pillow_Woven_Stripe.021",
+        "Pillow_Woven_Stripe.020",
+        "Pillow_Woven_Stripe.019",
+        "Pillow_Woven_Stripe.018",
+        "Open_Teak_Arm_Frame.007",
+        "Open_Teak_Arm_Frame.006",
+        "Boho_Sofa_Wood_Leg.015",
+        "Boho_Sofa_Wood_Leg.014",
+        "Boho_Sofa_Wood_Leg.013",
+        "Boho_Sofa_Wood_Leg.012",
+        "Boho_Sofa_Teak_Seat_Frame.003",
+        "Boho_Linen_Seat_Cushion.011",
+        "Boho_Linen_Seat_Cushion.010",
+        "Boho_Linen_Seat_Cushion.009",
+        "Boho_Linen_Back_Cushion.011",
+        "Boho_Linen_Back_Cushion.010",
+        "Boho_Linen_Back_Cushion.009",
+        "Boho_Accent_Pillow.007",
+        "Boho_Accent_Pillow.006"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Settee_Arched_Cane_Back.003",
+        "BV2_Settee_Back_Lower_Timber_Rail.003",
+        "BV2_Settee_Loose_Back_Pillow.006",
+        "BV2_Settee_Loose_Back_Pillow.007",
+        "BV2_Settee_Open_Bentwood_Arm.006",
+        "BV2_Settee_Open_Bentwood_Arm.007",
+        "BV2_Settee_Raked_Leg.012",
+        "BV2_Settee_Raked_Leg.013",
+        "BV2_Settee_Raked_Leg.014",
+        "BV2_Settee_Raked_Leg.015",
+        "BV2_Settee_Separate_Seat_Pillow.006",
+        "BV2_Settee_Separate_Seat_Pillow.007",
+        "BV2_Settee_Trapezoid_Frame.003"
+      ],
+      "position": [
+        103.30000305175781,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "previous_root": "NEW_Ottoman_4",
+      "new_root": "NEW_BOHO2_Hex_Jute_Pouf_04",
+      "removed_body_objects": [
+        "Ottoman_Drum.003"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Hexagonal_Braided_Pouf.003",
+        "BV2_Pouf_Braided_Seams.003"
+      ],
+      "position": [
+        104.05999755859375,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Lounge_Table_4",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_07",
+      "removed_body_objects": [
+        "Lounge_Table_4_Twin_Drum_Base.001",
+        "Lounge_Table_4_Twin_Drum_Base",
+        "Lounge_Table_4_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.006",
+        "Dried_Stem.006",
+        "Dried_Olive_Sprig.013",
+        "Dried_Olive_Sprig.012"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.018",
+        "BV2_Leg_Rope_Lashing.019",
+        "BV2_Leg_Rope_Lashing.020",
+        "BV2_Organic_Live_Edge_Teak_Top.006",
+        "BV2_Table_Ceramic_Dish.006",
+        "BV2_Tripod_Branch_Leg.018",
+        "BV2_Tripod_Branch_Leg.019",
+        "BV2_Tripod_Branch_Leg.020"
+      ],
+      "position": [
+        102.91000366210938,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Rear_Club_1",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_07",
+      "removed_body_objects": [
+        "Rear_Club_1_Upholstered_Seat",
+        "Rear_Club_1_Plinth",
+        "Rear_Club_1_Pedestal",
+        "Handwoven_Rattan_Back.006"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.006",
+        "BV2_Chair_Square_Seat_Frame.006",
+        "BV2_Fan_Back_Centre_Stem.006",
+        "BV2_Fan_Back_Handwoven_Cane.006",
+        "BV2_Fan_Back_Oval_Frame.006",
+        "BV2_Fan_Back_Timber_Stay.012",
+        "BV2_Fan_Back_Timber_Stay.013",
+        "BV2_Open_Chair_Arm.012",
+        "BV2_Open_Chair_Arm.013",
+        "BV2_Splayed_Chair_Leg.024",
+        "BV2_Splayed_Chair_Leg.025",
+        "BV2_Splayed_Chair_Leg.026",
+        "BV2_Splayed_Chair_Leg.027"
+      ],
+      "position": [
+        99.69999694824219,
+        35.29999923706055,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Rear_Side_Table_1",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_08",
+      "removed_body_objects": [
+        "Rear_Side_Table_1_Twin_Drum_Base.001",
+        "Rear_Side_Table_1_Twin_Drum_Base",
+        "Rear_Side_Table_1_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.007",
+        "Dried_Stem.007",
+        "Dried_Olive_Sprig.015",
+        "Dried_Olive_Sprig.014"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.021",
+        "BV2_Leg_Rope_Lashing.022",
+        "BV2_Leg_Rope_Lashing.023",
+        "BV2_Organic_Live_Edge_Teak_Top.007",
+        "BV2_Table_Ceramic_Dish.007",
+        "BV2_Tripod_Branch_Leg.021",
+        "BV2_Tripod_Branch_Leg.022",
+        "BV2_Tripod_Branch_Leg.023"
+      ],
+      "position": [
+        99.69999694824219,
+        34.29999923706055,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Rear_Club_2",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_08",
+      "removed_body_objects": [
+        "Rear_Club_2_Upholstered_Seat",
+        "Rear_Club_2_Plinth",
+        "Rear_Club_2_Pedestal",
+        "Handwoven_Rattan_Back.007"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.007",
+        "BV2_Chair_Square_Seat_Frame.007",
+        "BV2_Fan_Back_Centre_Stem.007",
+        "BV2_Fan_Back_Handwoven_Cane.007",
+        "BV2_Fan_Back_Oval_Frame.007",
+        "BV2_Fan_Back_Timber_Stay.014",
+        "BV2_Fan_Back_Timber_Stay.015",
+        "BV2_Open_Chair_Arm.014",
+        "BV2_Open_Chair_Arm.015",
+        "BV2_Splayed_Chair_Leg.028",
+        "BV2_Splayed_Chair_Leg.029",
+        "BV2_Splayed_Chair_Leg.030",
+        "BV2_Splayed_Chair_Leg.031"
+      ],
+      "position": [
+        110.9000015258789,
+        35.29999923706055,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "previous_root": "NEW_Rear_Side_Table_2",
+      "new_root": "NEW_BOHO2_Organic_Tripod_Table_09",
+      "removed_body_objects": [
+        "Rear_Side_Table_2_Twin_Drum_Base.001",
+        "Rear_Side_Table_2_Twin_Drum_Base",
+        "Rear_Side_Table_2_Soft_Rectangular_Top",
+        "Earthenware_Table_Vase.008",
+        "Dried_Stem.008",
+        "Dried_Olive_Sprig.017",
+        "Dried_Olive_Sprig.016"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Leg_Rope_Lashing.024",
+        "BV2_Leg_Rope_Lashing.025",
+        "BV2_Leg_Rope_Lashing.026",
+        "BV2_Organic_Live_Edge_Teak_Top.008",
+        "BV2_Table_Ceramic_Dish.008",
+        "BV2_Tripod_Branch_Leg.024",
+        "BV2_Tripod_Branch_Leg.025",
+        "BV2_Tripod_Branch_Leg.026"
+      ],
+      "position": [
+        110.9000015258789,
+        34.29999923706055,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Reception_counter",
+      "previous_root": "NEW_Reception_New_Stone_Desk",
+      "new_root": "NEW_BOHO2_Faceted_Cane_Reception_01",
+      "removed_body_objects": [
+        "Reception_Travertine_Top",
+        "Reception_New_Letters",
+        "Reception_Metal_Inlay.001",
+        "Reception_Metal_Inlay",
+        "Reception_Low_Stone_Top",
+        "Reception_High_Plinth",
+        "Reception_Floating_Toe",
+        "Reception_Accessible_Low_End"
+      ],
+      "retained_service_equipment_only": [
+        "Physical_Monitor_Support.001",
+        "Physical_Monitor_Support",
+        "Monitor_Screen.001",
+        "Monitor_Screen",
+        "Monitor_Base.001",
+        "Monitor_Base"
+      ],
+      "new_geometry_objects": [
+        "BV2_Low_Return_Woven_Pier",
+        "BV2_Low_Return_Woven_Pier.001",
+        "BV2_Reception_Brass_Letters",
+        "BV2_Reception_Cane_Panel",
+        "BV2_Reception_Cane_Panel.001",
+        "BV2_Reception_Cane_Panel.002",
+        "BV2_Reception_Faceted_Teak_Top",
+        "BV2_Reception_Low_Hexagonal_Return",
+        "BV2_Reception_Panel_Rail",
+        "BV2_Reception_Panel_Rail.001",
+        "BV2_Reception_Panel_Rail.002",
+        "BV2_Reception_Panel_Rail.003",
+        "BV2_Reception_Panel_Rail.004",
+        "BV2_Reception_Panel_Rail.005",
+        "BV2_Reception_Recessed_Foot",
+        "BV2_Reception_Visible_Stile",
+        "BV2_Reception_Visible_Stile.001",
+        "BV2_Reception_Visible_Stile.002",
+        "BV2_Reception_Visible_Stile.003",
+        "BV2_Reception_Visible_Stile.004",
+        "BV2_Reception_Visible_Stile.005"
+      ],
+      "position": [
+        116.25,
+        24.59000015258789,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Reception_Staff_1",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_09",
+      "removed_body_objects": [
+        "Reception_Staff_1_Upholstered_Seat",
+        "Reception_Staff_1_Plinth",
+        "Reception_Staff_1_Pedestal",
+        "Handwoven_Rattan_Back.008"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.008",
+        "BV2_Chair_Square_Seat_Frame.008",
+        "BV2_Fan_Back_Centre_Stem.008",
+        "BV2_Fan_Back_Handwoven_Cane.008",
+        "BV2_Fan_Back_Oval_Frame.008",
+        "BV2_Fan_Back_Timber_Stay.016",
+        "BV2_Fan_Back_Timber_Stay.017",
+        "BV2_Open_Chair_Arm.016",
+        "BV2_Open_Chair_Arm.017",
+        "BV2_Splayed_Chair_Leg.032",
+        "BV2_Splayed_Chair_Leg.033",
+        "BV2_Splayed_Chair_Leg.034",
+        "BV2_Splayed_Chair_Leg.035"
+      ],
+      "position": [
+        117.55000305175781,
+        23.5,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        0.8199999928474426,
+        0.8199999928474426,
+        0.8999999761581421
+      ]
+    },
+    {
+      "category": "Armchair",
+      "previous_root": "NEW_Reception_Staff_2",
+      "new_root": "NEW_BOHO2_Fan_Back_Chair_10",
+      "removed_body_objects": [
+        "Reception_Staff_2_Upholstered_Seat",
+        "Reception_Staff_2_Plinth",
+        "Reception_Staff_2_Pedestal",
+        "Handwoven_Rattan_Back.009"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Chair_Loose_Linen_Cushion.009",
+        "BV2_Chair_Square_Seat_Frame.009",
+        "BV2_Fan_Back_Centre_Stem.009",
+        "BV2_Fan_Back_Handwoven_Cane.009",
+        "BV2_Fan_Back_Oval_Frame.009",
+        "BV2_Fan_Back_Timber_Stay.018",
+        "BV2_Fan_Back_Timber_Stay.019",
+        "BV2_Open_Chair_Arm.018",
+        "BV2_Open_Chair_Arm.019",
+        "BV2_Splayed_Chair_Leg.036",
+        "BV2_Splayed_Chair_Leg.037",
+        "BV2_Splayed_Chair_Leg.038",
+        "BV2_Splayed_Chair_Leg.039"
+      ],
+      "position": [
+        117.55000305175781,
+        25.100000381469727,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        0.8199999928474426,
+        0.8199999928474426,
+        0.8999999761581421
+      ]
+    },
+    {
+      "category": "Low_bar_counter",
+      "previous_root": "NEW_Low_Beverage_Bar",
+      "new_root": "NEW_BOHO2_Oval_Woven_Bar_01",
+      "removed_body_objects": [
+        "Bar_Smooth_Walnut_Panel.002",
+        "Bar_Smooth_Walnut_Panel.001",
+        "Bar_Smooth_Walnut_Panel",
+        "Bar_Quiet_Stone_Base",
+        "Bar_Metal_Toe",
+        "Bar_Identity",
+        "Bar_Continuous_Dark_Top"
+      ],
+      "retained_service_equipment_only": [
+        "Service_Tray",
+        "Ice_Bucket",
+        "Espresso_Dark_Face",
+        "Compact_Espresso_Machine",
+        "Coffee_Cup.001",
+        "Coffee_Cup",
+        "Cocktail_3_Stem",
+        "Cocktail_3_Foot",
+        "Cocktail_3_Cup",
+        "Cocktail_2_Stem",
+        "Cocktail_2_Foot",
+        "Cocktail_2_Cup",
+        "Cocktail_1_Stem",
+        "Cocktail_1_Foot",
+        "Cocktail_1_Cup",
+        "Bottle_Label.002",
+        "Bottle_Label.001",
+        "Bottle_Label",
+        "Bottle_3_Neck",
+        "Bottle_3_Body",
+        "Bottle_2_Neck",
+        "Bottle_2_Body",
+        "Bottle_1_Neck",
+        "Bottle_1_Body"
+      ],
+      "new_geometry_objects": [
+        "BV2_Bar_Bowed_Woven_Cane_Screen",
+        "BV2_Bar_Curved_Teak_Rail",
+        "BV2_Bar_Curved_Teak_Rail.001",
+        "BV2_Bar_Elliptical_Solid_Teak_Top",
+        "BV2_Bar_Low_Teak_Footrail",
+        "BV2_Bar_Screen_Upper_Fixing",
+        "BV2_Bar_Screen_Upper_Fixing.001",
+        "BV2_Bar_Screen_Upper_Fixing.002",
+        "BV2_Bar_Screen_Upper_Fixing.003",
+        "BV2_Bar_Trestle_Leg",
+        "BV2_Bar_Trestle_Leg.001",
+        "BV2_Bar_Trestle_Leg.002",
+        "BV2_Bar_Trestle_Leg.003",
+        "BV2_Bar_Trestle_Leg.004",
+        "BV2_Bar_Trestle_Leg.005",
+        "BV2_Low_Bar_Name"
+      ],
+      "position": [
+        99.25,
+        23.65999984741211,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "previous_root": "NEW_Bar_Pedestal_Stool_1",
+      "new_root": "NEW_BOHO2_Four_Leg_Saddle_Stool_01",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.010",
+        "Bar_Pedestal_Stool_1_Upholstered_Seat",
+        "Bar_Pedestal_Stool_1_Plinth",
+        "Bar_Pedestal_Stool_1_Pedestal",
+        "Bar_Pedestal_Stool_1_Foot_Ring"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Saddle_Rim_Rail",
+        "BV2_Saddle_Rim_Rail.001",
+        "BV2_Saddle_Rim_Rail.002",
+        "BV2_Saddle_Rim_Rail.003",
+        "BV2_Saddle_Seat_Rope_Weave",
+        "BV2_Stool_Footrest",
+        "BV2_Stool_Footrest.001",
+        "BV2_Stool_Footrest.002",
+        "BV2_Stool_Footrest.003",
+        "BV2_Stool_Splayed_Leg",
+        "BV2_Stool_Splayed_Leg.001",
+        "BV2_Stool_Splayed_Leg.002",
+        "BV2_Stool_Splayed_Leg.003"
+      ],
+      "position": [
+        98.16999816894531,
+        22.25,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "previous_root": "NEW_Bar_Pedestal_Stool_2",
+      "new_root": "NEW_BOHO2_Four_Leg_Saddle_Stool_02",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.011",
+        "Bar_Pedestal_Stool_2_Upholstered_Seat",
+        "Bar_Pedestal_Stool_2_Plinth",
+        "Bar_Pedestal_Stool_2_Pedestal",
+        "Bar_Pedestal_Stool_2_Foot_Ring"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Saddle_Rim_Rail.004",
+        "BV2_Saddle_Rim_Rail.005",
+        "BV2_Saddle_Rim_Rail.006",
+        "BV2_Saddle_Rim_Rail.007",
+        "BV2_Saddle_Seat_Rope_Weave.001",
+        "BV2_Stool_Footrest.004",
+        "BV2_Stool_Footrest.005",
+        "BV2_Stool_Footrest.006",
+        "BV2_Stool_Footrest.007",
+        "BV2_Stool_Splayed_Leg.004",
+        "BV2_Stool_Splayed_Leg.005",
+        "BV2_Stool_Splayed_Leg.006",
+        "BV2_Stool_Splayed_Leg.007"
+      ],
+      "position": [
+        98.16999816894531,
+        23.350000381469727,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "previous_root": "NEW_Bar_Pedestal_Stool_3",
+      "new_root": "NEW_BOHO2_Four_Leg_Saddle_Stool_03",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.012",
+        "Bar_Pedestal_Stool_3_Upholstered_Seat",
+        "Bar_Pedestal_Stool_3_Plinth",
+        "Bar_Pedestal_Stool_3_Pedestal",
+        "Bar_Pedestal_Stool_3_Foot_Ring"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Saddle_Rim_Rail.008",
+        "BV2_Saddle_Rim_Rail.009",
+        "BV2_Saddle_Rim_Rail.010",
+        "BV2_Saddle_Rim_Rail.011",
+        "BV2_Saddle_Seat_Rope_Weave.002",
+        "BV2_Stool_Footrest.008",
+        "BV2_Stool_Footrest.009",
+        "BV2_Stool_Footrest.010",
+        "BV2_Stool_Footrest.011",
+        "BV2_Stool_Splayed_Leg.008",
+        "BV2_Stool_Splayed_Leg.009",
+        "BV2_Stool_Splayed_Leg.010",
+        "BV2_Stool_Splayed_Leg.011"
+      ],
+      "position": [
+        98.16999816894531,
+        24.450000762939453,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "previous_root": "NEW_Bar_Pedestal_Stool_4",
+      "new_root": "NEW_BOHO2_Four_Leg_Saddle_Stool_04",
+      "removed_body_objects": [
+        "Handwoven_Rattan_Back.013",
+        "Bar_Pedestal_Stool_4_Upholstered_Seat",
+        "Bar_Pedestal_Stool_4_Plinth",
+        "Bar_Pedestal_Stool_4_Pedestal",
+        "Bar_Pedestal_Stool_4_Foot_Ring"
+      ],
+      "retained_service_equipment_only": [],
+      "new_geometry_objects": [
+        "BV2_Saddle_Rim_Rail.012",
+        "BV2_Saddle_Rim_Rail.013",
+        "BV2_Saddle_Rim_Rail.014",
+        "BV2_Saddle_Rim_Rail.015",
+        "BV2_Saddle_Seat_Rope_Weave.003",
+        "BV2_Stool_Footrest.012",
+        "BV2_Stool_Footrest.013",
+        "BV2_Stool_Footrest.014",
+        "BV2_Stool_Footrest.015",
+        "BV2_Stool_Splayed_Leg.012",
+        "BV2_Stool_Splayed_Leg.013",
+        "BV2_Stool_Splayed_Leg.014",
+        "BV2_Stool_Splayed_Leg.015"
+      ],
+      "position": [
+        98.16999816894531,
+        25.549999237060547,
+        0.2240000069141388
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "counts": {
+    "Armchair": 10,
+    "Coffee_table": 9,
+    "Sofa": 4,
+    "Ottoman": 4,
+    "Reception_counter": 1,
+    "Low_bar_counter": 1,
+    "Bar_stool": 4
+  },
+  "assembly_count": 33
+}

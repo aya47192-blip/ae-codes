@@ -1,3 +1,9 @@
+## الأحدث: البوهيمي V2 — أشكال أثاث جديدة
+
+[تحميل الحزمة](drawings/hotel-bohemian-option-v2/hotel_bohemian_v2.zip) · [مقارنة الشكل بدون ألوان](drawings/hotel-bohemian-option-v2/shape_comparison.pdf) · [الصور](drawings/hotel-bohemian-option-v2/presentation.pdf)
+
+![الفرش الجديد](drawings/hotel-bohemian-option-v2/overview.png)
+
 ## الأحدث: اللوبي — مودرن مصحّح + أوبشن بوهيمي
 
 [المودرن المصحّح](drawings/hotel-modern-corrected-v5/README.md) · [البوهيمي](drawings/hotel-bohemian-option-v1/README.md) · [مقارنة PDF](drawings/hotel-options-v5/comparison.pdf)
