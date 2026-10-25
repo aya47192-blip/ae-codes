@@ -1,0 +1,18 @@
+{
+  "components": 239,
+  "whole_furniture_components": 33,
+  "geometry_instances": 2795,
+  "vertices": 669100,
+  "triangles": 769911,
+  "surface_meshes": 6384,
+  "position_and_uv_triangle_changes": 0,
+  "sketchup_desktop_tested": false,
+  "native_scaled_transform_max_error_inches": 1.8189894035458565e-12,
+  "all_texture_paths_present": true,
+  "ruby_syntax_checked": true,
+  "runtime_checks": [
+    "Nonempty component bounds",
+    "Each component world bounds within 0.1 mm",
+    "Expected independent asset count"
+  ]
+}
