@@ -1,0 +1,70 @@
+{
+  "option": "07_scales",
+  "name_ar": "قشور السمك",
+  "source_entity_count": 136,
+  "source_units_preserved": 1,
+  "original_geometry_copied_without_transform": true,
+  "superseded_landscape_entity_indices": [
+    112,
+    113,
+    130,
+    131
+  ],
+  "primary_width_drawing_units": 0.44,
+  "secondary_width_drawing_units": 0.22,
+  "zone_reports": [
+    {
+      "zone": "CENTRE",
+      "available_area": 84.34887,
+      "designed_regions": 7,
+      "min_region_area": 2.249914254487388,
+      "coverage_regions": 0.9088299800087583
+    },
+    {
+      "zone": "INNER_WEST",
+      "available_area": 29.82894,
+      "designed_regions": 5,
+      "min_region_area": 0.318169540982391,
+      "coverage_regions": 0.9293292394436007
+    },
+    {
+      "zone": "INNER_SOUTH",
+      "available_area": 16.27453,
+      "designed_regions": 7,
+      "min_region_area": 0.4341312925064923,
+      "coverage_regions": 0.8205884886804774
+    },
+    {
+      "zone": "OUTER_WEST_NORTH",
+      "available_area": 40.98363,
+      "designed_regions": 7,
+      "min_region_area": 2.1293385865300554,
+      "coverage_regions": 0.9052508439208994
+    },
+    {
+      "zone": "OUTER_WEST_SOUTH",
+      "available_area": 64.71331,
+      "designed_regions": 10,
+      "min_region_area": 0.3341044971945863,
+      "coverage_regions": 0.8993848395450017
+    },
+    {
+      "zone": "SOUTH_EXTENSION",
+      "available_area": 193.57668,
+      "designed_regions": 15,
+      "min_region_area": 0.44663708796696455,
+      "coverage_regions": 0.9320752365164089
+    }
+  ],
+  "new_closed_regions": 51,
+  "native_closed_polylines": true,
+  "native_dwg_roundtrip_max_error": 1.1368683772161603e-13,
+  "duplicate_new_loops": 0,
+  "new_loops_all_closed": true,
+  "new_loops_valid": true,
+  "original_136_entities_retained": true,
+  "audit_errors": 0,
+  "source_units_note": "Source declares inches; geometry is preserved without scaling. Widths are drawing units, not a certified metre conversion.",
+  "minimum_separation_between_new_closed_boundaries": 0.21852409200649145,
+  "new_boundaries_do_not_cross": true
+}

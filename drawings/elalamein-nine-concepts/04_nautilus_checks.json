@@ -1,0 +1,70 @@
+{
+  "option": "04_nautilus",
+  "name_ar": "قوقعة النوتيلوس",
+  "source_entity_count": 136,
+  "source_units_preserved": 1,
+  "original_geometry_copied_without_transform": true,
+  "superseded_landscape_entity_indices": [
+    112,
+    113,
+    130,
+    131
+  ],
+  "primary_width_drawing_units": 0.44,
+  "secondary_width_drawing_units": 0.22,
+  "zone_reports": [
+    {
+      "zone": "CENTRE",
+      "available_area": 84.34887,
+      "designed_regions": 11,
+      "min_region_area": 0.4384706806122475,
+      "coverage_regions": 0.9096827293329547
+    },
+    {
+      "zone": "INNER_WEST",
+      "available_area": 29.82894,
+      "designed_regions": 8,
+      "min_region_area": 0.35072666504759403,
+      "coverage_regions": 0.894944274637459
+    },
+    {
+      "zone": "INNER_SOUTH",
+      "available_area": 16.27453,
+      "designed_regions": 4,
+      "min_region_area": 0.791248452100713,
+      "coverage_regions": 0.9414982225348363
+    },
+    {
+      "zone": "OUTER_WEST_NORTH",
+      "available_area": 40.98363,
+      "designed_regions": 10,
+      "min_region_area": 0.6938512053347762,
+      "coverage_regions": 0.8350765781400494
+    },
+    {
+      "zone": "OUTER_WEST_SOUTH",
+      "available_area": 64.71331,
+      "designed_regions": 11,
+      "min_region_area": 0.24975273510226928,
+      "coverage_regions": 0.8805242221983779
+    },
+    {
+      "zone": "SOUTH_EXTENSION",
+      "available_area": 193.57668,
+      "designed_regions": 16,
+      "min_region_area": 0.5623292170992471,
+      "coverage_regions": 0.9315371600993582
+    }
+  ],
+  "new_closed_regions": 60,
+  "native_closed_polylines": true,
+  "native_dwg_roundtrip_max_error": 1.1368683772161603e-13,
+  "duplicate_new_loops": 0,
+  "new_loops_all_closed": true,
+  "new_loops_valid": true,
+  "original_136_entities_retained": true,
+  "audit_errors": 0,
+  "source_units_note": "Source declares inches; geometry is preserved without scaling. Widths are drawing units, not a certified metre conversion.",
+  "minimum_separation_between_new_closed_boundaries": 0.21853101469291772,
+  "new_boundaries_do_not_cross": true
+}

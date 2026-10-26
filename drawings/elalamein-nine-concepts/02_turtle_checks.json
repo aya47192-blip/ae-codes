@@ -1,0 +1,70 @@
+{
+  "option": "02_turtle",
+  "name_ar": "درع السلحفاة",
+  "source_entity_count": 136,
+  "source_units_preserved": 1,
+  "original_geometry_copied_without_transform": true,
+  "superseded_landscape_entity_indices": [
+    112,
+    113,
+    130,
+    131
+  ],
+  "primary_width_drawing_units": 0.44,
+  "secondary_width_drawing_units": 0.22,
+  "zone_reports": [
+    {
+      "zone": "CENTRE",
+      "available_area": 84.34887,
+      "designed_regions": 9,
+      "min_region_area": 1.7183534855713989,
+      "coverage_regions": 0.9108544652200685
+    },
+    {
+      "zone": "INNER_WEST",
+      "available_area": 29.82894,
+      "designed_regions": 6,
+      "min_region_area": 0.6359939392982701,
+      "coverage_regions": 0.9158025893092564
+    },
+    {
+      "zone": "INNER_SOUTH",
+      "available_area": 16.27453,
+      "designed_regions": 7,
+      "min_region_area": 0.3693225784931549,
+      "coverage_regions": 0.818615870868251
+    },
+    {
+      "zone": "OUTER_WEST_NORTH",
+      "available_area": 40.98363,
+      "designed_regions": 11,
+      "min_region_area": 0.47508674145739793,
+      "coverage_regions": 0.8944649431954887
+    },
+    {
+      "zone": "OUTER_WEST_SOUTH",
+      "available_area": 64.71331,
+      "designed_regions": 12,
+      "min_region_area": 0.5481745784058041,
+      "coverage_regions": 0.9016850630702496
+    },
+    {
+      "zone": "SOUTH_EXTENSION",
+      "available_area": 193.57668,
+      "designed_regions": 15,
+      "min_region_area": 0.5157393489340681,
+      "coverage_regions": 0.9356016042946329
+    }
+  ],
+  "new_closed_regions": 60,
+  "native_closed_polylines": true,
+  "native_dwg_roundtrip_max_error": 1.1368683772161603e-13,
+  "duplicate_new_loops": 0,
+  "new_loops_all_closed": true,
+  "new_loops_valid": true,
+  "original_136_entities_retained": true,
+  "audit_errors": 0,
+  "source_units_note": "Source declares inches; geometry is preserved without scaling. Widths are drawing units, not a certified metre conversion.",
+  "minimum_separation_between_new_closed_boundaries": 0.21999999999999012,
+  "new_boundaries_do_not_cross": true
+}

@@ -1,0 +1,11 @@
+{
+  "options": 9,
+  "source_geometry_preserved": true,
+  "new_closed_regions_checked": true,
+  "dwg_roundtrip_verified": true,
+  "all_options_dwg_blocks_verified": true,
+  "source_units": 1,
+  "primary_width_drawing_units": 0.44,
+  "secondary_width_drawing_units": 0.22,
+  "native_autocad_application_tested": false
+}

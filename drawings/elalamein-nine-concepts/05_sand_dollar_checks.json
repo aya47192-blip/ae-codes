@@ -1,0 +1,70 @@
+{
+  "option": "05_sand_dollar",
+  "name_ar": "قرص قنفذ البحر",
+  "source_entity_count": 136,
+  "source_units_preserved": 1,
+  "original_geometry_copied_without_transform": true,
+  "superseded_landscape_entity_indices": [
+    112,
+    113,
+    130,
+    131
+  ],
+  "primary_width_drawing_units": 0.44,
+  "secondary_width_drawing_units": 0.22,
+  "zone_reports": [
+    {
+      "zone": "CENTRE",
+      "available_area": 84.34887,
+      "designed_regions": 11,
+      "min_region_area": 0.8538159790366053,
+      "coverage_regions": 0.8523581332460394
+    },
+    {
+      "zone": "INNER_WEST",
+      "available_area": 29.82894,
+      "designed_regions": 8,
+      "min_region_area": 0.24276483406571278,
+      "coverage_regions": 0.8558913063279315
+    },
+    {
+      "zone": "INNER_SOUTH",
+      "available_area": 16.27453,
+      "designed_regions": 9,
+      "min_region_area": 0.4677784697998582,
+      "coverage_regions": 0.7294052123409791
+    },
+    {
+      "zone": "OUTER_WEST_NORTH",
+      "available_area": 40.98363,
+      "designed_regions": 13,
+      "min_region_area": 0.24887946358811602,
+      "coverage_regions": 0.7814641304972285
+    },
+    {
+      "zone": "OUTER_WEST_SOUTH",
+      "available_area": 64.71331,
+      "designed_regions": 12,
+      "min_region_area": 0.2950755494795549,
+      "coverage_regions": 0.822779663314623
+    },
+    {
+      "zone": "SOUTH_EXTENSION",
+      "available_area": 193.57668,
+      "designed_regions": 20,
+      "min_region_area": 0.4255477288798339,
+      "coverage_regions": 0.8981487732030158
+    }
+  ],
+  "new_closed_regions": 73,
+  "native_closed_polylines": true,
+  "native_dwg_roundtrip_max_error": 1.1368683772161603e-13,
+  "duplicate_new_loops": 0,
+  "new_loops_all_closed": true,
+  "new_loops_valid": true,
+  "original_136_entities_retained": true,
+  "audit_errors": 0,
+  "source_units_note": "Source declares inches; geometry is preserved without scaling. Widths are drawing units, not a certified metre conversion.",
+  "minimum_separation_between_new_closed_boundaries": 0.21850546046735297,
+  "new_boundaries_do_not_cross": true
+}
