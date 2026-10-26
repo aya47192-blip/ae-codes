@@ -1,3 +1,7 @@
+## تحديث الإضافة 1.1.0 — أوبشن ساحلي يوناني جديد
+
+[تحميل الإضافة بالثلاثة أوبشنز](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_1_0.rbz) · [صور اليوناني PDF](drawings/hotel-greek-coastal/greek_coastal_preview.pdf)
+
 ## الأحدث: البوهيمي V2 — أشكال أثاث جديدة
 
 [تحميل الحزمة](drawings/hotel-bohemian-option-v2/hotel_bohemian_v2.zip) · [مقارنة الشكل بدون ألوان](drawings/hotel-bohemian-option-v2/shape_comparison.pdf) · [الصور](drawings/hotel-bohemian-option-v2/presentation.pdf)

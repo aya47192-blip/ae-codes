@@ -1,0 +1,717 @@
+{
+  "assemblies": [
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Entry_Cloud_Chair_1_0",
+      "new_root": "NEW_GREEK_Klismos_Chair_1",
+      "removed_objects": [
+        "Entry_Cloud_Chair_1_0_Upholstered_Seat",
+        "Entry_Cloud_Chair_1_0_Plinth",
+        "Entry_Cloud_Chair_1_0_Pedestal",
+        "Entry_Cloud_Chair_1_0_Continuous_Bucket_Back"
+      ],
+      "position": [
+        94.12999725341797,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Entry_Cloud_Chair_1_1",
+      "new_root": "NEW_GREEK_Klismos_Chair_2",
+      "removed_objects": [
+        "Entry_Cloud_Chair_1_1_Upholstered_Seat",
+        "Entry_Cloud_Chair_1_1_Plinth",
+        "Entry_Cloud_Chair_1_1_Pedestal",
+        "Entry_Cloud_Chair_1_1_Continuous_Bucket_Back"
+      ],
+      "position": [
+        95.56999969482422,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Entry_Oval_Table_1",
+      "new_root": "NEW_GREEK_Limestone_Table_1",
+      "removed_objects": [
+        "Entry_Oval_Table_1_Twin_Drum_Base.001",
+        "Entry_Oval_Table_1_Twin_Drum_Base",
+        "Entry_Oval_Table_1_Soft_Rectangular_Top",
+        "Entry_Oval_Table_1_Ceramic_Bowl"
+      ],
+      "position": [
+        94.8499984741211,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Entry_Cloud_Chair_2_0",
+      "new_root": "NEW_GREEK_Klismos_Chair_3",
+      "removed_objects": [
+        "Entry_Cloud_Chair_2_0_Upholstered_Seat",
+        "Entry_Cloud_Chair_2_0_Plinth",
+        "Entry_Cloud_Chair_2_0_Pedestal",
+        "Entry_Cloud_Chair_2_0_Continuous_Bucket_Back"
+      ],
+      "position": [
+        98.33000183105469,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Entry_Cloud_Chair_2_1",
+      "new_root": "NEW_GREEK_Klismos_Chair_4",
+      "removed_objects": [
+        "Entry_Cloud_Chair_2_1_Upholstered_Seat",
+        "Entry_Cloud_Chair_2_1_Plinth",
+        "Entry_Cloud_Chair_2_1_Pedestal",
+        "Entry_Cloud_Chair_2_1_Continuous_Bucket_Back"
+      ],
+      "position": [
+        99.7699966430664,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Entry_Oval_Table_2",
+      "new_root": "NEW_GREEK_Limestone_Table_2",
+      "removed_objects": [
+        "Entry_Oval_Table_2_Twin_Drum_Base.001",
+        "Entry_Oval_Table_2_Twin_Drum_Base",
+        "Entry_Oval_Table_2_Soft_Rectangular_Top",
+        "Entry_Oval_Table_2_Ceramic_Bowl"
+      ],
+      "position": [
+        99.05000305175781,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Entry_Cloud_Chair_3_0",
+      "new_root": "NEW_GREEK_Klismos_Chair_5",
+      "removed_objects": [
+        "Entry_Cloud_Chair_3_0_Upholstered_Seat",
+        "Entry_Cloud_Chair_3_0_Plinth",
+        "Entry_Cloud_Chair_3_0_Pedestal",
+        "Entry_Cloud_Chair_3_0_Continuous_Bucket_Back"
+      ],
+      "position": [
+        110.7699966430664,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Entry_Cloud_Chair_3_1",
+      "new_root": "NEW_GREEK_Klismos_Chair_6",
+      "removed_objects": [
+        "Entry_Cloud_Chair_3_1_Upholstered_Seat",
+        "Entry_Cloud_Chair_3_1_Plinth",
+        "Entry_Cloud_Chair_3_1_Pedestal",
+        "Entry_Cloud_Chair_3_1_Continuous_Bucket_Back"
+      ],
+      "position": [
+        112.20999908447266,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8600000143051147,
+        0.8600000143051147,
+        0.949999988079071
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Entry_Oval_Table_3",
+      "new_root": "NEW_GREEK_Limestone_Table_3",
+      "removed_objects": [
+        "Entry_Oval_Table_3_Twin_Drum_Base.001",
+        "Entry_Oval_Table_3_Twin_Drum_Base",
+        "Entry_Oval_Table_3_Soft_Rectangular_Top",
+        "Entry_Oval_Table_3_Ceramic_Bowl"
+      ],
+      "position": [
+        111.48999786376953,
+        17.274999618530273,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "old_root": "NEW_Cloud_Sofa_1",
+      "new_root": "NEW_GREEK_Cycladic_Sofa_1",
+      "removed_objects": [
+        "Cloud_Sofa_1_Sculpted_Back",
+        "Cloud_Sofa_1_Rounded_End.001",
+        "Cloud_Sofa_1_Rounded_End",
+        "Cloud_Sofa_1_Floating_Base",
+        "Cloud_Sofa_1_Cushion.001",
+        "Cloud_Sofa_1_Cushion",
+        "Cloud_Sofa_1_Continuous_Seat"
+      ],
+      "position": [
+        95.05000305175781,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "old_root": "NEW_Ottoman_1",
+      "new_root": "NEW_GREEK_Linen_Pouf_1",
+      "removed_objects": [
+        "Ottoman_Drum"
+      ],
+      "position": [
+        94.29000091552734,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Lounge_Table_1",
+      "new_root": "NEW_GREEK_Limestone_Table_4",
+      "removed_objects": [
+        "Lounge_Table_1_Twin_Drum_Base.001",
+        "Lounge_Table_1_Twin_Drum_Base",
+        "Lounge_Table_1_Soft_Rectangular_Top",
+        "Lounge_Table_1_Ceramic_Bowl"
+      ],
+      "position": [
+        95.44000244140625,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "old_root": "NEW_Cloud_Sofa_2",
+      "new_root": "NEW_GREEK_Cycladic_Sofa_2",
+      "removed_objects": [
+        "Cloud_Sofa_2_Sculpted_Back",
+        "Cloud_Sofa_2_Rounded_End.001",
+        "Cloud_Sofa_2_Rounded_End",
+        "Cloud_Sofa_2_Floating_Base",
+        "Cloud_Sofa_2_Cushion.001",
+        "Cloud_Sofa_2_Cushion",
+        "Cloud_Sofa_2_Continuous_Seat"
+      ],
+      "position": [
+        115.48999786376953,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "old_root": "NEW_Ottoman_2",
+      "new_root": "NEW_GREEK_Linen_Pouf_2",
+      "removed_objects": [
+        "Ottoman_Drum.001"
+      ],
+      "position": [
+        116.25,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Lounge_Table_2",
+      "new_root": "NEW_GREEK_Limestone_Table_5",
+      "removed_objects": [
+        "Lounge_Table_2_Twin_Drum_Base.001",
+        "Lounge_Table_2_Twin_Drum_Base",
+        "Lounge_Table_2_Soft_Rectangular_Top",
+        "Lounge_Table_2_Ceramic_Bowl"
+      ],
+      "position": [
+        115.0999984741211,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "old_root": "NEW_Cloud_Sofa_3",
+      "new_root": "NEW_GREEK_Cycladic_Sofa_3",
+      "removed_objects": [
+        "Cloud_Sofa_3_Sculpted_Back",
+        "Cloud_Sofa_3_Rounded_End.001",
+        "Cloud_Sofa_3_Rounded_End",
+        "Cloud_Sofa_3_Floating_Base",
+        "Cloud_Sofa_3_Cushion.001",
+        "Cloud_Sofa_3_Cushion",
+        "Cloud_Sofa_3_Continuous_Seat"
+      ],
+      "position": [
+        107.25,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "old_root": "NEW_Ottoman_3",
+      "new_root": "NEW_GREEK_Linen_Pouf_3",
+      "removed_objects": [
+        "Ottoman_Drum.002"
+      ],
+      "position": [
+        106.48999786376953,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Lounge_Table_3",
+      "new_root": "NEW_GREEK_Limestone_Table_6",
+      "removed_objects": [
+        "Lounge_Table_3_Twin_Drum_Base.001",
+        "Lounge_Table_3_Twin_Drum_Base",
+        "Lounge_Table_3_Soft_Rectangular_Top",
+        "Lounge_Table_3_Ceramic_Bowl"
+      ],
+      "position": [
+        107.63999938964844,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Sofa",
+      "old_root": "NEW_Cloud_Sofa_4",
+      "new_root": "NEW_GREEK_Cycladic_Sofa_4",
+      "removed_objects": [
+        "Cloud_Sofa_4_Sculpted_Back",
+        "Cloud_Sofa_4_Rounded_End.001",
+        "Cloud_Sofa_4_Rounded_End",
+        "Cloud_Sofa_4_Floating_Base",
+        "Cloud_Sofa_4_Cushion.001",
+        "Cloud_Sofa_4_Cushion",
+        "Cloud_Sofa_4_Continuous_Seat"
+      ],
+      "position": [
+        103.30000305175781,
+        34.70000076293945,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Ottoman",
+      "old_root": "NEW_Ottoman_4",
+      "new_root": "NEW_GREEK_Linen_Pouf_4",
+      "removed_objects": [
+        "Ottoman_Drum.003"
+      ],
+      "position": [
+        104.05999755859375,
+        34.279998779296875,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Lounge_Table_4",
+      "new_root": "NEW_GREEK_Limestone_Table_7",
+      "removed_objects": [
+        "Lounge_Table_4_Twin_Drum_Base.001",
+        "Lounge_Table_4_Twin_Drum_Base",
+        "Lounge_Table_4_Soft_Rectangular_Top",
+        "Lounge_Table_4_Ceramic_Bowl"
+      ],
+      "position": [
+        102.91000366210938,
+        34.31999969482422,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Rear_Club_1",
+      "new_root": "NEW_GREEK_Klismos_Chair_7",
+      "removed_objects": [
+        "Rear_Club_1_Upholstered_Seat",
+        "Rear_Club_1_Plinth",
+        "Rear_Club_1_Pedestal",
+        "Rear_Club_1_Continuous_Bucket_Back"
+      ],
+      "position": [
+        99.69999694824219,
+        35.29999923706055,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Rear_Side_Table_1",
+      "new_root": "NEW_GREEK_Limestone_Table_8",
+      "removed_objects": [
+        "Rear_Side_Table_1_Twin_Drum_Base.001",
+        "Rear_Side_Table_1_Twin_Drum_Base",
+        "Rear_Side_Table_1_Soft_Rectangular_Top",
+        "Rear_Side_Table_1_Ceramic_Bowl"
+      ],
+      "position": [
+        99.69999694824219,
+        34.29999923706055,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Rear_Club_2",
+      "new_root": "NEW_GREEK_Klismos_Chair_8",
+      "removed_objects": [
+        "Rear_Club_2_Upholstered_Seat",
+        "Rear_Club_2_Plinth",
+        "Rear_Club_2_Pedestal",
+        "Rear_Club_2_Continuous_Bucket_Back"
+      ],
+      "position": [
+        110.9000015258789,
+        35.29999923706055,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Coffee_table",
+      "old_root": "NEW_Rear_Side_Table_2",
+      "new_root": "NEW_GREEK_Limestone_Table_9",
+      "removed_objects": [
+        "Rear_Side_Table_2_Twin_Drum_Base.001",
+        "Rear_Side_Table_2_Twin_Drum_Base",
+        "Rear_Side_Table_2_Soft_Rectangular_Top",
+        "Rear_Side_Table_2_Ceramic_Bowl"
+      ],
+      "position": [
+        110.9000015258789,
+        34.29999923706055,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Reception_counter",
+      "old_root": "NEW_Reception_New_Stone_Desk",
+      "new_root": "NEW_GREEK_Reception_1",
+      "removed_objects": [
+        "Reception_Travertine_Top",
+        "Reception_New_Letters",
+        "Reception_Metal_Inlay.001",
+        "Reception_Metal_Inlay",
+        "Reception_Low_Stone_Top",
+        "Reception_High_Plinth",
+        "Reception_Floating_Toe",
+        "Reception_Accessible_Low_End"
+      ],
+      "position": [
+        116.25,
+        24.59000015258789,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Reception_Staff_1",
+      "new_root": "NEW_GREEK_Klismos_Chair_9",
+      "removed_objects": [
+        "Reception_Staff_1_Upholstered_Seat",
+        "Reception_Staff_1_Plinth",
+        "Reception_Staff_1_Pedestal",
+        "Reception_Staff_1_Continuous_Bucket_Back"
+      ],
+      "position": [
+        117.55000305175781,
+        23.5,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8199999928474426,
+        0.8199999928474426,
+        0.8999999761581421
+      ]
+    },
+    {
+      "category": "Armchair",
+      "old_root": "NEW_Reception_Staff_2",
+      "new_root": "NEW_GREEK_Klismos_Chair_10",
+      "removed_objects": [
+        "Reception_Staff_2_Upholstered_Seat",
+        "Reception_Staff_2_Plinth",
+        "Reception_Staff_2_Pedestal",
+        "Reception_Staff_2_Continuous_Bucket_Back"
+      ],
+      "position": [
+        117.55000305175781,
+        25.100000381469727,
+        0.2240000069141388
+      ],
+      "scale": [
+        0.8199999928474426,
+        0.8199999928474426,
+        0.8999999761581421
+      ]
+    },
+    {
+      "category": "Low_bar_counter",
+      "old_root": "NEW_Low_Beverage_Bar",
+      "new_root": "NEW_GREEK_Low_Bar_1",
+      "removed_objects": [
+        "Bar_Smooth_Walnut_Panel.002",
+        "Bar_Smooth_Walnut_Panel.001",
+        "Bar_Smooth_Walnut_Panel",
+        "Bar_Quiet_Stone_Base",
+        "Bar_Metal_Toe",
+        "Bar_Identity",
+        "Bar_Continuous_Dark_Top"
+      ],
+      "position": [
+        99.25,
+        23.65999984741211,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "old_root": "NEW_Bar_Pedestal_Stool_1",
+      "new_root": "NEW_GREEK_Painted_Timber_Stool_1",
+      "removed_objects": [
+        "Bar_Pedestal_Stool_1_Upholstered_Seat",
+        "Bar_Pedestal_Stool_1_Plinth",
+        "Bar_Pedestal_Stool_1_Pedestal",
+        "Bar_Pedestal_Stool_1_Foot_Ring",
+        "Bar_Pedestal_Stool_1_Continuous_Bucket_Back"
+      ],
+      "position": [
+        98.16999816894531,
+        22.25,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "old_root": "NEW_Bar_Pedestal_Stool_2",
+      "new_root": "NEW_GREEK_Painted_Timber_Stool_2",
+      "removed_objects": [
+        "Bar_Pedestal_Stool_2_Upholstered_Seat",
+        "Bar_Pedestal_Stool_2_Plinth",
+        "Bar_Pedestal_Stool_2_Pedestal",
+        "Bar_Pedestal_Stool_2_Foot_Ring",
+        "Bar_Pedestal_Stool_2_Continuous_Bucket_Back"
+      ],
+      "position": [
+        98.16999816894531,
+        23.350000381469727,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "old_root": "NEW_Bar_Pedestal_Stool_3",
+      "new_root": "NEW_GREEK_Painted_Timber_Stool_3",
+      "removed_objects": [
+        "Bar_Pedestal_Stool_3_Upholstered_Seat",
+        "Bar_Pedestal_Stool_3_Plinth",
+        "Bar_Pedestal_Stool_3_Pedestal",
+        "Bar_Pedestal_Stool_3_Foot_Ring",
+        "Bar_Pedestal_Stool_3_Continuous_Bucket_Back"
+      ],
+      "position": [
+        98.16999816894531,
+        24.450000762939453,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "category": "Bar_stool",
+      "old_root": "NEW_Bar_Pedestal_Stool_4",
+      "new_root": "NEW_GREEK_Painted_Timber_Stool_4",
+      "removed_objects": [
+        "Bar_Pedestal_Stool_4_Upholstered_Seat",
+        "Bar_Pedestal_Stool_4_Plinth",
+        "Bar_Pedestal_Stool_4_Pedestal",
+        "Bar_Pedestal_Stool_4_Foot_Ring",
+        "Bar_Pedestal_Stool_4_Continuous_Bucket_Back"
+      ],
+      "position": [
+        98.16999816894531,
+        25.549999237060547,
+        0.2240000069141388
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "counts": {
+    "Armchair": 10,
+    "Coffee_table": 9,
+    "Sofa": 4,
+    "Ottoman": 4,
+    "Reception_counter": 1,
+    "Low_bar_counter": 1,
+    "Bar_stool": 4
+  }
+}

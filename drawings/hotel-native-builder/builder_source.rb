@@ -108,7 +108,7 @@ module AyaaLobbyDirect2026
       model.active_view.zoom(created)
       model.commit_operation
       operation_open = false
-      report = { 'components_created' => created.length, 'whole_furniture_components' => manifest['parts'].count { |p| p['category'] == 'furniture' }, 'build_method' => 'native SketchUp geometry; no DAE import', 'version' => '1.0.1' }
+      report = { 'components_created' => created.length, 'whole_furniture_components' => manifest['parts'].count { |p| p['category'] == 'furniture' }, 'build_method' => 'native SketchUp geometry; no DAE import', 'version' => '1.1.0' }
       puts JSON.pretty_generate(report)
       path = UI.savepanel('Save lobby as SketchUp', nil, manifest.fetch('output_skp'))
       if path
@@ -132,6 +132,7 @@ module AyaaLobbyDirect2026
     menu = UI.menu('Extensions').add_submenu('Ayaa Lobby')
     menu.add_item('Build NEW MODERN - separate components') { build('new_modern_components') }
     menu.add_item('Build BOHEMIAN V2 - separate components') { build('bohemian_latest_components') }
+    menu.add_item('Build GREEK COASTAL - separate components') { build('greek_coastal_components') }
     file_loaded(__FILE__)
   end
 end
