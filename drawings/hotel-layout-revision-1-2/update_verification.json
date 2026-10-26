@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "models": [
+    {
+      "style": "BOHEMIAN V3",
+      "furniture": 23,
+      "seating_capacity": 21,
+      "column_count": 22,
+      "single_floor_finish": true
+    },
+    {
+      "style": "GREEK COASTAL V2",
+      "furniture": 22,
+      "seating_capacity": 22,
+      "column_count": 22,
+      "single_floor_finish": true
+    },
+    {
+      "style": "MODERN ALTERNATIVE V2",
+      "furniture": 15,
+      "seating_capacity": 13,
+      "column_count": 22,
+      "single_floor_finish": true
+    }
+  ],
+  "old_modern_geometry_and_material_payload_unchanged": true,
+  "ruby_syntax_checked": true,
+  "zip_crc_checked": true,
+  "native_coplanar_edge_removal": true,
+  "UV_charts_welded_before_cleanup": true,
+  "rendered_previews_from_final_models": true,
+  "sketchup_desktop_tested": false
+}

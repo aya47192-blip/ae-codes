@@ -1,0 +1,96 @@
+{
+  "column_count": 22,
+  "outer_width_depth_height_and_centres_preserved": true,
+  "max_world_bbox_error_m": 0.0,
+  "visible_section": "round",
+  "rows": [
+    {
+      "source": "SRC_0833_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_1013_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_1073_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_6660_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_6719_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_6778_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_6837_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8536_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8595_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8654_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8713_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8772_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8831_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8890_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_8949_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9008_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9079_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9138_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9197_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9256_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9509_ID4834",
+      "max_world_bbox_error_m": 0.0
+    },
+    {
+      "source": "SRC_9568_ID4834",
+      "max_world_bbox_error_m": 0.0
+    }
+  ]
+}

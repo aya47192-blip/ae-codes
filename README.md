@@ -1,3 +1,7 @@
+## تحديث اللوبي1.2.0
+
+[تحميل الإضافة](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_2_0.rbz) · [معاينة التصميمات المعدلة](drawings/hotel-layout-revision-1-2/revised_options_preview.pdf)
+
 ## تحديث الإضافة 1.1.0 — أوبشن ساحلي يوناني جديد
 
 [تحميل الإضافة بالثلاثة أوبشنز](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_1_0.rbz) · [صور اليوناني PDF](drawings/hotel-greek-coastal/greek_coastal_preview.pdf)

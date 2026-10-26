@@ -20,22 +20,56 @@ module AyaaLobbyDirect2026
     rows.each_with_object({}) do |row, materials|
       m = model.materials.add("#{prefix}_#{row['id']}_#{row['name']}")
       c = row.fetch('color').first(3).map { |v| [[(v * 255).round, 0].max, 255].min }
-      m.color = Sketchup::Color.new(*c)
       if row['texture']
         texture = File.join(base, row['texture'])
         raise "Missing texture: #{texture}" unless File.file?(texture)
         m.texture = texture
+      else
+        m.color = Sketchup::Color.new(*c)
       end
       m.alpha = row['alpha'] if row['alpha']
       materials[row['id']] = m
     end
   end
+  # Merge the planar faces themselves, so diagonals do not return while editing.
+  # Curved surfaces retain their geometry with softened facet edges; sharp corners remain.
+  def self.clean_surface(entities, soften_cosine = 0.819152)
+    planar = entities.grep(Sketchup::Edge).select do |edge|
+      faces = edge.faces
+      next false unless faces.length == 2
+      a, b = faces
+      next false unless a.material == b.material && a.back_material == b.back_material
+      next false unless a.normal.dot(b.normal) > 0.99999999
+      b.vertices.all? { |v| v.position.distance_to_plane(a.plane).abs < 0.002 }
+    end
+    entities.erase_entities(planar) unless planar.empty?
+    entities.grep(Sketchup::Edge).each do |edge|
+      faces = edge.faces
+      next unless faces.length == 2
+      next unless faces[0].normal.dot(faces[1].normal) > soften_cosine
+      edge.soft = true
+      edge.smooth = true
+      edge.hidden = true
+    end
+    planar.length
+  end
   def self.make_part(model, base, part, materials, prefix)
     data = read_json(File.join(base, part.fetch('file')))
     definition = model.definitions.add("#{prefix}_#{part.fetch('name')}")
+    containers = {}
     data.fetch('meshes').each_with_index do |surface, surface_index|
-      group = definition.entities.add_group
-      group.name = "#{surface['name']}_surface_#{surface_index}"
+      key = [surface['geometry'] || surface['name'], surface['material'], surface['matrix_m']]
+      container = containers[key]
+      unless container
+        container = definition.entities.add_group
+        container.name = surface['name']
+        container.transformation = large_matrix(surface.fetch('matrix_m'))
+        container.set_attribute('AyaaLobby', 'curved_surface', true) if surface['curve_smoothing']
+        containers[key] = container
+      end
+      # UV charts are temporary build groups, not separate finished geometry.
+      group = container.entities.add_group
+      group.name = "UV_chart_#{surface_index}"
       points = surface.fetch('points')
       triangles = surface.fetch('faces')
       polygon_mesh = Geom::PolygonMesh.new(points.length, triangles.length)
@@ -53,7 +87,24 @@ module AyaaLobbyDirect2026
       material = materials.fetch(surface.fetch('material'))
       flags = Geom::PolygonMesh::HIDE_BASED_ON_INDEX | Geom::PolygonMesh::SOFTEN_BASED_ON_INDEX | Geom::PolygonMesh::SMOOTH_SOFT_EDGES
       group.entities.fill_from_mesh(polygon_mesh, true, flags, material, material)
-      group.transformation = large_matrix(surface.fetch('matrix_m'))
+      group.explode
+    end
+    containers.each_value do |container|
+      clean_surface(container.entities, container.get_attribute('AyaaLobby', 'curved_surface', false) ? 0.499999 : 0.819152)
+    end
+    if part['category'] == 'floor'
+      # One editable face context for all finish regions: rectangles split faces
+      # rather than creating a second face above a nested surface group.
+      containers.each_value { |container| container.explode }
+      clean_surface(definition.entities)
+      floor_faces = definition.entities.grep(Sketchup::Face)
+      raise "No editable floor faces: #{part['name']}" if floor_faces.empty?
+      if part['expected_floor_area_in2']
+        area = floor_faces.inject(0.0) { |sum, face| sum + face.area } / (LARGE * LARGE)
+        expected_area = part['expected_floor_area_in2']
+        tolerance = [expected_area * 0.00001, 0.05].max
+        raise "Floor area check failed: #{part['name']}" if (area - expected_area).abs > tolerance
+      end
     end
     # Build large to avoid SketchUp's small-face tolerance, then restore original size.
     root_values = part.fetch('transform_inches').map(&:to_f)
@@ -99,6 +150,11 @@ module AyaaLobbyDirect2026
       raise 'Some components were not created.' unless created.length == total
       raise 'Some components are empty.' unless created.all? { |e| e.valid? && !e.bounds.empty? }
       model.rendering_options['RenderMode'] = 4
+      available_render_options = []
+      model.rendering_options.each { |key, value| available_render_options << key }
+      ['DrawHidden', 'DrawHiddenGeometry', 'DrawHiddenObjects'].each do |key|
+        model.rendering_options[key] = false if available_render_options.include?(key)
+      end
       bounds = Geom::BoundingBox.new
       created.each { |e| bounds.add(e.bounds) }
       center = bounds.center
@@ -108,7 +164,7 @@ module AyaaLobbyDirect2026
       model.active_view.zoom(created)
       model.commit_operation
       operation_open = false
-      report = { 'components_created' => created.length, 'whole_furniture_components' => manifest['parts'].count { |p| p['category'] == 'furniture' }, 'build_method' => 'native SketchUp geometry; no DAE import', 'version' => '1.1.0' }
+      report = { 'components_created' => created.length, 'whole_furniture_components' => manifest['parts'].count { |p| p['category'] == 'furniture' }, 'build_method' => 'native SketchUp geometry; no DAE import', 'version' => '1.2.0' }
       puts JSON.pretty_generate(report)
       path = UI.savepanel('Save lobby as SketchUp', nil, manifest.fetch('output_skp'))
       if path
@@ -119,7 +175,7 @@ module AyaaLobbyDirect2026
         rescue StandardError
         end
       end
-      UI.messagebox("Ayaa Lobby: #{created.length} complete, independent components CREATED.\n33 complete furniture pieces. Select any piece with one click; do not Explode.\nUse File > Save As if you did not save yet.")
+      UI.messagebox("Ayaa Lobby: #{created.length} complete, independent components CREATED.\n#{report['whole_furniture_components']} complete furniture pieces. Select any piece with one click; do not Explode.\nUse File > Save As if you did not save yet.")
     rescue StandardError => error
       model.abort_operation if operation_open
       puts error.full_message if error.respond_to?(:full_message)
@@ -130,9 +186,10 @@ module AyaaLobbyDirect2026
   end
   unless file_loaded?(__FILE__)
     menu = UI.menu('Extensions').add_submenu('Ayaa Lobby')
-    menu.add_item('Build NEW MODERN - separate components') { build('new_modern_components') }
-    menu.add_item('Build BOHEMIAN V2 - separate components') { build('bohemian_latest_components') }
-    menu.add_item('Build GREEK COASTAL - separate components') { build('greek_coastal_components') }
+    menu.add_item('Build NEW MODERN - original layout') { build('new_modern_components') }
+    menu.add_item('Build MODERN ALTERNATIVE V2 - new floor and layout') { build('modern_alternative_v2') }
+    menu.add_item('Build BOHEMIAN V3 - new layout and floor') { build('bohemian_revised_v3') }
+    menu.add_item('Build GREEK COASTAL V2 - oval platform and relocated bar') { build('greek_coastal_revised_v2') }
     file_loaded(__FILE__)
   end
 end

@@ -1,0 +1,11 @@
+{
+  "single_top_finish_z_m": 0.224,
+  "area_m2": 594.865653329929,
+  "missing_area_m2": 0.0,
+  "overlap_area_m2": 0.0,
+  "regions": 10,
+  "old_base_floor_source_hidden": "SRC_0125_ID33091",
+  "orange_grid_removed": true,
+  "entrance_ribbons_removed": true,
+  "service_infill_area_m2": 22.258560202346416
+}
