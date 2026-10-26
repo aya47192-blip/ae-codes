@@ -1,0 +1,149 @@
+{
+  "option": "03_starfish",
+  "reference_pdf_page": 3,
+  "approved_source": "User-uploaded all_21_outline_with_icons.pdf",
+  "reference_contours_traced_not_regenerated": true,
+  "original_cad_entities": 136,
+  "approved_native_regions": 25,
+  "new_west_regions": 12,
+  "new_south_regions": 11,
+  "max_native_curve_fitting_deviation_drawing_units": 0.0599364442506722,
+  "explicit_local_modifications": [
+    "Only the existing central pentagon was adjusted to a five-arm profile; the five surrounding reference bays remain in position."
+  ],
+  "approved_curve_checks": [
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 16.21514362685811,
+      "curve_area": 15.12136685029321
+    },
+    {
+      "source_to_native_curve_max_error": 0.05745854654369416,
+      "source_area": 1.7382682511622112,
+      "curve_area": 1.601259311405608
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 7.594134807483885,
+      "curve_area": 7.206644812176092
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.035146596581317,
+      "curve_area": 4.79803588738763
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.760293983127402,
+      "curve_area": 4.541473507426389
+    },
+    {
+      "source_to_native_curve_max_error": 0.04438254845634868,
+      "source_area": 0.3375925865462508,
+      "curve_area": 0.2799472195827746
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.4914713334090608,
+      "curve_area": 1.3072427741268051
+    },
+    {
+      "source_to_native_curve_max_error": 0.051914747926696175,
+      "source_area": 0.11076753930293641,
+      "curve_area": 0.0734029547860012
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.9909643562852875,
+      "curve_area": 4.778338692214986
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.2618522623056936,
+      "curve_area": 1.1118823117131442
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 8.153176602828756,
+      "curve_area": 7.869305790581071
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.1009100960101965,
+      "curve_area": 1.9069853885990853
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.0063673552013144,
+      "curve_area": 0.6625847986173645
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.172344607957067,
+      "curve_area": 3.9144022277655672
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.6405596425682581,
+      "curve_area": 0.5605525527443626
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.902744533275971,
+      "curve_area": 1.719514883626921
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.032003718616118,
+      "curve_area": 3.3065831558399816
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.3122707297354584,
+      "curve_area": 0.24100968917323318
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 7.056005789358964,
+      "curve_area": 6.716625451581745
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.302251198378047,
+      "curve_area": 2.0559359361614744
+    },
+    {
+      "source_to_native_curve_max_error": 0.05680443056013411,
+      "source_area": 0.395001791592534,
+      "curve_area": 0.3323642207719608
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.5130039832999684,
+      "curve_area": 2.353567709501507
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.0988882585319573,
+      "curve_area": 1.9431462056714757
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.1850661249611245,
+      "curve_area": 1.0557356232686417
+    },
+    {
+      "source_to_native_curve_max_error": 0.0599364442506722,
+      "source_area": 0.20734201840986038,
+      "curve_area": 0.14563630939269756
+    }
+  ],
+  "native_application_tested": false,
+  "native_dwg_roundtrip_max_deviation": 1.1368683772161603e-13,
+  "source_geometry_preserved": true,
+  "all_added_contours_closed": true,
+  "dwg_audit_errors": 0,
+  "self_intersections": 0,
+  "duplicate_closed_contours": 0,
+  "crossing_curve_pairs": []
+}

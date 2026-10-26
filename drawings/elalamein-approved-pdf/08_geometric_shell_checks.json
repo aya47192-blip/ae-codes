@@ -1,0 +1,308 @@
+{
+  "option": "08_geometric_shell",
+  "reference_pdf_page": 16,
+  "approved_source": "User-uploaded all_21_outline_with_icons.pdf",
+  "reference_contours_traced_not_regenerated": true,
+  "original_cad_entities": 136,
+  "approved_native_regions": 57,
+  "new_west_regions": 19,
+  "new_south_regions": 21,
+  "max_native_curve_fitting_deviation_drawing_units": 0,
+  "explicit_local_modifications": [],
+  "approved_curve_checks": [
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.4421135892207273,
+      "curve_area": 2.4415996559581195
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.4664877369365827,
+      "curve_area": 1.4714183972319896
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.6729083003206272,
+      "curve_area": 0.6806220195739745
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.758985882112808,
+      "curve_area": 1.7588510429907451
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.48433534565179065,
+      "curve_area": 0.48379627049092294
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.0831310801356424,
+      "curve_area": 2.081318102381535
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.6972511127520509,
+      "curve_area": 0.6896712469546955
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.6683805430595249,
+      "curve_area": 0.6593851430104252
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.2872119002761388,
+      "curve_area": 0.28627758623603283
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.2230826243899855,
+      "curve_area": 0.20979354355840008
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.3838455954370765,
+      "curve_area": 4.371738083158401
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.5036651164395924,
+      "curve_area": 3.5049509611713714
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.40924706236647856,
+      "curve_area": 0.400314285711739
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.2687339255763876,
+      "curve_area": 3.240619323280088
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.044849945094875,
+      "curve_area": 2.044182727475271
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.18222462388604488,
+      "curve_area": 0.18436193345383964
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.14950016420817697,
+      "curve_area": 0.1507658027306053
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.1198347841407474,
+      "curve_area": 1.118129986178498
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.5977148668155864,
+      "curve_area": 0.6052039475268368
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.0594329345311408,
+      "curve_area": 1.0620117308575194
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.4639969049505035,
+      "curve_area": 1.4741195710449642
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.5151277289150384,
+      "curve_area": 1.551766826717047
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.4282074463442096,
+      "curve_area": 1.4263941062685415
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.9258334817482338,
+      "curve_area": 0.9291025850436015
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.134179916914798,
+      "curve_area": 3.143507105069807
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.5474374156235644,
+      "curve_area": 0.5811701331253767
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.4288025638613525,
+      "curve_area": 0.433878423429459
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.20866154047355248,
+      "curve_area": 0.2064393245442465
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.1774054757037857,
+      "curve_area": 1.186363810114733
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.390178053188347,
+      "curve_area": 1.3959377140153337
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.49296715394120894,
+      "curve_area": 0.4856413525105786
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.7045344516532541,
+      "curve_area": 1.7157757015703383
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.2995249840076739,
+      "curve_area": 0.3108819969170041
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.5943600261890533,
+      "curve_area": 0.5904418294309124
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.8293422768277476,
+      "curve_area": 0.8416950509199016
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.9334942002195763,
+      "curve_area": 1.9233814194252763
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.4933219433773551,
+      "curve_area": 0.5077512278039927
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.0200016969670558,
+      "curve_area": 1.0055590066252884
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.229008742038861,
+      "curve_area": 1.2256872855464336
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.546173471899854,
+      "curve_area": 0.5514803231500115
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.09148623639499612,
+      "curve_area": 0.08525803679846888
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.5258329050259711,
+      "curve_area": 1.537221428842101
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.6711040444272725,
+      "curve_area": 1.6848606400582657
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.6362638436932034,
+      "curve_area": 0.6323363464887779
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.6783040644911558,
+      "curve_area": 2.6719039766743005
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 7.177426377045504,
+      "curve_area": 7.173873811921144
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.4424546889531061,
+      "curve_area": 0.45150241877314445
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.517113504770972,
+      "curve_area": 0.51609544253492
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.127424988025129,
+      "curve_area": 2.1382359025831326
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.309120794375562,
+      "curve_area": 2.305746666761109
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.1426079684260475,
+      "curve_area": 1.1513639429458096
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.6261938649629855,
+      "curve_area": 1.6319260734231924
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.12313057728519677,
+      "curve_area": 0.11302313826369281
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.27006978123214026,
+      "curve_area": 0.2579933314248903
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.4403019687438528,
+      "curve_area": 0.4246383062622941
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.1540500663891355,
+      "curve_area": 0.15870492921620025
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.14800444893497047,
+      "curve_area": 0.14021513862378893
+    }
+  ],
+  "native_application_tested": false,
+  "native_dwg_roundtrip_max_deviation": 1.1368683772161603e-13,
+  "source_geometry_preserved": true,
+  "all_added_contours_closed": true,
+  "dwg_audit_errors": 0,
+  "self_intersections": 0,
+  "duplicate_closed_contours": 0,
+  "crossing_curve_pairs": [],
+  "redundant_clipped_enclosures_omitted": 1
+}

@@ -1,0 +1,107 @@
+{
+  "option": "06_waves",
+  "reference_pdf_page": 10,
+  "approved_source": "User-uploaded all_21_outline_with_icons.pdf",
+  "reference_contours_traced_not_regenerated": true,
+  "original_cad_entities": 136,
+  "approved_native_regions": 17,
+  "new_west_regions": 12,
+  "new_south_regions": 14,
+  "max_native_curve_fitting_deviation_drawing_units": 0.05984268608837707,
+  "explicit_local_modifications": [],
+  "approved_curve_checks": [
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 38.03363762951533,
+      "curve_area": 39.02121185032152
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.6142397190255533,
+      "curve_area": 0.4499576598777034
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.5892962675797052,
+      "curve_area": 0.4849682223870422
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.47985052079967,
+      "curve_area": 5.099508567155677
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.053749940422282,
+      "curve_area": 4.723216154213305
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.7428000246148447,
+      "curve_area": 3.4700261911725434
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.533941629170537,
+      "curve_area": 4.329473659625088
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.159185223897857,
+      "curve_area": 1.202798554047216
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 4.669686907358632,
+      "curve_area": 4.392752566890973
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.3241949312014034,
+      "curve_area": 2.12377308524121
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 6.954887456427039,
+      "curve_area": 6.568454172690399
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.0969739781880917,
+      "curve_area": 0.10852955463414972
+    },
+    {
+      "source_to_native_curve_max_error": 0.05643612073798767,
+      "source_area": 0.6042720347661276,
+      "curve_area": 0.5253398291366629
+    },
+    {
+      "source_to_native_curve_max_error": 0.057393598002585366,
+      "source_area": 0.5104440907562785,
+      "curve_area": 0.4309157542405715
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 7.099170327280677,
+      "curve_area": 6.759586859849137
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.953408466751964,
+      "curve_area": 3.5387596988660164
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 7.156957691998304,
+      "curve_area": 6.763396064935222
+    }
+  ],
+  "native_application_tested": false,
+  "native_dwg_roundtrip_max_deviation": 1.1368683772161603e-13,
+  "source_geometry_preserved": true,
+  "all_added_contours_closed": true,
+  "dwg_audit_errors": 0,
+  "self_intersections": 0,
+  "duplicate_closed_contours": 0,
+  "crossing_curve_pairs": []
+}

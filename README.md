@@ -1,3 +1,7 @@
+## العلمين — النسخة المصححة من PDF المعتمد
+
+[تحميل DWG التسعة](drawings/elalamein-approved-pdf/ALL_9_FROM_APPROVED_PDF.dwg) · [مقارنة المرجع والنتيجة](drawings/elalamein-approved-pdf/REFERENCE_COMPARISON.pdf) · [تفاصيل وملفات منفصلة](drawings/elalamein-approved-pdf/README.md)
+
 ## العلمين — تسعة كونسبتات AutoCAD
 
 [تحميل DWG التسعة](drawings/elalamein-nine-concepts/ALL_9_CONCEPTS.dwg) · [معاينة PDF](drawings/elalamein-nine-concepts/ALL_9_PREVIEW.pdf) · [الملفات المنفصلة والتفاصيل](drawings/elalamein-nine-concepts/README.md)

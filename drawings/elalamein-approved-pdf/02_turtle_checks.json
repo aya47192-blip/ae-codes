@@ -1,0 +1,128 @@
+{
+  "option": "02_turtle",
+  "reference_pdf_page": 2,
+  "approved_source": "User-uploaded all_21_outline_with_icons.pdf",
+  "reference_contours_traced_not_regenerated": true,
+  "original_cad_entities": 136,
+  "approved_native_regions": 21,
+  "new_west_regions": 10,
+  "new_south_regions": 15,
+  "max_native_curve_fitting_deviation_drawing_units": 0,
+  "explicit_local_modifications": [],
+  "approved_curve_checks": [
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 6.621760922819459,
+      "curve_area": 6.646370946433306
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.5573818592753461,
+      "curve_area": 0.5439202576443045
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.966607081694022,
+      "curve_area": 5.963156202395096
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.2529237699161424,
+      "curve_area": 1.2417476095503188
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.479046502693438,
+      "curve_area": 3.4740022595685214
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.5777794564884537,
+      "curve_area": 2.581220977785082
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.3671643585937288,
+      "curve_area": 3.3860773117365013
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.590430991793092,
+      "curve_area": 5.585828035179497
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 6.759706290001803,
+      "curve_area": 6.7811281584903655
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.659588906195707,
+      "curve_area": 0.6749649847601285
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.225196036442628,
+      "curve_area": 5.242196695447883
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.1386325415935388,
+      "curve_area": 3.1548316111193353
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.18289572820677558,
+      "curve_area": 0.1791490012115913
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 2.020275073063219,
+      "curve_area": 2.0035241809440527
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.1854688199628822,
+      "curve_area": 1.2071764207806281
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.5991074135147888,
+      "curve_area": 0.5976994836638744
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 1.9820134717445266,
+      "curve_area": 2.0150768626331326
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 0.48278057024496673,
+      "curve_area": 0.4775395398744918
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 6.998401878814495,
+      "curve_area": 6.982439388293277
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 3.8357670937136934,
+      "curve_area": 3.834155797109127
+    },
+    {
+      "source_to_native_curve_max_error": 0,
+      "source_area": 5.978859509744527,
+      "curve_area": 5.963261099956463
+    }
+  ],
+  "native_application_tested": false,
+  "native_dwg_roundtrip_max_deviation": 1.1368683772161603e-13,
+  "source_geometry_preserved": true,
+  "all_added_contours_closed": true,
+  "dwg_audit_errors": 0,
+  "self_intersections": 0,
+  "duplicate_closed_contours": 0,
+  "crossing_curve_pairs": [],
+  "redundant_clipped_enclosures_omitted": 1
+}
