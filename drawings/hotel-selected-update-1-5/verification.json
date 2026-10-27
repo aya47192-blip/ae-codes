@@ -1,0 +1,114 @@
+{
+  "version": "1.5.0",
+  "modern_payload_files_byte_identical": 260,
+  "refresh_and_exact_geometry_bounds_fixes_retained_byte_identical": true,
+  "native_sketchup_desktop_tested": false,
+  "package_crc_and_ruby_syntax_passed": true,
+  "sha256": "cc9a55b1822aa60dcf570ee504b2a3e1d394dc11c9683abd9a807a3b947b0769",
+  "styles": [
+    {
+      "version": "1.5.0",
+      "style": "greek",
+      "native_components": 154,
+      "seats": 46,
+      "original_source_geometry_checked": 598,
+      "original_source_geometry_changed": 0,
+      "original_opening_assemblies_retained": 5,
+      "columns_preserved": 22,
+      "furniture_layout_check": {
+        "style": "greek",
+        "collisions": [],
+        "blocked_openings": [],
+        "column_intersections": [],
+        "outside_supported_floor": [],
+        "main_route_1m_clear": {
+          "entry": true,
+          "reception": true,
+          "bar": true,
+          "west": true,
+          "rear_cross": true
+        },
+        "seats": 46,
+        "furniture_components": 49
+      },
+      "floor_export_checks": [
+        {
+          "part": "NEW_greek_Editable_Main_Floor",
+          "area_m2": 585.8895084783869,
+          "overlap_m2": 0.0,
+          "level_m": 0.2240000069141388,
+          "source_expected_m2": 585.8895530779947
+        },
+        {
+          "part": "NEW_greek_Editable_Centre_Floor",
+          "area_m2": 55.74100459960755,
+          "overlap_m2": 0.0,
+          "level_m": 0.5600000023841858,
+          "source_expected_m2": 55.74096
+        }
+      ],
+      "max_bounds_roundtrip_error_inches": 9.094947017729282e-13,
+      "sconces_same_design_per_style": true,
+      "sconces_count": 15,
+      "sconce_height_above_finished_floor_m": 2.1,
+      "dense_exterior_plant_clusters": 190,
+      "materials_with_maps": 52,
+      "all_assets_and_textures_exported": true,
+      "surface_meshes": 3586,
+      "polygons": 88452,
+      "sketchup_desktop_tested": false
+    },
+    {
+      "version": "1.5.0",
+      "style": "boho",
+      "native_components": 154,
+      "seats": 46,
+      "original_source_geometry_checked": 598,
+      "original_source_geometry_changed": 0,
+      "original_opening_assemblies_retained": 5,
+      "columns_preserved": 22,
+      "furniture_layout_check": {
+        "style": "boho",
+        "collisions": [],
+        "blocked_openings": [],
+        "column_intersections": [],
+        "outside_supported_floor": [],
+        "main_route_1m_clear": {
+          "entry": true,
+          "reception": true,
+          "bar": true,
+          "west": true,
+          "rear_cross": true
+        },
+        "seats": 46,
+        "furniture_components": 49
+      },
+      "floor_export_checks": [
+        {
+          "part": "NEW_boho_Editable_Main_Floor",
+          "area_m2": 585.8895084783869,
+          "overlap_m2": 0.0,
+          "level_m": 0.2240000069141388,
+          "source_expected_m2": 585.8895530779947
+        },
+        {
+          "part": "NEW_boho_Editable_Centre_Floor",
+          "area_m2": 55.74100459960755,
+          "overlap_m2": 0.0,
+          "level_m": 0.5600000023841858,
+          "source_expected_m2": 55.74096
+        }
+      ],
+      "max_bounds_roundtrip_error_inches": 9.094947017729282e-13,
+      "sconces_same_design_per_style": true,
+      "sconces_count": 15,
+      "sconce_height_above_finished_floor_m": 2.1,
+      "dense_exterior_plant_clusters": 190,
+      "materials_with_maps": 53,
+      "all_assets_and_textures_exported": true,
+      "surface_meshes": 4097,
+      "polygons": 93664,
+      "sketchup_desktop_tested": false
+    }
+  ]
+}
