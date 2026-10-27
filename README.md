@@ -1,3 +1,7 @@
+## الساحلي — اختيار التنسيق قبل التنفيذ
+
+[PDF واحد: ١٠ توزيعات أثاث وأفكار الأرضيات والحوائط](drawings/coastal-design-choices/COASTAL_10_LAYOUTS_AND_WALLS.pdf)
+
 ## اللوبي — إصلاح فحص المقاسات 1.4.2
 
 [تحميل التحديث](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_4_2.rbz) · [التركيب والتحقق](drawings/hotel-bounds-fix-1-4-2/README.md)

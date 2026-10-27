@@ -1,0 +1,166 @@
+{
+  "purpose": "Concept selection only; no SketchUp/RBZ files changed",
+  "layout_options": 10,
+  "floor_options": 3,
+  "wall_schemes": 3,
+  "entrance_schemes": 3,
+  "pdf_pages": 17,
+  "source_wall_section_segments": 275,
+  "source_columns": 22,
+  "protected_opening_zones": 11,
+  "all_ten_layouts_passed_opening_column_and_footprint_checks": true,
+  "circulation_check_clearance_radius_m": 0.5,
+  "layouts": {
+    "1": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 48
+    },
+    "2": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 55
+    },
+    "3": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 47
+    },
+    "4": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 52
+    },
+    "5": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 49
+    },
+    "6": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 52
+    },
+    "7": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 48
+    },
+    "8": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 52
+    },
+    "9": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 51
+    },
+    "10": {
+      "collisions": [],
+      "blocked_openings": [],
+      "column_hits": [],
+      "outside_floor": [],
+      "route_clearance_radius_m": 0.5,
+      "route_checkpoints": {
+        "entry": true,
+        "reception": true,
+        "west_loop": true,
+        "east_loop": true,
+        "bar": true
+      },
+      "seats": 52
+    }
+  },
+  "realistic_wall_and_entry_images_are_design_references_not_native_model_renders": true
+}
