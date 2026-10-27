@@ -1,0 +1,11 @@
+{
+  "clearance_radius_m": 0.5,
+  "paths": {
+    "main_entry": true,
+    "reception_customer_approach": true,
+    "west_circulation": true,
+    "rear_cross_circulation": true,
+    "bar_customer_approach": true
+  },
+  "scope": "Connectivity through a 1m-clear plan corridor, not an evacuation/accessibility certification."
+}

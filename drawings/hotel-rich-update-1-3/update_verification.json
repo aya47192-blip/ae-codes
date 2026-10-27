@@ -1,0 +1,37 @@
+{
+  "version": "1.3.0",
+  "models": [
+    {
+      "style": "BOHEMIAN V4",
+      "components": 134,
+      "furniture_components": 48,
+      "seats": 39,
+      "old_seats": 21,
+      "opening_zones_checked": 11,
+      "columns": 22,
+      "all_route_checkpoints_connected": true,
+      "native_floor_area_verified": true,
+      "sketchup_desktop_tested": false
+    },
+    {
+      "style": "GREEK COASTAL V3",
+      "components": 130,
+      "furniture_components": 57,
+      "seats": 50,
+      "old_seats": 22,
+      "opening_zones_checked": 11,
+      "columns": 22,
+      "all_route_checkpoints_connected": true,
+      "native_floor_area_verified": true,
+      "sketchup_desktop_tested": false
+    }
+  ],
+  "existing_modern_and_modern_alternative_payloads_unchanged": true,
+  "ruby_syntax_checked": true,
+  "rbz_crc_verified": true,
+  "source_598_meshes_unchanged": true,
+  "all_top_level_whole_piece_components": true,
+  "existing_edge_cleaning_builder_preserved": true,
+  "profiles_and_back_edges_disabled_if_supported": true,
+  "sketchup_desktop_tested": false
+}

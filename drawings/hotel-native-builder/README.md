@@ -1,3 +1,5 @@
+**Latest 1.3.0:** [Rich Bohemian V4 + Greek Coastal V3](Ayaa_Lobby_Components_v1_3_0.rbz) · [Preview PDF](../hotel-rich-update-1-3/RICH_LOBBY_PREVIEW.pdf). Both Modern choices retained.
+
 **Latest1.2.0:** [Download revised Bohemian V3, Greek Coastal V2 and Modern Alternative](Ayaa_Lobby_Components_v1_2_0.rbz) · [Preview PDF](../hotel-layout-revision-1-2/revised_options_preview.pdf). Includes the original Modern as a fourth menu choice. Reinstall and restart SketchUp.
 
 **Latest:1.1.0 adds Greek Coastal as a third menu option.** [Download the three-option update](Ayaa_Lobby_Components_v1_1_0.rbz) · [Greek Coastal previews](../hotel-greek-coastal/greek_coastal_preview.pdf). New Modern and Bohemian V2 payloads are byte-identical to1.0.1. Reinstall and restart all SketchUp windows.

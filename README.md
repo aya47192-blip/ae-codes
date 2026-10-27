@@ -1,3 +1,7 @@
+## اللوبي — تحديث 1.3.0
+
+[تحميل الإضافة](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_3_0.rbz) · [معاينة البوهيمي والساحلي](drawings/hotel-rich-update-1-3/RICH_LOBBY_PREVIEW.pdf) · [التفاصيل والتركيب](drawings/hotel-rich-update-1-3/README.md)
+
 ## العلمين — آخر تحديث: التسعة بامتدادات متوازنة
 
 [تحميل DWG التسعة](drawings/elalamein-nine-balanced/ELALAMEIN_9_OPTIONS.dwg) · [معاينة PDF](drawings/elalamein-nine-balanced/ALL_9_PREVIEW.pdf) · [الملفات المنفصلة والفحص](drawings/elalamein-nine-balanced/README.md)
