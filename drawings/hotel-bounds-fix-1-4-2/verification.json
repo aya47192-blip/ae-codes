@@ -1,0 +1,17 @@
+{
+  "version": "1.4.2",
+  "reported_error_inches": 6.541326090366624,
+  "same_error_reproduced_from_payload": true,
+  "cause": "Instance#bounds and nested group boxes overestimate rotated geometry; the manifest stores exact world-vertex bounds.",
+  "fix": "Validate recursively transformed geometry vertices against the original bounds, retaining the 0.004-inch tolerance.",
+  "all_component_payloads": {
+    "parts_checked": 480,
+    "max_exact_error_inches": 1.3642420526593924e-12
+  },
+  "ruby_actual_payload_fixture_cases": 39,
+  "ruby_nested_group_and_component_instance_cases_passed": true,
+  "geometry_material_and_compatibility_files_byte_identical": 510,
+  "package_crc_verified": true,
+  "sketchup_desktop_tested": false,
+  "sha256": "6dee18fff594fa959f15ea6fbf50f68a4c327220ab1bd117a2cf41f8d1a1812b"
+}

@@ -1,3 +1,7 @@
+## اللوبي — إصلاح فحص المقاسات 1.4.2
+
+[تحميل التحديث](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_4_2.rbz) · [التركيب والتحقق](drawings/hotel-bounds-fix-1-4-2/README.md)
+
 ## اللوبي — إصلاح التشغيل 1.4.1
 
 [تحميل الإصلاح الكامل](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_4_1.rbz) · [خطوات التركيب ونتائج الاختبار](drawings/hotel-refresh-fix-1-4-1/README.md)

@@ -1,3 +1,5 @@
+**Latest 1.4.2:** [Download rotated-geometry bounds fix](Ayaa_Lobby_Components_v1_4_2.rbz) · [Installation and regression evidence](../hotel-bounds-fix-1-4-2/README.md). Same design payloads; exact vertex validation retains the 0.004-inch tolerance.
+
 **Latest 1.4.1:** [Download full refresh compatibility fix](Ayaa_Lobby_Components_v1_4_1.rbz) · [Install and verification](../hotel-refresh-fix-1-4-1/README.md). Same 1.4.0 designs; fixes legacy UI.refresh calls. Use Extensions > Ayaa Lobby 1.4.1.
 
 **Latest 1.3.0:** [Rich Bohemian V4 + Greek Coastal V3](Ayaa_Lobby_Components_v1_3_0.rbz) · [Preview PDF](../hotel-rich-update-1-3/RICH_LOBBY_PREVIEW.pdf). Both Modern choices retained.

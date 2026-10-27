@@ -1,0 +1,157 @@
+[
+  {
+    "name": "NEW_REV_modern_alt_Front_East_Club",
+    "predicted_old_api_aabb_error_inches": 0.6159126972515878,
+    "exact_geometry_error_inches": 0.0
+  },
+  {
+    "name": "NEW_REV_modern_alt_Rear_Central_Club",
+    "predicted_old_api_aabb_error_inches": 1.4180331617899355,
+    "exact_geometry_error_inches": 0.0
+  },
+  {
+    "name": "NEW_REV_modern_alt_Rear_Central_Club_2",
+    "predicted_old_api_aabb_error_inches": 1.418033161789026,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B1_Companion_0",
+    "predicted_old_api_aabb_error_inches": 6.541326090366624,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B1_Companion_1",
+    "predicted_old_api_aabb_error_inches": 6.519795276529635,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B3_Lounge_Chair",
+    "predicted_old_api_aabb_error_inches": 6.700997581361662,
+    "exact_geometry_error_inches": 2.2737367544323206e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B4_Cane_Chair_0",
+    "predicted_old_api_aabb_error_inches": 6.669780253989757,
+    "exact_geometry_error_inches": 2.2737367544323206e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B4_Cane_Chair_1",
+    "predicted_old_api_aabb_error_inches": 6.669779254096284,
+    "exact_geometry_error_inches": 2.2737367544323206e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B5_Discussion_Chair_1",
+    "predicted_old_api_aabb_error_inches": 6.571026862524377,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B5_Discussion_Chair_2",
+    "predicted_old_api_aabb_error_inches": 6.5710258661029,
+    "exact_geometry_error_inches": 2.2737367544323206e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B5_Discussion_Chair_4",
+    "predicted_old_api_aabb_error_inches": 6.571026862524377,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B5_Discussion_Chair_5",
+    "predicted_old_api_aabb_error_inches": 6.571025059997737,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B6_Reading_Chair",
+    "predicted_old_api_aabb_error_inches": 1.1779750841460555,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B7_Chair_1",
+    "predicted_old_api_aabb_error_inches": 6.654867557807165,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B7_Chair_2",
+    "predicted_old_api_aabb_error_inches": 6.65486838566369,
+    "exact_geometry_error_inches": 1.1368683772161603e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B7_Chair_3",
+    "predicted_old_api_aabb_error_inches": 6.654868189243189,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_boho_B7_Chair_4",
+    "predicted_old_api_aabb_error_inches": 6.654869057465703,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G1_Companion_0",
+    "predicted_old_api_aabb_error_inches": 2.3586270805644745,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G1_Companion_1",
+    "predicted_old_api_aabb_error_inches": 2.3585087725405174,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G2_Soft_Club_0",
+    "predicted_old_api_aabb_error_inches": 2.3101946809774745,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G2_Soft_Club_1",
+    "predicted_old_api_aabb_error_inches": 2.3101961756647142,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G3_Cafe_Chair_0_0",
+    "predicted_old_api_aabb_error_inches": 2.080736058991988,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G3_Cafe_Chair_0_1",
+    "predicted_old_api_aabb_error_inches": 2.080736966778659,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G3_Cafe_Chair_1_0",
+    "predicted_old_api_aabb_error_inches": 2.0807360589928976,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G3_Cafe_Chair_1_1",
+    "predicted_old_api_aabb_error_inches": 2.080736966778659,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G4_Social_Seat_0_-1",
+    "predicted_old_api_aabb_error_inches": 2.3697975161553586,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G4_Social_Seat_0_1",
+    "predicted_old_api_aabb_error_inches": 2.3697919414844364,
+    "exact_geometry_error_inches": 6.821210263296962e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G4_Social_Seat_2_-1",
+    "predicted_old_api_aabb_error_inches": 2.369797782268961,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G4_Social_Seat_2_1",
+    "predicted_old_api_aabb_error_inches": 2.369791941484891,
+    "exact_geometry_error_inches": 4.547473508864641e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G5_Companion_0",
+    "predicted_old_api_aabb_error_inches": 1.3610214308228024,
+    "exact_geometry_error_inches": 2.2737367544323206e-13
+  },
+  {
+    "name": "NEW_RICH_greek_G5_Companion_1",
+    "predicted_old_api_aabb_error_inches": 2.0752991606786964,
+    "exact_geometry_error_inches": 9.094947017729282e-13
+  }
+]
