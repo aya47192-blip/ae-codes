@@ -1,3 +1,9 @@
+## العلمين — آخر تحديث: التسعة بامتدادات متوازنة
+
+[تحميل DWG التسعة](drawings/elalamein-nine-balanced/ELALAMEIN_9_OPTIONS.dwg) · [معاينة PDF](drawings/elalamein-nine-balanced/ALL_9_PREVIEW.pdf) · [الملفات المنفصلة والفحص](drawings/elalamein-nine-balanced/README.md)
+
+الروابط التالية للنسخ السابقة؛ النسخة الحالية أعلاه.
+
 ## العلمين — النسخة المصححة من PDF المعتمد
 
 [تحميل DWG التسعة](drawings/elalamein-approved-pdf/ALL_9_FROM_APPROVED_PDF.dwg) · [مقارنة المرجع والنتيجة](drawings/elalamein-approved-pdf/REFERENCE_COMPARISON.pdf) · [تفاصيل وملفات منفصلة](drawings/elalamein-approved-pdf/README.md)

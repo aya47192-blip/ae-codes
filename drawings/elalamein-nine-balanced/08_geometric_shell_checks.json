@@ -1,0 +1,595 @@
+{
+  "option": "08_geometric_shell",
+  "reference_pdf_page": 16,
+  "new_mass_counts": {
+    "west": 25,
+    "south": 40
+  },
+  "reference_module_quantiles": [
+    1.1874206014026474,
+    1.489562316932771,
+    2.8340084877409923,
+    3.433185759180631
+  ],
+  "new_mass_quantiles": {
+    "west": [
+      0.7819076373434839,
+      2.092632605559986,
+      2.4706268271931435,
+      2.7174512364825656,
+      3.750694340852167
+    ],
+    "south": [
+      0.808723852785061,
+      1.764931432836125,
+      2.7435823115903215,
+      3.178944692420255,
+      3.6393507502910065
+    ]
+  },
+  "mass_fits": [
+    {
+      "region": "west",
+      "parent": 0,
+      "area": 2.096502478450934,
+      "fit_error": 0.032470802860334845,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 1,
+      "area": 2.5445166632698846,
+      "fit_error": 0.02790658881526992,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 2,
+      "area": 3.238807349234334,
+      "fit_error": 0.033394018803478025,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 3,
+      "area": 2.7174512364825656,
+      "fit_error": 0.03255397326599195,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 4,
+      "area": 2.4706268271931435,
+      "fit_error": 0.03083456713507925,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 5,
+      "area": 1.1237985786994429,
+      "fit_error": 0.028531620227054116,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 6,
+      "area": 2.242958328976721,
+      "fit_error": 0.03332962303292921,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 7,
+      "area": 1.1489670746255616,
+      "fit_error": 0.02876559559393957,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 8,
+      "area": 1.7064668222275605,
+      "fit_error": 0.03422876900114265,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 9,
+      "area": 3.098127309644262,
+      "fit_error": 0.03138395188788663,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 10,
+      "area": 3.3287473937348357,
+      "fit_error": 0.034477405097088076,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 11,
+      "area": 2.565573198233199,
+      "fit_error": 0.033931599779460336,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 12,
+      "area": 2.107925183957325,
+      "fit_error": 0.03489171106011182,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 13,
+      "area": 2.038150082419954,
+      "fit_error": 0.034463690447478525,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 14,
+      "area": 3.750694340852167,
+      "fit_error": 0.033124131601369254,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 15,
+      "area": 2.576964746234354,
+      "fit_error": 0.03148628289954816,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 16,
+      "area": 2.295261645314173,
+      "fit_error": 0.032806502877411645,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 17,
+      "area": 2.1087122324314884,
+      "fit_error": 0.030460940013009852,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 18,
+      "area": 2.499819423104431,
+      "fit_error": 0.03328576923874215,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 19,
+      "area": 2.496046993870054,
+      "fit_error": 0.030538868432483463,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 20,
+      "area": 3.3306385540484933,
+      "fit_error": 0.02962678094952929,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 21,
+      "area": 2.840309929306626,
+      "fit_error": 0.03183806069536886,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 22,
+      "area": 3.5539683684423697,
+      "fit_error": 0.03409191429353871,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 23,
+      "area": 2.0453678261558257,
+      "fit_error": 0.03316565523241719,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 24,
+      "area": 3.592457646182824,
+      "fit_error": 0.029323928058123234,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 25,
+      "area": 2.8228203534632588,
+      "fit_error": 0.031310424768944384,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 26,
+      "area": 3.2463030572582743,
+      "fit_error": 0.030633363755806702,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 27,
+      "area": 3.05411081474802,
+      "fit_error": 0.03167422114163217,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 28,
+      "area": 0.7819076373434839,
+      "fit_error": 0.028270056019700892,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 29,
+      "area": 1.5002042119821626,
+      "fit_error": 0.03188702334514597,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 30,
+      "area": 1.1322335111296484,
+      "fit_error": 0.031674202344130695,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 31,
+      "area": 1.4159673343317527,
+      "fit_error": 0.034093778318045956,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 32,
+      "area": 2.5846292210293025,
+      "fit_error": 0.023554173526860966,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 33,
+      "area": 2.092632605559986,
+      "fit_error": 0.02890291297658699,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "west",
+      "parent": 33,
+      "area": 1.904525053043468,
+      "fit_error": 0.03372163687655548,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 34,
+      "area": 3.418153613105193,
+      "fit_error": 0.032763805694981475,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 35,
+      "area": 3.389172671490721,
+      "fit_error": 0.033386646099391265,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 36,
+      "area": 2.960261589585012,
+      "fit_error": 0.03012014793326263,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 37,
+      "area": 2.0834411987082126,
+      "fit_error": 0.029917610499080115,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 38,
+      "area": 2.3693249840412034,
+      "fit_error": 0.031390427007700006,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 39,
+      "area": 2.4589046125539276,
+      "fit_error": 0.02911875510907631,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 40,
+      "area": 2.6068793796641523,
+      "fit_error": 0.030994634535755333,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 41,
+      "area": 2.906809365768246,
+      "fit_error": 0.03350480632227518,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 42,
+      "area": 2.0511580655346426,
+      "fit_error": 0.03465790696726876,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 43,
+      "area": 2.759526114268368,
+      "fit_error": 0.03313355793010195,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 44,
+      "area": 1.7661066765811417,
+      "fit_error": 0.031064779468463782,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 45,
+      "area": 1.6425687233701316,
+      "fit_error": 0.032155354643287455,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 46,
+      "area": 3.113592926913678,
+      "fit_error": 0.03308503709800005,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 46,
+      "area": 3.035168033366647,
+      "fit_error": 0.028304129082747174,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 47,
+      "area": 3.6393507502910065,
+      "fit_error": 0.033927530287668914,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 48,
+      "area": 1.6571715445392636,
+      "fit_error": 0.029239243579870042,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 48,
+      "area": 1.6361792290023545,
+      "fit_error": 0.02957970915508536,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 49,
+      "area": 2.2303198035455543,
+      "fit_error": 0.030811484599037764,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 50,
+      "area": 3.1564919041409154,
+      "fit_error": 0.03277669773579834,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 51,
+      "area": 2.844258723454089,
+      "fit_error": 0.030647494420380696,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 52,
+      "area": 3.442367116521807,
+      "fit_error": 0.03459745926730563,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 53,
+      "area": 1.676182376480789,
+      "fit_error": 0.03339075674756414,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 54,
+      "area": 3.6198599354142043,
+      "fit_error": 0.030533901855510942,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 55,
+      "area": 2.841251174801082,
+      "fit_error": 0.026890472462372556,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 56,
+      "area": 3.3318651047724415,
+      "fit_error": 0.0330691293827956,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 57,
+      "area": 0.808723852785061,
+      "fit_error": 0.03212634879197795,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 58,
+      "area": 3.483666001633718,
+      "fit_error": 0.03106965117111668,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 59,
+      "area": 2.7276385089122748,
+      "fit_error": 0.030401619523927212,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 60,
+      "area": 1.6958734522171275,
+      "fit_error": 0.029511526591401577,
+      "kind": "SPLINE"
+    },
+    {
+      "region": "south",
+      "parent": 60,
+      "area": 1.7614057016010745,
+      "fit_error": 0.03379284161316076,
+      "kind": "SPLINE"
+    }
+  ],
+  "omitted_submodule_fragments": [],
+  "nodal_courts": 1,
+  "original_architecture_preserved": true,
+  "new_buildings_added": false,
+  "source_geometry_units_preserved": 1,
+  "source_art_registration_residuals": [
+    0.008464217645344134,
+    0.0008322306087553486,
+    0.0033042738179994086,
+    0.0022112414520793883,
+    0.00135603513063375,
+    0.0061242696296813105,
+    0.0057729309915596745,
+    0.00631388038119788,
+    0.002608583430221509,
+    0.0019913201864077434,
+    0.008366550677592163,
+    0.0058203247302405685
+  ],
+  "native_application_tested": false,
+  "connected_circulation_edges": 10,
+  "closed_circulation_loops": 0,
+  "unanchored_raster_spurs_omitted": 22,
+  "circulation_enclosures": [
+    {
+      "entity": "20F",
+      "closed": false,
+      "region": "west",
+      "start_target": "BA",
+      "end_target": "68"
+    },
+    {
+      "entity": "210",
+      "closed": false,
+      "region": "west",
+      "start_target": "68",
+      "end_target": "69"
+    },
+    {
+      "entity": "211",
+      "closed": false,
+      "region": "west",
+      "start_target": "69",
+      "end_target": "69"
+    },
+    {
+      "entity": "212",
+      "closed": false,
+      "region": "west",
+      "start_target": "69",
+      "end_target": "69"
+    },
+    {
+      "entity": "213",
+      "closed": false,
+      "region": "west",
+      "start_target": "69",
+      "end_target": "78"
+    },
+    {
+      "entity": "214",
+      "closed": false,
+      "region": "west",
+      "start_target": "78",
+      "end_target": "BA"
+    },
+    {
+      "entity": "215",
+      "closed": false,
+      "region": "west",
+      "start_target": "BA",
+      "end_target": "BA"
+    },
+    {
+      "entity": "216",
+      "closed": false,
+      "region": "west",
+      "start_target": "BA",
+      "end_target": "BA"
+    },
+    {
+      "entity": "217",
+      "closed": false,
+      "region": "south",
+      "start_target": "B1",
+      "end_target": "B0"
+    },
+    {
+      "entity": "218",
+      "closed": false,
+      "region": "south",
+      "start_target": "B0",
+      "end_target": "7F"
+    }
+  ],
+  "repaired_native_curve_loops": [],
+  "source_136_entities_max_coordinate_change": 0,
+  "new_mass_self_intersections": 0,
+  "new_mass_overlap_pairs": 0,
+  "duplicate_new_mass_contours": 0,
+  "minimum_new_mass_clearance_drawing_units": 0.19007010481876613,
+  "maximum_closed_contour_end_gap": 1.0048591735576161e-14,
+  "maximum_new_frame_endpoint_join_error": 3.552713678800501e-15,
+  "frame_mass_intrusions": 0,
+  "native_dwg_readback_max_numeric_change": 1.1368683772161603e-13,
+  "native_dwg_readback_entity_count_verified": true,
+  "audit_errors": 0,
+  "black_continuous_layers_verified": true
+}
