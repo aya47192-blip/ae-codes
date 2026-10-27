@@ -1,3 +1,5 @@
+**Latest 1.4.1:** [Download full refresh compatibility fix](Ayaa_Lobby_Components_v1_4_1.rbz) · [Install and verification](../hotel-refresh-fix-1-4-1/README.md). Same 1.4.0 designs; fixes legacy UI.refresh calls. Use Extensions > Ayaa Lobby 1.4.1.
+
 **Latest 1.3.0:** [Rich Bohemian V4 + Greek Coastal V3](Ayaa_Lobby_Components_v1_3_0.rbz) · [Preview PDF](../hotel-rich-update-1-3/RICH_LOBBY_PREVIEW.pdf). Both Modern choices retained.
 
 **Latest1.2.0:** [Download revised Bohemian V3, Greek Coastal V2 and Modern Alternative](Ayaa_Lobby_Components_v1_2_0.rbz) · [Preview PDF](../hotel-layout-revision-1-2/revised_options_preview.pdf). Includes the original Modern as a fourth menu choice. Reinstall and restart SketchUp.

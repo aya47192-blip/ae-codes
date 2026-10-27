@@ -1,3 +1,7 @@
+## اللوبي — إصلاح التشغيل 1.4.1
+
+[تحميل الإصلاح الكامل](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_4_1.rbz) · [خطوات التركيب ونتائج الاختبار](drawings/hotel-refresh-fix-1-4-1/README.md)
+
 ## اللوبي — تحديث 1.4
 
 [تحميل الإضافة](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_4_0.rbz) · [المعاينة](drawings/hotel-distinct-update-1-4/DISTINCT_LOBBY_PREVIEW.pdf) · [التركيب والتفاصيل](drawings/hotel-distinct-update-1-4/README.md)

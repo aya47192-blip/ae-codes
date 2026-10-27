@@ -1,0 +1,44 @@
+{
+  "version": "1.4.1",
+  "fix": "Provide the absent UI.refresh entry point for already-loaded legacy versions; redraw failure cannot escape into the build transaction. New builder uses the same guarded redraw helper.",
+  "option_payload_files_byte_identical_to_1_4_0": 509,
+  "options": [
+    {
+      "option": "bohemian_distinct_v5",
+      "components": 126,
+      "all_assets_present": true
+    },
+    {
+      "option": "modern_alternative_v2",
+      "components": 81,
+      "all_assets_present": true
+    },
+    {
+      "option": "greek_coastal_distinct_v4",
+      "components": 113,
+      "all_assets_present": true
+    },
+    {
+      "option": "new_modern_components",
+      "components": 160,
+      "all_assets_present": true
+    }
+  ],
+  "package_crc_verified": true,
+  "ruby_regression_executed": true,
+  "ruby_version": "3.1.2",
+  "ruby_cases": [
+    "reproduce missing UI.refresh",
+    "legacy call redraw",
+    "optional call arguments",
+    "preserve existing implementation",
+    "idempotent install",
+    "no active model",
+    "no active view",
+    "View.refresh fallback",
+    "redraw exception isolation",
+    "view without redraw methods"
+  ],
+  "sketchup_desktop_tested": false,
+  "sha256": "6f52f0de24d5860ed3a5ed7c3b03ac9aeb464ab03341dade78843b8e7c688515"
+}

@@ -1,0 +1,2 @@
+Ayaa Lobby: optional redraw skipped (RuntimeError: Simulated redraw failure)
+PASS: missing-method reproduced; legacy calls, existing-method preservation, idempotence, nil models/views, refresh fallback and redraw failure isolation verified.
