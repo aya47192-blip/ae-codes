@@ -1,0 +1,26 @@
+{
+  "version": "1.4.0",
+  "models": [
+    {
+      "style": "BOHEMIAN V5",
+      "components": 126,
+      "seats": 47,
+      "geometry_and_material_payload_verified": true,
+      "opening_obstructions": 0,
+      "source_geometry_changes": 0
+    },
+    {
+      "style": "GREEK COASTAL V4",
+      "components": 113,
+      "seats": 55,
+      "geometry_and_material_payload_verified": true,
+      "opening_obstructions": 0,
+      "source_geometry_changes": 0
+    }
+  ],
+  "legacy_UI_refresh_call_removed": true,
+  "unique_loader_module_and_menu_avoid_old_cached_implementation": true,
+  "menu": "Ayaa Lobby 1.4",
+  "ruby_syntax_and_package_crc_verified": true,
+  "native_sketchup_application_tested": false
+}

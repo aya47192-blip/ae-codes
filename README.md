@@ -1,3 +1,7 @@
+## اللوبي — تحديث 1.4
+
+[تحميل الإضافة](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_4_0.rbz) · [المعاينة](drawings/hotel-distinct-update-1-4/DISTINCT_LOBBY_PREVIEW.pdf) · [التركيب والتفاصيل](drawings/hotel-distinct-update-1-4/README.md)
+
 ## اللوبي — تحديث 1.3.0
 
 [تحميل الإضافة](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_3_0.rbz) · [معاينة البوهيمي والساحلي](drawings/hotel-rich-update-1-3/RICH_LOBBY_PREVIEW.pdf) · [التفاصيل والتركيب](drawings/hotel-rich-update-1-3/README.md)

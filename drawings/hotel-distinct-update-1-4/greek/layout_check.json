@@ -1,0 +1,10 @@
+{
+  "furniture_components": 46,
+  "seating_capacity": 55,
+  "opening_zones_checked": 11,
+  "collisions": [],
+  "blocked_openings": [],
+  "outside_room": [],
+  "column_intersections": [],
+  "bar_moved_to_marked_front_zone": true
+}

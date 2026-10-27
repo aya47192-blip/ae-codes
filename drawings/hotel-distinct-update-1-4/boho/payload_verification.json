@@ -1,0 +1,30 @@
+{
+  "version": "1.4.0",
+  "components": 126,
+  "furniture_components": 44,
+  "seating_capacity": 47,
+  "source_geometries": 1974,
+  "native_polygons": 81561,
+  "quads_and_ngons_retained": 64946,
+  "max_bounds_roundtrip_error_inches": 9.094947017729282e-13,
+  "single_general_floor_level_m": 0.224,
+  "all_model_assets_exported": true,
+  "all_material_maps_present": true,
+  "ruby_syntax_checked": true,
+  "UV_charts_joined_before_surface_cleanup": true,
+  "coplanar_edges_erased_not_just_hidden": true,
+  "curved_facet_edges_softened": true,
+  "general_and_centre_floors_are_individual_editable_components": true,
+  "plain_material_colors_converted_to_srgb": true,
+  "sketchup_desktop_tested": false,
+  "layout": {
+    "furniture_components": 44,
+    "seating_capacity": 47,
+    "opening_zones_checked": 11,
+    "collisions": [],
+    "blocked_openings": [],
+    "outside_room": [],
+    "column_intersections": [],
+    "bar_moved_to_marked_front_zone": false
+  }
+}

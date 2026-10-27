@@ -1,0 +1,10 @@
+{
+  "verified_from_actual_exported_geometry": true,
+  "single_plane_z_m": 0.2240000069141388,
+  "finish_area_m2": 594.8656533299288,
+  "overlap_area_m2": 0.0,
+  "missing_area_m2": 2.2737367544323206e-13,
+  "duplicate_floor_faces": 0,
+  "area_tolerance_m2": 1e-05,
+  "float32_boundary_tolerance_passed": true
+}
