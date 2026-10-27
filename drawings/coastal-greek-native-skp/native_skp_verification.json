@@ -1,0 +1,645 @@
+{
+  "native_skp_file": "COASTAL_GREEK_REFERENCE_REBUILD.skp",
+  "bytes": 43158187,
+  "sha256": "82e8a2648db0b4e4fe26f248145a0f1061b42e809ef511e75566dc37fb05b541",
+  "parsed_format_version": "{17.0.1}",
+  "independent_top_level_components": 142,
+  "unique_component_definitions": 60,
+  "root_loose_faces": 0,
+  "materials": 25,
+  "embedded_images_verified_byte_identical": [
+    {
+      "name": "GREEK_Honed_Limestone",
+      "bytes": 106795,
+      "sha256": "d1746013627418784d5076d31a6023aa8fa5101d59ccbc5d6f037c0558915a10"
+    },
+    {
+      "name": "C16_White_Lime_Plaster",
+      "bytes": 105638,
+      "sha256": "9f01a61cdee2cf93553adede1c2f57bed5527628f156e76349f7d195c0cc85e7"
+    },
+    {
+      "name": "SELECTED_greek_Lime_Plaster",
+      "bytes": 105638,
+      "sha256": "9f01a61cdee2cf93553adede1c2f57bed5527628f156e76349f7d195c0cc85e7"
+    },
+    {
+      "name": "C16_Honed_Travertine",
+      "bytes": 106795,
+      "sha256": "d1746013627418784d5076d31a6023aa8fa5101d59ccbc5d6f037c0558915a10"
+    },
+    {
+      "name": "C16_Sculpted_Navy_Upholstery",
+      "bytes": 124253,
+      "sha256": "f6226ce6bbf4b0d949fff5320c18363cc6419aaf8ed9862f4b2153ec319910ef"
+    },
+    {
+      "name": "C16_Light_Oak",
+      "bytes": 107805,
+      "sha256": "11dd4d8c43f30d1ca69b6b6e66a95789c4c50ff5431a6bfb9a4a1ed969dcc240"
+    },
+    {
+      "name": "C16_Ivory_Linen",
+      "bytes": 118730,
+      "sha256": "6ebfb5c22fb7cc611a18ea44bfd3ec50273d32fcc1737141dfa3c1672193e654"
+    },
+    {
+      "name": "C16_Dusty_Blue_Upholstery",
+      "bytes": 121667,
+      "sha256": "80ce9010317fa4ed024fd2584c34a73fabbaa0496e68b1ff66c8304cb2287178"
+    },
+    {
+      "name": "C16_Greek_Blue_White_Rosette",
+      "bytes": 9927,
+      "sha256": "3c38623eec1d595c96065fed4266b9c6a7bad1add05e772199fc478230dd61ac"
+    },
+    {
+      "name": "C16_Greek_Photo_Atlas",
+      "bytes": 3160396,
+      "sha256": "10a9f923aa30205fd902fa96a74e4df6fa815c20f6bf44eae99fbd68cb5028ad"
+    }
+  ],
+  "photo_frame_atlas_UV_quadrants_verified": 18,
+  "all_root_components_and_tags_visible": true,
+  "saved_scenes": 5,
+  "unique_definition_faces": 120392,
+  "unique_definition_vertices": 103920,
+  "unique_definition_edges": 217976,
+  "hidden_coplanar_or_foliage_edges": 79543,
+  "softened_curved_edges": 152367,
+  "max_component_bounds_error_mm": 0.004136933603149373,
+  "all_original_world_positions_and_scale_preserved_within_mm": 0.05,
+  "SketchUp_Desktop_application_tested": false,
+  "native_file_roundtrip_parsed": true,
+  "elapsed_s": 7.151796579360962,
+  "component_bounds": [
+    {
+      "name": "Architecture",
+      "bounds_error_mm": 0.0012652557371609417
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_01",
+      "bounds_error_mm": 0.0008567395032287095
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_02",
+      "bounds_error_mm": 0.0010391894324129679
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_03",
+      "bounds_error_mm": 0.0010391894324129679
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_04",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_05",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_06",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_07",
+      "bounds_error_mm": 0.0006690809246777007
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_08",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_09",
+      "bounds_error_mm": 0.0006690809246777007
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_10",
+      "bounds_error_mm": 0.0006690809246777007
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_11",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_12",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_13",
+      "bounds_error_mm": 0.0008567395032287095
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_14",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_15",
+      "bounds_error_mm": 0.0010391894439635506
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_16",
+      "bounds_error_mm": 0.0010391894439635506
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_17",
+      "bounds_error_mm": 0.0010391894555141334
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_18",
+      "bounds_error_mm": 0.0010391894555141334
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_19",
+      "bounds_error_mm": 0.0010391894555141334
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_20",
+      "bounds_error_mm": 0.0012064233400678858
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_21",
+      "bounds_error_mm": 0.001029794927671901
+    },
+    {
+      "name": "NEW_C16_White_Ionic_Column_22",
+      "bounds_error_mm": 0.0006690809246777007
+    },
+    {
+      "name": "NEW_REV_greek_Straight_Door_Finish_0",
+      "bounds_error_mm": 0.0006601862605748465
+    },
+    {
+      "name": "NEW_REV_greek_Straight_Door_Finish_1",
+      "bounds_error_mm": 0.0006601862605748465
+    },
+    {
+      "name": "NEW_REV_greek_Straight_Door_Finish_2",
+      "bounds_error_mm": 0.0010045485649243346
+    },
+    {
+      "name": "NEW_REV_greek_Straight_Door_Finish_3",
+      "bounds_error_mm": 0.0010045485880255001
+    },
+    {
+      "name": "NEW_REV_greek_Clean_Complete_Entrance",
+      "bounds_error_mm": 0.001142545165487263
+    },
+    {
+      "name": "NEW_RICH_greek_Continuous_Solid_Wall_Finish_1",
+      "bounds_error_mm": 0.0005972265753371175
+    },
+    {
+      "name": "NEW_RICH_greek_Continuous_Solid_Wall_Finish_2",
+      "bounds_error_mm": 0.0009569824163463635
+    },
+    {
+      "name": "NEW_RICH_greek_Continuous_Solid_Wall_Finish_3",
+      "bounds_error_mm": 0.001122177729894247
+    },
+    {
+      "name": "NEW_RICH_greek_Continuous_Solid_Wall_Finish_4",
+      "bounds_error_mm": 0.0006023339888997724
+    },
+    {
+      "name": "NEW_RICH_greek_Continuous_Solid_Wall_Finish_5",
+      "bounds_error_mm": 0.0008875781239112257
+    },
+    {
+      "name": "NEW_RICH_greek_Continuous_Solid_Wall_Finish_6",
+      "bounds_error_mm": 0.0011422851517636444
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_1",
+      "bounds_error_mm": 0.00040298021795024395
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_2",
+      "bounds_error_mm": 0.00040298021795024395
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_3",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_4",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_5",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_6",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_7",
+      "bounds_error_mm": 0.0009210861737756204
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_8",
+      "bounds_error_mm": 0.0009210861737756204
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_9",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_10",
+      "bounds_error_mm": 0.00040298022950082665
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_11",
+      "bounds_error_mm": 0.00040298022950082665
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_12",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_13",
+      "bounds_error_mm": 0.00040298024105140935
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_14",
+      "bounds_error_mm": 0.00040298023238847234
+    },
+    {
+      "name": "NEW_SELECTED_greek_Uniform_Wall_Sconce_15",
+      "bounds_error_mm": 0.00040298023238847234
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_0_Y",
+      "bounds_error_mm": 0.0010029491557361325
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_1_Y",
+      "bounds_error_mm": 0.0006991972072910357
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_2_X",
+      "bounds_error_mm": 0.001008890648427041
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_2_Y",
+      "bounds_error_mm": 0.0008767772895225789
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_3_X",
+      "bounds_error_mm": 0.0010038505170086864
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_6_X",
+      "bounds_error_mm": 0.0010038505170086864
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_6_Y",
+      "bounds_error_mm": 0.0012440233773304498
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_7_Y",
+      "bounds_error_mm": 0.001251679727283772
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_8_Y",
+      "bounds_error_mm": 0.0010962109977299406
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_9_X",
+      "bounds_error_mm": 0.001181448187890055
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_9_Y",
+      "bounds_error_mm": 0.0007233397876916569
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_10_X",
+      "bounds_error_mm": 0.001181448187890055
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_11_X",
+      "bounds_error_mm": 0.001181448187890055
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_12_X",
+      "bounds_error_mm": 0.001181448187890055
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_12_Y",
+      "bounds_error_mm": 0.0011886328697983117
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_13_X",
+      "bounds_error_mm": 0.001181448187890055
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_14_Y",
+      "bounds_error_mm": 0.0006991972072910357
+    },
+    {
+      "name": "NEW_C16_Preserved_Window_Jamb_Return_15_Y",
+      "bounds_error_mm": 0.0010453320900523976
+    },
+    {
+      "name": "NEW_C16_Oval_Platform_Two_True_Steps",
+      "bounds_error_mm": 0.0011223841858218008
+    },
+    {
+      "name": "NEW_C16_CAD_Rear_Left_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_Rear_Left_Chair_1",
+      "bounds_error_mm": 0.0013818781843838222
+    },
+    {
+      "name": "NEW_C16_CAD_Rear_Left_Chair_2",
+      "bounds_error_mm": 0.0013818781266309087
+    },
+    {
+      "name": "NEW_C16_CAD_Rear_Right_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_Rear_Right_Chair_1",
+      "bounds_error_mm": 0.0013818781843838222
+    },
+    {
+      "name": "NEW_C16_CAD_Rear_Right_Chair_2",
+      "bounds_error_mm": 0.0013818781266309087
+    },
+    {
+      "name": "NEW_C16_CAD_North_Pair_1_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_North_Pair_1_Chair_1",
+      "bounds_error_mm": 0.001381878161282657
+    },
+    {
+      "name": "NEW_C16_CAD_North_Pair_1_Chair_2",
+      "bounds_error_mm": 0.001381878161282657
+    },
+    {
+      "name": "NEW_C16_CAD_North_Pair_2_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_North_Pair_2_Chair_1",
+      "bounds_error_mm": 0.001381878161282657
+    },
+    {
+      "name": "NEW_C16_CAD_North_Pair_2_Chair_2",
+      "bounds_error_mm": 0.001381878161282657
+    },
+    {
+      "name": "NEW_C16_CAD_South_Pair_1_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_South_Pair_1_Chair_1",
+      "bounds_error_mm": 0.001381878178608531
+    },
+    {
+      "name": "NEW_C16_CAD_South_Pair_1_Chair_2",
+      "bounds_error_mm": 0.0013818781295185543
+    },
+    {
+      "name": "NEW_C16_CAD_South_Pair_2_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_South_Pair_2_Chair_1",
+      "bounds_error_mm": 0.001381878178608531
+    },
+    {
+      "name": "NEW_C16_CAD_South_Pair_2_Chair_2",
+      "bounds_error_mm": 0.0013818781295185543
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_1",
+      "bounds_error_mm": 0.0009751773273819707
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_1_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_1_Chair_1",
+      "bounds_error_mm": 0.0010518829344562163
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_1_Chair_2",
+      "bounds_error_mm": 0.00124525601509049
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_1_Chair_3",
+      "bounds_error_mm": 0.0010518829344562163
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_2",
+      "bounds_error_mm": 0.0009751773273819707
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_2_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_2_Chair_1",
+      "bounds_error_mm": 0.0010518829344562163
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_2_Chair_2",
+      "bounds_error_mm": 0.0012452560179781356
+    },
+    {
+      "name": "NEW_C16_CAD_Left_Banquette_2_Chair_3",
+      "bounds_error_mm": 0.0010518829344562163
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_1",
+      "bounds_error_mm": 0.0011438147030276014
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_1_Table",
+      "bounds_error_mm": 0.0011537739561845227
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_2",
+      "bounds_error_mm": 0.0011438147030276014
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_2_Table",
+      "bounds_error_mm": 0.0011537739561845227
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_3",
+      "bounds_error_mm": 0.0011438147376793494
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_3_Table",
+      "bounds_error_mm": 0.0011537739561845227
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_4",
+      "bounds_error_mm": 0.0011438147492299322
+    },
+    {
+      "name": "NEW_C16_CAD_Oval_Cloud_Sofa_4_Table",
+      "bounds_error_mm": 0.0011537739561845227
+    },
+    {
+      "name": "NEW_C16_CAD_Front_Left",
+      "bounds_error_mm": 0.0008105176259050494
+    },
+    {
+      "name": "NEW_C16_CAD_Front_Left_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_CAD_Front_Right",
+      "bounds_error_mm": 0.0008105175797027186
+    },
+    {
+      "name": "NEW_C16_CAD_Front_Right_Table",
+      "bounds_error_mm": 0.0011537739563650007
+    },
+    {
+      "name": "NEW_C16_Oval_Centre_Olive_Planter",
+      "bounds_error_mm": 0.001162384185022347
+    },
+    {
+      "name": "NEW_C16_Santorini_Reference_Reception",
+      "bounds_error_mm": 0.0007488214589102426
+    },
+    {
+      "name": "NEW_C16_Santorini_Arch_Backdrop",
+      "bounds_error_mm": 0.0011998509458862826
+    },
+    {
+      "name": "NEW_C16_Organic_Ceramic_Niche_Wall",
+      "bounds_error_mm": 0.001199851015189779
+    },
+    {
+      "name": "NEW_C16_Filled_Oak_Reference_Library",
+      "bounds_error_mm": 0.0011998509920886134
+    },
+    {
+      "name": "NEW_C16_Return_Coastal_Gallery_0",
+      "bounds_error_mm": 0.0010202779636529157
+    },
+    {
+      "name": "NEW_C16_Return_Coastal_Gallery_1",
+      "bounds_error_mm": 0.0010124098915184731
+    },
+    {
+      "name": "NEW_C16_Return_Coastal_Gallery_2",
+      "bounds_error_mm": 0.0010202779405517504
+    },
+    {
+      "name": "NEW_C16_Return_Coastal_Gallery_3",
+      "bounds_error_mm": 0.0010124098915184731
+    },
+    {
+      "name": "NEW_C16_Layered_Sea_Plaster_Mural",
+      "bounds_error_mm": 0.001199851015189779
+    },
+    {
+      "name": "NEW_C16_E2_Entry_-1",
+      "bounds_error_mm": 0.0011998509689874481
+    },
+    {
+      "name": "NEW_C16_E2_Entry_1",
+      "bounds_error_mm": 0.0011998509458862826
+    },
+    {
+      "name": "NEW_C16_E2_Entry_Return_Art_0",
+      "bounds_error_mm": 0.0006302522324403981
+    },
+    {
+      "name": "NEW_C16_E2_Entry_Return_Art_1",
+      "bounds_error_mm": 0.0006302522555415635
+    },
+    {
+      "name": "NEW_C16_Greek_Low_Ceramic_Bar",
+      "bounds_error_mm": 0.0012150958438724045
+    },
+    {
+      "name": "NEW_C16_Greek_Curved_Back_Bar_Stool_1",
+      "bounds_error_mm": 0.0008966893004384246
+    },
+    {
+      "name": "NEW_C16_Greek_Curved_Back_Bar_Stool_2",
+      "bounds_error_mm": 0.0008966893004384246
+    },
+    {
+      "name": "NEW_C16_Greek_Curved_Back_Bar_Stool_3",
+      "bounds_error_mm": 0.0008966893004384246
+    },
+    {
+      "name": "NEW_C16_Greek_Curved_Back_Bar_Stool_4",
+      "bounds_error_mm": 0.0008966893004384246
+    },
+    {
+      "name": "NEW_C16_Greek_Curved_Back_Bar_Stool_5",
+      "bounds_error_mm": 0.0008966893004384246
+    },
+    {
+      "name": "NEW_C16_Greek_Curved_Back_Bar_Stool_6",
+      "bounds_error_mm": 0.0008966893004384246
+    },
+    {
+      "name": "NEW_C16_Greek_Arched_Equipped_Back_Bar",
+      "bounds_error_mm": 0.0008990734865363947
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_1",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_2",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_3",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_4",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_5",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_6",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_7",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Greek_Opal_Disk_Pendant_8",
+      "bounds_error_mm": 0.0012238418577510402
+    },
+    {
+      "name": "NEW_C16_Mediterranean_Planted_Bed_1",
+      "bounds_error_mm": 0.0011655994034214245
+    },
+    {
+      "name": "NEW_C16_Mediterranean_Planted_Bed_2",
+      "bounds_error_mm": 0.001112734348862432
+    },
+    {
+      "name": "NEW_greek_Editable_Main_Floor",
+      "bounds_error_mm": 0.0011640722651463874
+    },
+    {
+      "name": "NEW_greek_Editable_Centre_Floor",
+      "bounds_error_mm": 0.004136933603149373
+    }
+  ]
+}

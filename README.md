@@ -1,3 +1,7 @@
+## الساحلي اليوناني — ملف SKP مباشر
+
+[تحميل موديل SketchUp](drawings/coastal-greek-native-skp/AYAA_HOTEL_GREEK_COASTAL.skp) · [التفاصيل والتحقق](drawings/coastal-greek-native-skp/README.md)
+
 ## اللوبي — الساحلي والبوهيمي B1، تحديث 1.5.0
 
 [تحميل التحديث الكامل](drawings/hotel-native-builder/Ayaa_Lobby_Components_v1_5_0.rbz) · [معاينة التصميمين PDF](drawings/hotel-selected-update-1-5/SELECTED_LOBBIES_PREVIEW.pdf) · [خطوات التشغيل والمراجعة](drawings/hotel-selected-update-1-5/README.md)

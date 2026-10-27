@@ -1,0 +1,36 @@
+{
+  "scope": "Coastal only; prior Bohemian models and payloads left untouched",
+  "furniture_geometry_topology_matches_to_prior_bohemian": [],
+  "new_furniture_components": 49,
+  "columns": {
+    "count": 22,
+    "style": "White Ionic",
+    "real_concave_flutes_per_shaft": 20,
+    "capitals": "Paired spiral volutes, connected echinus and abacus",
+    "source_column_positions_and_envelopes_preserved": true
+  },
+  "platform": {
+    "shape": "Ellipse",
+    "outer_radii_m": [
+      4.17,
+      4.4
+    ],
+    "top_radii_m": [
+      3.88,
+      4.1
+    ],
+    "two_step_top_levels_m": [
+      0.39,
+      0.56
+    ],
+    "main_floor_m": 0.224
+  },
+  "references_implemented": {
+    "entry": "E2 blue framed wainscot, white ceramic sconces, organic blue/white relief and photographic gallery",
+    "reception": "Santorini curved plaster counter, blue/white ceramic rosette swoosh, rounded arch, lattice and retained hotel name",
+    "seating": "Sculptural blue capsule sofas with round cushions; curved blue timber-wrap chairs; turned travertine pedestal tables",
+    "walls": "Organic illuminated niches with diverse pottery/sculpture; filled oak joinery; large layered plaster-wave relief; framed Greek photography"
+  },
+  "image_materials_embedded_and_verified": 10,
+  "native_SketchUp_Desktop_tested": false
+}

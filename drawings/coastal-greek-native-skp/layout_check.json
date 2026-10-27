@@ -1,0 +1,16 @@
+{
+  "style": "greek",
+  "collisions": [],
+  "blocked_openings": [],
+  "column_intersections": [],
+  "outside_supported_floor": [],
+  "main_route_1m_clear": {
+    "entry": true,
+    "reception": true,
+    "bar": true,
+    "west": true,
+    "rear_cross": true
+  },
+  "seats": 42,
+  "furniture_components": 49
+}
