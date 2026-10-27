@@ -1,0 +1,274 @@
+{
+  "scope": "one review option only",
+  "curves_refitted": 66,
+  "source_architecture_136_entities_not_refitted": true,
+  "fit_control_counts": [
+    {
+      "controls_in_periodic_fit": 80,
+      "max_displacement_drawing_units": 0.07547231558934409
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.04859857872877441
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.04269851586313865
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.05758064959528671
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.004961472245119275
+    },
+    {
+      "controls_in_periodic_fit": 64,
+      "max_displacement_drawing_units": 0.06562532490461374
+    },
+    {
+      "controls_in_periodic_fit": 28,
+      "max_displacement_drawing_units": 0.07704584768660243
+    },
+    {
+      "controls_in_periodic_fit": 16,
+      "max_displacement_drawing_units": 0.061610066715080375
+    },
+    {
+      "controls_in_periodic_fit": 24,
+      "max_displacement_drawing_units": 0.07626788966983397
+    },
+    {
+      "controls_in_periodic_fit": 16,
+      "max_displacement_drawing_units": 0.06919346787303053
+    },
+    {
+      "controls_in_periodic_fit": 48,
+      "max_displacement_drawing_units": 0.07302473994841185
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.05356966314069967
+    },
+    {
+      "controls_in_periodic_fit": 40,
+      "max_displacement_drawing_units": 0.06632781756622642
+    },
+    {
+      "controls_in_periodic_fit": 48,
+      "max_displacement_drawing_units": 0.07898575647182454
+    },
+    {
+      "controls_in_periodic_fit": 32,
+      "max_displacement_drawing_units": 0.07114466747545285
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.06707278661214225
+    },
+    {
+      "controls_in_periodic_fit": 64,
+      "max_displacement_drawing_units": 0.07370060982540266
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.007700355869935181
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.03485008382985651
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.07339352196790086
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.05741729804138747
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.07772463470095071
+    },
+    {
+      "controls_in_periodic_fit": 28,
+      "max_displacement_drawing_units": 0.0762277002457765
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.007123222452990794
+    },
+    {
+      "controls_in_periodic_fit": 32,
+      "max_displacement_drawing_units": 0.07385390216986873
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.07864204710995673
+    },
+    {
+      "controls_in_periodic_fit": 16,
+      "max_displacement_drawing_units": 0.07765510692578019
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.05862895032259637
+    },
+    {
+      "controls_in_periodic_fit": 40,
+      "max_displacement_drawing_units": 0.06575519365010088
+    },
+    {
+      "controls_in_periodic_fit": 24,
+      "max_displacement_drawing_units": 0.07695907585415429
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.07511140305302437
+    },
+    {
+      "controls_in_periodic_fit": 32,
+      "max_displacement_drawing_units": 0.07879071016352233
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.03469325460766232
+    },
+    {
+      "controls_in_periodic_fit": 16,
+      "max_displacement_drawing_units": 0.07967777549590384
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.0060131552051713
+    },
+    {
+      "controls_in_periodic_fit": 28,
+      "max_displacement_drawing_units": 0.07271012581467108
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.06996040274693889
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.03575775458784135
+    },
+    {
+      "controls_in_periodic_fit": 128,
+      "max_displacement_drawing_units": 0.07587736272592582
+    },
+    {
+      "controls_in_periodic_fit": 64,
+      "max_displacement_drawing_units": 0.062274938013287096
+    },
+    {
+      "controls_in_periodic_fit": 48,
+      "max_displacement_drawing_units": 0.07763867448583293
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.07930246487871544
+    },
+    {
+      "controls_in_periodic_fit": 24,
+      "max_displacement_drawing_units": 0.0747193857462521
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.07923704087675444
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.006345324885054791
+    },
+    {
+      "controls_in_periodic_fit": 32,
+      "max_displacement_drawing_units": 0.07620405271553495
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.07830782701186143
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.04122607259162674
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.0111999667875146
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.07782308887613351
+    },
+    {
+      "controls_in_periodic_fit": 128,
+      "max_displacement_drawing_units": 0.06517811048707972
+    },
+    {
+      "controls_in_periodic_fit": 80,
+      "max_displacement_drawing_units": 0.06667509257326577
+    },
+    {
+      "controls_in_periodic_fit": 80,
+      "max_displacement_drawing_units": 0.060014540703102214
+    },
+    {
+      "controls_in_periodic_fit": 16,
+      "max_displacement_drawing_units": 0.0700759042502113
+    },
+    {
+      "controls_in_periodic_fit": 12,
+      "max_displacement_drawing_units": 0.07997572083537469
+    },
+    {
+      "controls_in_periodic_fit": 8,
+      "max_displacement_drawing_units": 0.043372730684488804
+    },
+    {
+      "controls_in_periodic_fit": 28,
+      "max_displacement_drawing_units": 0.07709095344062317
+    },
+    {
+      "controls_in_periodic_fit": 32,
+      "max_displacement_drawing_units": 0.0727221040535525
+    },
+    {
+      "controls_in_periodic_fit": 32,
+      "max_displacement_drawing_units": 0.06493477130596914
+    },
+    {
+      "controls_in_periodic_fit": 48,
+      "max_displacement_drawing_units": 0.06146253038389479
+    },
+    {
+      "controls_in_periodic_fit": 16,
+      "max_displacement_drawing_units": 0.07067273648013167
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.0753286910217021
+    },
+    {
+      "controls_in_periodic_fit": 40,
+      "max_displacement_drawing_units": 0.07031511042576798
+    },
+    {
+      "controls_in_periodic_fit": 28,
+      "max_displacement_drawing_units": 0.07682634139211336
+    },
+    {
+      "controls_in_periodic_fit": 28,
+      "max_displacement_drawing_units": 0.0685155312624849
+    },
+    {
+      "controls_in_periodic_fit": 20,
+      "max_displacement_drawing_units": 0.07240328355411758
+    }
+  ],
+  "native_application_tested": false,
+  "new_contours_closed_and_simple": true,
+  "crossing_curve_pairs": 0
+}
