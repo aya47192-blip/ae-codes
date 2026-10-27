@@ -1,4 +1,10 @@
-## الساحلي اليوناني — ملف SKP مباشر
+## الساحلي — الإكستنشن الجديد 1.6.1
+
+[تحميل RBZ: نفس التصميم المعتمد مع إضافات الزرع والإكسسوارات](drawings/coastal-correct-plan-extension/Ayaa_Coastal_Same_Design_v1_6_1.rbz) · [خطوات التركيب والتحقق](drawings/coastal-correct-plan-extension/README.md)
+
+يبني الموديل داخل SketchUp من مصدر التصميم المعتمد، مع عرض بلان متوازٍ. احتُفظ بكل العناصر السابقة، وأُضيف زرع خارجي مختلط وكثيف، و٧ أصاري داخلية، و٥ إكسسوارات حائط بسيطة. استخدمي هذه الإضافة بدل الملف المباشر الذي ظهر عندك ملتويًا.
+
+## الساحلي اليوناني — ملف SKP مباشر سابق
 
 [تحميل موديل SketchUp](drawings/coastal-greek-native-skp/AYAA_HOTEL_GREEK_COASTAL.skp) · [التفاصيل والتحقق](drawings/coastal-greek-native-skp/README.md)
 

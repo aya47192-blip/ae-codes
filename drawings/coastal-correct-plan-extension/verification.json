@@ -1,0 +1,123 @@
+{
+  "version": "1.6.1",
+  "design": "Approved coastal design, additions only",
+  "build_method": "Native SketchUp geometry API from source transforms; no OpenSKP serialization, no DAE import",
+  "native_components": 208,
+  "complete_furniture_and_interior_planter_components": 56,
+  "source_mesh_contexts_preserved": true,
+  "custom_direct_SKP_writer_used": false,
+  "parallel_plan_and_3d_views_created_with_SketchUp_camera_API": true,
+  "optional_scene_failure_cannot_abort_model_build": true,
+  "legacy_refresh_compatibility_retained": true,
+  "exact_vertex_bounds_validation_tolerance_inches": 0.004,
+  "ruby_syntax_and_archive_crc_passed": true,
+  "all_geometry_and_texture_files_embedded": true,
+  "approved_source_design_freeze": {
+    "approved_source_objects_compared": 2662,
+    "deleted_approved_objects": [],
+    "changed_approved_object_geometry_transform_material_or_visibility": [],
+    "added_objects": 982,
+    "approved_coastal_design_preserved_exactly_in_source": true
+  },
+  "layout": {
+    "style": "greek",
+    "collisions": [],
+    "blocked_openings": [],
+    "column_intersections": [],
+    "outside_supported_floor": [],
+    "main_route_1m_clear": {
+      "entry": true,
+      "reception": true,
+      "bar": true,
+      "west": true,
+      "rear_cross": true
+    },
+    "seats": 42,
+    "furniture_components": 56
+  },
+  "added_planting_and_accessories": {
+    "original_object_names_retained": 2662,
+    "existing_approved_roots_retained": 139,
+    "added_interior_planters": [
+      {
+        "name": "NEW_C161_Interior_Reception_Left_Palm",
+        "x": 115.25,
+        "y": 21.55,
+        "species": "palm",
+        "approx_height_m": 1.45
+      },
+      {
+        "name": "NEW_C161_Interior_Reception_Right_Palm",
+        "x": 115.25,
+        "y": 27.35,
+        "species": "palm",
+        "approx_height_m": 1.45
+      },
+      {
+        "name": "NEW_C161_Interior_Library_Ficus",
+        "x": 116.12,
+        "y": 30.25,
+        "species": "ficus",
+        "approx_height_m": 1.25
+      },
+      {
+        "name": "NEW_C161_Interior_Entry_Left_Sansevieria",
+        "x": 99.5,
+        "y": 18.7,
+        "species": "sansevieria",
+        "approx_height_m": 0.83
+      },
+      {
+        "name": "NEW_C161_Interior_Entry_Right_Sansevieria",
+        "x": 110.7,
+        "y": 18.7,
+        "species": "sansevieria",
+        "approx_height_m": 0.83
+      },
+      {
+        "name": "NEW_C161_Interior_West_ZZ_Plant",
+        "x": 94.55,
+        "y": 24.1,
+        "species": "zz",
+        "approx_height_m": 0.92
+      },
+      {
+        "name": "NEW_C161_Interior_Rear_Olive_Pot",
+        "x": 99.0,
+        "y": 32.0,
+        "species": "olive",
+        "approx_height_m": 1.3
+      }
+    ],
+    "added_wall_accessories": [
+      "NEW_C161_Small_Ceramic_Wall_Pot",
+      "NEW_C161_Tiny_Back_Wall_Amphora",
+      "NEW_C161_Bar_Side_Ceramic_Plates",
+      "NEW_C161_Bar_Side_Minimal_Ledge",
+      "NEW_C161_Reception_Return_Olive_Relief"
+    ],
+    "exterior_species": {
+      "groundcover_rosettes": 1174,
+      "lavender_clumps": 28,
+      "agave_rosettes": 8,
+      "feather_grass_clumps": 12,
+      "olive_trees": 4
+    },
+    "groundcover_coverage": [
+      {
+        "bed": 1,
+        "bed_area_m2": 35.70751006033606,
+        "actual_leaf_projection_coverage_fraction": 0.9931028273683118,
+        "existing_plants_retained": true
+      },
+      {
+        "bed": 2,
+        "bed_area_m2": 31.35973370882857,
+        "actual_leaf_projection_coverage_fraction": 0.9936607547846645,
+        "existing_plants_retained": true
+      }
+    ]
+  },
+  "SketchUp_Desktop_application_tested": false,
+  "sha256": "d38334b113e8aea6ea37f8c9059756a48c32928d536d0bc1ae9a83f75892cb2d"
+}
