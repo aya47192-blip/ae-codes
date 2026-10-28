@@ -1,0 +1,262 @@
+[
+  {
+    "id": "C01",
+    "title": "Aegean Amphora",
+    "style": "Coastal",
+    "description": "Large handled Greek amphora; cobalt meander and ivory ceramic.",
+    "dimensions_m": [
+      1.2,
+      0.96,
+      1.82
+    ],
+    "triangles": 7996,
+    "title_ar": "أمفورا يونانية كبيرة"
+  },
+  {
+    "id": "C02",
+    "title": "Scallop Fan",
+    "style": "Coastal",
+    "description": "Deeply ribbed scallop sculpture on an oval travertine base.",
+    "dimensions_m": [
+      2.331,
+      0.8,
+      1.525
+    ],
+    "triangles": 19816,
+    "title_ar": "منحوتة الصدفة المضلعة"
+  },
+  {
+    "id": "C03",
+    "title": "Nautilus Spiral",
+    "style": "Coastal",
+    "description": "Sculptural chambered shell with a broad opening and fine radial ribs.",
+    "dimensions_m": [
+      1.821,
+      1.047,
+      1.922
+    ],
+    "triangles": 23624,
+    "title_ar": "منحوتة النوتيلوس"
+  },
+  {
+    "id": "C04",
+    "title": "Mediterranean Sails",
+    "style": "Coastal",
+    "description": "Two sculpted sail surfaces, oak mast and bronze trim; low stone boat base.",
+    "dimensions_m": [
+      1.8,
+      0.68,
+      2.428
+    ],
+    "triangles": 6848,
+    "title_ar": "أشرعة البحر المتوسط"
+  },
+  {
+    "id": "C05",
+    "title": "Aegean Wave Duet",
+    "style": "Coastal",
+    "description": "Two flowing ceramic waves; broad, low sculptural centerpiece.",
+    "dimensions_m": [
+      2.08,
+      0.86,
+      1.365
+    ],
+    "triangles": 2244,
+    "title_ar": "ثنائية الموج"
+  },
+  {
+    "id": "C06",
+    "title": "White Coral Tree",
+    "style": "Coastal",
+    "description": "Abstract branching coral in white stone, sculpted in three dimensions.",
+    "dimensions_m": [
+      1.767,
+      0.96,
+      1.853
+    ],
+    "triangles": 8412,
+    "title_ar": "منحوتة المرجان الأبيض"
+  },
+  {
+    "id": "C07",
+    "title": "Olive in Fluted Ceramic",
+    "style": "Coastal",
+    "description": "Cultivated multibranch olive in a large blue fluted ceramic pot.",
+    "dimensions_m": [
+      1.03,
+      1.102,
+      2.351
+    ],
+    "triangles": 6260,
+    "title_ar": "زيتون في أصيص خزفي مضلع"
+  },
+  {
+    "id": "C08",
+    "title": "Shore Pebble Balance",
+    "style": "Coastal",
+    "description": "Balanced, softly irregular beach stones with a small bronze pebble.",
+    "dimensions_m": [
+      1.386,
+      0.96,
+      1.768
+    ],
+    "triangles": 6460,
+    "title_ar": "توازن حصى الشاطئ"
+  },
+  {
+    "id": "C09",
+    "title": "Stone Aperture and Orb",
+    "style": "Coastal",
+    "description": "Thick elliptical stone aperture with a suspended bronze orb.",
+    "dimensions_m": [
+      1.4,
+      0.78,
+      1.835
+    ],
+    "triangles": 3732,
+    "title_ar": "حلقة حجرية وكرة برونز"
+  },
+  {
+    "id": "C10",
+    "title": "Coastal Bird Pair",
+    "style": "Coastal",
+    "description": "Two abstract long necked coastal birds in satin bronze on river stone.",
+    "dimensions_m": [
+      1.56,
+      0.82,
+      2.031
+    ],
+    "triangles": 11216,
+    "title_ar": "ثنائي طيور الساحل"
+  },
+  {
+    "id": "B01",
+    "title": "Monumental Clay Loop",
+    "style": "Bohemian",
+    "description": "Oversized continuous earthenware loop with open center and grounded feet.",
+    "dimensions_m": [
+      1.48,
+      0.84,
+      1.89
+    ],
+    "triangles": 3088,
+    "title_ar": "حلقة فخارية عضوية"
+  },
+  {
+    "id": "B02",
+    "title": "Carved Timber Totem",
+    "style": "Bohemian",
+    "description": "Architectural timber totem; turned forms and a pierced central ring.",
+    "dimensions_m": [
+      0.96,
+      0.8,
+      2.31
+    ],
+    "triangles": 7040,
+    "title_ar": "توتِم خشب منحوت"
+  },
+  {
+    "id": "B03",
+    "title": "Sun Medallion",
+    "style": "Bohemian",
+    "description": "Large hammered sun medallion in warm bronze with a sculpted radial edge.",
+    "dimensions_m": [
+      1.36,
+      0.78,
+      1.98
+    ],
+    "triangles": 17844,
+    "title_ar": "قرص الشمس المعدني"
+  },
+  {
+    "id": "B04",
+    "title": "Woven Palm Planter",
+    "style": "Bohemian",
+    "description": "Handwoven oversized basket with dense feather palm and actual basket weave.",
+    "dimensions_m": [
+      1.341,
+      1.62,
+      2.407
+    ],
+    "triangles": 147656,
+    "title_ar": "نخيل في سلة منسوجة"
+  },
+  {
+    "id": "B05",
+    "title": "Earthen Vessel Trio",
+    "style": "Bohemian",
+    "description": "Three large textured vessels, hand rolled rims and a dried pampas arrangement.",
+    "dimensions_m": [
+      1.39,
+      1.02,
+      2.043
+    ],
+    "triangles": 26628,
+    "title_ar": "مجموعة أوانٍ فخارية وبامباس"
+  },
+  {
+    "id": "B06",
+    "title": "Asymmetric Earth Portal",
+    "style": "Bohemian",
+    "description": "Freestanding sculptural clay arch, asymmetric limbs and deep rounded section.",
+    "dimensions_m": [
+      1.62,
+      0.76,
+      1.99
+    ],
+    "triangles": 2464,
+    "title_ar": "قوس طيني مجسم"
+  },
+  {
+    "id": "B07",
+    "title": "Palm Fan Triptych",
+    "style": "Bohemian",
+    "description": "Three oversized carved palm fans on slim timber stems, grouped as one piece.",
+    "dimensions_m": [
+      1.904,
+      0.76,
+      2.13
+    ],
+    "triangles": 2936,
+    "title_ar": "ثلاث مراوح نخيل"
+  },
+  {
+    "id": "B08",
+    "title": "River Stone Totem",
+    "style": "Bohemian",
+    "description": "Five hand balanced river forms with warm earth and charcoal mineral finishes.",
+    "dimensions_m": [
+      1.22,
+      0.84,
+      2.158
+    ],
+    "triangles": 7980,
+    "title_ar": "توتِم أحجار نهرية"
+  },
+  {
+    "id": "B09",
+    "title": "Earthen Halo Vessels",
+    "style": "Bohemian",
+    "description": "Two interlocking hollow ceramic halo vessels with open mouths and wide feet.",
+    "dimensions_m": [
+      1.68,
+      0.8,
+      1.67
+    ],
+    "triangles": 6532,
+    "title_ar": "ثنائي أوانٍ حلقية"
+  },
+  {
+    "id": "B10",
+    "title": "Carved Timber Lotus",
+    "style": "Bohemian",
+    "description": "Monumental carved timber flower with layered petals and a central bronze seed.",
+    "dimensions_m": [
+      1.56,
+      1.458,
+      1.466
+    ],
+    "triangles": 21704,
+    "title_ar": "لوتس خشب منحوت"
+  }
+]

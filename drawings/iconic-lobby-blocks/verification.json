@@ -1,0 +1,206 @@
+{
+  "version": "1.0.0",
+  "components": 20,
+  "coastal": 10,
+  "bohemian": 10,
+  "complete_arrangements_are_single_components": true,
+  "definition_units": "true-size inches; interactive native placement supported",
+  "ruby_syntax": "passed",
+  "archive_crc": "passed",
+  "sha256": "ed459d238e39f93b1e0f1db99fb23dc60b84ff3784cd90d3e4f438d837310d78",
+  "bytes": 10747436,
+  "SketchUp_Desktop_application_tested": false,
+  "geometry": {
+    "components": 20,
+    "points_checked": 281548,
+    "nondegenerate_triangles": 340480,
+    "all_face_indices_valid": true,
+    "all_parts_grounded_at_insertion_plane": true,
+    "true_size_definition_transform_check": true,
+    "maximum_bounds_error_inches": 1.4210854715202004e-14,
+    "four_metre_gallery_cells_do_not_overlap": true,
+    "dimensions": [
+      {
+        "id": "C01",
+        "dimensions_m": [
+          1.2,
+          0.96,
+          1.82
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C02",
+        "dimensions_m": [
+          2.331,
+          0.8,
+          1.525
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C03",
+        "dimensions_m": [
+          1.821,
+          1.047,
+          1.922
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C04",
+        "dimensions_m": [
+          1.8,
+          0.68,
+          2.428
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C05",
+        "dimensions_m": [
+          2.08,
+          0.86,
+          1.365
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C06",
+        "dimensions_m": [
+          1.767,
+          0.96,
+          1.853
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C07",
+        "dimensions_m": [
+          1.03,
+          1.102,
+          2.351
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C08",
+        "dimensions_m": [
+          1.386,
+          0.96,
+          1.768
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C09",
+        "dimensions_m": [
+          1.4,
+          0.78,
+          1.835
+        ],
+        "grounded": true
+      },
+      {
+        "id": "C10",
+        "dimensions_m": [
+          1.56,
+          0.82,
+          2.031
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B01",
+        "dimensions_m": [
+          1.48,
+          0.84,
+          1.89
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B02",
+        "dimensions_m": [
+          0.96,
+          0.8,
+          2.31
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B03",
+        "dimensions_m": [
+          1.36,
+          0.78,
+          1.98
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B04",
+        "dimensions_m": [
+          1.341,
+          1.62,
+          2.407
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B05",
+        "dimensions_m": [
+          1.39,
+          1.02,
+          2.043
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B06",
+        "dimensions_m": [
+          1.62,
+          0.76,
+          1.99
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B07",
+        "dimensions_m": [
+          1.904,
+          0.76,
+          2.13
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B08",
+        "dimensions_m": [
+          1.22,
+          0.84,
+          2.158
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B09",
+        "dimensions_m": [
+          1.68,
+          0.8,
+          1.67
+        ],
+        "grounded": true
+      },
+      {
+        "id": "B10",
+        "dimensions_m": [
+          1.56,
+          1.458,
+          1.466
+        ],
+        "grounded": true
+      }
+    ],
+    "SketchUp_Desktop_application_tested": false
+  }
+}

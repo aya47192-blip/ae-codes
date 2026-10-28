@@ -1,3 +1,9 @@
+## مكتبة قطع السنتر بييس — ٢٠ بلوك كبير مستقل
+
+[تحميل الإكستنشن: ١٠ ساحلي + ١٠ بوهيمي](drawings/iconic-lobby-blocks/Ayaa_Iconic_Coastal_Bohemian_20_Blocks_v1_0.rbz) · [المحتويات والأبعاد وطريقة الاستخدام](drawings/iconic-lobby-blocks/README.md)
+
+كتالوج داخل SketchUp بمعاينات القطع، وإدراج قطعة منفردة أو عرض العشرين معًا. كل منحوتة أو مجموعة أصاري Component كامل، بحجم أرضي حقيقي، وتُضاف دون تغيير اللوبي الموجود.
+
 ## الساحلي — الإكستنشن الجديد 1.6.1
 
 [تحميل RBZ: نفس التصميم المعتمد مع إضافات الزرع والإكسسوارات](drawings/coastal-correct-plan-extension/Ayaa_Coastal_Same_Design_v1_6_1.rbz) · [خطوات التركيب والتحقق](drawings/coastal-correct-plan-extension/README.md)
