@@ -1,3 +1,9 @@
+## الساحلي 1.6.2 — أرضية سادة وسجاد مستقل
+
+[تحميل التعديل](drawings/coastal-plain-floor-1-6-2/Ayaa_Coastal_Plain_Floor_Separate_Rugs_v1_6_2.rbz) · [التشغيل والتغييرات والتحقق](drawings/coastal-plain-floor-1-6-2/README.md)
+
+أرضية رئيسية سادة ومتصلة تحت ثلاث قطع سجاد مستقلة، مع تثبيت الأباليك والديكورات وضبط استناد إكسسوارات الأرفف. السنتر البيضاوي والفرش والزرع محفوظة. البناء في ملف جديد باسم جديد.
+
 ## مكتبة قطع السنتر بييس — ٢٠ بلوك كبير مستقل
 
 [تحميل الإكستنشن: ١٠ ساحلي + ١٠ بوهيمي](drawings/iconic-lobby-blocks/Ayaa_Iconic_Coastal_Bohemian_20_Blocks_v1_0.rbz) · [المحتويات والأبعاد وطريقة الاستخدام](drawings/iconic-lobby-blocks/README.md)

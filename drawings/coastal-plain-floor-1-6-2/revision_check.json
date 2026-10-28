@@ -1,0 +1,21 @@
+{
+  "untouched_nonrevision_objects_checked": 3199,
+  "untouched_nonrevision_objects_unchanged": true,
+  "unexpected_changes": [],
+  "removed_objects": [
+    "C16_Floor_Blue_Curving_Inlay",
+    "C16_Floor_Field",
+    "C16_Floor_Quiet_Stone_Islands",
+    "NEW_greek_Floor_Blue_Curving_Inlay",
+    "NEW_greek_Floor_Field",
+    "NEW_greek_Floor_Quiet_Stone_Islands"
+  ],
+  "only_removed_objects_are_replaced_main_floor_regions": true,
+  "original_architecture_unchanged": true,
+  "columns_and_planting_unchanged": true,
+  "centre_floor_and_platform_unchanged": true,
+  "furniture_shapes_materials_xy_and_orientation_unchanged": true,
+  "furniture_on_rugs_lifted_by_rug_thickness_only": true,
+  "checked_structural_and_plant_objects": 2565,
+  "independent_rugs": 3
+}

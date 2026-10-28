@@ -1,0 +1,487 @@
+{
+  "plain_floor": {
+    "area_m2": 583.9988588430556,
+    "one_material": "C162_Plain_Uniform_Main_Floor",
+    "image_texture": false,
+    "decorative_patterns": false,
+    "continues_under_rugs": true,
+    "centre_finish_untouched": true
+  },
+  "independent_rugs": [
+    {
+      "name": "NEW_C162_Separate_Ivory_Rug_1",
+      "area_m2": 9.229689596957787,
+      "bottom_m": 0.224,
+      "top_m": 0.23,
+      "original_outline_preserved": true,
+      "own_component": true
+    },
+    {
+      "name": "NEW_C162_Separate_Ivory_Rug_2",
+      "area_m2": 32.130787153732285,
+      "bottom_m": 0.224,
+      "top_m": 0.23,
+      "original_outline_preserved": true,
+      "own_component": true
+    },
+    {
+      "name": "NEW_C162_Separate_Ivory_Rug_3",
+      "area_m2": 9.229689596957787,
+      "bottom_m": 0.224,
+      "top_m": 0.23,
+      "original_outline_preserved": true,
+      "own_component": true
+    }
+  ],
+  "wall_mounts": [
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_1",
+      "translation_along_wall_normal_m": -0.091496337890625,
+      "support": "C16_Large_Rounded_Reception_Arch",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_2",
+      "translation_along_wall_normal_m": -0.091496337890625,
+      "support": "C16_Large_Rounded_Reception_Arch",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_3",
+      "translation_along_wall_normal_m": 0.06850732421875,
+      "support": "C16_Actual_Organic_Niche_Openings",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_4",
+      "translation_along_wall_normal_m": 0.06850732421875,
+      "support": "C16_Actual_Organic_Niche_Openings",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_5",
+      "translation_along_wall_normal_m": -0.146489013671875,
+      "support": "C16_Textured_Plasters.002",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_6",
+      "translation_along_wall_normal_m": -0.146489013671875,
+      "support": "C16_Textured_Plasters.002",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_7",
+      "translation_along_wall_normal_m": 0.26849664306640625,
+      "support": "C16_Arched_Back_Bar_Frame",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_8",
+      "translation_along_wall_normal_m": 0.2684928283691406,
+      "support": "C16_Arched_Back_Bar_Frame.002",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_9",
+      "translation_along_wall_normal_m": -0.03165899658203125,
+      "support": "SRC_0111_ID32989",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_10",
+      "translation_along_wall_normal_m": -0.1664932861328125,
+      "support": "C16_Textured_Plasters.003",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_11",
+      "translation_along_wall_normal_m": -0.1664932861328125,
+      "support": "C16_Textured_Plasters.003",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_12",
+      "translation_along_wall_normal_m": -0.1664932861328125,
+      "support": "C16_Textured_Plasters.004",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_13",
+      "translation_along_wall_normal_m": -0.1664932861328125,
+      "support": "C16_Textured_Plasters.004",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_14",
+      "translation_along_wall_normal_m": -0.35625826263427735,
+      "support": "SRC_0040_ID32444",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_SELECTED_greek_Uniform_Wall_Sconce_15",
+      "translation_along_wall_normal_m": -0.35625730895996094,
+      "support": "SRC_0040_ID32444",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_Return_Coastal_Gallery_0",
+      "translation_along_wall_normal_m": -0.103764404296875,
+      "support": "SRC_0011_ID32204",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_Return_Coastal_Gallery_1",
+      "translation_along_wall_normal_m": -0.034241546630859376,
+      "support": "SRC_0011_ID32204",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_Return_Coastal_Gallery_2",
+      "translation_along_wall_normal_m": 0.1462527618408203,
+      "support": "SRC_0011_ID32204",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_Return_Coastal_Gallery_3",
+      "translation_along_wall_normal_m": 0.14575875854492187,
+      "support": "SRC_0011_ID32204",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_Layered_Sea_Plaster_Mural",
+      "translation_along_wall_normal_m": 0.06825173950195312,
+      "support": "SRC_0011_ID32204",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_E2_Entry_Return_Art_0",
+      "translation_along_wall_normal_m": -0.43375765228271485,
+      "support": "SRC_0040_ID32444",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C16_E2_Entry_Return_Art_1",
+      "translation_along_wall_normal_m": -0.43375765228271485,
+      "support": "SRC_0040_ID32444",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C161_Small_Ceramic_Wall_Pot",
+      "translation_along_wall_normal_m": 0.0355025634765625,
+      "support": "RICH_Plain_Limewash_Wall_Surface.002",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C161_Tiny_Back_Wall_Amphora",
+      "translation_along_wall_normal_m": 0.0355025634765625,
+      "support": "RICH_Plain_Limewash_Wall_Surface.003",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C161_Bar_Side_Ceramic_Plates",
+      "translation_along_wall_normal_m": -0.29375921630859375,
+      "support": "SRC_0097_ID32885",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C161_Bar_Side_Minimal_Ledge",
+      "translation_along_wall_normal_m": -0.27625738525390625,
+      "support": "SRC_0096_ID32877",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    },
+    {
+      "root": "NEW_C161_Reception_Return_Olive_Relief",
+      "translation_along_wall_normal_m": -0.00674139404296875,
+      "support": "SRC_0011_ID32204",
+      "mount_contact_overlap_m": 0.0015,
+      "same_shape_and_style": true
+    }
+  ],
+  "internal_mount_fixes": [
+    "Santorini amphora relief attached to signature field",
+    "NEW_C16_Layered_Sea_Plaster_Mural relief backs joined to base",
+    "NEW_C16_E2_Entry_-1 framed art and ceramic backs attached to plaster",
+    "NEW_C16_E2_Entry_1 framed art and ceramic backs attached to plaster",
+    {
+      "object": "C16_Handcrafted_Loop_Sculpture",
+      "shelf_contact_adjustment_m": -0.01286594247817996,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Handcrafted_Loop_Sculpture.001",
+      "shelf_contact_adjustment_m": -0.016809445381164467,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form",
+      "shelf_contact_adjustment_m": -0.016379755496978787,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.001",
+      "shelf_contact_adjustment_m": -0.014032345771789467,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.002",
+      "shelf_contact_adjustment_m": -0.013441663742065568,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.003",
+      "shelf_contact_adjustment_m": -0.015397172927856584,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book",
+      "shelf_contact_adjustment_m": -0.06725005483627322,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.001",
+      "shelf_contact_adjustment_m": -0.05225006914138797,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.002",
+      "shelf_contact_adjustment_m": -0.03725002384185794,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.003",
+      "shelf_contact_adjustment_m": -0.022250038146972684,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.004",
+      "shelf_contact_adjustment_m": -0.06724999523162833,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.005",
+      "shelf_contact_adjustment_m": -0.05225000953674308,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.006",
+      "shelf_contact_adjustment_m": -0.03725002384185783,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.007",
+      "shelf_contact_adjustment_m": -0.022250038146972573,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.008",
+      "shelf_contact_adjustment_m": -0.067249876022339,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.009",
+      "shelf_contact_adjustment_m": -0.0522500095367433,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.010",
+      "shelf_contact_adjustment_m": -0.0372499046325685,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Art_Library_Book.011",
+      "shelf_contact_adjustment_m": -0.022250038146972795,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "C16_Handcrafted_Loop_Sculpture.002",
+      "shelf_contact_adjustment_m": -0.027399879455566323,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.004",
+      "shelf_contact_adjustment_m": -0.01724998331069949,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.005",
+      "shelf_contact_adjustment_m": -0.01724998331069949,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.006",
+      "shelf_contact_adjustment_m": -0.01724998331069949,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.007",
+      "shelf_contact_adjustment_m": -0.017249923706054604,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.008",
+      "shelf_contact_adjustment_m": -0.017249923706054826,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.009",
+      "shelf_contact_adjustment_m": -0.017249923706054826,
+      "handles_moved_with_body": 0
+    },
+    {
+      "object": "GC_C16_Handmade_Ceramic_Form.010",
+      "shelf_contact_adjustment_m": -0.017249923706054826,
+      "handles_moved_with_body": 0
+    }
+  ],
+  "ceiling_mounts": [
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_1",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_2",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_3",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_4",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_5",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_6",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_7",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    },
+    {
+      "root": "NEW_C16_Greek_Opal_Disk_Pendant_8",
+      "canopy_z_m": 3.719999885559082,
+      "disk_cable_ring_connected": true
+    }
+  ],
+  "furniture_support_adjustments": [
+    {
+      "root": "NEW_C16_CAD_Rear_Left_Table",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Rear_Left_Chair_1",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Rear_Left_Chair_2",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Rear_Right_Table",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Rear_Right_Chair_1",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Rear_Right_Chair_2",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_1",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_1_Table",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_1_Chair_1",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_1_Chair_2",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_1_Chair_3",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_2",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_2_Table",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_2_Chair_1",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_2_Chair_2",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    },
+    {
+      "root": "NEW_C16_CAD_Left_Banquette_2_Chair_3",
+      "lift_m": 0.006,
+      "reason": "all feet on 6mm rug"
+    }
+  ]
+}

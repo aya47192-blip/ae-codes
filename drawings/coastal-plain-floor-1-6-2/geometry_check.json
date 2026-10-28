@@ -1,0 +1,12 @@
+{
+  "components": 211,
+  "valid_triangles": 572531,
+  "all_faces_nondegenerate": true,
+  "all_face_indices_valid": true,
+  "maximum_transform_bounds_error_inches": 1.8189894035458565e-12,
+  "floor_areas_verified": true,
+  "main_floor_material_count": 1,
+  "main_floor_has_no_texture_or_pattern": true,
+  "independent_rug_components": 3,
+  "SketchUp_Desktop_tested": false
+}
