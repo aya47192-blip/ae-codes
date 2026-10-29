@@ -1,3 +1,9 @@
+## ٢٠ بديل ريسبشن للّوبي البوهيمي
+
+[تحميل مكتبة الكاونترات](drawings/bohemian-20-reception-counters/Ayaa_Bohemian_20_Lobby_Reception_Counters_v1_0.rbz) · [المقاسات والاستخدام وحفظ SKP](drawings/bohemian-20-reception-counters/README.md)
+
+٢٠ كاونتر مستقل بتفاصيل مجسمة، بخامات آخر لوبي بوهيمي B1. كتالوج داخل SketchUp، وإدراج بديل منفرد، أو بناء المجموعة في ملف جديد وحفظها SKP من داخل التطبيق.
+
 ## الساحلي 1.6.2 — أرضية سادة وسجاد مستقل
 
 [تحميل التعديل](drawings/coastal-plain-floor-1-6-2/Ayaa_Coastal_Plain_Floor_Separate_Rugs_v1_6_2.rbz) · [التشغيل والتغييرات والتحقق](drawings/coastal-plain-floor-1-6-2/README.md)

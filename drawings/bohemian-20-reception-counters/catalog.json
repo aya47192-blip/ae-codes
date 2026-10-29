@@ -1,0 +1,302 @@
+[
+  {
+    "id": "BK01",
+    "title": "Arched Cane Capsule",
+    "title_ar": "كبسولة خشب بأقواس خوص",
+    "dimensions_m": [
+      3.628,
+      1.118,
+      1.112
+    ],
+    "footprint": "capsule",
+    "motif": "arches",
+    "triangles": 14528,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK02",
+    "title": "Overlapping Medallion Crescent",
+    "title_ar": "هلال بميداليات متداخلة",
+    "dimensions_m": [
+      3.707,
+      1.054,
+      1.112
+    ],
+    "footprint": "concave",
+    "motif": "circles",
+    "triangles": 51892,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK03",
+    "title": "Herringbone Curved Oak",
+    "title_ar": "خشب متعرج بأطراف مستديرة",
+    "dimensions_m": [
+      3.709,
+      1.149,
+      1.112
+    ],
+    "footprint": "capsule",
+    "motif": "herringbone",
+    "triangles": 19584,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK04",
+    "title": "Terracotta Convex Counter",
+    "title_ar": "واجهة خزف محدبة",
+    "dimensions_m": [
+      3.366,
+      1.3,
+      1.112
+    ],
+    "footprint": "convex",
+    "motif": "terracotta",
+    "triangles": 15116,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK05",
+    "title": "Organic Niche Reception",
+    "title_ar": "ريسبشن بنيشات خزف",
+    "dimensions_m": [
+      3.774,
+      1.281,
+      1.112
+    ],
+    "footprint": "faceted",
+    "motif": "niches",
+    "triangles": 24144,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK06",
+    "title": "Carved Sun Portal",
+    "title_ar": "ريسبشن شمس منحوتة",
+    "dimensions_m": [
+      3.45,
+      1.061,
+      1.112
+    ],
+    "footprint": "straight",
+    "motif": "sun",
+    "triangles": 30772,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK07",
+    "title": "Diamond Woven Crescent",
+    "title_ar": "هلال بنسيج خوص ماسي",
+    "dimensions_m": [
+      3.51,
+      1.055,
+      1.112
+    ],
+    "footprint": "concave",
+    "motif": "diamond",
+    "triangles": 25828,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK08",
+    "title": "Stepped Accessible Earth",
+    "title_ar": "كتل طينية مع جزء منخفض",
+    "dimensions_m": [
+      3.675,
+      1.109,
+      1.112
+    ],
+    "footprint": "stepped",
+    "motif": "claypatch",
+    "triangles": 64436,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK09",
+    "title": "Chevron Faceted Reception",
+    "title_ar": "كاونتر مضلع بتطعيم متعرج",
+    "dimensions_m": [
+      3.575,
+      1.155,
+      1.112
+    ],
+    "footprint": "faceted",
+    "motif": "chevron",
+    "triangles": 12768,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK10",
+    "title": "Arched Cane L Reception",
+    "title_ar": "كاونتر حرف L بأقواس",
+    "dimensions_m": [
+      3.457,
+      1.997,
+      1.112
+    ],
+    "footprint": "L",
+    "motif": "arches",
+    "triangles": 13224,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK11",
+    "title": "Scalloped Turned Timber",
+    "title_ar": "واجهة متموجة بخشب مخروطة",
+    "dimensions_m": [
+      3.574,
+      1.223,
+      1.112
+    ],
+    "footprint": "scallop",
+    "motif": "flutes",
+    "triangles": 25400,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK12",
+    "title": "Handmade Olive Tile Counter",
+    "title_ar": "سيراميك زيتوني بارز",
+    "dimensions_m": [
+      3.3,
+      1.052,
+      1.112
+    ],
+    "footprint": "straight",
+    "motif": "tiles",
+    "triangles": 114420,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK13",
+    "title": "Woven Knot Wave",
+    "title_ar": "موجة بعقد حبال مجدولة",
+    "dimensions_m": [
+      3.685,
+      1.18,
+      1.112
+    ],
+    "footprint": "wave",
+    "motif": "rope",
+    "triangles": 28828,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK14",
+    "title": "Trefoil Plaster Facets",
+    "title_ar": "عقود ثلاثية من الجص والخوص",
+    "dimensions_m": [
+      3.625,
+      1.134,
+      1.112
+    ],
+    "footprint": "faceted",
+    "motif": "trefoil",
+    "triangles": 13968,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK15",
+    "title": "Palm Fan Curved Reception",
+    "title_ar": "واجهة محدبة بمراوح نخيل",
+    "dimensions_m": [
+      3.515,
+      1.29,
+      1.112
+    ],
+    "footprint": "convex",
+    "motif": "fan",
+    "triangles": 18664,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK16",
+    "title": "Earthen Patchwork Capsule",
+    "title_ar": "كبسولة بتطعيم فخار يدوي",
+    "dimensions_m": [
+      3.471,
+      1.123,
+      1.112
+    ],
+    "footprint": "capsule",
+    "motif": "claypatch",
+    "triangles": 86384,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK17",
+    "title": "Leather Laced Arc",
+    "title_ar": "قوس بخوص ورباط جلدي",
+    "dimensions_m": [
+      3.707,
+      1.054,
+      1.112
+    ],
+    "footprint": "concave",
+    "motif": "lacing",
+    "triangles": 27108,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK18",
+    "title": "Triple Woven Drum",
+    "title_ar": "ثلاث كتل دائرية من الخوص",
+    "dimensions_m": [
+      3.725,
+      1.393,
+      1.112
+    ],
+    "footprint": "barrels",
+    "motif": "cane",
+    "triangles": 35444,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK19",
+    "title": "Carved Faceted Diamonds",
+    "title_ar": "واجهة مكسرة بمعينات خشب",
+    "dimensions_m": [
+      3.823,
+      1.137,
+      1.112
+    ],
+    "footprint": "faceted",
+    "motif": "diamonds",
+    "triangles": 4556,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  },
+  {
+    "id": "BK20",
+    "title": "Grand Lotus Bohemian",
+    "title_ar": "ريسبشن بوهيمي بلوتس خشبي",
+    "dimensions_m": [
+      3.933,
+      1.167,
+      1.112
+    ],
+    "footprint": "wave",
+    "motif": "petals",
+    "triangles": 48836,
+    "staff_worktop_m": 0.765,
+    "guest_countertop_m": 1.112
+  }
+]

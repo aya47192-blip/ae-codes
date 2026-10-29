@@ -1,0 +1,252 @@
+{
+  "version": "1.0.0",
+  "purpose": "Lobby reception counters for selected Bohemian B1; not restaurant buffet or bar",
+  "components": 20,
+  "distinct_footprints": 10,
+  "distinct_crafted_front_motifs": 18,
+  "component_hierarchy": "Each complete counter is one independent true-size Component with editable internal parts",
+  "geometry_build_policy": "Native SketchUp API, nondegenerate planar triangles, no UV chart explode and no topology edge deletion",
+  "syntax_and_archive_crc": "passed",
+  "native_SKP_creation": "SketchUp Save As after building, not a direct experimental SKP binary writer",
+  "SketchUp_Desktop_build_and_save_tested": false,
+  "bytes": 11554705,
+  "sha256": "0e56543755b716b96cf0cd203b7d4f799c3bcc3c18928642486c48965f13b4d5",
+  "geometry": {
+    "components": 20,
+    "all_unique_footprint_and_motif_combinations": true,
+    "all_faces_nondegenerate": true,
+    "valid_triangles": 675900,
+    "points_checked": 725048,
+    "maximum_true_size_bounds_error_inches": 1.4210854715202004e-14,
+    "all_counters_grounded": true,
+    "guest_and_staff_top_levels_checked": true,
+    "gallery_cell_m": [
+      5.5,
+      4.0
+    ],
+    "gallery_cells_do_not_overlap": true,
+    "dimensions": [
+      {
+        "id": "BK01",
+        "dimensions_m": [
+          3.628,
+          1.118,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK02",
+        "dimensions_m": [
+          3.707,
+          1.054,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK03",
+        "dimensions_m": [
+          3.709,
+          1.149,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK04",
+        "dimensions_m": [
+          3.366,
+          1.3,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK05",
+        "dimensions_m": [
+          3.774,
+          1.281,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK06",
+        "dimensions_m": [
+          3.45,
+          1.061,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK07",
+        "dimensions_m": [
+          3.51,
+          1.055,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK08",
+        "dimensions_m": [
+          3.675,
+          1.109,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK09",
+        "dimensions_m": [
+          3.575,
+          1.155,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK10",
+        "dimensions_m": [
+          3.457,
+          1.997,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK11",
+        "dimensions_m": [
+          3.574,
+          1.223,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK12",
+        "dimensions_m": [
+          3.3,
+          1.052,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK13",
+        "dimensions_m": [
+          3.685,
+          1.18,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK14",
+        "dimensions_m": [
+          3.625,
+          1.134,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK15",
+        "dimensions_m": [
+          3.515,
+          1.29,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK16",
+        "dimensions_m": [
+          3.471,
+          1.123,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK17",
+        "dimensions_m": [
+          3.707,
+          1.054,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK18",
+        "dimensions_m": [
+          3.725,
+          1.393,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK19",
+        "dimensions_m": [
+          3.823,
+          1.137,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      },
+      {
+        "id": "BK20",
+        "dimensions_m": [
+          3.933,
+          1.167,
+          1.112
+        ],
+        "grounded": true,
+        "staff_worktop_m": 0.765,
+        "guest_top_m": 1.112
+      }
+    ],
+    "SketchUp_Desktop_build_and_save_tested": false
+  }
+}
