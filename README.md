@@ -1,3 +1,9 @@
+## المطعم الرئيسي — فرش بوهيمي كامل
+
+[تحميل المطعم المفروش](drawings/bohemian-main-restaurant/Ayaa_Main_Restaurant_Bohemian_Complete_Components_v1_0.rbz) · [التشغيل وحفظ SKP والتحقق](drawings/bohemian-main-restaurant/README.md)
+
+١٤٠ مقعدًا و٣٥ ترابيزة، مع جلسات بنش ووحدات خدمة واستقبال وديكور وإضاءة، وفق حدود المطعم الرئيسي في lobby aya elshamy 3.dwg وبخامات اللوبي البوهيمي B1. كل قطعة Component كامل مستقل. ممرات محجوزة بعرض ١٫٨ م، وفحص المسافات الفعلية بين مجموعات الجلوس.
+
 ## ٢٠ بديل ريسبشن للّوبي البوهيمي
 
 [تحميل مكتبة الكاونترات](drawings/bohemian-20-reception-counters/Ayaa_Bohemian_20_Lobby_Reception_Counters_v1_0.rbz) · [المقاسات والاستخدام وحفظ SKP](drawings/bohemian-20-reception-counters/README.md)
