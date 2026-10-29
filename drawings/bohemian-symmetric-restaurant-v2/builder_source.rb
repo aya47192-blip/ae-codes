@@ -37,7 +37,7 @@ module AyaaBohoSymRestaurantV200
       materials[row['id']] = m
     end
   end
-  
+
   # Curved surfaces retain their geometry with softened facet edges; sharp corners remain.
   # Hide coplanar/smooth facet edges without erasing topology or welding separate meshes.
   def self.clean_surface(entities, soften_cosine = 0.819152)
