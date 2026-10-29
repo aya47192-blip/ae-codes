@@ -1,0 +1,58 @@
+{
+  "seats": 310,
+  "tables": 37,
+  "gross_area_m2": 804.7497277258445,
+  "capacity_basis": "whole restaurant area, latest user instruction",
+  "gross_m2_per_seat": 2.5959668636317565,
+  "source_column_pieces": 38,
+  "source_doors": 4,
+  "source_window_spans": 9,
+  "complete_components": 530,
+  "definitions": 156,
+  "unique_wall_compositions": 29,
+  "nonrepeating_wall_compositions": true,
+  "unified_sconce_definition": true,
+  "L_banquettes": 4,
+  "perimeter_dining_benches": 6,
+  "individual_chairs": 272,
+  "bench_seats": 38,
+  "main_reserved_aisle_m": 1.8,
+  "secondary_row_aisle_min_actual_m": 1.0008991172254138,
+  "secondary_walking_connectivity_unreached": [],
+  "individual_chair_access_unreached": [],
+  "source_door_access": [
+    {
+      "id": "D0",
+      "distance_to_connected_walking_centres_m": 0.49499999999999833
+    },
+    {
+      "id": "D1",
+      "distance_to_connected_walking_centres_m": 0.4949999999999994
+    },
+    {
+      "id": "D2",
+      "distance_to_connected_walking_centres_m": 0.495
+    },
+    {
+      "id": "D3",
+      "distance_to_connected_walking_centres_m": 0.4949999999999999
+    }
+  ],
+  "main_mirror_max_footprint_error_m": 1.524854323952515e-06,
+  "bad_geometry": {},
+  "valid_unique_definition_triangles": 278088,
+  "maximum_bounds_error_inches": 1.1368683772161603e-13,
+  "SketchUp_Desktop_tested": false,
+  "height_assumptions_m": {
+    "ceiling": 3.6,
+    "sill": 0.85,
+    "window_head": 2.95
+  },
+  "original_extensions_modified": false,
+  "rbz_bytes": 5509250,
+  "rbz_sha256": "e3f70de93aa139b17050bf8d99acb713674779e07e246eea401124fbe6e0fd98",
+  "ruby_parse_and_archive_crc": "passed",
+  "new_extension_namespace": "AyaaBohoSymRestaurantV200",
+  "new_extension_folder": "ayaa_boho_symmetric_restaurant_v200",
+  "old_extension_artifacts_unchanged": true
+}

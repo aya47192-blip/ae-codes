@@ -1,3 +1,9 @@
+## المطعم البوهيمي — توزيع هندسي متماثل جديد V2
+
+[إكستنشن مستقل جديد](drawings/bohemian-symmetric-restaurant-v2/Ayaa_Symmetric_Bohemian_Restaurant_v2_0.rbz) · [DWG مطابق](drawings/bohemian-symmetric-restaurant-v2/Ayaa_Symmetric_Bohemian_Restaurant_v2.dwg) · [التشغيل والعدد والتحقق](drawings/bohemian-symmetric-restaurant-v2/README.md)
+
+٣١٠ مقاعد و٣٧ طاولة، أربع ركنيات L، و٢٩ تكوين حائط مختلفًا. تنظيم هندسي متماثل للقاعة الرئيسية، ممرات رئيسية ١٫٨ م وفرعية حوالي متر، مع فحص اتصال الحركة حول الأعمدة. حساب المساحة على كامل المطعم؛ العدد المعتمد أقل من الحد الحسابي ٤٥٩ للحفاظ على المرور. الإضافات السابقة محفوظة.
+
 ## المطعم البوهيمي — نفس التوزيع بصيغة أوتوكاد
 
 [تحميل DWG](drawings/bohemian-main-restaurant-autocad/Ayaa_Main_Restaurant_Bohemian_Same_Layout.dwg) · [DXF](drawings/bohemian-main-restaurant-autocad/Ayaa_Main_Restaurant_Bohemian_Same_Layout.dxf) · [التفاصيل والتحقق](drawings/bohemian-main-restaurant-autocad/README.md)
