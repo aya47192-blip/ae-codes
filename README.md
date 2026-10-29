@@ -1,3 +1,9 @@
+## المطعم البوهيمي — نفس التوزيع بصيغة أوتوكاد
+
+[تحميل DWG](drawings/bohemian-main-restaurant-autocad/Ayaa_Main_Restaurant_Bohemian_Same_Layout.dwg) · [DXF](drawings/bohemian-main-restaurant-autocad/Ayaa_Main_Restaurant_Bohemian_Same_Layout.dxf) · [التفاصيل والتحقق](drawings/bohemian-main-restaurant-autocad/README.md)
+
+نسخة 2D قابلة للتعديل، بنفس مواقع واتجاهات ومقاسات فرش نسخة SketchUp: ٣٥ ترابيزة و١٤٠ مقعدًا. كل قطعة بلوك كامل مستقل، مع العمارة وديكور الحوائط وطبقات منفصلة للإضاءة والممرات.
+
 ## المطعم الرئيسي — فرش بوهيمي كامل
 
 [تحميل المطعم المفروش](drawings/bohemian-main-restaurant/Ayaa_Main_Restaurant_Bohemian_Complete_Components_v1_0.rbz) · [التشغيل وحفظ SKP والتحقق](drawings/bohemian-main-restaurant/README.md)
