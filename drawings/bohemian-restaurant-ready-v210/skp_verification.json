@@ -1,0 +1,18 @@
+{
+  "file": "Ayaa_Bohemian_Restaurant_Ready_v210.skp",
+  "bytes": 88134083,
+  "sha256": "ea6fdaa7370cc71bb5db5ea7283833e8f6fdc80803a89654a1bb41a403043cad",
+  "format": "{17.0.1}",
+  "components": 540,
+  "definitions": 166,
+  "independent_floor_decor": 10,
+  "root_loose_faces": 0,
+  "maximum_world_geometry_bounds_error_mm": 0.0,
+  "all_transforms_match_source": true,
+  "all_root_instances_rigid_or_reflections": true,
+  "embedded_images_verified": 8,
+  "roof_hidden_only": true,
+  "saved_scenes": 3,
+  "initial_camera_fitted_to_restaurant": true,
+  "SketchUp_Desktop_tested": false
+}

@@ -1,3 +1,9 @@
+## المطعم البوهيمي — نسخة مراجعة 2.1 مع SKP وDWG
+
+[تحميل SketchUp](drawings/bohemian-restaurant-ready-v210/Ayaa_Restaurant_READY_SketchUp.zip) · [تحميل AutoCAD](drawings/bohemian-restaurant-ready-v210/Ayaa_Restaurant_READY_AutoCAD.zip) · [التفاصيل والتحقق](drawings/bohemian-restaurant-ready-v210/README.md)
+
+نفس تقسيمة الجلوس: ٣١٠ مقاعد و٣٧ طاولة. تثبيت واتجاهات ٥٥ وحدة حائط وإضاءة، و١٠ بلوكات زخارف أرضية مستقلة فوق الأرضية الأصلية السادة. ملف SKP مباشر مع إكستنشن بناء احتياطي، وDWG مطابق.
+
 ## مكتبة السجاد والديكور — ساحلي وبوهيمي معًا
 
 [تحميل الإكستنشن الجديد — 115 بلوك](drawings/coastal-bohemian-rugs-decor-115/Ayaa_115_Install_v101.zip) · [ملف SKP مباشر](drawings/coastal-bohemian-rugs-decor-115/Ayaa_115_Model_SKP.zip) · [الكتالوج والتشغيل والتحقق](drawings/coastal-bohemian-rugs-decor-115/README.md)
