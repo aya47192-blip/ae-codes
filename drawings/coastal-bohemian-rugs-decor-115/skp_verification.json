@@ -1,0 +1,21 @@
+{
+  "native_skp": "Ayaa_Coastal_Bohemian_Rugs_Decor_115_Blocks.skp",
+  "bytes": 75394661,
+  "sha256": "af4814516cfeb2a0aef0580c00150596a3ab3a8d0df68e90582bc45b964c9ab1",
+  "independent_components": 115,
+  "coastal_rugs": 25,
+  "coastal_decor": 50,
+  "bohemian_rugs": 20,
+  "bohemian_decor": 20,
+  "root_loose_faces": 0,
+  "parsed_version": "{17.0.1}",
+  "component_geometry_bounds_max_error_mm": 0.0,
+  "all_instance_transforms_identity_plus_translation": true,
+  "all_115_definitions_face_counts_match": true,
+  "embedded_images_verified": 52,
+  "saved_scenes": 4,
+  "rug_texture_faces_UV_checked": 4248,
+  "maximum_rug_UV_error": 1.18804965865138e-12,
+  "SketchUp_Desktop_application_tested": false,
+  "writer": "OpenSKP legacy format; independent parser readback, no desktop execution"
+}

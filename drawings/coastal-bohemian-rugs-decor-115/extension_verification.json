@@ -1,0 +1,22 @@
+{
+  "total_complete_independent_components": 115,
+  "groups": {
+    "Coastal Rugs": 25,
+    "Coastal Decor": 50,
+    "Bohemian Rugs": 20,
+    "Bohemian Decor": 20
+  },
+  "rbz_bytes": 43334923,
+  "rbz_sha256": "ee6e91689b3dd7b6f4478ff7845d755d9f50f0828c4528535b36db390b6cce58",
+  "ruby_syntax": "passed",
+  "archive_crc": "passed",
+  "all_payload_triangles_valid": true,
+  "triangles": 334256,
+  "all_geometry_bounds_verified": true,
+  "all_local_base_heights_zero": true,
+  "textures_embedded": true,
+  "new_module": "AyaaRugsDecorLibrary115",
+  "new_extension_folder": "ayaa_rugs_decor_115",
+  "existing_extensions_modified": false,
+  "SketchUp_Desktop_application_tested": false
+}

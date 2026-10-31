@@ -1,0 +1,6592 @@
+[
+  {
+    "id": "R01",
+    "title": "Reference 01 - braided jute, blue centre and rim",
+    "category": "rug",
+    "reference_image": 1,
+    "dimensions_nominal_m": [
+      1.8,
+      1.8,
+      0.014
+    ],
+    "reference_match": "Reconstructed from a perspective image; dimensions inferred",
+    "bounds_m": [
+      -0.9,
+      -0.9,
+      0.0,
+      0.9,
+      0.9,
+      0.014
+    ],
+    "dimensions_m": [
+      1.8,
+      1.8,
+      0.014
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.475,
+      6.925,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R01 - Reference 01 - braided jute, blue centre and rim",
+    "file": "R01.json.gz",
+    "bounds_inches": [
+      -35.43307086614173,
+      -35.43307086614173,
+      0.0,
+      35.43307086614173,
+      35.43307086614173,
+      0.5511811023622047
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Reference 01 - braided jute, blue centre and rim"
+  },
+  {
+    "id": "R02",
+    "title": "Reference 02 - blue ivory geometric Greek rug",
+    "category": "rug",
+    "reference_image": 2,
+    "dimensions_nominal_m": [
+      2.4,
+      3.4,
+      0.018
+    ],
+    "reference_match": "Reconstructed from a perspective image; dimensions inferred",
+    "bounds_m": [
+      -1.2,
+      -1.7,
+      0.0,
+      1.2,
+      1.7,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4,
+      0.018
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      8.075,
+      6.925,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R02 - Reference 02 - blue ivory geometric Greek rug",
+    "file": "R02.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -66.92913385826772,
+      0.0,
+      47.24409448818898,
+      66.92913385826772,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Reference 02 - blue ivory geometric Greek rug"
+  },
+  {
+    "id": "R03",
+    "title": "Reference 03 - sculpted lobby river-wave rug",
+    "category": "rug",
+    "reference_image": 3,
+    "dimensions_nominal_m": [
+      7.0,
+      13.0,
+      0.018
+    ],
+    "reference_match": "Reconstructed from a perspective image; dimensions inferred",
+    "bounds_m": [
+      -3.302658286368399,
+      -6.8463212912445615,
+      0.0,
+      3.6973417136316016,
+      6.1536787087554385,
+      0.018
+    ],
+    "dimensions_m": [
+      7.0,
+      13.0,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      14.877658286368398,
+      7.271321291244561,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R03 - Reference 03 - sculpted lobby river-wave rug",
+    "file": "R03.json.gz",
+    "bounds_inches": [
+      -130.02591678615744,
+      -269.54020831671505,
+      0.0,
+      145.56463439494496,
+      242.27081530533223,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Reference 03 - sculpted lobby river-wave rug"
+  },
+  {
+    "id": "R04",
+    "title": "Reference 04 - cobalt acanthus round medallion",
+    "category": "rug",
+    "reference_image": 4,
+    "dimensions_nominal_m": [
+      4.0,
+      4.0,
+      0.018
+    ],
+    "reference_match": "Reconstructed from a perspective image; dimensions inferred",
+    "bounds_m": [
+      -2.0,
+      -2.0,
+      0.0,
+      2.0,
+      2.0,
+      0.018
+    ],
+    "dimensions_m": [
+      4.0,
+      4.0,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      21.575,
+      6.925,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R04 - Reference 04 - cobalt acanthus round medallion",
+    "file": "R04.json.gz",
+    "bounds_inches": [
+      -78.74015748031496,
+      -78.74015748031496,
+      0.0,
+      78.74015748031496,
+      78.74015748031496,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Reference 04 - cobalt acanthus round medallion"
+  },
+  {
+    "id": "R05",
+    "title": "Reference 05 - blue ivory striped kilim",
+    "category": "rug",
+    "reference_image": 5,
+    "dimensions_nominal_m": [
+      2.2,
+      3.2,
+      0.018
+    ],
+    "reference_match": "Reconstructed from a perspective image; dimensions inferred",
+    "bounds_m": [
+      -1.1,
+      -1.6651543441871601,
+      0.0,
+      1.1,
+      1.6651248670703955,
+      0.018
+    ],
+    "dimensions_m": [
+      2.2,
+      3.3302792112575554,
+      0.018
+    ],
+    "face_count": 1328,
+    "style": "Coastal",
+    "gallery_position_m": [
+      26.974999999999998,
+      6.9250147385583825,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R05 - Reference 05 - blue ivory striped kilim",
+    "file": "R05.json.gz",
+    "bounds_inches": [
+      -43.30708661417324,
+      -65.55725764516379,
+      0.0,
+      43.30708661417324,
+      65.55609712875574,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Reference 05 - blue ivory striped kilim"
+  },
+  {
+    "id": "R06",
+    "title": "Tidal Rings Oval Jute",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.2,
+      3.0,
+      0.014
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.1,
+      -1.5,
+      0.0,
+      1.1,
+      1.5,
+      0.014
+    ],
+    "dimensions_m": [
+      2.2,
+      3.0,
+      0.014
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.475,
+      16.040136795740427,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R06 - Tidal Rings Oval Jute",
+    "file": "R06.json.gz",
+    "bounds_inches": [
+      -43.30708661417324,
+      -59.05511811023622,
+      0.0,
+      43.30708661417324,
+      59.05511811023622,
+      0.5511811023622047
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Tidal Rings Oval Jute"
+  },
+  {
+    "id": "R07",
+    "title": "Blue Petal Braided Jute",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.6,
+      2.6,
+      0.014
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.3,
+      -1.3,
+      0.0,
+      1.3,
+      1.3,
+      0.014
+    ],
+    "dimensions_m": [
+      2.6,
+      2.6,
+      0.014
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      8.075,
+      16.040136795740427,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R07 - Blue Petal Braided Jute",
+    "file": "R07.json.gz",
+    "bounds_inches": [
+      -51.181102362204726,
+      -51.181102362204726,
+      0.0,
+      51.181102362204726,
+      51.181102362204726,
+      0.5511811023622047
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue Petal Braided Jute"
+  },
+  {
+    "id": "R08",
+    "title": "Twin Pebble Jute",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.6,
+      1.8,
+      0.014
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.2283825334228418,
+      -0.9479521787877085,
+      0.0,
+      1.3716174665771583,
+      0.8520478212122915,
+      0.014
+    ],
+    "dimensions_m": [
+      2.6,
+      1.8,
+      0.014
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.00338253342284,
+      16.088088974528134,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R08 - Twin Pebble Jute",
+    "file": "R08.json.gz",
+    "bounds_inches": [
+      -48.36151706389141,
+      -37.320951920775926,
+      0.0,
+      54.00068766051805,
+      33.54518981150754,
+      0.5511811023622047
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Twin Pebble Jute"
+  },
+  {
+    "id": "R09",
+    "title": "Framed Woven Jute",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.4,
+      3.4,
+      0.014
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.2,
+      -1.7,
+      0.0,
+      1.2,
+      1.7,
+      0.014
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4,
+      0.014
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      21.575,
+      16.040136795740427,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R09 - Framed Woven Jute",
+    "file": "R09.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -66.92913385826772,
+      0.0,
+      47.24409448818898,
+      66.92913385826772,
+      0.5511811023622047
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Framed Woven Jute"
+  },
+  {
+    "id": "R10",
+    "title": "Aegean Diamond Kilim",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.4,
+      3.4,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.2,
+      -1.7651512376510046,
+      0.0,
+      1.2,
+      1.7651223538298522,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.5302735914808565,
+      0.018
+    ],
+    "face_count": 1328,
+    "style": "Coastal",
+    "gallery_position_m": [
+      26.974999999999998,
+      16.040151237651003,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R10 - Aegean Diamond Kilim",
+    "file": "R10.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -69.49414321460648,
+      0.0,
+      47.24409448818898,
+      69.4930060562934,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Aegean Diamond Kilim"
+  },
+  {
+    "id": "R11",
+    "title": "White Chevron Lattice",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.5,
+      3.5,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.25,
+      -1.75,
+      0.0,
+      1.25,
+      1.75,
+      0.018
+    ],
+    "dimensions_m": [
+      2.5,
+      3.5,
+      0.018
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.475,
+      22.555273591480855,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R11 - White Chevron Lattice",
+    "file": "R11.json.gz",
+    "bounds_inches": [
+      -49.21259842519685,
+      -68.8976377952756,
+      0.0,
+      49.21259842519685,
+      68.8976377952756,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "White Chevron Lattice"
+  },
+  {
+    "id": "R12",
+    "title": "Eight Petal Greek Garden",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.8,
+      3.8,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.4,
+      -1.9,
+      0.0,
+      1.4,
+      1.9,
+      0.018
+    ],
+    "dimensions_m": [
+      2.8,
+      3.8,
+      0.018
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      8.075,
+      22.555273591480855,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R12 - Eight Petal Greek Garden",
+    "file": "R12.json.gz",
+    "bounds_inches": [
+      -55.118110236220474,
+      -74.80314960629921,
+      0.0,
+      55.118110236220474,
+      74.80314960629921,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Eight Petal Greek Garden"
+  },
+  {
+    "id": "R13",
+    "title": "Cobalt Meander Field",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.4,
+      3.6,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.2,
+      -1.8,
+      0.0,
+      1.2,
+      1.8,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.6,
+      0.018
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.075,
+      22.555273591480855,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R13 - Cobalt Meander Field",
+    "file": "R13.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -70.86614173228347,
+      0.0,
+      47.24409448818898,
+      70.86614173228347,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Cobalt Meander Field"
+  },
+  {
+    "id": "R14",
+    "title": "Soft River Lounge",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      4.5,
+      7.0,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -2.25,
+      -3.5,
+      0.0,
+      2.25,
+      3.5,
+      0.018
+    ],
+    "dimensions_m": [
+      4.5,
+      7.0,
+      0.018
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      21.575,
+      22.555273591480855,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R14 - Soft River Lounge",
+    "file": "R14.json.gz",
+    "bounds_inches": [
+      -88.58267716535434,
+      -137.7952755905512,
+      0.0,
+      88.58267716535434,
+      137.7952755905512,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Soft River Lounge"
+  },
+  {
+    "id": "R15",
+    "title": "Oval Littoral Currents",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      4.8,
+      7.8,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -2.4,
+      -3.9,
+      0.0,
+      2.4,
+      3.9,
+      0.018
+    ],
+    "dimensions_m": [
+      4.8,
+      7.8,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      26.974999999999998,
+      22.555273591480855,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R15 - Oval Littoral Currents",
+    "file": "R15.json.gz",
+    "bounds_inches": [
+      -94.48818897637796,
+      -153.54330708661416,
+      0.0,
+      94.48818897637796,
+      153.54330708661416,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Oval Littoral Currents"
+  },
+  {
+    "id": "R16",
+    "title": "Sculpted Lagoon Island",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      4.2,
+      6.8,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.9843102462984366,
+      -3.5811526754202325,
+      0.0,
+      2.2156897537015636,
+      3.2188473245797677,
+      0.018
+    ],
+    "dimensions_m": [
+      4.2,
+      6.800000000000001,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.3593102462984366,
+      31.98642626690109,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R16 - Sculpted Lagoon Island",
+    "file": "R16.json.gz",
+    "bounds_inches": [
+      -78.12245064167074,
+      -140.99026281182017,
+      0.0,
+      87.2318800669907,
+      126.7262726212507,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Sculpted Lagoon Island"
+  },
+  {
+    "id": "R17",
+    "title": "Twin Sandbar Lobby",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      5.5,
+      9.0,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -2.594945796432313,
+      -4.739760893938541,
+      0.0,
+      2.9050542035676874,
+      4.260239106061458,
+      0.018
+    ],
+    "dimensions_m": [
+      5.5,
+      9.0,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      7.919945796432312,
+      32.0450344854194,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R17 - Twin Sandbar Lobby",
+    "file": "R17.json.gz",
+    "bounds_inches": [
+      -102.16322033198084,
+      -186.6047596038796,
+      0.0,
+      114.37221273888534,
+      167.72594905753772,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Twin Sandbar Lobby"
+  },
+  {
+    "id": "R18",
+    "title": "Twelve Scroll Medallion",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      3.6,
+      3.6,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.8,
+      -1.8,
+      0.0,
+      1.8,
+      1.8,
+      0.018
+    ],
+    "dimensions_m": [
+      3.6,
+      3.6,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.075,
+      31.80527359148086,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R18 - Twelve Scroll Medallion",
+    "file": "R18.json.gz",
+    "bounds_inches": [
+      -70.86614173228347,
+      -70.86614173228347,
+      0.0,
+      70.86614173228347,
+      70.86614173228347,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Twelve Scroll Medallion"
+  },
+  {
+    "id": "R19",
+    "title": "Oval Acanthus Carpet",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      3.6,
+      5.0,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.8,
+      -2.5,
+      0.0,
+      1.8,
+      2.5,
+      0.018
+    ],
+    "dimensions_m": [
+      3.6,
+      5.0,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      21.575,
+      31.80527359148086,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R19 - Oval Acanthus Carpet",
+    "file": "R19.json.gz",
+    "bounds_inches": [
+      -70.86614173228347,
+      -98.4251968503937,
+      0.0,
+      70.86614173228347,
+      98.4251968503937,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Oval Acanthus Carpet"
+  },
+  {
+    "id": "R20",
+    "title": "Shell Entrance Medallion",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      3.6,
+      2.4,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.8,
+      -1.2,
+      0.0,
+      1.8,
+      1.1996979064173001,
+      0.018
+    ],
+    "dimensions_m": [
+      3.6,
+      2.3996979064173,
+      0.018
+    ],
+    "face_count": 296,
+    "style": "Coastal",
+    "gallery_position_m": [
+      26.974999999999998,
+      31.805424638272207,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R20 - Shell Entrance Medallion",
+    "file": "R20.json.gz",
+    "bounds_inches": [
+      -70.86614173228347,
+      -47.24409448818898,
+      0.0,
+      70.86614173228347,
+      47.23220104005119,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Shell Entrance Medallion"
+  },
+  {
+    "id": "R21",
+    "title": "Scalloped Cobalt Rosette",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      3.8,
+      3.8,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.9,
+      -1.9,
+      0.0,
+      1.9,
+      1.9,
+      0.018
+    ],
+    "dimensions_m": [
+      3.8,
+      3.8,
+      0.018
+    ],
+    "face_count": 476,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.475,
+      39.32040019285232,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R21 - Scalloped Cobalt Rosette",
+    "file": "R21.json.gz",
+    "bounds_inches": [
+      -74.80314960629921,
+      -74.80314960629921,
+      0.0,
+      74.80314960629921,
+      74.80314960629921,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Scalloped Cobalt Rosette"
+  },
+  {
+    "id": "R22",
+    "title": "Naxos Diamond Bands",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.2,
+      3.2,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.1,
+      -1.6651543441871601,
+      0.0,
+      1.1,
+      1.6651248670703955,
+      0.018
+    ],
+    "dimensions_m": [
+      2.2,
+      3.3302792112575554,
+      0.018
+    ],
+    "face_count": 1328,
+    "style": "Coastal",
+    "gallery_position_m": [
+      8.075,
+      39.3204149314107,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R22 - Naxos Diamond Bands",
+    "file": "R22.json.gz",
+    "bounds_inches": [
+      -43.30708661417324,
+      -65.55725764516379,
+      0.0,
+      43.30708661417324,
+      65.55609712875574,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Naxos Diamond Bands"
+  },
+  {
+    "id": "R23",
+    "title": "Cycladic Runner",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      1.4,
+      4.2,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -0.7,
+      -2.16513996703387,
+      0.0,
+      0.7,
+      2.165113235709053,
+      0.018
+    ],
+    "dimensions_m": [
+      1.4,
+      4.330253202742923,
+      0.018
+    ],
+    "face_count": 1328,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.075,
+      39.32041355851473,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R23 - Cycladic Runner",
+    "file": "R23.json.gz",
+    "bounds_inches": [
+      -27.559055118110237,
+      -85.24173098558543,
+      0.0,
+      27.559055118110237,
+      85.24067857122256,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Cycladic Runner"
+  },
+  {
+    "id": "R24",
+    "title": "Rhythmic Indigo Weave",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.5,
+      3.6,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.25,
+      -1.8,
+      0.0,
+      1.25,
+      1.8,
+      0.018
+    ],
+    "dimensions_m": [
+      2.5,
+      3.6,
+      0.018
+    ],
+    "face_count": 152,
+    "style": "Coastal",
+    "gallery_position_m": [
+      21.575,
+      39.32040019285232,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R24 - Rhythmic Indigo Weave",
+    "file": "R24.json.gz",
+    "bounds_inches": [
+      -49.21259842519685,
+      -70.86614173228347,
+      0.0,
+      49.21259842519685,
+      70.86614173228347,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Rhythmic Indigo Weave"
+  },
+  {
+    "id": "R25",
+    "title": "Blue Harbour Textile",
+    "category": "rug",
+    "reference_image": null,
+    "dimensions_nominal_m": [
+      2.8,
+      3.8,
+      0.018
+    ],
+    "reference_match": "Additional original design",
+    "bounds_m": [
+      -1.4,
+      -1.965145384606782,
+      0.0,
+      1.4,
+      1.965117618617607,
+      0.018
+    ],
+    "dimensions_m": [
+      2.8,
+      3.930263003224389,
+      0.018
+    ],
+    "face_count": 1328,
+    "style": "Coastal",
+    "gallery_position_m": [
+      26.974999999999998,
+      39.320414075846905,
+      0
+    ],
+    "group": "Coastal rug",
+    "name": "R25 - Blue Harbour Textile",
+    "file": "R25.json.gz",
+    "bounds_inches": [
+      -55.118110236220474,
+      -77.36792852782607,
+      0.0,
+      55.118110236220474,
+      77.36683537864594,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue Harbour Textile"
+  },
+  {
+    "id": "A01",
+    "title": "Organic backlit pebble wall mirror",
+    "category": "wall_decor",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.46029879675161456,
+      0.0017825603777564536,
+      0.0,
+      0.46029879675161456,
+      0.05,
+      1.3550974048385456
+    ],
+    "dimensions_m": [
+      0.9205975935032291,
+      0.04821743962224355,
+      1.3550974048385456
+    ],
+    "face_count": 2577,
+    "style": "Coastal",
+    "gallery_position_m": [
+      1.0250000000000001,
+      -22.284519977622054,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A01 - Organic backlit pebble wall mirror",
+    "file": "A01.json.gz",
+    "bounds_inches": [
+      -18.12199987211081,
+      0.07017954243135645,
+      0.0,
+      18.12199987211081,
+      1.9685039370078743,
+      53.3502915290766
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Organic backlit pebble wall mirror"
+  },
+  {
+    "id": "A02",
+    "title": "Blue blown glass pendant with complete suspension",
+    "category": "lighting",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.12,
+      -0.12,
+      0.0,
+      0.12,
+      0.12,
+      1.0025
+    ],
+    "dimensions_m": [
+      0.24,
+      0.24,
+      1.0025
+    ],
+    "face_count": 337,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.7150000000000003,
+      -22.258628697433174,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A02 - Blue blown glass pendant with complete suspension",
+    "file": "A02.json.gz",
+    "bounds_inches": [
+      -4.724409448818897,
+      -4.724409448818897,
+      0.0,
+      4.724409448818897,
+      4.724409448818897,
+      39.468503937007874
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue blown glass pendant with complete suspension"
+  },
+  {
+    "id": "A03",
+    "title": "Ivory vase and olive branches",
+    "category": "planting",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.2527409832587985,
+      -0.25320298304585603,
+      0.0,
+      0.2537448018410576,
+      0.2526937098051196,
+      0.894
+    ],
+    "dimensions_m": [
+      0.5064857850998561,
+      0.5058966928509756,
+      0.894
+    ],
+    "face_count": 828,
+    "style": "Coastal",
+    "gallery_position_m": [
+      4.454498090708871,
+      -22.258374060812805,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A03 - Ivory vase and olive branches",
+    "file": "A03.json.gz",
+    "bounds_inches": [
+      -9.950432411763721,
+      -9.968621379758112,
+      0.0,
+      9.989952828388095,
+      9.948571252170064,
+      35.19685039370079
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Ivory vase and olive branches"
+  },
+  {
+    "id": "A04",
+    "title": "Stone floor urn with olive tree",
+    "category": "planting",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.41806434777991386,
+      -0.42258823721533595,
+      0.0,
+      0.42376288166480075,
+      0.4101543679183185,
+      1.6220747836386031
+    ],
+    "dimensions_m": [
+      0.8418272294447147,
+      0.8327426051336544,
+      1.6220747836386031
+    ],
+    "face_count": 707,
+    "style": "Coastal",
+    "gallery_position_m": [
+      6.382150733057556,
+      -22.252411762784664,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A04 - Stone floor urn with olive tree",
+    "file": "A04.json.gz",
+    "bounds_inches": [
+      -16.45922629054779,
+      -16.637332173832124,
+      0.0,
+      16.683578018299244,
+      16.14780976056372,
+      63.86121195427572
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Stone floor urn with olive tree"
+  },
+  {
+    "id": "A05",
+    "title": "Folded blue bath towels",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.252,
+      -0.176,
+      0.0,
+      0.252,
+      0.17200000000000001,
+      0.188
+    ],
+    "dimensions_m": [
+      0.504,
+      0.348,
+      0.188
+    ],
+    "face_count": 267,
+    "style": "Coastal",
+    "gallery_position_m": [
+      7.831174770466981,
+      -22.256628697433175,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A05 - Folded blue bath towels",
+    "file": "A05.json.gz",
+    "bounds_inches": [
+      -9.921259842519685,
+      -6.929133858267717,
+      0.0,
+      9.921259842519685,
+      6.771653543307087,
+      7.4015748031496065
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Folded blue bath towels"
+  },
+  {
+    "id": "A06",
+    "title": "Folded ivory bath towels",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.252,
+      -0.176,
+      0.0,
+      0.252,
+      0.17200000000000001,
+      0.188
+    ],
+    "dimensions_m": [
+      0.504,
+      0.348,
+      0.188
+    ],
+    "face_count": 267,
+    "style": "Coastal",
+    "gallery_position_m": [
+      9.322349540933962,
+      -22.256628697433175,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A06 - Folded ivory bath towels",
+    "file": "A06.json.gz",
+    "bounds_inches": [
+      -9.921259842519685,
+      -6.929133858267717,
+      0.0,
+      9.921259842519685,
+      6.771653543307087,
+      7.4015748031496065
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Folded ivory bath towels"
+  },
+  {
+    "id": "A07",
+    "title": "Woven basket with rolled white washcloths",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.22374966613914518,
+      -0.22346521257026808,
+      0.0,
+      0.22374966613914518,
+      0.2238460957905633,
+      0.27
+    ],
+    "dimensions_m": [
+      0.44749933227829036,
+      0.4473113083608314,
+      0.27
+    ],
+    "face_count": 6456,
+    "style": "Coastal",
+    "gallery_position_m": [
+      11.907349540933962,
+      -22.25881913904332,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A07 - Woven basket with rolled white washcloths",
+    "file": "A07.json.gz",
+    "bounds_inches": [
+      -8.809041973982094,
+      -8.797843014577484,
+      0.0,
+      8.809041973982094,
+      8.812838416951312,
+      10.62992125984252
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Woven basket with rolled white washcloths"
+  },
+  {
+    "id": "A08",
+    "title": "Amber soap pump dispenser",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.038,
+      -0.038,
+      0.0,
+      0.05,
+      0.038,
+      0.22279942329745459
+    ],
+    "dimensions_m": [
+      0.088,
+      0.076,
+      0.22279942329745459
+    ],
+    "face_count": 124,
+    "style": "Coastal",
+    "gallery_position_m": [
+      14.483199108407053,
+      -22.258628697433174,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A08 - Amber soap pump dispenser",
+    "file": "A08.json.gz",
+    "bounds_inches": [
+      -1.4960629921259843,
+      -1.4960629921259843,
+      0.0,
+      1.9685039370078743,
+      1.4960629921259843,
+      8.771630838482464
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Amber soap pump dispenser"
+  },
+  {
+    "id": "A09",
+    "title": "Ceramic dish with soap bar",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.08,
+      -0.08,
+      0.0,
+      0.08,
+      0.08,
+      0.045
+    ],
+    "dimensions_m": [
+      0.16,
+      0.16,
+      0.045
+    ],
+    "face_count": 224,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.913722738738509,
+      -22.258628697433174,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A09 - Ceramic dish with soap bar",
+    "file": "A09.json.gz",
+    "bounds_inches": [
+      -3.1496062992125986,
+      -3.1496062992125986,
+      0.0,
+      3.1496062992125986,
+      3.1496062992125986,
+      1.7716535433070866
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Ceramic dish with soap bar"
+  },
+  {
+    "id": "A10",
+    "title": "Small cobalt niche vase",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.065,
+      -0.065,
+      0.0,
+      0.065,
+      0.065,
+      0.24
+    ],
+    "dimensions_m": [
+      0.13,
+      0.13,
+      0.24
+    ],
+    "face_count": 320,
+    "style": "Coastal",
+    "gallery_position_m": [
+      17.141396801596873,
+      -22.258628697433174,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A10 - Small cobalt niche vase",
+    "file": "A10.json.gz",
+    "bounds_inches": [
+      -2.5590551181102366,
+      -2.5590551181102366,
+      0.0,
+      2.5590551181102366,
+      2.5590551181102366,
+      9.448818897637794
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Small cobalt niche vase"
+  },
+  {
+    "id": "A11",
+    "title": "Sand glazed ceramic lidded jar",
+    "category": "accessory",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.08,
+      -0.08,
+      0.0,
+      0.08,
+      0.08,
+      0.245
+    ],
+    "dimensions_m": [
+      0.16,
+      0.16,
+      0.245
+    ],
+    "face_count": 408,
+    "style": "Coastal",
+    "gallery_position_m": [
+      1.0250000000000001,
+      -20.342257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A11 - Sand glazed ceramic lidded jar",
+    "file": "A11.json.gz",
+    "bounds_inches": [
+      -3.1496062992125986,
+      -3.1496062992125986,
+      0.0,
+      3.1496062992125986,
+      3.1496062992125986,
+      9.645669291338583
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Sand glazed ceramic lidded jar"
+  },
+  {
+    "id": "A12",
+    "title": "Recessed arch display niche with concealed LED",
+    "category": "wall_decor",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.25754869021441074,
+      -0.12000000000000001,
+      0.0,
+      0.25754869021441074,
+      0.05,
+      0.6907554468823637
+    ],
+    "dimensions_m": [
+      0.5150973804288215,
+      0.17,
+      0.6907554468823637
+    ],
+    "face_count": 1216,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.7150000000000003,
+      -20.307257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A12 - Recessed arch display niche with concealed LED",
+    "file": "A12.json.gz",
+    "bounds_inches": [
+      -10.139712213165778,
+      -4.724409448818898,
+      0.0,
+      10.139712213165778,
+      1.9685039370078743,
+      27.195096333951327
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Recessed arch display niche with concealed LED"
+  },
+  {
+    "id": "A13",
+    "title": "Circular floating cove ceiling light",
+    "category": "lighting",
+    "reference_image": 1,
+    "bounds_m": [
+      -0.85,
+      -0.85,
+      0.0,
+      0.85,
+      0.85,
+      0.08
+    ],
+    "dimensions_m": [
+      1.7,
+      1.7,
+      0.08
+    ],
+    "face_count": 768,
+    "style": "Coastal",
+    "gallery_position_m": [
+      4.455,
+      -20.342257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A13 - Circular floating cove ceiling light",
+    "file": "A13.json.gz",
+    "bounds_inches": [
+      -33.46456692913386,
+      -33.46456692913386,
+      0.0,
+      33.46456692913386,
+      33.46456692913386,
+      3.1496062992125986
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Circular floating cove ceiling light"
+  },
+  {
+    "id": "A14",
+    "title": "Glass topped driftwood coffee table",
+    "category": "decor_furniture",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.57,
+      -0.57,
+      0.0,
+      0.57,
+      0.57,
+      0.4817629314008208
+    ],
+    "dimensions_m": [
+      1.14,
+      1.14,
+      0.4817629314008208
+    ],
+    "face_count": 756,
+    "style": "Coastal",
+    "gallery_position_m": [
+      6.385,
+      -20.342257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A14 - Glass topped driftwood coffee table",
+    "file": "A14.json.gz",
+    "bounds_inches": [
+      -22.440944881889763,
+      -22.440944881889763,
+      0.0,
+      22.440944881889763,
+      22.440944881889763,
+      18.967044543339405
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Glass topped driftwood coffee table"
+  },
+  {
+    "id": "A15",
+    "title": "Blue white porcelain vase and hydrangea bouquet",
+    "category": "floral",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.3570301575128545,
+      -0.3782806175580829,
+      0.0,
+      0.3753193834211065,
+      0.3152199856066138,
+      0.9061928291928714
+    ],
+    "dimensions_m": [
+      0.732349540933961,
+      0.6935006031646966,
+      0.9061928291928714
+    ],
+    "face_count": 9562,
+    "style": "Coastal",
+    "gallery_position_m": [
+      7.822030157512855,
+      -20.310727078890608,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A15 - Blue white porcelain vase and hydrangea bouquet",
+    "file": "A15.json.gz",
+    "bounds_inches": [
+      -14.05630541389191,
+      -14.892937699137123,
+      0.0,
+      14.776353677996319,
+      12.410235653803694,
+      35.676883039089425
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white porcelain vase and hydrangea bouquet"
+  },
+  {
+    "id": "A16",
+    "title": "White pierced coastal candle lantern",
+    "category": "accessory",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.14,
+      -0.14,
+      0.0,
+      0.14,
+      0.14,
+      0.590849567473091
+    ],
+    "dimensions_m": [
+      0.28,
+      0.28,
+      0.590849567473091
+    ],
+    "face_count": 1097,
+    "style": "Coastal",
+    "gallery_position_m": [
+      9.322349540933962,
+      -20.342257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A16 - White pierced coastal candle lantern",
+    "file": "A16.json.gz",
+    "bounds_inches": [
+      -5.511811023622048,
+      -5.511811023622048,
+      0.0,
+      5.511811023622048,
+      5.511811023622048,
+      23.261793995003586
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "White pierced coastal candle lantern"
+  },
+  {
+    "id": "A17",
+    "title": "Circular carved white wall mirror",
+    "category": "wall_decor",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.3418244953852727,
+      -0.016217439622243545,
+      0.0,
+      0.3418244953852727,
+      0.018,
+      0.7036489907705454
+    ],
+    "dimensions_m": [
+      0.6836489907705454,
+      0.034217439622243544,
+      0.7036489907705454
+    ],
+    "face_count": 15313,
+    "style": "Coastal",
+    "gallery_position_m": [
+      11.907349540933962,
+      -20.34314867505522,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A17 - Circular carved white wall mirror",
+    "file": "A17.json.gz",
+    "bounds_inches": [
+      -13.457657298632784,
+      -0.6384818748914782,
+      0.0,
+      13.457657298632784,
+      0.7086614173228346,
+      27.70271617206872
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Circular carved white wall mirror"
+  },
+  {
+    "id": "A18",
+    "title": "Oval carved white wall mirror",
+    "category": "wall_decor",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.2918244953852728,
+      -0.016217439622243545,
+      0.0,
+      0.2918244953852728,
+      0.018,
+      0.8636489907705456
+    ],
+    "dimensions_m": [
+      0.5836489907705456,
+      0.034217439622243544,
+      0.8636489907705456
+    ],
+    "face_count": 15601,
+    "style": "Coastal",
+    "gallery_position_m": [
+      14.489199108407053,
+      -20.34314867505522,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A18 - Oval carved white wall mirror",
+    "file": "A18.json.gz",
+    "bounds_inches": [
+      -11.489153361624913,
+      -0.6384818748914782,
+      0.0,
+      11.489153361624913,
+      0.7086614173228346,
+      34.00192877049392
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Oval carved white wall mirror"
+  },
+  {
+    "id": "A19",
+    "title": "Blue white feather woven dreamcatcher",
+    "category": "wall_decor",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.3026740628583637,
+      -0.0275,
+      0.0,
+      0.3026740628583637,
+      0.0275,
+      1.3426740628583638
+    ],
+    "dimensions_m": [
+      0.6053481257167274,
+      0.055,
+      1.3426740628583638
+    ],
+    "face_count": 2033,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.913722738738509,
+      -20.342257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A19 - Blue white feather woven dreamcatcher",
+    "file": "A19.json.gz",
+    "bounds_inches": [
+      -11.916301687337153,
+      -1.0826771653543308,
+      0.0,
+      11.916301687337153,
+      1.0826771653543308,
+      52.86118357710094
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white feather woven dreamcatcher"
+  },
+  {
+    "id": "A20",
+    "title": "White crystal coastal cottage chandelier",
+    "category": "lighting",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.475,
+      -0.475,
+      0.0,
+      0.475,
+      0.475,
+      1.08
+    ],
+    "dimensions_m": [
+      0.95,
+      0.95,
+      1.08
+    ],
+    "face_count": 5288,
+    "style": "Coastal",
+    "gallery_position_m": [
+      17.141396801596873,
+      -20.342257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A20 - White crystal coastal cottage chandelier",
+    "file": "A20.json.gz",
+    "bounds_inches": [
+      -18.700787401574804,
+      -18.700787401574804,
+      0.0,
+      18.700787401574804,
+      18.700787401574804,
+      42.51968503937008
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "White crystal coastal cottage chandelier"
+  },
+  {
+    "id": "A21",
+    "title": "Blue floral stained glass ceiling panel",
+    "category": "ceiling_decor",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.8,
+      -0.8,
+      0.0,
+      0.8,
+      0.8,
+      0.06
+    ],
+    "dimensions_m": [
+      1.6,
+      1.6,
+      0.06
+    ],
+    "face_count": 32,
+    "style": "Coastal",
+    "gallery_position_m": [
+      1.0250000000000001,
+      -18.042257394866343,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A21 - Blue floral stained glass ceiling panel",
+    "file": "A21.json.gz",
+    "bounds_inches": [
+      -31.49606299212599,
+      -31.49606299212599,
+      0.0,
+      31.49606299212599,
+      31.49606299212599,
+      2.3622047244094486
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue floral stained glass ceiling panel"
+  },
+  {
+    "id": "A22",
+    "title": "Embroidered cobalt cushion",
+    "category": "accessory",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.243,
+      -0.08342705098312485,
+      0.0,
+      0.243,
+      0.083,
+      0.42
+    ],
+    "dimensions_m": [
+      0.486,
+      0.16642705098312485,
+      0.42
+    ],
+    "face_count": 860,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.7150000000000003,
+      -18.04204386937478,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A22 - Embroidered cobalt cushion",
+    "file": "A22.json.gz",
+    "bounds_inches": [
+      -9.566929133858268,
+      -3.284529566264758,
+      0.0,
+      9.566929133858268,
+      3.2677165354330713,
+      16.53543307086614
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Embroidered cobalt cushion"
+  },
+  {
+    "id": "A23",
+    "title": "Blue Greek diamond cushion",
+    "category": "accessory",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.243,
+      -0.08342705098312485,
+      0.0,
+      0.243,
+      0.083,
+      0.42
+    ],
+    "dimensions_m": [
+      0.486,
+      0.16642705098312485,
+      0.42
+    ],
+    "face_count": 860,
+    "style": "Coastal",
+    "gallery_position_m": [
+      4.455,
+      -18.04204386937478,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A23 - Blue Greek diamond cushion",
+    "file": "A23.json.gz",
+    "bounds_inches": [
+      -9.566929133858268,
+      -3.284529566264758,
+      0.0,
+      9.566929133858268,
+      3.2677165354330713,
+      16.53543307086614
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue Greek diamond cushion"
+  },
+  {
+    "id": "A24",
+    "title": "Ivory linen cushion",
+    "category": "accessory",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.243,
+      -0.083,
+      0.0,
+      0.243,
+      0.083,
+      0.42
+    ],
+    "dimensions_m": [
+      0.486,
+      0.166,
+      0.42
+    ],
+    "face_count": 536,
+    "style": "Coastal",
+    "gallery_position_m": [
+      6.385,
+      -18.042257394866343,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A24 - Ivory linen cushion",
+    "file": "A24.json.gz",
+    "bounds_inches": [
+      -9.566929133858268,
+      -3.2677165354330713,
+      0.0,
+      9.566929133858268,
+      3.2677165354330713,
+      16.53543307086614
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Ivory linen cushion"
+  },
+  {
+    "id": "A25",
+    "title": "Blue channel tufted round ottoman",
+    "category": "decor_furniture",
+    "reference_image": 2,
+    "bounds_m": [
+      -0.3073592808515601,
+      -0.3070069241635091,
+      0.0,
+      0.3073592808515601,
+      0.3074806946917842,
+      0.4424806946917842
+    ],
+    "dimensions_m": [
+      0.6147185617031202,
+      0.6144876188552932,
+      0.4424806946917842
+    ],
+    "face_count": 564,
+    "style": "Coastal",
+    "gallery_position_m": [
+      7.831174770466981,
+      -18.04249428013048,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A25 - Blue channel tufted round ottoman",
+    "file": "A25.json.gz",
+    "bounds_inches": [
+      -12.1007590886441,
+      -12.08688677809091,
+      0.0,
+      12.1007590886441,
+      12.105539161093866,
+      17.420499791015125
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue channel tufted round ottoman"
+  },
+  {
+    "id": "A26",
+    "title": "Large fiddle leaf fig in rounded stone planter",
+    "category": "planting",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.6009980055941666,
+      -0.5997952438432154,
+      0.0,
+      0.602,
+      0.601765604231433,
+      2.498
+    ],
+    "dimensions_m": [
+      1.2029980055941665,
+      1.2015608480746485,
+      2.498
+    ],
+    "face_count": 637,
+    "style": "Coastal",
+    "gallery_position_m": [
+      9.321848543731045,
+      -18.043242575060454,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A26 - Large fiddle leaf fig in rounded stone planter",
+    "file": "A26.json.gz",
+    "bounds_inches": [
+      -23.661338802919946,
+      -23.613985978079345,
+      0.0,
+      23.700787401574804,
+      23.691559221709962,
+      98.34645669291339
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Large fiddle leaf fig in rounded stone planter"
+  },
+  {
+    "id": "A27",
+    "title": "Large sand floor amphora",
+    "category": "accessory",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.30106261097328824,
+      -0.22,
+      0.0,
+      0.30106261097328824,
+      0.22,
+      0.64
+    ],
+    "dimensions_m": [
+      0.6021252219465765,
+      0.44,
+      0.64
+    ],
+    "face_count": 482,
+    "style": "Coastal",
+    "gallery_position_m": [
+      11.907349540933962,
+      -18.042257394866343,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A27 - Large sand floor amphora",
+    "file": "A27.json.gz",
+    "bounds_inches": [
+      -11.852858699735759,
+      -8.661417322834646,
+      0.0,
+      11.852858699735759,
+      8.661417322834646,
+      25.19685039370079
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Large sand floor amphora"
+  },
+  {
+    "id": "A28",
+    "title": "Low round ivory ceramic vessel",
+    "category": "accessory",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.22,
+      -0.22,
+      0.0,
+      0.22,
+      0.22,
+      0.32
+    ],
+    "dimensions_m": [
+      0.44,
+      0.44,
+      0.32
+    ],
+    "face_count": 280,
+    "style": "Coastal",
+    "gallery_position_m": [
+      14.489199108407053,
+      -18.042257394866343,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A28 - Low round ivory ceramic vessel",
+    "file": "A28.json.gz",
+    "bounds_inches": [
+      -8.661417322834646,
+      -8.661417322834646,
+      0.0,
+      8.661417322834646,
+      8.661417322834646,
+      12.598425196850394
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Low round ivory ceramic vessel"
+  },
+  {
+    "id": "A29",
+    "title": "Tall slim ivory clay vase",
+    "category": "accessory",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.17,
+      -0.17,
+      0.0,
+      0.17,
+      0.17,
+      0.55
+    ],
+    "dimensions_m": [
+      0.34,
+      0.34,
+      0.55
+    ],
+    "face_count": 320,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.913722738738509,
+      -18.042257394866343,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A29 - Tall slim ivory clay vase",
+    "file": "A29.json.gz",
+    "bounds_inches": [
+      -6.692913385826772,
+      -6.692913385826772,
+      0.0,
+      6.692913385826772,
+      6.692913385826772,
+      21.65354330708662
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Tall slim ivory clay vase"
+  },
+  {
+    "id": "A30",
+    "title": "Stack of coffee table art books",
+    "category": "accessory",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.155,
+      -0.12,
+      0.0,
+      0.155,
+      0.12,
+      0.14200000000000002
+    ],
+    "dimensions_m": [
+      0.31,
+      0.24,
+      0.14200000000000002
+    ],
+    "face_count": 54,
+    "style": "Coastal",
+    "gallery_position_m": [
+      17.141396801596873,
+      -18.042257394866343,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A30 - Stack of coffee table art books",
+    "file": "A30.json.gz",
+    "bounds_inches": [
+      -6.102362204724409,
+      -4.724409448818897,
+      0.0,
+      6.102362204724409,
+      4.724409448818897,
+      5.590551181102363
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Stack of coffee table art books"
+  },
+  {
+    "id": "A31",
+    "title": "Small limestone vase with olive sprigs",
+    "category": "floral",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.17842239336120036,
+      -0.1667497343675453,
+      0.0,
+      0.18058909410478555,
+      0.18016557956486387,
+      0.5596000000000001
+    ],
+    "dimensions_m": [
+      0.3590114874659859,
+      0.34691531393240915,
+      0.5596000000000001
+    ],
+    "face_count": 708,
+    "style": "Coastal",
+    "gallery_position_m": [
+      1.0239166496282075,
+      -15.688965317465003,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A31 - Small limestone vase with olive sprigs",
+    "file": "A31.json.gz",
+    "bounds_inches": [
+      -7.02450367563781,
+      -6.564950171950603,
+      0.0,
+      7.109806854519117,
+      7.093133053734799,
+      22.03149606299213
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Small limestone vase with olive sprigs"
+  },
+  {
+    "id": "A32",
+    "title": "Rounded sculptural limestone coffee table",
+    "category": "decor_furniture",
+    "reference_image": 3,
+    "bounds_m": [
+      -0.44000000000000006,
+      -0.32,
+      0.0,
+      0.44000000000000006,
+      0.32,
+      0.43
+    ],
+    "dimensions_m": [
+      0.8800000000000001,
+      0.64,
+      0.43
+    ],
+    "face_count": 408,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.7150000000000003,
+      -15.682257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A32 - Rounded sculptural limestone coffee table",
+    "file": "A32.json.gz",
+    "bounds_inches": [
+      -17.322834645669293,
+      -12.598425196850394,
+      0.0,
+      17.322834645669293,
+      12.598425196850394,
+      16.92913385826772
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Rounded sculptural limestone coffee table"
+  },
+  {
+    "id": "A33",
+    "title": "Large cobalt white floral statement urn",
+    "category": "floral",
+    "reference_image": 4,
+    "bounds_m": [
+      -0.5065452362692817,
+      -0.5414209263371244,
+      0.0,
+      0.5339790751316597,
+      0.44682997840992067,
+      1.448289243789307
+    ],
+    "dimensions_m": [
+      1.0405243114009415,
+      0.988250904747045,
+      1.448289243789307
+    ],
+    "face_count": 9844,
+    "style": "Coastal",
+    "gallery_position_m": [
+      4.4412830805688115,
+      -15.634961920902741,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A33 - Large cobalt white floral statement urn",
+    "file": "A33.json.gz",
+    "bounds_inches": [
+      -19.942725837373295,
+      -21.31578450146159,
+      0.0,
+      21.022798233529908,
+      17.591731433461444,
+      57.01926156650815
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Large cobalt white floral statement urn"
+  },
+  {
+    "id": "A34",
+    "title": "Classical blue white round pedestal centre table",
+    "category": "decor_furniture",
+    "reference_image": 4,
+    "bounds_m": [
+      -0.63,
+      -0.63,
+      0.0,
+      0.63,
+      0.63,
+      0.94
+    ],
+    "dimensions_m": [
+      1.26,
+      1.26,
+      0.94
+    ],
+    "face_count": 1680,
+    "style": "Coastal",
+    "gallery_position_m": [
+      6.385,
+      -15.682257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A34 - Classical blue white round pedestal centre table",
+    "file": "A34.json.gz",
+    "bounds_inches": [
+      -24.803149606299215,
+      -24.803149606299215,
+      0.0,
+      24.803149606299215,
+      24.803149606299215,
+      37.00787401574803
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Classical blue white round pedestal centre table"
+  },
+  {
+    "id": "A35",
+    "title": "Sculptural white lily floral lamp in urn",
+    "category": "lighting",
+    "reference_image": 4,
+    "bounds_m": [
+      -0.313347162521746,
+      -0.3294713964938398,
+      0.0,
+      0.33499999999999996,
+      0.3224781985389163,
+      0.915
+    ],
+    "dimensions_m": [
+      0.648347162521746,
+      0.6519495950327561,
+      0.915
+    ],
+    "face_count": 1241,
+    "style": "Coastal",
+    "gallery_position_m": [
+      7.820348351727854,
+      -15.678760795888882,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A35 - Sculptural white lily floral lamp in urn",
+    "file": "A35.json.gz",
+    "bounds_inches": [
+      -12.336502461486063,
+      -12.971314822592118,
+      0.0,
+      13.188976377952756,
+      12.695992068461273,
+      36.023622047244096
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Sculptural white lily floral lamp in urn"
+  },
+  {
+    "id": "A36",
+    "title": "Silver rococo crystal chandelier",
+    "category": "lighting",
+    "reference_image": 4,
+    "bounds_m": [
+      -0.675,
+      -0.6446550401029953,
+      0.0,
+      0.675,
+      0.6446550401029953,
+      1.3800000000000001
+    ],
+    "dimensions_m": [
+      1.35,
+      1.2893100802059907,
+      1.3800000000000001
+    ],
+    "face_count": 6538,
+    "style": "Coastal",
+    "gallery_position_m": [
+      9.322349540933962,
+      -15.682257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A36 - Silver rococo crystal chandelier",
+    "file": "A36.json.gz",
+    "bounds_inches": [
+      -26.574803149606304,
+      -25.380119689094307,
+      0.0,
+      26.574803149606304,
+      25.380119689094307,
+      54.33070866141733
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Silver rococo crystal chandelier"
+  },
+  {
+    "id": "A37",
+    "title": "Mirrored blue petal coffer ceiling panel",
+    "category": "ceiling_decor",
+    "reference_image": 4,
+    "bounds_m": [
+      -1.46,
+      -0.91,
+      0.0,
+      1.46,
+      0.91,
+      0.07
+    ],
+    "dimensions_m": [
+      2.92,
+      1.82,
+      0.07
+    ],
+    "face_count": 2048,
+    "style": "Coastal",
+    "gallery_position_m": [
+      11.907349540933962,
+      -15.682257394866344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A37 - Mirrored blue petal coffer ceiling panel",
+    "file": "A37.json.gz",
+    "bounds_inches": [
+      -57.480314960629926,
+      -35.82677165354331,
+      0.0,
+      57.480314960629926,
+      35.82677165354331,
+      2.755905511811024
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Mirrored blue petal coffer ceiling panel"
+  },
+  {
+    "id": "A38",
+    "title": "Classical blue floral wall arch moulding",
+    "category": "wall_decor",
+    "reference_image": 4,
+    "bounds_m": [
+      -0.6668244953852728,
+      -0.03330678207531693,
+      0.0,
+      0.6768746395609092,
+      0.024,
+      1.8448244953852726
+    ],
+    "dimensions_m": [
+      1.343699134946182,
+      0.057306782075316934,
+      1.8448244953852726
+    ],
+    "face_count": 18911,
+    "style": "Coastal",
+    "gallery_position_m": [
+      14.484174036319235,
+      -15.677604003828685,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A38 - Classical blue floral wall arch moulding",
+    "file": "A38.json.gz",
+    "bounds_inches": [
+      -26.252932889183967,
+      -1.3112906328864935,
+      0.0,
+      26.64860785672871,
+      0.9448818897637796,
+      72.63088564508948
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Classical blue floral wall arch moulding"
+  },
+  {
+    "id": "A39",
+    "title": "Blue white wall plate motif 1",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.16284956747309096,
+      -0.005405813207414515,
+      0.0,
+      0.16284956747309096,
+      0.014,
+      0.3256991349461819
+    ],
+    "dimensions_m": [
+      0.3256991349461819,
+      0.019405813207414517,
+      0.3256991349461819
+    ],
+    "face_count": 674,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.913722738738509,
+      -15.686554488262637,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A39 - Blue white wall plate motif 1",
+    "file": "A39.json.gz",
+    "bounds_inches": [
+      -6.41140029421618,
+      -0.21282729163049272,
+      0.0,
+      6.41140029421618,
+      0.5511811023622047,
+      12.82280058843236
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white wall plate motif 1"
+  },
+  {
+    "id": "A40",
+    "title": "Blue white wall plate motif 2",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.16284956747309096,
+      -0.005405813207414515,
+      0.0,
+      0.16284956747309096,
+      0.014,
+      0.3256991349461819
+    ],
+    "dimensions_m": [
+      0.3256991349461819,
+      0.019405813207414517,
+      0.3256991349461819
+    ],
+    "face_count": 674,
+    "style": "Coastal",
+    "gallery_position_m": [
+      17.141396801596873,
+      -15.686554488262637,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A40 - Blue white wall plate motif 2",
+    "file": "A40.json.gz",
+    "bounds_inches": [
+      -6.41140029421618,
+      -0.21282729163049272,
+      0.0,
+      6.41140029421618,
+      0.5511811023622047,
+      12.82280058843236
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white wall plate motif 2"
+  },
+  {
+    "id": "A41",
+    "title": "Blue white wall plate motif 3",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.16284956747309096,
+      -0.005405813207414515,
+      0.0,
+      0.16284956747309096,
+      0.014,
+      0.3256991349461819
+    ],
+    "dimensions_m": [
+      0.3256991349461819,
+      0.019405813207414517,
+      0.3256991349461819
+    ],
+    "face_count": 674,
+    "style": "Coastal",
+    "gallery_position_m": [
+      1.0250000000000001,
+      -13.798454527175195,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A41 - Blue white wall plate motif 3",
+    "file": "A41.json.gz",
+    "bounds_inches": [
+      -6.41140029421618,
+      -0.21282729163049272,
+      0.0,
+      6.41140029421618,
+      0.5511811023622047,
+      12.82280058843236
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white wall plate motif 3"
+  },
+  {
+    "id": "A42",
+    "title": "Blue white wall plate motif 4",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.16284956747309096,
+      -0.005405813207414515,
+      0.0,
+      0.16284956747309096,
+      0.014,
+      0.3256991349461819
+    ],
+    "dimensions_m": [
+      0.3256991349461819,
+      0.019405813207414517,
+      0.3256991349461819
+    ],
+    "face_count": 674,
+    "style": "Coastal",
+    "gallery_position_m": [
+      2.7150000000000003,
+      -13.798454527175195,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A42 - Blue white wall plate motif 4",
+    "file": "A42.json.gz",
+    "bounds_inches": [
+      -6.41140029421618,
+      -0.21282729163049272,
+      0.0,
+      6.41140029421618,
+      0.5511811023622047,
+      12.82280058843236
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white wall plate motif 4"
+  },
+  {
+    "id": "A43",
+    "title": "Framed Aegean island map artwork",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.35750000000000004,
+      -0.0225,
+      0.0,
+      0.35750000000000004,
+      0.0225,
+      0.955
+    ],
+    "dimensions_m": [
+      0.7150000000000001,
+      0.045,
+      0.955
+    ],
+    "face_count": 45,
+    "style": "Coastal",
+    "gallery_position_m": [
+      4.455,
+      -13.794157433778903,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A43 - Framed Aegean island map artwork",
+    "file": "A43.json.gz",
+    "bounds_inches": [
+      -14.074803149606302,
+      -0.8858267716535433,
+      0.0,
+      14.074803149606302,
+      0.8858267716535433,
+      37.59842519685039
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Framed Aegean island map artwork"
+  },
+  {
+    "id": "A44",
+    "title": "Terracotta pot with arching green fern",
+    "category": "planting",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.3284204456296147,
+      -0.32891483578699865,
+      0.0,
+      0.327,
+      0.327285086387881,
+      0.6649948608077126
+    ],
+    "dimensions_m": [
+      0.6554204456296147,
+      0.6561999221748797,
+      0.6649948608077126
+    ],
+    "face_count": 3218,
+    "style": "Coastal",
+    "gallery_position_m": [
+      6.385710222814807,
+      -13.793342559079344,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A44 - Terracotta pot with arching green fern",
+    "file": "A44.json.gz",
+    "bounds_inches": [
+      -12.92993880431554,
+      -12.949402983740105,
+      0.0,
+      12.874015748031496,
+      12.885239621570118,
+      26.180900031799712
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Terracotta pot with arching green fern"
+  },
+  {
+    "id": "A45",
+    "title": "Handpainted blue white Greek ceramic jug",
+    "category": "accessory",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.14828401932224192,
+      -0.13,
+      0.0,
+      0.22339781036619383,
+      0.13,
+      0.33808252823719703
+    ],
+    "dimensions_m": [
+      0.37168182968843577,
+      0.26,
+      0.33808252823719703
+    ],
+    "face_count": 469,
+    "style": "Coastal",
+    "gallery_position_m": [
+      7.793617874945005,
+      -13.794157433778903,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A45 - Handpainted blue white Greek ceramic jug",
+    "file": "A45.json.gz",
+    "bounds_inches": [
+      -5.837953516623697,
+      -5.118110236220473,
+      0.0,
+      8.79518938449582,
+      5.118110236220473,
+      13.310335757369963
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Handpainted blue white Greek ceramic jug"
+  },
+  {
+    "id": "A46",
+    "title": "Blue white Greek double handle floor urn",
+    "category": "accessory",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.300859323471843,
+      -0.22,
+      0.0,
+      0.300859323471843,
+      0.22,
+      0.58
+    ],
+    "dimensions_m": [
+      0.601718646943686,
+      0.44,
+      0.58
+    ],
+    "face_count": 482,
+    "style": "Coastal",
+    "gallery_position_m": [
+      9.322349540933962,
+      -13.794157433778903,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A46 - Blue white Greek double handle floor urn",
+    "file": "A46.json.gz",
+    "bounds_inches": [
+      -11.84485525479697,
+      -8.661417322834646,
+      0.0,
+      11.84485525479697,
+      8.661417322834646,
+      22.834645669291337
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white Greek double handle floor urn"
+  },
+  {
+    "id": "A47",
+    "title": "Blue white lidded porcelain ginger jar",
+    "category": "accessory",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.16,
+      -0.16,
+      0.0,
+      0.16,
+      0.16,
+      0.45499999999999996
+    ],
+    "dimensions_m": [
+      0.32,
+      0.32,
+      0.45499999999999996
+    ],
+    "face_count": 440,
+    "style": "Coastal",
+    "gallery_position_m": [
+      11.907349540933962,
+      -13.794157433778903,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A47 - Blue white lidded porcelain ginger jar",
+    "file": "A47.json.gz",
+    "bounds_inches": [
+      -6.299212598425197,
+      -6.299212598425197,
+      0.0,
+      6.299212598425197,
+      6.299212598425197,
+      17.913385826771652
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Blue white lidded porcelain ginger jar"
+  },
+  {
+    "id": "A48",
+    "title": "Wide blue white decorative ceramic bowl",
+    "category": "accessory",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.24,
+      -0.24,
+      0.0,
+      0.24,
+      0.24,
+      0.17
+    ],
+    "dimensions_m": [
+      0.48,
+      0.48,
+      0.17
+    ],
+    "face_count": 336,
+    "style": "Coastal",
+    "gallery_position_m": [
+      14.489199108407053,
+      -13.794157433778903,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A48 - Wide blue white decorative ceramic bowl",
+    "file": "A48.json.gz",
+    "bounds_inches": [
+      -9.448818897637794,
+      -9.448818897637794,
+      0.0,
+      9.448818897637794,
+      9.448818897637794,
+      6.692913385826772
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Wide blue white decorative ceramic bowl"
+  },
+  {
+    "id": "A49",
+    "title": "Small gold framed coastal devotional icon",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.1325,
+      -0.02610871981112177,
+      0.0,
+      0.1325,
+      0.0225,
+      0.34500000000000003
+    ],
+    "dimensions_m": [
+      0.265,
+      0.04860871981112177,
+      0.34500000000000003
+    ],
+    "face_count": 746,
+    "style": "Coastal",
+    "gallery_position_m": [
+      15.913722738738509,
+      -13.792353073873342,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A49 - Small gold framed coastal devotional icon",
+    "file": "A49.json.gz",
+    "bounds_inches": [
+      -5.216535433070867,
+      -1.0279023547685737,
+      0.0,
+      5.216535433070867,
+      0.8858267716535433,
+      13.582677165354333
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Small gold framed coastal devotional icon"
+  },
+  {
+    "id": "A50",
+    "title": "Wall crucifix with small sculptural bronze figure",
+    "category": "wall_decor",
+    "reference_image": 5,
+    "bounds_m": [
+      -0.13,
+      -0.044,
+      0.0,
+      0.13,
+      0.0125,
+      0.54
+    ],
+    "dimensions_m": [
+      0.26,
+      0.056499999999999995,
+      0.54
+    ],
+    "face_count": 380,
+    "style": "Coastal",
+    "gallery_position_m": [
+      17.141396801596873,
+      -13.778407433778902,
+      0
+    ],
+    "group": "Coastal decor",
+    "name": "A50 - Wall crucifix with small sculptural bronze figure",
+    "file": "A50.json.gz",
+    "bounds_inches": [
+      -5.118110236220473,
+      -1.7322834645669292,
+      0.0,
+      5.118110236220473,
+      0.4921259842519686,
+      21.25984251968504
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Wall crucifix with small sculptural bronze figure"
+  },
+  {
+    "id": "B01",
+    "title": "Braided concentric jute oval",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.05,
+      -1.5,
+      0.0,
+      1.05,
+      1.5,
+      0.018
+    ],
+    "dimensions_m": [
+      2.1,
+      3.0,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      39.3078503132864,
+      2.1501254327602193,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B01 - Braided concentric jute oval",
+    "file": "B01.json.gz",
+    "bounds_inches": [
+      -41.338582677165356,
+      -59.05511811023622,
+      0.0,
+      41.338582677165356,
+      59.05511811023622,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Braided concentric jute oval"
+  },
+  {
+    "id": "B02",
+    "title": "Scalloped woven flower",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.352,
+      -1.352,
+      0.0,
+      1.352,
+      1.352,
+      0.018
+    ],
+    "dimensions_m": [
+      2.704,
+      2.704,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      43.3907006265728,
+      2.1501254327602193,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B02 - Scalloped woven flower",
+    "file": "B02.json.gz",
+    "bounds_inches": [
+      -53.22834645669292,
+      -53.22834645669292,
+      0.0,
+      53.22834645669292,
+      53.22834645669292,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Scalloped woven flower"
+  },
+  {
+    "id": "B03",
+    "title": "Twin braided pebble",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.3619729118920503,
+      -1.0683748608464618,
+      0.0,
+      1.4864380761089613,
+      0.9596165099812077,
+      0.018
+    ],
+    "dimensions_m": [
+      2.8484109880010116,
+      2.0279913708276696,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      46.902673538464846,
+      2.2045046081928463,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B03 - Twin braided pebble",
+    "file": "B03.json.gz",
+    "bounds_inches": [
+      -53.62098078315159,
+      -42.062002395529994,
+      0.0,
+      58.52118409877801,
+      37.780177558315266,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Twin braided pebble"
+  },
+  {
+    "id": "B04",
+    "title": "Framed natural fibre weave",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.65,
+      0.0,
+      1.2,
+      1.65,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.3,
+      0.018
+    ],
+    "face_count": 128,
+    "gallery_position_m": [
+      51.071961927860215,
+      2.1501254327602193,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B04 - Framed natural fibre weave",
+    "file": "B04.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -64.96062992125984,
+      0.0,
+      47.24409448818898,
+      64.96062992125984,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Framed natural fibre weave"
+  },
+  {
+    "id": "B05",
+    "title": "Moroccan diamond lattice",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      55.68766255443302,
+      2.1501386750490563,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B05 - Moroccan diamond lattice",
+    "file": "B05.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Moroccan diamond lattice"
+  },
+  {
+    "id": "B06",
+    "title": "Berber lozenge medallion",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      39.3078503132864,
+      6.450389540569494,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B06 - Berber lozenge medallion",
+    "file": "B06.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Berber lozenge medallion"
+  },
+  {
+    "id": "B07",
+    "title": "Broken-line artisan grid",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      43.3907006265728,
+      6.450389540569494,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B07 - Broken-line artisan grid",
+    "file": "B07.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Broken-line artisan grid"
+  },
+  {
+    "id": "B08",
+    "title": "Raised tufted olive checker",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      46.9649061205733,
+      6.450389540569494,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B08 - Raised tufted olive checker",
+    "file": "B08.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Raised tufted olive checker"
+  },
+  {
+    "id": "B09",
+    "title": "Terracotta Anatolian kilim",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      51.071961927860215,
+      6.450389540569494,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B09 - Terracotta Anatolian kilim",
+    "file": "B09.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Terracotta Anatolian kilim"
+  },
+  {
+    "id": "B10",
+    "title": "Ochre eight-point kilim",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      55.68766255443302,
+      6.450389540569494,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B10 - Ochre eight-point kilim",
+    "file": "B10.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Ochre eight-point kilim"
+  },
+  {
+    "id": "B11",
+    "title": "Earth chevron tapestry",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.2,
+      -1.7251386750490563,
+      0.0,
+      1.2,
+      1.7251121904713822,
+      0.018
+    ],
+    "dimensions_m": [
+      2.4,
+      3.4502508655204385,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      39.3078503132864,
+      11.966102461029834,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B11 - Earth chevron tapestry",
+    "file": "B11.json.gz",
+    "bounds_inches": [
+      -47.24409448818898,
+      -67.91884547437229,
+      0.0,
+      47.24409448818898,
+      67.91780277446387,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Earth chevron tapestry"
+  },
+  {
+    "id": "B12",
+    "title": "Striped olive runner",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.6,
+      -2.12512913771357,
+      0.0,
+      0.6,
+      2.125104474604893,
+      0.018
+    ],
+    "dimensions_m": [
+      1.2,
+      4.250233612318463,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      43.3907006265728,
+      11.966101550295335,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B12 - Striped olive runner",
+    "file": "B12.json.gz",
+    "bounds_inches": [
+      -23.62204724409449,
+      -83.66650148478622,
+      0.0,
+      23.62204724409449,
+      83.66553049625564,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Striped olive runner"
+  },
+  {
+    "id": "B13",
+    "title": "Warm sculpted rainbow",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.35,
+      -1.8,
+      0.0,
+      1.35,
+      1.8,
+      0.018
+    ],
+    "dimensions_m": [
+      2.7,
+      3.6,
+      0.018
+    ],
+    "face_count": 128,
+    "gallery_position_m": [
+      46.9649061205733,
+      11.966089218740997,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B13 - Warm sculpted rainbow",
+    "file": "B13.json.gz",
+    "bounds_inches": [
+      -53.14960629921261,
+      -70.86614173228347,
+      0.0,
+      53.14960629921261,
+      70.86614173228347,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Warm sculpted rainbow"
+  },
+  {
+    "id": "B14",
+    "title": "Sand river curves",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.8483918089963538,
+      -3.098287096454739,
+      0.0,
+      2.0173088175764473,
+      2.7828878789455027,
+      0.018
+    ],
+    "dimensions_m": [
+      3.865700626572801,
+      5.881174975400242,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      50.98750342357017,
+      12.123788827495614,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B14 - Sand river curves",
+    "file": "B14.json.gz",
+    "bounds_inches": [
+      -72.77133106284857,
+      -121.97980694703696,
+      0.0,
+      79.42160699119871,
+      109.56251491911428,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Sand river curves"
+  },
+  {
+    "id": "B15",
+    "title": "Olive lagoon pebble",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.8483918089963538,
+      -3.098287096454739,
+      0.0,
+      2.0173088175764473,
+      2.7828878789455027,
+      0.018
+    ],
+    "dimensions_m": [
+      3.865700626572801,
+      5.881174975400242,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      55.60320405014297,
+      12.123788827495614,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B15 - Olive lagoon pebble",
+    "file": "B15.json.gz",
+    "bounds_inches": [
+      -72.77133106284857,
+      -121.97980694703696,
+      0.0,
+      79.42160699119871,
+      109.56251491911428,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Olive lagoon pebble"
+  },
+  {
+    "id": "B16",
+    "title": "Irregular hand-carved contour",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.8483918089963538,
+      -3.098287096454739,
+      0.0,
+      2.0173088175764473,
+      2.7828878789455027,
+      0.018
+    ],
+    "dimensions_m": [
+      3.865700626572801,
+      5.881174975400242,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      39.223391808996354,
+      18.85496380289586,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B16 - Irregular hand-carved contour",
+    "file": "B16.json.gz",
+    "bounds_inches": [
+      -72.77133106284857,
+      -121.97980694703696,
+      0.0,
+      79.42160699119871,
+      109.56251491911428,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Irregular hand-carved contour"
+  },
+  {
+    "id": "B17",
+    "title": "Round sunburst jute",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.4,
+      -1.4,
+      0.0,
+      1.4,
+      1.4,
+      0.018
+    ],
+    "dimensions_m": [
+      2.8,
+      2.8,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      43.3907006265728,
+      18.69726419414124,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B17 - Round sunburst jute",
+    "file": "B17.json.gz",
+    "bounds_inches": [
+      -55.118110236220474,
+      -55.118110236220474,
+      0.0,
+      55.118110236220474,
+      55.118110236220474,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Round sunburst jute"
+  },
+  {
+    "id": "B18",
+    "title": "Tasselled nomad diamond",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.4,
+      -1.475145384606782,
+      0.0,
+      1.4,
+      1.475117618617607,
+      0.018
+    ],
+    "dimensions_m": [
+      2.8,
+      2.950263003224389,
+      0.018
+    ],
+    "face_count": 1108,
+    "gallery_position_m": [
+      46.9649061205733,
+      18.697278077135827,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B18 - Tasselled nomad diamond",
+    "file": "B18.json.gz",
+    "bounds_inches": [
+      -55.118110236220474,
+      -58.076589945148896,
+      0.0,
+      55.118110236220474,
+      58.07549679596878,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Tasselled nomad diamond"
+  },
+  {
+    "id": "B19",
+    "title": "Circular woven mandala",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.4,
+      -1.4,
+      0.0,
+      1.4,
+      1.4,
+      0.018
+    ],
+    "dimensions_m": [
+      2.8,
+      2.8,
+      0.018
+    ],
+    "face_count": 416,
+    "gallery_position_m": [
+      51.071961927860215,
+      18.69726419414124,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B19 - Circular woven mandala",
+    "file": "B19.json.gz",
+    "bounds_inches": [
+      -55.118110236220474,
+      -55.118110236220474,
+      0.0,
+      55.118110236220474,
+      55.118110236220474,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Circular woven mandala"
+  },
+  {
+    "id": "B20",
+    "title": "Shell fan natural weave",
+    "category": "rug",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -1.65,
+      -1.1,
+      0.0,
+      1.65,
+      1.099657357561397,
+      0.018
+    ],
+    "dimensions_m": [
+      3.3,
+      2.199657357561397,
+      0.018
+    ],
+    "face_count": 266,
+    "gallery_position_m": [
+      55.68766255443302,
+      18.697435515360542,
+      0
+    ],
+    "group": "Bohemian rug",
+    "name": "B20 - Shell fan natural weave",
+    "file": "B20.json.gz",
+    "bounds_inches": [
+      -64.96062992125984,
+      -43.30708661417324,
+      0.0,
+      64.96062992125984,
+      43.29359675438571,
+      0.7086614173228346
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Shell fan natural weave"
+  },
+  {
+    "id": "D01",
+    "title": "Large knotted macrame wall hanging",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.52,
+      -0.035996036987678594,
+      0.0,
+      0.52,
+      0.01982131509385322,
+      1.1214484140679999
+    ],
+    "dimensions_m": [
+      1.04,
+      0.05581735208153181,
+      1.1214484140679999
+    ],
+    "face_count": 2176,
+    "gallery_position_m": [
+      37.745,
+      -22.221035467104272,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D01 - Large knotted macrame wall hanging",
+    "file": "D01.json.gz",
+    "bounds_inches": [
+      -20.472440944881892,
+      -1.4171668105385273,
+      0.0,
+      20.472440944881892,
+      0.7803667359784733,
+      44.15151236488189
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Large knotted macrame wall hanging"
+  },
+  {
+    "id": "D02",
+    "title": "Three handwoven basket wall composition",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.5116991349461819,
+      -0.032972490504132895,
+      0.0,
+      0.42169913494618194,
+      0.012,
+      0.7933982698923638
+    ],
+    "dimensions_m": [
+      0.9333982698923639,
+      0.04497249050413289,
+      0.7933982698923638
+    ],
+    "face_count": 3996,
+    "gallery_position_m": [
+      39.22669913494619,
+      -22.218636582799117,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D02 - Three handwoven basket wall composition",
+    "file": "D02.json.gz",
+    "bounds_inches": [
+      -20.14563523410165,
+      -1.2981295474068069,
+      0.0,
+      16.60232814748748,
+      0.4724409448818898,
+      31.236152357967082
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Three handwoven basket wall composition"
+  },
+  {
+    "id": "D03",
+    "title": "Tall arched cane framed mirror",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.3155988298610377,
+      -0.02270290660370726,
+      0.0,
+      0.3155988298610377,
+      0.016,
+      1.0106686927493689
+    ],
+    "dimensions_m": [
+      0.6311976597220754,
+      0.03870290660370726,
+      1.0106686927493689
+    ],
+    "face_count": 651,
+    "gallery_position_m": [
+      40.4139970997534,
+      -22.225771374749332,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D03 - Tall arched cane framed mirror",
+    "file": "D03.json.gz",
+    "bounds_inches": [
+      -12.425150781930618,
+      -0.8938152206183961,
+      0.0,
+      12.425150781930618,
+      0.6299212598425197,
+      39.79010601375468
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Tall arched cane framed mirror"
+  },
+  {
+    "id": "D04",
+    "title": "Carved rattan sunburst mirror",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.44,
+      -0.024415501886438706,
+      0.0,
+      0.44,
+      0.006,
+      0.878121478570059
+    ],
+    "dimensions_m": [
+      0.88,
+      0.030415501886438705,
+      0.878121478570059
+    ],
+    "face_count": 679,
+    "gallery_position_m": [
+      41.619595929614434,
+      -22.219915077107967,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D04 - Carved rattan sunburst mirror",
+    "file": "D04.json.gz",
+    "bounds_inches": [
+      -17.322834645669293,
+      -0.9612402317495554,
+      0.0,
+      17.322834645669293,
+      0.2362204724409449,
+      34.571711754726735
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Carved rattan sunburst mirror"
+  },
+  {
+    "id": "D05",
+    "title": "Three panel carved cane folding screen",
+    "category": "decor_furniture",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.7025487024192728,
+      -0.018,
+      0.0,
+      0.7025487024192728,
+      0.13799999999999998,
+      1.52
+    ],
+    "dimensions_m": [
+      1.4050974048385456,
+      0.15599999999999997,
+      1.52
+    ],
+    "face_count": 1431,
+    "gallery_position_m": [
+      43.212144632033706,
+      -22.289122828051184,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D05 - Three panel carved cane folding screen",
+    "file": "D05.json.gz",
+    "bounds_inches": [
+      -27.659397733042237,
+      -0.7086614173228346,
+      0.0,
+      27.659397733042237,
+      5.4330708661417315,
+      59.84251968503937
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Three panel carved cane folding screen"
+  },
+  {
+    "id": "D06",
+    "title": "Large amphora with pampas plumes",
+    "category": "floral",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.30093277006407176,
+      -0.2762050062575681,
+      0.0,
+      0.30093277006407176,
+      0.27848470174124995,
+      1.397194745806835
+    ],
+    "dimensions_m": [
+      0.6018655401281435,
+      0.554689707998818,
+      1.397194745806835
+    ],
+    "face_count": 2453,
+    "gallery_position_m": [
+      44.66562610451705,
+      -22.230262675793025,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D06 - Large amphora with pampas plumes",
+    "file": "D06.json.gz",
+    "bounds_inches": [
+      -11.847746852916211,
+      -10.874212844786147,
+      0.0,
+      11.847746852916211,
+      10.963964635482283,
+      55.00766715774941
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Large amphora with pampas plumes"
+  },
+  {
+    "id": "D07",
+    "title": "Textured terracotta olive tree planter",
+    "category": "planting",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.44767851147704274,
+      -0.452510665679463,
+      0.0,
+      0.4538388030323254,
+      0.43924367821816634,
+      1.6919880334999098
+    ],
+    "dimensions_m": [
+      0.9015173145093681,
+      0.8917543438976294,
+      1.6919880334999098
+    ],
+    "face_count": 770,
+    "gallery_position_m": [
+      45.86423738605816,
+      -22.222489334320535,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D07 - Textured terracotta olive tree planter",
+    "file": "D07.json.gz",
+    "bounds_inches": [
+      -17.62513824712767,
+      -17.815380538561538,
+      0.0,
+      17.867669410721472,
+      17.293058197565603,
+      66.61370210629566
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Textured terracotta olive tree planter"
+  },
+  {
+    "id": "D08",
+    "title": "Large woven rattan floor lantern",
+    "category": "lighting",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.25487388955866436,
+      -0.2545041512332168,
+      0.0,
+      0.25487388955866436,
+      0.25499923071005004,
+      0.9177994232974546
+    ],
+    "dimensions_m": [
+      0.5097477791173287,
+      0.5095033819432668,
+      0.9177994232974546
+    ],
+    "face_count": 1952,
+    "gallery_position_m": [
+      47.022950078649146,
+      -22.229370367789603,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D08 - Large woven rattan floor lantern",
+    "file": "D08.json.gz",
+    "bounds_inches": [
+      -10.034405100734817,
+      -10.019848473748693,
+      0.0,
+      10.034405100734817,
+      10.039339791734253,
+      36.13383556289191
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Large woven rattan floor lantern"
+  },
+  {
+    "id": "D09",
+    "title": "Tiered timber bead pendant",
+    "category": "lighting",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.336,
+      -0.33106251972896766,
+      0.0,
+      0.336,
+      0.3310625197289676,
+      0.8746243556529822
+    ],
+    "dimensions_m": [
+      0.672,
+      0.6621250394579352,
+      0.8746243556529822
+    ],
+    "face_count": 13753,
+    "gallery_position_m": [
+      48.087823968207815,
+      -22.229122828051185,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D09 - Tiered timber bead pendant",
+    "file": "D09.json.gz",
+    "bounds_inches": [
+      -13.228346456692915,
+      -13.033957469644397,
+      0.0,
+      13.228346456692915,
+      13.033957469644395,
+      34.43402975011741
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Tiered timber bead pendant"
+  },
+  {
+    "id": "D10",
+    "title": "Bohemian sculptural arch niche display",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.41387172576189146,
+      -0.185,
+      0.0,
+      0.41387172576189146,
+      0.045,
+      1.096833371292925
+    ],
+    "dimensions_m": [
+      0.8277434515237829,
+      0.22999999999999998,
+      1.096833371292925
+    ],
+    "face_count": 1114,
+    "gallery_position_m": [
+      49.31169569396971,
+      -22.159122828051185,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D10 - Bohemian sculptural arch niche display",
+    "file": "D10.json.gz",
+    "bounds_inches": [
+      -16.29416243157053,
+      -7.283464566929134,
+      0.0,
+      16.29416243157053,
+      1.7716535433070866,
+      43.18241619263485
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Bohemian sculptural arch niche display"
+  },
+  {
+    "id": "D11",
+    "title": "Sculptural loop ceramic trio",
+    "category": "accessory",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.2791224769263638,
+      -0.04,
+      0.0,
+      0.3741224769263638,
+      0.04,
+      0.4228449538527277
+    ],
+    "dimensions_m": [
+      0.6532449538527276,
+      0.08,
+      0.4228449538527277
+    ],
+    "face_count": 1896,
+    "gallery_position_m": [
+      37.6975,
+      -20.765376788129696,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D11 - Sculptural loop ceramic trio",
+    "file": "D11.json.gz",
+    "bounds_inches": [
+      -10.989073894738734,
+      -1.5748031496062993,
+      0.0,
+      14.729231375053693,
+      1.5748031496062993,
+      16.647439128060146
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Sculptural loop ceramic trio"
+  },
+  {
+    "id": "D12",
+    "title": "Amber bottle vase with dried stems",
+    "category": "floral",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.15952760822381665,
+      -0.16115675162526802,
+      0.0,
+      0.16176426601647978,
+      0.159292074363577,
+      0.9205300471743518
+    ],
+    "dimensions_m": [
+      0.3212918742402964,
+      0.32044882598884505,
+      0.9205300471743518
+    ],
+    "face_count": 425,
+    "gallery_position_m": [
+      39.18058080604985,
+      -20.76444444949885,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D12 - Amber bottle vase with dried stems",
+    "file": "D12.json.gz",
+    "bounds_inches": [
+      -6.280614497000656,
+      -6.344754000994804,
+      0.0,
+      6.36867189041259,
+      6.271341510377048,
+      36.241340439935115
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Amber bottle vase with dried stems"
+  },
+  {
+    "id": "D13",
+    "title": "Three handle artisan clay vessel",
+    "category": "accessory",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.17,
+      -0.2228266166872366,
+      0.0,
+      0.25511398139493924,
+      0.22364239689825055,
+      0.43
+    ],
+    "dimensions_m": [
+      0.4251139813949393,
+      0.4464690135854872,
+      0.43
+    ],
+    "face_count": 403,
+    "gallery_position_m": [
+      40.37144010905593,
+      -20.765784678235203,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D13 - Three handle artisan clay vessel",
+    "file": "D13.json.gz",
+    "bounds_inches": [
+      -6.692913385826772,
+      -8.772701444379395,
+      0.0,
+      10.043857535233828,
+      8.804818775521676,
+      16.92913385826772
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Three handle artisan clay vessel"
+  },
+  {
+    "id": "D14",
+    "title": "Terracotta embroidered lumbar cushion",
+    "category": "accessory",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.273,
+      -0.09042705098312484,
+      0.0,
+      0.273,
+      0.08800000000000001,
+      0.40249999999999997
+    ],
+    "dimensions_m": [
+      0.546,
+      0.17842705098312484,
+      0.40249999999999997
+    ],
+    "face_count": 716,
+    "gallery_position_m": [
+      41.619595929614434,
+      -20.764163262638135,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D14 - Terracotta embroidered lumbar cushion",
+    "file": "D14.json.gz",
+    "bounds_inches": [
+      -10.748031496062993,
+      -3.56012011744586,
+      0.0,
+      10.748031496062993,
+      3.4645669291338588,
+      15.846456692913385
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Terracotta embroidered lumbar cushion"
+  },
+  {
+    "id": "D15",
+    "title": "Ivory charcoal diamond cushion",
+    "category": "accessory",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.273,
+      -0.09042705098312484,
+      0.0,
+      0.273,
+      0.08800000000000001,
+      0.40249999999999997
+    ],
+    "dimensions_m": [
+      0.546,
+      0.17842705098312484,
+      0.40249999999999997
+    ],
+    "face_count": 716,
+    "gallery_position_m": [
+      43.212144632033706,
+      -20.764163262638135,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D15 - Ivory charcoal diamond cushion",
+    "file": "D15.json.gz",
+    "bounds_inches": [
+      -10.748031496062993,
+      -3.56012011744586,
+      0.0,
+      10.748031496062993,
+      3.4645669291338588,
+      15.846456692913385
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Ivory charcoal diamond cushion"
+  },
+  {
+    "id": "D16",
+    "title": "Carved oak drum side table",
+    "category": "decor_furniture",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.25,
+      -0.25,
+      0.0,
+      0.25,
+      0.25,
+      0.44
+    ],
+    "dimensions_m": [
+      0.5,
+      0.5,
+      0.44
+    ],
+    "face_count": 1232,
+    "gallery_position_m": [
+      44.66562610451705,
+      -20.765376788129696,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D16 - Carved oak drum side table",
+    "file": "D16.json.gz",
+    "bounds_inches": [
+      -9.84251968503937,
+      -9.84251968503937,
+      0.0,
+      9.84251968503937,
+      9.84251968503937,
+      17.322834645669293
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Carved oak drum side table"
+  },
+  {
+    "id": "D17",
+    "title": "Fern in handwoven plant basket",
+    "category": "planting",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.36882091425586955,
+      -0.36976467797565615,
+      0.0,
+      0.368,
+      0.36597305796969376,
+      0.7972106913713086
+    ],
+    "dimensions_m": [
+      0.7368209142558695,
+      0.7357377359453499,
+      0.7972106913713086
+    ],
+    "face_count": 8505,
+    "gallery_position_m": [
+      45.867727988963736,
+      -20.763480978126715,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D17 - Fern in handwoven plant basket",
+    "file": "D17.json.gz",
+    "bounds_inches": [
+      -14.520508435270456,
+      -14.557664487230557,
+      0.0,
+      14.488188976377954,
+      14.408388109043061,
+      31.386247691783804
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Fern in handwoven plant basket"
+  },
+  {
+    "id": "D18",
+    "title": "Lidded woven storage basket",
+    "category": "accessory",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.244,
+      -0.24358719061818943,
+      0.0,
+      0.244,
+      0.24358719061818943,
+      0.5627994232974547
+    ],
+    "dimensions_m": [
+      0.488,
+      0.48717438123637885,
+      0.5627994232974547
+    ],
+    "face_count": 9132,
+    "gallery_position_m": [
+      47.022950078649146,
+      -20.765376788129696,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D18 - Lidded woven storage basket",
+    "file": "D18.json.gz",
+    "bounds_inches": [
+      -9.606299212598426,
+      -9.590046874731868,
+      0.0,
+      9.606299212598426,
+      9.590046874731868,
+      22.157457610136014
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Lidded woven storage basket"
+  },
+  {
+    "id": "D19",
+    "title": "Hand carved oak botanical wall relief",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.36,
+      -0.026306782075316934,
+      0.0,
+      0.36,
+      0.052500000000000005,
+      1.02
+    ],
+    "dimensions_m": [
+      0.72,
+      0.07880678207531694,
+      1.02
+    ],
+    "face_count": 12451,
+    "gallery_position_m": [
+      48.087823968207815,
+      -20.77847339709204,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D19 - Hand carved oak botanical wall relief",
+    "file": "D19.json.gz",
+    "bounds_inches": [
+      -14.173228346456693,
+      -1.0357000817053912,
+      0.0,
+      14.173228346456693,
+      2.066929133858268,
+      40.15748031496063
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Hand carved oak botanical wall relief"
+  },
+  {
+    "id": "D20",
+    "title": "Ceramic bead and rope wall garland",
+    "category": "wall_decor",
+    "reference_image": null,
+    "style": "Bohemian",
+    "bounds_m": [
+      -0.4,
+      -0.024,
+      0.0,
+      0.4,
+      0.024,
+      0.8465737745070909
+    ],
+    "dimensions_m": [
+      0.8,
+      0.048,
+      0.8465737745070909
+    ],
+    "face_count": 3264,
+    "gallery_position_m": [
+      49.31169569396971,
+      -20.765376788129696,
+      0
+    ],
+    "group": "Bohemian decor",
+    "name": "D20 - Ceramic bead and rope wall garland",
+    "file": "D20.json.gz",
+    "bounds_inches": [
+      -15.748031496062994,
+      -0.9448818897637796,
+      0.0,
+      15.748031496062994,
+      0.9448818897637796,
+      33.3296761616965
+    ],
+    "transform_inches": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "description": "Ceramic bead and rope wall garland"
+  }
+]

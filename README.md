@@ -1,3 +1,9 @@
+## مكتبة السجاد والديكور — ساحلي وبوهيمي معًا
+
+[تحميل الإكستنشن الجديد — 115 بلوك](drawings/coastal-bohemian-rugs-decor-115/Ayaa_Coastal_Bohemian_Rugs_Decor_115_v1_0.rbz) · [ملف SKP مباشر](drawings/coastal-bohemian-rugs-decor-115/Ayaa_Coastal_Bohemian_Rugs_Decor_115_Blocks.skp) · [الكتالوج والتشغيل والتحقق](drawings/coastal-bohemian-rugs-decor-115/README.md)
+
+٤٥ سجادة مستقلة: ٢٥ ساحلي و٢٠ بوهيمي، مع ٧٠ بلوك ديكور وإكسسوار. كتالوج مصور داخل SketchUp لإدراج أي قطعة وحدها، أو إضافة مجموعة، وحفظ القطع المحددة كملفات SKP مستقلة. الإضافات السابقة محفوظة.
+
 ## المطعم البوهيمي — توزيع هندسي متماثل جديد V2
 
 [إكستنشن مستقل جديد](drawings/bohemian-symmetric-restaurant-v2/Ayaa_Symmetric_Bohemian_Restaurant_v2_0.rbz) · [DWG مطابق](drawings/bohemian-symmetric-restaurant-v2/Ayaa_Symmetric_Bohemian_Restaurant_v2.dwg) · [التشغيل والعدد والتحقق](drawings/bohemian-symmetric-restaurant-v2/README.md)
