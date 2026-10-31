@@ -1,0 +1,25 @@
+{
+  "version": "1.0.1",
+  "geometry_payloads_and_manifest_unchanged": true,
+  "component_thumbnails": 115,
+  "new_visible_toolbar": true,
+  "menu_registration_loads_before_geometry_engine": true,
+  "explicit_archive_parent_directories": true,
+  "SketchUp_Desktop_tested": false,
+  "downloads": {
+    "Ayaa_115_v101.rbz": {
+      "bytes": 16466761,
+      "sha256": "a3d255ce31815ba63c72271b07e2b888bf0e8f828ae16afb43735bc9d15f6f4d"
+    },
+    "Ayaa_115_Install_v101.zip": {
+      "bytes": 16467789,
+      "sha256": "7c7bd67a9dd19c394f81056ed86e17faaa07e69d50c337b98853707a772e2bb5"
+    },
+    "Ayaa_115_Model_SKP.zip": {
+      "bytes": 38943240,
+      "sha256": "8522a43b4b8be7ea7d298a7704f8e63ae4914340a70d10894d6a717196d7ea44"
+    }
+  },
+  "startup_registration_test": "passed with SketchUp API test doubles: register extension, menu, toolbar, lazy engine, manifest and reload",
+  "Ruby_syntax": "passed, Ruby 3.1"
+}
