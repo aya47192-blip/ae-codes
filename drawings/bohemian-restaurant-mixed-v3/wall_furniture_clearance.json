@@ -1,0 +1,6 @@
+{
+  "check": "Conservative bounding boxes in each wall mounting frame, 3mm tolerance",
+  "wall_features": 55,
+  "furniture_items": 239,
+  "overlaps": []
+}

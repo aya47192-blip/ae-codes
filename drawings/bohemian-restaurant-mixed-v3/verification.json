@@ -1,0 +1,27 @@
+{
+  "seats": 186,
+  "tables": 60,
+  "table_mix": {
+    "2": 29,
+    "4": 29,
+    "6": 2
+  },
+  "triangular_L_booths": 3,
+  "max_seats_per_table": 6,
+  "primary_aisle_m": 1.8,
+  "connected_secondary_walking_width_test_m": 0.99,
+  "actual_furniture_errors": [],
+  "unreached_chairs": [],
+  "floor_decor_blocks": 11,
+  "base_floor_unchanged": true,
+  "SketchUp_Desktop_tested": false,
+  "rbz_sha256": "fb02120a706378e3e26853db43e48e4216c8aa7909421686d7030ccfa3418387",
+  "rbz_bytes": 5079568,
+  "version": "3.0.0",
+  "wall_mounts_checked": 55,
+  "floor_decor_independent_components": 11,
+  "base_floor_payload_sha256": "a72e3a04136571179020e59eba2fa2d877e69108745838f74f6ebbd8fd8b8c5c",
+  "Ruby_syntax": "passed Ruby 3.1",
+  "archive_crc": "passed",
+  "extension_registration_stub_test": "passed: extension registration, menu and visible toolbar; not actual SketchUp Desktop"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "Ayaa_Bohemian_Restaurant_Mixed_v300.skp",
+  "bytes": 79225983,
+  "sha256": "34e40892cd4a679b74de753fa75823e683899a4a4353c30832c5e31f8aee5cb3",
+  "format": "{17.0.1}",
+  "components": 447,
+  "definitions": 165,
+  "independent_floor_decor": 11,
+  "root_loose_faces": 0,
+  "maximum_world_geometry_bounds_error_mm": 0.0,
+  "all_transforms_match_source": true,
+  "all_root_instances_rigid_or_reflections": true,
+  "embedded_images_verified": 8,
+  "roof_hidden_only": true,
+  "saved_scenes": 3,
+  "initial_camera_fitted_to_restaurant": true,
+  "SketchUp_Desktop_tested": false
+}

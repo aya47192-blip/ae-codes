@@ -1,0 +1,24 @@
+{
+  "COLOR": {
+    "filename": "Ayaa_Restaurant_Mixed_COLOR.dxf",
+    "bytes": 516555,
+    "sha256": "6c7213aff17b42a602e08625470ee9c07fd8d98ee7d20be9d69f77bdcfdaf1e2",
+    "dxf_version": "AC1018",
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "matched_complete_asset_inserts": 338,
+    "hatches_in_definitions": 336,
+    "loose_modelspace_geometry": 0
+  },
+  "LINEWORK": {
+    "filename": "Ayaa_Restaurant_Mixed_LINEWORK.dxf",
+    "bytes": 319451,
+    "sha256": "1c4d92abb6503bace66d12d450756eba6da10d57f111ec6c92aac49463a7ad86",
+    "dxf_version": "AC1018",
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "matched_complete_asset_inserts": 338,
+    "hatches_in_definitions": 0,
+    "loose_modelspace_geometry": 0
+  }
+}

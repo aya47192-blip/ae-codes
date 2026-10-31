@@ -1,0 +1,6 @@
+﻿فكي ضغط ZIP أولًا (Extract All).
+SKP: افتحيه مباشرة من File > Open في SketchUp، ولا تثبتيه كإضافة.
+RBZ: اختياري؛ من Extension Manager > Install Extension ثم اختاري RBZ، وبعدها Extensions > Ayaa Bohemian Restaurant MIXED 3.0 > Build في ملف جديد فارغ.
+DXF: نسختان متطابقتان في الفرش، COLOR ملونة وLINEWORK خطوط. يمكن حفظ DWG من داخل AutoCAD.
+هذه نسخة جديدة مستقلة: 186 مقعدًا و60 ترابيزة، منها29لشخصين و29لأربعة و2لستة.
+فحوص برمجية؛ لم يختبر الفتح داخل تطبيقات Desktop هنا.

@@ -1,3 +1,9 @@
+## المطعم البوهيمي — فرش مختلط جديد V3
+
+[نسختا DXF: ملونة وخطوط](drawings/bohemian-restaurant-mixed-v3/Ayaa_Restaurant_Mixed_AutoCAD.zip) · [SketchUp وإكستنشن مستقل](drawings/bohemian-restaurant-mixed-v3/Ayaa_Restaurant_Mixed_SketchUp.zip) · [التفاصيل والفحوص](drawings/bohemian-restaurant-mixed-v3/README.md)
+
+٢٩ ترابيزة لشخصين، ٢٩ لأربعة وترابيزتان لستة؛ ١٨٦ مقعدًا، وركنيات تستغل المثلثات الثلاثة وتحافظ على الأبواب والممرات. ألوان عرض أوضح ونسخة خطوط بدون تعبئة. الفحوص برمجية، ولم يختبر الفتح داخل تطبيقات Desktop هنا.
+
 ## المطعم البوهيمي — نسخة مراجعة 2.1 مع SKP وDWG
 
 [تحميل SketchUp](drawings/bohemian-restaurant-ready-v210/Ayaa_Restaurant_READY_SketchUp.zip) · [تحميل AutoCAD](drawings/bohemian-restaurant-ready-v210/Ayaa_Restaurant_READY_AutoCAD.zip) · [التفاصيل والتحقق](drawings/bohemian-restaurant-ready-v210/README.md)
