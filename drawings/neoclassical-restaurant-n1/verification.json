@@ -1,0 +1,45 @@
+{
+  "DXF": {
+    "Ayaa_Restaurant_Neoclassical_WALL_DETAILS.dxf": {
+      "audit_errors": 0,
+      "audit_fixes": 0,
+      "format": "AC1018",
+      "insert_count": 34
+    },
+    "Ayaa_Restaurant_Neoclassical_COLOR.dxf": {
+      "audit_errors": 0,
+      "audit_fixes": 0,
+      "format": "AC1018",
+      "insert_count": 344
+    },
+    "Ayaa_Restaurant_Neoclassical_LINEWORK.dxf": {
+      "audit_errors": 0,
+      "audit_fixes": 0,
+      "format": "AC1018",
+      "insert_count": 344
+    }
+  },
+  "source_aligned_asset_inserts": 338,
+  "seats": 186,
+  "tables": 60,
+  "table_mix": {
+    "2": 29,
+    "4": 29,
+    "6": 2
+  },
+  "primary_aisle_m": 1.8,
+  "secondary_walk_connectivity_test_width_m": 0.99,
+  "geometry_conflicts": [],
+  "unreached_chairs": [],
+  "architecture_geometry_unchanged": true,
+  "unique_wall_decor_compositions": 29,
+  "separate_removable_floor_decor_blocks": 11,
+  "AutoCAD_Desktop_open_tested": false,
+  "no_SketchUp_deliverables": true,
+  "pdf_pages": 9,
+  "PDF_readback": "passed",
+  "CAD_only": true,
+  "wall_details_independent_blocks": 29,
+  "furniture_design_elevations": 4,
+  "unified_sconce_elevation": 1
+}

@@ -1,3 +1,9 @@
+## المطعم — أوبشن نيو كلاسيك N1 / أوتوكاد فقط
+
+[PDF معاينة — ٩ صفحات](drawings/neoclassical-restaurant-n1/Ayaa_Restaurant_Neoclassical_PREVIEW.pdf) · [تحميل الأوتوكاد](drawings/neoclassical-restaurant-n1/Ayaa_Restaurant_Neoclassical_AutoCAD.zip) · [التفاصيل](drawings/neoclassical-restaurant-n1/README.md)
+
+نفس حدود المطعم وركنياته وممراته، بفرش نيو كلاسيك: كراسي بظهور بيضاوية، رخام ونحاس، ركنيات كابيتونيه، و٢٩ تكوين حائط مختلفًا. نسختا DXF ملونة وخطوط، وملف تفاصيل مستقل. لا يوجد SketchUp في هذه الحزمة.
+
 ## المطعم البوهيمي — فرش مختلط جديد V3
 
 [نسختا DXF: ملونة وخطوط](drawings/bohemian-restaurant-mixed-v3/Ayaa_Restaurant_Mixed_AutoCAD.zip) · [SketchUp وإكستنشن مستقل](drawings/bohemian-restaurant-mixed-v3/Ayaa_Restaurant_Mixed_SketchUp.zip) · [التفاصيل والفحوص](drawings/bohemian-restaurant-mixed-v3/README.md)

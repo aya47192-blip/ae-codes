@@ -1,0 +1,292 @@
+[
+  {
+    "id": "W01",
+    "width": 0.5677,
+    "variant": 0,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_00",
+    "block": "NC_N1_ELEV_W01",
+    "x": 0.0,
+    "y": 0.0,
+    "height": 1.55
+  },
+  {
+    "id": "W02",
+    "width": 1.76,
+    "variant": 1,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_01",
+    "block": "NC_N1_ELEV_W02",
+    "x": 3.2,
+    "y": 0.0,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W03",
+    "width": 0.723314,
+    "variant": 2,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_02",
+    "block": "NC_N1_ELEV_W03",
+    "x": 6.4,
+    "y": 0.0,
+    "height": 1.81
+  },
+  {
+    "id": "W04",
+    "width": 1.4949,
+    "variant": 3,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_03",
+    "block": "NC_N1_ELEV_W04",
+    "x": 9.600000000000001,
+    "y": 0.0,
+    "height": 1.55
+  },
+  {
+    "id": "W05",
+    "width": 1.845014,
+    "variant": 4,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_04",
+    "block": "NC_N1_ELEV_W05",
+    "x": 12.8,
+    "y": 0.0,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W06",
+    "width": 1.311776,
+    "variant": 5,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_05",
+    "block": "NC_N1_ELEV_W06",
+    "x": 16.0,
+    "y": 0.0,
+    "height": 1.81
+  },
+  {
+    "id": "W07",
+    "width": 1.135,
+    "variant": 6,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_06",
+    "block": "NC_N1_ELEV_W07",
+    "x": 0.0,
+    "y": -2.7,
+    "height": 1.55
+  },
+  {
+    "id": "W08",
+    "width": 0.8853,
+    "variant": 7,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_07",
+    "block": "NC_N1_ELEV_W08",
+    "x": 3.2,
+    "y": -2.7,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W09",
+    "width": 1.3296,
+    "variant": 8,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_08",
+    "block": "NC_N1_ELEV_W09",
+    "x": 6.4,
+    "y": -2.7,
+    "height": 1.81
+  },
+  {
+    "id": "W10",
+    "width": 1.398388,
+    "variant": 9,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_09",
+    "block": "NC_N1_ELEV_W10",
+    "x": 9.600000000000001,
+    "y": -2.7,
+    "height": 1.55
+  },
+  {
+    "id": "W11",
+    "width": 1.065532,
+    "variant": 10,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_10",
+    "block": "NC_N1_ELEV_W11",
+    "x": 12.8,
+    "y": -2.7,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W12",
+    "width": 2.484,
+    "variant": 11,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_11",
+    "block": "NC_N1_ELEV_W12",
+    "x": 16.0,
+    "y": -2.7,
+    "height": 1.81
+  },
+  {
+    "id": "W13",
+    "width": 2.484,
+    "variant": 12,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_12",
+    "block": "NC_N1_ELEV_W13",
+    "x": 0.0,
+    "y": -5.4,
+    "height": 1.55
+  },
+  {
+    "id": "W14",
+    "width": 1.385,
+    "variant": 13,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_13",
+    "block": "NC_N1_ELEV_W14",
+    "x": 3.2,
+    "y": -5.4,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W15",
+    "width": 1.135,
+    "variant": 14,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_14",
+    "block": "NC_N1_ELEV_W15",
+    "x": 6.4,
+    "y": -5.4,
+    "height": 1.81
+  },
+  {
+    "id": "W16",
+    "width": 1.06553,
+    "variant": 15,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_15",
+    "block": "NC_N1_ELEV_W16",
+    "x": 9.600000000000001,
+    "y": -5.4,
+    "height": 1.55
+  },
+  {
+    "id": "W17",
+    "width": 1.21454,
+    "variant": 16,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_16",
+    "block": "NC_N1_ELEV_W17",
+    "x": 12.8,
+    "y": -5.4,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W18",
+    "width": 2.484,
+    "variant": 17,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_17",
+    "block": "NC_N1_ELEV_W18",
+    "x": 16.0,
+    "y": -5.4,
+    "height": 1.81
+  },
+  {
+    "id": "W19",
+    "width": 2.484,
+    "variant": 18,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_18",
+    "block": "NC_N1_ELEV_W19",
+    "x": 0.0,
+    "y": -8.100000000000001,
+    "height": 1.55
+  },
+  {
+    "id": "W20",
+    "width": 2.484,
+    "variant": 19,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_19",
+    "block": "NC_N1_ELEV_W20",
+    "x": 3.2,
+    "y": -8.100000000000001,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W21",
+    "width": 2.484,
+    "variant": 20,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_20",
+    "block": "NC_N1_ELEV_W21",
+    "x": 6.4,
+    "y": -8.100000000000001,
+    "height": 1.81
+  },
+  {
+    "id": "W22",
+    "width": 2.484,
+    "variant": 21,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_21",
+    "block": "NC_N1_ELEV_W22",
+    "x": 9.600000000000001,
+    "y": -8.100000000000001,
+    "height": 1.55
+  },
+  {
+    "id": "W23",
+    "width": 2.15,
+    "variant": 22,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_22",
+    "block": "NC_N1_ELEV_W23",
+    "x": 12.8,
+    "y": -8.100000000000001,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W24",
+    "width": 2.484,
+    "variant": 23,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_23",
+    "block": "NC_N1_ELEV_W24",
+    "x": 16.0,
+    "y": -8.100000000000001,
+    "height": 1.81
+  },
+  {
+    "id": "W25",
+    "width": 2.484,
+    "variant": 24,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_24",
+    "block": "NC_N1_ELEV_W25",
+    "x": 0.0,
+    "y": -10.8,
+    "height": 1.55
+  },
+  {
+    "id": "W26",
+    "width": 2.484,
+    "variant": 25,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_25",
+    "block": "NC_N1_ELEV_W26",
+    "x": 3.2,
+    "y": -10.8,
+    "height": 1.6800000000000002
+  },
+  {
+    "id": "W27",
+    "width": 2.484,
+    "variant": 26,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_26",
+    "block": "NC_N1_ELEV_W27",
+    "x": 6.4,
+    "y": -10.8,
+    "height": 1.81
+  },
+  {
+    "id": "W28",
+    "width": 2.206176,
+    "variant": 27,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_27",
+    "block": "NC_N1_ELEV_W28",
+    "x": 9.600000000000001,
+    "y": -10.8,
+    "height": 1.55
+  },
+  {
+    "id": "W29",
+    "width": 2.484,
+    "variant": 28,
+    "plan_definition": "AYAA_M3_UNIQUE_WALL_COMPOSITION_28",
+    "block": "NC_N1_ELEV_W29",
+    "x": 12.8,
+    "y": -10.8,
+    "height": 1.6800000000000002
+  }
+]
