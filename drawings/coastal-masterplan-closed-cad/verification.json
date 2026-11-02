@@ -1,0 +1,49 @@
+{
+  "reference": "exec-545f3fef-e614-4dea-9480-9b165d52a908.png",
+  "source_raster_pixels": [
+    1300,
+    1209
+  ],
+  "units": "millimetres",
+  "reference_scale_bar_m": 50,
+  "scale_bar_pixel_span": 216,
+  "millimetres_per_source_pixel": 231.4814814814815,
+  "dimension_precision_is_source_image_limited": true,
+  "closed_2D_LWPOLYLINE_count": 229,
+  "open_entities": 0,
+  "loose_LINE_or_ARC_entities": 0,
+  "nonplanar_entities": 0,
+  "self_intersecting_contours": 0,
+  "maximum_internal_chain_endpoint_gap_mm": 0.0,
+  "main_building_closed_count": 1,
+  "main_building_layer": "01_MAIN_BUILDING_CLOSED",
+  "main_building_area_m2": 2385.9400958142573,
+  "native_circular_arc_segments": 3327,
+  "all_text_and_reference_symbols_removed": true,
+  "trace_sample_distance_to_original_ink_pixels": {
+    "median": 0.0,
+    "p95": 0.0,
+    "p99": 2.0,
+    "maximum": 7.0
+  },
+  "dxf_audit_errors": 0,
+  "dxf_audit_fixes": 0,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_import_tested": false,
+  "lower_reference_crop_closed_at_visible_image_edge": true,
+  "DWG_readback": {
+    "format_signature": "AC1015",
+    "DWG_roundtrip_closed_polylines": 229,
+    "geometry_max_roundtrip_difference_mm": 5.820766091346741e-11,
+    "units_mm": 4,
+    "AutoCAD_Desktop_tested": false
+  },
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "DWG_load": "passed",
+    "DWG_to_PDF_render": "passed",
+    "rendered_PDF_pages": 1,
+    "AutoCAD_Desktop_tested": false
+  },
+  "standalone_main_building_DXF_closed_polylines": 1
+}

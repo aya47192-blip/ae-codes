@@ -1,0 +1,7 @@
+{
+  "reader": "Aspose.CAD 26.7",
+  "DWG_load": "passed",
+  "DWG_to_PDF_render": "passed",
+  "rendered_PDF_pages": 1,
+  "AutoCAD_Desktop_tested": false
+}

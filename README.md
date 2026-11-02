@@ -1,3 +1,9 @@
+## البلان الساحلي — ملف أوتوكاد بحدود مقفولة
+
+[PDF المعاينة](drawings/coastal-masterplan-closed-cad/Coastal_Masterplan_PREVIEW.pdf) · [تحميل DWG وDXF](drawings/coastal-masterplan-closed-cad/Coastal_Masterplan_AutoCAD.zip) · [الفحوص وحدود الدقة](drawings/coastal-masterplan-closed-cad/README.md)
+
+٢٢٩ مسارًا مقفولًا، ومحيط المبنى الرئيسي في طبقة مستقلة وملف DXF منفصل. إعادة تتبع من الصورة بمقياس مستنتج؛ لا تمثل دقة مليمتر أو تطابقًا حرفيًا مضمونًا. تم التحقق برمجيًا وبقارئ DWG مستقل، ولم يختبر الفتح داخل تطبيقات Desktop هنا.
+
 ## المطعم — أوبشن نيو كلاسيك N1 / أوتوكاد فقط
 
 [PDF معاينة — ٩ صفحات](drawings/neoclassical-restaurant-n1/Ayaa_Restaurant_Neoclassical_PREVIEW.pdf) · [تحميل الأوتوكاد](drawings/neoclassical-restaurant-n1/Ayaa_Restaurant_Neoclassical_AutoCAD.zip) · [التفاصيل](drawings/neoclassical-restaurant-n1/README.md)
