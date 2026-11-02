@@ -1,3 +1,9 @@
+## البلان الساحلي — كيرفات مشتركة مستمرة V3
+
+[PDF تكبير الوحدات والوصلات](drawings/coastal-masterplan-shared-v3/Coastal_Shared_Curves_V3_PREVIEW.pdf) · [ملفات الأوتوكاد V3](drawings/coastal-masterplan-shared-v3/Coastal_Shared_Curves_V3_AutoCAD.zip) · [التشغيل والفحوص](drawings/coastal-masterplan-shared-v3/README.md)
+
+الكيرف المشترك مستمر عبر الوحدات، والتقسيمات تنتهي عليه؛ لا يوجد قفل مستقل لكل وحدة لاندسكيب. أضلاع المباني مستقيمة ومتعامدة. نسخة جديدة تحل محل V1 وV2، مع محيط المبنى الرئيسي مغلقًا في ملف مستقل.
+
 ## البلان الساحلي — إعادة رسم مصححة V2
 
 [PDF مقارنة المبنى والوصلات](drawings/coastal-masterplan-repair-v2/Coastal_Masterplan_Rebuilt_v2_PREVIEW.pdf) · [حزمة أوتوكاد مصححة](drawings/coastal-masterplan-repair-v2/Coastal_Masterplan_Rebuilt_v2_AutoCAD.zip) · [التفاصيل والفحوص](drawings/coastal-masterplan-repair-v2/README.md)

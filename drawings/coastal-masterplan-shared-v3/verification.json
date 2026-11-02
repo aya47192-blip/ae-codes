@@ -1,0 +1,30 @@
+{
+  "unique_source_edges": 529,
+  "continuous_flow_curves": 193,
+  "separate_per_unit_closed_face_exports": 0,
+  "maximum_branch_to_parent_gap_mm": 5.7833191762298965e-05,
+  "main_building_closed": true,
+  "orthogonal_buildings": 12,
+  "units": "millimetres",
+  "entities": 213,
+  "no_self_intersecting_curves": true,
+  "branch_endpoints_checked": 362,
+  "unconnected_endpoints_over_0_12mm": 0,
+  "maximum_connection_error_mm": 5.7833191762298965e-05,
+  "max_internal_tangent_discontinuity_degrees": 1.7075472925031877e-06,
+  "max_rectilinear_building_angle_error_degrees": 1.247713043994736e-11,
+  "DWG_roundtrip_coordinate_error_mm": 5.820766091346741e-11,
+  "no_separate_closed_landscape_cell_exports": true,
+  "no_duplicated_shared_source_edges": true,
+  "main_building_closed_independent_file": true,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_import_tested": false,
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "DWG_load": "passed",
+    "DWG_render": "passed",
+    "sha256": "5912bfab52aabd7a86321f1f35728099485870997608ce4977e87483d2edc4b3",
+    "AutoCAD_Desktop_tested": false
+  },
+  "preview_pages": 3
+}
