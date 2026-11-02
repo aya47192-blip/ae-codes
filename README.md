@@ -1,3 +1,9 @@
+## العالمين — ثلاث معاينات على القاعدة المحدّثة
+
+[PDF معاينة ومقارنة](drawings/elalamein-three-extensions/Three_Options_Comparison.pdf) · [ملفات الأوتوكاد](drawings/elalamein-three-extensions/Elalamein_Three_Review_Options.zip) · [النطاق والفحوص](drawings/elalamein-three-extensions/README.md)
+
+الصدفة16 ورغوة البحر13 والتصميم المستمر. القاعدة الجديدة محفوظة، والإضافات الحالية داخل الأحواض الجنوبية المحددة. النسخة الرابعة ونطاق فرش المساحة السفلية الواسعة بانتظار المرجع والتوضيح؛ هذه معاينات للمراجعة.
+
 ## البلان الساحلي — كيرفات مشتركة مستمرة V3
 
 [PDF تكبير الوحدات والوصلات](drawings/coastal-masterplan-shared-v3/Coastal_Shared_Curves_V3_PREVIEW.pdf) · [ملفات الأوتوكاد V3](drawings/coastal-masterplan-shared-v3/Coastal_Shared_Curves_V3_AutoCAD.zip) · [التشغيل والفحوص](drawings/coastal-masterplan-shared-v3/README.md)

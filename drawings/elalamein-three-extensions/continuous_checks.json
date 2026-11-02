@@ -1,0 +1,27 @@
+{
+  "slug": "continuous",
+  "source_base_entities": 167,
+  "source_geometry_changed": false,
+  "reference_native_preserved": true,
+  "reference_reconstructed_from_image": false,
+  "preserved_native_contours": 49,
+  "new_closed_beds": 15,
+  "new_plant_symbols": 49,
+  "new_geometry_max_fitting_deviation_source_units": 0.03556453941879829,
+  "source_units_unchanged": true,
+  "AutoCAD_Desktop_tested": false,
+  "source_base_167_geometries_exactly_preserved": true,
+  "frozen_existing_native_coordinates_exactly_preserved": true,
+  "new_landscape_closed_and_valid": true,
+  "new_landscape_outside_authorized_domains_area": 0.0,
+  "DXF_audit_errors": 0,
+  "DWG_readback_geometry_verified": true,
+  "original_units_preserved": true,
+  "file_sha256": "3a94fefbdb373666d592bdc5593ec6e390d9aa31f99d97f9902a0c69fa118ccf",
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "load": "passed",
+    "render": "passed",
+    "dwg_sha256": "b50cc7a09f3f519e6327a03258a1d73d552df95fb0fbe31db6a61f20a9ba3e5c"
+  }
+}
