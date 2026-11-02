@@ -1,0 +1,79 @@
+[
+  {
+    "id": "01-Leila-08",
+    "filename": "01-Leila-08-Photoshop-v2.zip",
+    "bytes": 10932362,
+    "git_blob_sha": "1fcbb270094e0bd83ca0b4d79a6ffaffe43fbc97",
+    "sha256": "0470cf72e953600b61792a97d436e6e2dad8475cf232fb254b5584cb55583033"
+  },
+  {
+    "id": "02-Leila-22",
+    "filename": "02-Leila-22-Photoshop-v2.zip",
+    "bytes": 10589261,
+    "git_blob_sha": "556ffe9bf99ac4556d78a9505e3703c4e465a46a",
+    "sha256": "549fe162f80ad9f26769b0e51229f85a6c2318f1dfc3ca67ef91c0c6c3703be4"
+  },
+  {
+    "id": "03-Leila-38",
+    "filename": "03-Leila-38-Photoshop-v2.zip",
+    "bytes": 8086197,
+    "git_blob_sha": "eec99a06ce8fb1eb11b3509356e3b027ba71c79b",
+    "sha256": "1b2d0d04148ca8f2e716ae138545c9821a9caf7ff69f8a5851afb571e4c1b436"
+  },
+  {
+    "id": "04-Leila-72",
+    "filename": "04-Leila-72-Photoshop-v2.zip",
+    "bytes": 11554266,
+    "git_blob_sha": "c6823a3aa4a6861d24c6bb09018279d252317b1d",
+    "sha256": "2edf249cc1e300ae4a5201f14c4aabd865fcd8fd12c2344e953876c7aac20b63"
+  },
+  {
+    "id": "05-Mother",
+    "filename": "05-Mother-Photoshop-v2.zip",
+    "bytes": 9772155,
+    "git_blob_sha": "21c169a4eab9d318e1b916f27d36ae5b77103b91",
+    "sha256": "2b104ec7e866c4394ee8483076a0c3bf215ac6c48302bfe89905db531cdb37df"
+  },
+  {
+    "id": "06-Son",
+    "filename": "06-Son-Photoshop-v2.zip",
+    "bytes": 9219876,
+    "git_blob_sha": "93d5c7e5b118d6411f630033f29dc0376a3eb10a",
+    "sha256": "a2ba747fd519793dc2a6ae70807e6511978ce6988971e42e8f567b095cb796a8"
+  },
+  {
+    "id": "07-Daughter",
+    "filename": "07-Daughter-Photoshop-v2.zip",
+    "bytes": 8858924,
+    "git_blob_sha": "b437db9075b25547fb4604815df6093b33a1a8a4",
+    "sha256": "d0b8d56145c2ef2876920b248bbee64e368918cdb5ec4273bdd472e675001e84"
+  },
+  {
+    "id": "08-Teacher",
+    "filename": "08-Teacher-Photoshop-v2.zip",
+    "bytes": 8357705,
+    "git_blob_sha": "cafd8de9f8a265900fdba7dcb728b22688fec6d6",
+    "sha256": "ac16df650b1f46248ee29fffb8ea14919343a34f05e4d248da5470b5d06f32ac"
+  },
+  {
+    "id": "09-Friend",
+    "filename": "09-Friend-Photoshop-v2.zip",
+    "bytes": 8847204,
+    "git_blob_sha": "d99c1f452ea9f9bc985018615e2ef65629fb6008",
+    "sha256": "41720d8ddc4d98ed589e06f0b295c3e28682d2db53eed6992e789724280dea6b"
+  },
+  {
+    "id": "10-Colleague",
+    "filename": "10-Colleague-Photoshop-v2.zip",
+    "bytes": 7317208,
+    "git_blob_sha": "c6afb54e1f774e949c7aa39ac00eea48e591f13e",
+    "sha256": "27d51788588ecebd1ecf75aaba451bb303c844adc1984356f7838f868e1f45da"
+  },
+  {
+    "id": "11-Passerby",
+    "filename": "11-Passerby-Photoshop-v2.zip",
+    "bytes": 9334582,
+    "git_blob_sha": "8f47cc50c58e9165b0ca1b4860d69c703f6c6286",
+    "sha256": "e30920c13215f7474c34cd66bfff471339a6f09e4b65376c9544f89e9fcd9897"
+  }
+]
