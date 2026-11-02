@@ -1,0 +1,30 @@
+{
+  "version": "rebuild_v2",
+  "contours": 229,
+  "native_closed_cubic_splines": 229,
+  "native_polyline_companion_closed_contours": 229,
+  "main_building_reconstructed_from_reference": true,
+  "main_building_closed_count": 1,
+  "raster_short_arc_fit_replaced": true,
+  "intended_angular_buildings_and_annexes_preserved": true,
+  "junction_digitization_spurs_collapsed": true,
+  "main_wall_shared_junctions_projected_to_exact_curve": true,
+  "units": "millimetres",
+  "self_intersecting_contours": 0,
+  "open_contours": 0,
+  "loose_lines": 0,
+  "DWG_control_point_roundtrip_max_error_mm": 5.820766091346741e-11,
+  "source_image_precision_limitation": true,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_import_tested": false,
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "DWG_load": "passed",
+    "DWG_render": "passed",
+    "DWG_SHA256": "3008ab40b44e640d985fd3f79a6858b976852795ceb1890c4e2fd5b3639d7462",
+    "AutoCAD_Desktop_tested": false
+  },
+  "all_delivered_DXF_files_audit_errors": 0,
+  "all_delivered_DXF_files_self_intersections": 0,
+  "preview_pdf_pages": 3
+}

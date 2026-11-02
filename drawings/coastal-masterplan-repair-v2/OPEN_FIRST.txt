@@ -1,0 +1,6 @@
+﻿هذه النسخة المصححة V2؛ استخدمي ملفاتها بدل الملف السابق.
+لأوتوكاد: Coastal_Masterplan_Rebuilt_v2.dwg أو DXF بنفس الاسم.
+لـSketchUp: Coastal_Masterplan_SketchUp_Polylines_v2.dxf، واختاري Millimeters.
+المبنى الرئيسي وحده: Main_Building_Closed_v2.dxf.
+شاهدي PDF أولًا: فيه مقارنة المبنى والتقاطعات مع المرجع.
+الفحوص هندسية وبرمجية، ولم يختبر الفتح داخل AutoCAD/SketchUp Desktop هنا.

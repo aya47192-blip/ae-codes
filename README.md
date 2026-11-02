@@ -1,3 +1,9 @@
+## البلان الساحلي — إعادة رسم مصححة V2
+
+[PDF مقارنة المبنى والوصلات](drawings/coastal-masterplan-repair-v2/Coastal_Masterplan_Rebuilt_v2_PREVIEW.pdf) · [حزمة أوتوكاد مصححة](drawings/coastal-masterplan-repair-v2/Coastal_Masterplan_Rebuilt_v2_AutoCAD.zip) · [التفاصيل والفحوص](drawings/coastal-masterplan-repair-v2/README.md)
+
+إعادة بناء محيط المبنى الرئيسي وتنعيم المنحنيات وإصلاح نتوءات الوصلات. ملف DWG جديد، وDXF، ونسخة Polylines للاستيراد في SketchUp، ومحيط المبنى وحده. هذه النسخة تحل محل ملف التتبع السابق.
+
 ## البلان الساحلي — ملف أوتوكاد بحدود مقفولة
 
 [PDF المعاينة](drawings/coastal-masterplan-closed-cad/Coastal_Masterplan_PREVIEW.pdf) · [تحميل DWG وDXF](drawings/coastal-masterplan-closed-cad/Coastal_Masterplan_AutoCAD.zip) · [الفحوص وحدود الدقة](drawings/coastal-masterplan-closed-cad/README.md)
