@@ -1,0 +1,33 @@
+{
+  "slug": "16_ribbed_shell",
+  "plain_linework_no_fills": true,
+  "square_pavilion_removed": true,
+  "unchanged_native_contours": 47,
+  "trimmed_or_reconstructed_contours": 8,
+  "reference_template_scale": 1,
+  "extension_motif_strategy": "native shell arcs / circular rooms / tapered shell leaves",
+  "plant_symbols": 150,
+  "max_boundary_fitting_error_source_units": 0.026283130666013697,
+  "misr_mass_identified_as_south_calligraphic_building": true,
+  "misr_building_body_excluded_from_landscape": true,
+  "misr_courtyard_small_elements": true,
+  "AutoCAD_Desktop_tested": false,
+  "new_outlines_are_native_closed_CAD_curves": true,
+  "branch_planters": 14,
+  "source_167_geometries_preserved": true,
+  "all_design_boundaries_closed_and_valid": true,
+  "design_outside_allowed_area": 0.0,
+  "new_beds_overlap_area": 0.0,
+  "DWG_all_modelspace_geometry_roundtrip_verified": true,
+  "DWG_and_DXF_no_fills_no_true_colors": true,
+  "DXF_audit_errors": 0,
+  "misr_mass_landscape_overlap_area": 0.0,
+  "units_unchanged": true,
+  "DXF_sha256": "9b848bf4b1ecf14321e078a56fa0fc1a2ee5d0c45b5a91c1242a27fa073764e1",
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "load": "passed",
+    "render": "passed",
+    "dwg_sha256": "1906b91ac81f728cd8a1342423109f7d536ab7b3565bdc4b59c65fdd2f8d76e7"
+  }
+}

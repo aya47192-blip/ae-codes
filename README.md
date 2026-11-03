@@ -1,3 +1,9 @@
+## العالمين — التعديل الأحدث بخطوط فقط
+
+[PDF المعاينة والتكبيرات](drawings/elalamein-plain-revision/Plain_Three_Options_Comparison.pdf) · [حزمة AutoCAD بدون ألوان أو تعبئات](drawings/elalamein-plain-revision/Elalamein_PLAIN_CAD_Revised.zip) · [التعديلات والفحوص](drawings/elalamein-plain-revision/README.md)
+
+قص التجاوزات على حدود القاعدة الجديدة، حذف المربع الصغير أعلى اليسار، استكمال المساحات حول كتلة مصر مع إبقاء جسمها خاليًا، وإضافات صغيرة في التفرعات والفناء. هذه النسخ تحل محل تسليم الفرش الملون السابق.
+
 ## العالمين — فرش المساحة السفلية الواسعة بالكامل
 
 [PDF مقارنة الثلاثة](drawings/elalamein-full-south/Three_Options_Comparison.pdf) · [حزمة DWG وDXF](drawings/elalamein-full-south/Elalamein_Full_South_Three_Options.zip) · [النطاق والفحوص](drawings/elalamein-full-south/README.md)
