@@ -1,0 +1,75 @@
+{
+  "slug": "02_ribbed_shell",
+  "approved_image": "exec-db8465c8-d9db-420f-882c-235b9c2af95e.png",
+  "uniform_scale_to_source_height": 0.035113136995894176,
+  "not_a_millimetre_survey": true,
+  "closed_boundary_entities": 251,
+  "true_circles": 54,
+  "idealized_circle_geometry_count": 54,
+  "straight_closed_polygons": 1,
+  "shared_atomic_curves": 1663,
+  "planar_bounded_faces": 239,
+  "unclosed_entities_in_primary_CAD": 0,
+  "primary_has_no_hatches_or_colors": true,
+  "approved_image_ink_within_2_5px_of_vector": 0.9467988884651011,
+  "approved_image_99pct_distance_pixels": 10.1968994140625,
+  "local_gap_repairs": [
+    {
+      "distance_pixels": 2.23606797749979,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 6.363961030678928,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 6.4031242374328485,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 6.082762530298219,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 31.622776601683793,
+      "kind": "offsite_road_end_cap"
+    }
+  ],
+  "non_area_skeleton_fragments_removed": 0,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_tested": false,
+  "validation": {
+    "_CLOSED": {
+      "closed_valid_planar_entities": 251,
+      "open_entities": 0,
+      "audit_errors": 0,
+      "hatches": 0
+    },
+    "_SKETCHUP_CLOSED": {
+      "closed_valid_planar_entities": 251,
+      "open_entities": 0,
+      "audit_errors": 0,
+      "hatches": 0
+    }
+  },
+  "DWG_geometry_and_closed_flags_roundtrip_preserved": true,
+  "SketchUp_polyline_network_dangles": 0,
+  "SketchUp_polyline_network_cuts": 0,
+  "SketchUp_polyline_network_invalid_rings": 0,
+  "SketchUp_polyline_network_bounded_faces": 239,
+  "DWG_sha256": "5198b7222da7731285ca4022ae3b639258bd4fa87ad385a55c18f97dd3b4b586",
+  "SketchUp_ready_surface_mesh": {
+    "bounded_regions": 239,
+    "triangles": 25741,
+    "holes_preserved": true,
+    "interior_triangle_edges_hidden": true,
+    "area_source_units2": 872.3046643657702,
+    "desktop_import_tested": false
+  },
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "load": "passed",
+    "render": "passed",
+    "dwg_sha256": "5198b7222da7731285ca4022ae3b639258bd4fa87ad385a55c18f97dd3b4b586"
+  }
+}

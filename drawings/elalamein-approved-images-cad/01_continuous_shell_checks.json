@@ -1,0 +1,107 @@
+{
+  "slug": "01_continuous_shell",
+  "approved_image": "exec-0d9055c2-4d6b-435d-9b10-99c07183aadb.png",
+  "uniform_scale_to_source_height": 0.032467450740899954,
+  "not_a_millimetre_survey": true,
+  "closed_boundary_entities": 204,
+  "true_circles": 16,
+  "idealized_circle_geometry_count": 36,
+  "straight_closed_polygons": 0,
+  "shared_atomic_curves": 1641,
+  "planar_bounded_faces": 182,
+  "unclosed_entities_in_primary_CAD": 0,
+  "primary_has_no_hatches_or_colors": true,
+  "approved_image_ink_within_2_5px_of_vector": 0.9806545220054812,
+  "approved_image_99pct_distance_pixels": 7.0,
+  "local_gap_repairs": [
+    {
+      "distance_pixels": 2.23606797749979,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 8.246211251235321,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 6.010407640085654,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 4.123105625617661,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 8.06225774829855,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 7.0710678118654755,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 4.0,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 10.770329614269007,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 5.830951894845301,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 3.0,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 11.0,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 5.0,
+      "kind": "local_gap"
+    },
+    {
+      "distance_pixels": 28.460498941515414,
+      "kind": "offsite_road_end_cap"
+    }
+  ],
+  "non_area_skeleton_fragments_removed": 0,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_tested": false,
+  "validation": {
+    "_CLOSED": {
+      "closed_valid_planar_entities": 204,
+      "open_entities": 0,
+      "audit_errors": 0,
+      "hatches": 0
+    },
+    "_SKETCHUP_CLOSED": {
+      "closed_valid_planar_entities": 204,
+      "open_entities": 0,
+      "audit_errors": 0,
+      "hatches": 0
+    }
+  },
+  "DWG_geometry_and_closed_flags_roundtrip_preserved": true,
+  "SketchUp_polyline_network_dangles": 0,
+  "SketchUp_polyline_network_cuts": 0,
+  "SketchUp_polyline_network_invalid_rings": 0,
+  "SketchUp_polyline_network_bounded_faces": 182,
+  "DWG_sha256": "b4a3d5c28e0ab954f0b2144297bb87a30a773420d13a9f782fbdafd09ea9909b",
+  "SketchUp_ready_surface_mesh": {
+    "bounded_regions": 182,
+    "triangles": 25134,
+    "holes_preserved": true,
+    "interior_triangle_edges_hidden": true,
+    "area_source_units2": 826.5222115852218,
+    "desktop_import_tested": false
+  },
+  "independent_DWG_reader": {
+    "reader": "Aspose.CAD 26.7",
+    "load": "passed",
+    "render": "passed",
+    "dwg_sha256": "b4a3d5c28e0ab954f0b2144297bb87a30a773420d13a9f782fbdafd09ea9909b"
+  }
+}

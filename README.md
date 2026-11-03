@@ -1,3 +1,9 @@
+## العالمين — أوتوكاد الصور الثلاثة المعتمدة
+
+[تحميل DWG وDXF](drawings/elalamein-approved-images-cad/Elalamein_Approved_Three_CAD.zip) · [معاينات CAD وتكبيرات](drawings/elalamein-approved-images-cad/Approved_Three_CAD_Previews.pdf) · [الفحوص والمقياس والبدائل](drawings/elalamein-approved-images-cad/README.md)
+
+الصدفة الانسيابية والمضلعة ورغوة البحر، من الصور الثلاثة التي تم اعتمادها. حدود المساحات في الملفات الأساسية مقفولة، ومعها DXF بأسطح فعلية ونسخة بوليلاين للاستيراد إلى SketchUp. المقياس مرجعي من الصور. هذه الملفات تحل محل تسليمات الفرش السابقة.
+
 ## العالمين — التعديل الأحدث بخطوط فقط
 
 [PDF المعاينة والتكبيرات](drawings/elalamein-plain-revision/Plain_Three_Options_Comparison.pdf) · [حزمة AutoCAD بدون ألوان أو تعبئات](drawings/elalamein-plain-revision/Elalamein_PLAIN_CAD_Revised.zip) · [التعديلات والفحوص](drawings/elalamein-plain-revision/README.md)
