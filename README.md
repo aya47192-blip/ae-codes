@@ -1,3 +1,9 @@
+## العالمين — SketchUp بالخامات وارتفاع٤متر
+
+[تحميل الثلاثة SKP](drawings/elalamein-skp-4m/Elalamein_Three_Native_SKP_4m.zip) · [معاينة الألوان والمنظور](drawings/elalamein-skp-4m/Three_SKP_Materials_and_4m_Preview.pdf) · [تفاصيل القياس والفحص](drawings/elalamein-skp-4m/README.md)
+
+ملفات SKP أصلية: قطر الدائرة المرجعية٢٦٫٥متر، والمبنى المقوّس في الوسط بارتفاع٤متر. خامات محفوظة داخل الموديل، بدون بلوكات فرش أو زرع مضافة، وواجهات المبنى بلا فواصل تقسيم ظاهرة.
+
 ## العالمين — أوتوكاد الصور الثلاثة المعتمدة
 
 [تحميل DWG وDXF](drawings/elalamein-approved-images-cad/Elalamein_Approved_Three_CAD.zip) · [معاينات CAD وتكبيرات](drawings/elalamein-approved-images-cad/Approved_Three_CAD_Previews.pdf) · [الفحوص والمقياس والبدائل](drawings/elalamein-approved-images-cad/README.md)

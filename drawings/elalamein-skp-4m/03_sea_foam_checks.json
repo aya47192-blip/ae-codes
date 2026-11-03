@@ -1,0 +1,88 @@
+{
+  "slug": "03_sea_foam",
+  "native_file": "03_sea_foam_4m.skp",
+  "SKP_version": "2017",
+  "diameter_reference_metres": 26.5,
+  "circle_radius_metres": 13.25,
+  "building_height_metres": 4.0,
+  "raised_building_choice": "main",
+  "ground_faces": 94,
+  "roof_faces": 1,
+  "wall_faces": 872,
+  "curve_groups_ground": {
+    "curve": 388,
+    "arc": 135,
+    "circle": 26
+  },
+  "curve_groups_building": {
+    "curve": 138,
+    "arc": 84
+  },
+  "external_asset_blocks": 0,
+  "inserted_tree_or_furniture_objects": 0,
+  "building_native_groups": 1,
+  "main_building_vertical_display_edges_hidden": true,
+  "triangulation_edges_added": 0,
+  "hidden_material_transition_edges": 930,
+  "preserved_villa_plot_divisions": 9,
+  "materials": {
+    "grass": [
+      119,
+      151,
+      83
+    ],
+    "sand": [
+      218,
+      196,
+      151
+    ],
+    "asphalt": [
+      81,
+      84,
+      87
+    ],
+    "plot": [
+      230,
+      218,
+      191
+    ],
+    "building": [
+      234,
+      229,
+      218
+    ],
+    "water": [
+      111,
+      175,
+      190
+    ],
+    "roof": [
+      238,
+      234,
+      223
+    ]
+  },
+  "bytes": 1086240,
+  "SKP_Desktop_tested": false,
+  "elapsed_seconds": 1.4494717121124268,
+  "display_units": "metres, decimal, 3 decimals",
+  "native_readback": {
+    "format": "{17.0.1}",
+    "file_sha256": "ce0051c8d66b68a8379dadcd1217fff460d3f0d80e7f8fc8b3e7e57406618ec7",
+    "building_height_metres": 4.000000000999999,
+    "calibration_circle_diameter_metres": 26.50000007686235,
+    "building_watertight_every_edge_has_2_faces": true,
+    "building_visible_vertical_facet_edges": 0,
+    "hidden_vertical_edges": 872,
+    "all_face_loops_closed": true,
+    "loose_unnecessary_edges": 0,
+    "root_ground_faces": 94,
+    "root_edges": 10609,
+    "native_curves_or_arc_groups": 771,
+    "analytic_arcs_and_circles": 245,
+    "inserted_asset_component_instances": 0,
+    "building_group_instances": 1,
+    "scenes": 3,
+    "SketchUp_Desktop_tested": false
+  }
+}

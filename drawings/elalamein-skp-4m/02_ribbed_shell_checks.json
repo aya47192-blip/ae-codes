@@ -1,0 +1,88 @@
+{
+  "slug": "02_ribbed_shell",
+  "native_file": "02_ribbed_shell_4m.skp",
+  "SKP_version": "2017",
+  "diameter_reference_metres": 26.5,
+  "circle_radius_metres": 13.25,
+  "building_height_metres": 4.0,
+  "raised_building_choice": "main",
+  "ground_faces": 138,
+  "roof_faces": 2,
+  "wall_faces": 794,
+  "curve_groups_ground": {
+    "curve": 579,
+    "arc": 198,
+    "circle": 30
+  },
+  "curve_groups_building": {
+    "arc": 66,
+    "curve": 166
+  },
+  "external_asset_blocks": 0,
+  "inserted_tree_or_furniture_objects": 0,
+  "building_native_groups": 1,
+  "main_building_vertical_display_edges_hidden": true,
+  "triangulation_edges_added": 0,
+  "hidden_material_transition_edges": 2256,
+  "preserved_villa_plot_divisions": 9,
+  "materials": {
+    "grass": [
+      119,
+      151,
+      83
+    ],
+    "sand": [
+      218,
+      196,
+      151
+    ],
+    "asphalt": [
+      81,
+      84,
+      87
+    ],
+    "plot": [
+      230,
+      218,
+      191
+    ],
+    "building": [
+      234,
+      229,
+      218
+    ],
+    "water": [
+      111,
+      175,
+      190
+    ],
+    "roof": [
+      238,
+      234,
+      223
+    ]
+  },
+  "bytes": 1100499,
+  "SKP_Desktop_tested": false,
+  "elapsed_seconds": 1.7553603649139404,
+  "display_units": "metres, decimal, 3 decimals",
+  "native_readback": {
+    "format": "{17.0.1}",
+    "file_sha256": "fbe96ea8b9dbad4d11b2d19628164b5862e070776919d6da148f6934b69bbbc9",
+    "building_height_metres": 4.000000000999999,
+    "calibration_circle_diameter_metres": 26.50000007686235,
+    "building_watertight_every_edge_has_2_faces": true,
+    "building_visible_vertical_facet_edges": 0,
+    "hidden_vertical_edges": 794,
+    "all_face_loops_closed": true,
+    "loose_unnecessary_edges": 0,
+    "root_ground_faces": 138,
+    "root_edges": 10972,
+    "native_curves_or_arc_groups": 1039,
+    "analytic_arcs_and_circles": 294,
+    "inserted_asset_component_instances": 0,
+    "building_group_instances": 1,
+    "scenes": 3,
+    "SketchUp_Desktop_tested": false
+  }
+}
