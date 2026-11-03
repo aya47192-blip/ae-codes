@@ -1,3 +1,9 @@
+## العالمين — فرش المساحة السفلية الواسعة بالكامل
+
+[PDF مقارنة الثلاثة](drawings/elalamein-full-south/Three_Options_Comparison.pdf) · [حزمة DWG وDXF](drawings/elalamein-full-south/Elalamein_Full_South_Three_Options.zip) · [النطاق والفحوص](drawings/elalamein-full-south/README.md)
+
+نسخ الصدفة16 ورغوة البحر13 والتصميم المستمر، محدثة لتشمل الجزء السفلي الواسع كله حسب توضيح المستخدم. القاعدة الأصلية محفوظة. النسخة الرابعة تنتظر مرجعها.
+
 ## العالمين — ثلاث معاينات على القاعدة المحدّثة
 
 [PDF معاينة ومقارنة](drawings/elalamein-three-extensions/Three_Options_Comparison.pdf) · [ملفات الأوتوكاد](drawings/elalamein-three-extensions/Elalamein_Three_Review_Options.zip) · [النطاق والفحوص](drawings/elalamein-three-extensions/README.md)

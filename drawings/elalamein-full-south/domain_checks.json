@@ -1,0 +1,18 @@
+{
+  "boundary_source_entities": [
+    151,
+    150,
+    101,
+    102,
+    103,
+    104,
+    105,
+    158
+  ],
+  "area_source_units2": 233.3878209937428,
+  "road_to_shore_closing_gaps_source_units": [
+    1.7219975032730118e-05,
+    0.029308594369824387
+  ],
+  "source_geometry_changed": false
+}
