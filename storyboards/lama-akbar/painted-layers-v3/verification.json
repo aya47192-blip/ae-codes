@@ -1,0 +1,1025 @@
+{
+  "status": "static layered PSD review draft",
+  "characters": 11,
+  "native_visibility_cases_per_character": 12,
+  "all_11_independent_no_hole_gates_passed": true,
+  "native_application": "GIMP 3.0.4",
+  "independent_reader": "psd-tools 1.26.0",
+  "photoshop_native_checks": "not run",
+  "after_effects_moho_native_motion_checks": "not run",
+  "production_ready_motion_rig": false,
+  "pending": "Fine finger contours, compound joint motion and target animation application import/rig verification.",
+  "independent": [
+    {
+      "id": "01-Leila-08",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 53,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Dress",
+        "Hands",
+        "Head",
+        "Face features",
+        "Glasses",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 9.340277777777778e-05,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 7973,
+          "painted_opaque_pixels_after_hide": 7973,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 7985,
+          "painted_opaque_pixels_after_hide": 7985,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 236,
+          "painted_opaque_pixels_after_hide": 236,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 115,
+          "painted_opaque_pixels_after_hide": 115,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 6503,
+          "warm_skin_fraction": 0.99923
+        },
+        "SkinAfterHide.R": {
+          "pixels": 6445,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "2d917422523b0ca97d1d178919a0b793a4fc20e909a95920a79dbf0c24c55c0b"
+    },
+    {
+      "id": "02-Leila-22",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 62,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Pants",
+        "Coat",
+        "Hands",
+        "Scarf",
+        "Head",
+        "Face features",
+        "Glasses",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.00019328703703703703,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 2102,
+          "painted_opaque_pixels_after_hide": 2102,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 3522,
+          "painted_opaque_pixels_after_hide": 3522,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 3,
+          "painted_opaque_pixels_after_hide": 3,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 58,
+          "painted_opaque_pixels_after_hide": 58,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 1248,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 2447,
+          "warm_skin_fraction": 0.72497
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "e6bcc92e4cc085480dd2aa5dad3d89834107cedf75ddde4c2b3c9b20a658ce2b"
+    },
+    {
+      "id": "03-Leila-38",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 52,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Pants",
+        "Coat",
+        "Hands",
+        "Head",
+        "Face features",
+        "Glasses",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.00028275462962962965,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 4061,
+          "painted_opaque_pixels_after_hide": 4061,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 4162,
+          "painted_opaque_pixels_after_hide": 4162,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 74,
+          "painted_opaque_pixels_after_hide": 74,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 918,
+          "painted_opaque_pixels_after_hide": 918,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 3126,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 3232,
+          "warm_skin_fraction": 0.99969
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "21d679e53239abaf8fd9f37dcd9b306aef0b8a4a3bd0cb9ed6bab3e5bb60c470"
+    },
+    {
+      "id": "04-Leila-72",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 49,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Skirt",
+        "Coat",
+        "Hands",
+        "Head",
+        "Face features",
+        "Glasses",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.00015810185185185184,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 3203,
+          "painted_opaque_pixels_after_hide": 3203,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 3308,
+          "painted_opaque_pixels_after_hide": 3308,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 751,
+          "painted_opaque_pixels_after_hide": 751,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 397,
+          "painted_opaque_pixels_after_hide": 397,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 2426,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 2516,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "3cf4a124240b7570b7fffbbd7d723a76954b742e76ea9cac76d222c8f27d12a7"
+    },
+    {
+      "id": "05-Mother",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 44,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Skirt",
+        "Hands",
+        "Head",
+        "Face features",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 9.039351851851851e-05,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 2014,
+          "painted_opaque_pixels_after_hide": 2014,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 1417,
+          "painted_opaque_pixels_after_hide": 1417,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 658,
+          "painted_opaque_pixels_after_hide": 658,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 695,
+          "painted_opaque_pixels_after_hide": 695,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 1407,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 923,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "074d75b2ee17b327b1269935bc13e82bfc060abd9782913575acd308840e7fc1"
+    },
+    {
+      "id": "06-Son",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 51,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Pants",
+        "Hands",
+        "Head",
+        "Face features",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.00015393518518518518,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 10401,
+          "painted_opaque_pixels_after_hide": 10401,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 8500,
+          "painted_opaque_pixels_after_hide": 8500,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 475,
+          "painted_opaque_pixels_after_hide": 475,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 406,
+          "painted_opaque_pixels_after_hide": 406,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 9008,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 7290,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "00a8fd9e611cfa5cfe5df5c5f3ea5e442cd8fc209ece8a6e15f52d72c36128a2"
+    },
+    {
+      "id": "07-Daughter",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 47,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Dress",
+        "Hands",
+        "Head",
+        "Face features",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 8.518518518518518e-05,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 10172,
+          "painted_opaque_pixels_after_hide": 10172,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 11937,
+          "painted_opaque_pixels_after_hide": 11937,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 328,
+          "painted_opaque_pixels_after_hide": 328,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 153,
+          "painted_opaque_pixels_after_hide": 153,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 8758,
+          "warm_skin_fraction": 0.99566
+        },
+        "SkinAfterHide.R": {
+          "pixels": 10374,
+          "warm_skin_fraction": 0.99325
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "17ee5e2e247a789b4d1496b55623c413f8724d49ab19868c8a4c0e0004198cd5"
+    },
+    {
+      "id": "08-Teacher",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 57,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Skirt",
+        "Hands",
+        "Book",
+        "Head",
+        "Face features",
+        "Glasses",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.00020219907407407407,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 1268,
+          "painted_opaque_pixels_after_hide": 1268,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 1269,
+          "painted_opaque_pixels_after_hide": 1269,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 694,
+          "painted_opaque_pixels_after_hide": 694,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 510,
+          "painted_opaque_pixels_after_hide": 510,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 811,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 806,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "82d67b295e22d03e6271d8929a8607cdba555f16ead5c4a020c0985df871a058"
+    },
+    {
+      "id": "09-Friend",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 55,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Pants",
+        "Coat",
+        "Hands",
+        "Book",
+        "Head",
+        "Face features",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.00027418981481481484,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 1330,
+          "painted_opaque_pixels_after_hide": 1330,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 1495,
+          "painted_opaque_pixels_after_hide": 1495,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 703,
+          "painted_opaque_pixels_after_hide": 703,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 587,
+          "painted_opaque_pixels_after_hide": 587,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 856,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 984,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "35f8532a116632b2cb1f6cb6d5f0c618397c0e81458c27b5d4741f0554fa49b0"
+    },
+    {
+      "id": "10-Colleague",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 53,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Pants",
+        "Hands",
+        "Head",
+        "Face features",
+        "Glasses",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 0.0009053240740740741,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 601,
+          "painted_opaque_pixels_after_hide": 601,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 461,
+          "painted_opaque_pixels_after_hide": 461,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 1734,
+          "painted_opaque_pixels_after_hide": 1734,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 395,
+          "painted_opaque_pixels_after_hide": 395,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 285,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 192,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "e1c3e2c832c853252847acd1d754907696d929e125f666d22374f1672257a2e0"
+    },
+    {
+      "id": "11-Passerby",
+      "independent_reader": "psd-tools 1.26.0",
+      "real_psd_header": "8BPS",
+      "leaf_count": 48,
+      "groups": [
+        "Body",
+        "Socks",
+        "Shoes",
+        "Blouse",
+        "Pants",
+        "Coat",
+        "Hands",
+        "Bag",
+        "Head",
+        "Face features",
+        "Hair"
+      ],
+      "all_raster_channels_rle": true,
+      "native_vs_asset_composite_mae_rgba_8bit": 5.451388888888889e-05,
+      "face_hide_tests": {
+        "Eye.L": {
+          "core_pixels": 560,
+          "painted_opaque_pixels_after_hide": 560,
+          "passes_no_hole": true
+        },
+        "Eye.R": {
+          "core_pixels": 480,
+          "painted_opaque_pixels_after_hide": 480,
+          "passes_no_hole": true
+        },
+        "Nose": {
+          "core_pixels": 176,
+          "painted_opaque_pixels_after_hide": 176,
+          "passes_no_hole": true
+        },
+        "Mouth": {
+          "core_pixels": 320,
+          "painted_opaque_pixels_after_hide": 320,
+          "passes_no_hole": true
+        },
+        "SkinAfterHide.L": {
+          "pixels": 252,
+          "warm_skin_fraction": 1.0
+        },
+        "SkinAfterHide.R": {
+          "pixels": 202,
+          "warm_skin_fraction": 1.0
+        }
+      },
+      "no_hole_gate": true,
+      "native_photoshop": "not available / not tested",
+      "native_after_effects": "not tested",
+      "motion_rig_status": "review draft; no IK or lip-sync; compound motion and fine finger contours not approved",
+      "sha256": "70b61d8b9fe95f1bd55008df7ab05119a7d99c050a0417a6686b5352cab22c1f"
+    }
+  ],
+  "native": [
+    {
+      "id": "01-Leila-08",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 53,
+      "groups": [
+        "Hair",
+        "Glasses",
+        "Face features",
+        "Head",
+        "Hands",
+        "Dress",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 11337148,
+      "sha256": "2d917422523b0ca97d1d178919a0b793a4fc20e909a95920a79dbf0c24c55c0b",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "02-Leila-22",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 62,
+      "groups": [
+        "Hair",
+        "Glasses",
+        "Face features",
+        "Head",
+        "Scarf",
+        "Hands",
+        "Coat",
+        "Pants",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 12911046,
+      "sha256": "e6bcc92e4cc085480dd2aa5dad3d89834107cedf75ddde4c2b3c9b20a658ce2b",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "03-Leila-38",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 52,
+      "groups": [
+        "Hair",
+        "Glasses",
+        "Face features",
+        "Head",
+        "Hands",
+        "Coat",
+        "Pants",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 8268705,
+      "sha256": "21d679e53239abaf8fd9f37dcd9b306aef0b8a4a3bd0cb9ed6bab3e5bb60c470",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "04-Leila-72",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 49,
+      "groups": [
+        "Hair",
+        "Glasses",
+        "Face features",
+        "Head",
+        "Hands",
+        "Coat",
+        "Skirt",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 10479626,
+      "sha256": "3cf4a124240b7570b7fffbbd7d723a76954b742e76ea9cac76d222c8f27d12a7",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "05-Mother",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 44,
+      "groups": [
+        "Hair",
+        "Face features",
+        "Head",
+        "Hands",
+        "Skirt",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 9711912,
+      "sha256": "074d75b2ee17b327b1269935bc13e82bfc060abd9782913575acd308840e7fc1",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "06-Son",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 51,
+      "groups": [
+        "Hair",
+        "Face features",
+        "Head",
+        "Hands",
+        "Pants",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 9924054,
+      "sha256": "00a8fd9e611cfa5cfe5df5c5f3ea5e442cd8fc209ece8a6e15f52d72c36128a2",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "07-Daughter",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 47,
+      "groups": [
+        "Hair",
+        "Face features",
+        "Head",
+        "Hands",
+        "Dress",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 10230808,
+      "sha256": "17ee5e2e247a789b4d1496b55623c413f8724d49ab19868c8a4c0e0004198cd5",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "08-Teacher",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 57,
+      "groups": [
+        "Hair",
+        "Glasses",
+        "Face features",
+        "Head",
+        "Book",
+        "Hands",
+        "Skirt",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 10109054,
+      "sha256": "82d67b295e22d03e6271d8929a8607cdba555f16ead5c4a020c0985df871a058",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "09-Friend",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 55,
+      "groups": [
+        "Hair",
+        "Face features",
+        "Head",
+        "Book",
+        "Hands",
+        "Coat",
+        "Pants",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 8422955,
+      "sha256": "35f8532a116632b2cb1f6cb6d5f0c618397c0e81458c27b5d4741f0554fa49b0",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "10-Colleague",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 53,
+      "groups": [
+        "Hair",
+        "Glasses",
+        "Face features",
+        "Head",
+        "Hands",
+        "Pants",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 9938793,
+      "sha256": "e1c3e2c832c853252847acd1d754907696d929e125f666d22374f1672257a2e0",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    },
+    {
+      "id": "11-Passerby",
+      "exporter": "GIMP3.0.4 native PSD exporter",
+      "native_gimp_save_reopen": "passed",
+      "leaf_layers": 48,
+      "groups": [
+        "Hair",
+        "Face features",
+        "Head",
+        "Bag",
+        "Hands",
+        "Coat",
+        "Pants",
+        "Blouse",
+        "Shoes",
+        "Socks",
+        "Body"
+      ],
+      "tested_native_visibility_cases": [
+        "normal",
+        "eye-L-hidden",
+        "eye-R-hidden",
+        "glasses-hidden",
+        "nose-hidden",
+        "mouth-hidden",
+        "all-face-features-hidden",
+        "outer-clothes-hidden",
+        "all-clothes-hidden",
+        "shoes-hidden",
+        "socks-and-shoes-hidden",
+        "hair-hidden"
+      ],
+      "psd_bytes": 10339775,
+      "sha256": "70b61d8b9fe95f1bd55008df7ab05119a7d99c050a0417a6686b5352cab22c1f",
+      "native_photoshop": "not_run",
+      "note": "Complete painted skin/body/clothing underlayers are active, not hidden reconstruction alternatives. No flattened reference or backdrop is used to fill holes."
+    }
+  ]
+}
