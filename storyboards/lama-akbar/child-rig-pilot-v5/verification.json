@@ -1,0 +1,64 @@
+{
+  "status": "source and static PSD checks; AE native and final visual approval pending",
+  "anatomical_occurrences": {
+    "Skin_UpperArm_L": 1,
+    "Skin_Forearm_L": 1,
+    "Skin_Hand_L": 1,
+    "Skin_Thigh_L": 1,
+    "Skin_Shin_L": 1,
+    "Skin_BareFoot_L": 1,
+    "Skin_UpperArm_R": 1,
+    "Skin_Forearm_R": 1,
+    "Skin_Hand_R": 1,
+    "Skin_Thigh_R": 1,
+    "Skin_Shin_R": 1,
+    "Skin_BareFoot_R": 1
+  },
+  "parts": 36,
+  "bones": 15,
+  "all_garment_parts_share_corresponding_skin_bone": true,
+  "no_active_whole_body_reference": true,
+  "skin_to_skin_overlap_outside_joints_pixels": 0,
+  "projected_sleeve_torso_overlap_pixels": 51109,
+  "stocking_like_pixels_in_body_below_knees": 1,
+  "stocking_like_pixels_baked_in_shoes": 0,
+  "dark_eyelash_ink_in_glasses": 0,
+  "independent_psd_reader": "psd-tools 1.26.0",
+  "rle_channels_verified": true,
+  "native_vs_asset_mean_absolute_error_8bit": 6.724537037037037e-05,
+  "feature_hide_tests": {
+    "Eye_R": {
+      "opaque_core_pixels": 7510,
+      "tested_core_pixels": 7510
+    },
+    "Glasses_Frame": {
+      "opaque_core_pixels": 2735,
+      "tested_core_pixels": 2873
+    }
+  },
+  "bare_footwear_hide_matches_body_base": true,
+  "native_photoshop": "not run",
+  "native_after_effects": "unavailable",
+  "motion": {
+    "pipeline": "Python/Pillow FK surrogate, not After Effects",
+    "frames": 360,
+    "fps": 30,
+    "planted_foot_samples": 180,
+    "max_planted_foot_drift_comp_pixels": 2.5421149729252077e-13,
+    "native_after_effects": "not run",
+    "visual_approval": "pending inspection",
+    "source_ownership_qc": "source-ownership-qc.json",
+    "vacated_left_hand_region_pixels": 1936,
+    "vacated_left_hand_remaining_pixels": 0,
+    "vacated_left_sleeve_core_pixels": 1400,
+    "vacated_left_sleeve_remaining_pixels": 0,
+    "vacated_left_shin_core_pixels": 972,
+    "vacated_left_shin_remaining_pixels": 0,
+    "visual_scope": "Local diagnostic only. Native AE visual approval remains pending."
+  },
+  "no_static_duplicate_anatomy_probe": "passed in local renderer only",
+  "professional_native_rig_approval": "pending; do not generalize to other characters yet",
+  "decode_report": "proof/render-decode-final.json",
+  "native_project_delivered": false,
+  "scope": "one child pilot, not approved for character-wide rollout"
+}

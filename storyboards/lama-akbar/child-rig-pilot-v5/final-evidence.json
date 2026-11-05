@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "artifacts": {
+    "source_manifest": {
+      "path": "source-manifest.json",
+      "sha256": "02aed49818bd7547726fbb140cb0a73a85e3d4031445eb005e4f130418ea44aa"
+    },
+    "video": {
+      "path": "proof/local-rig-diagnostic-bt709.mp4",
+      "sha256": "ec593aea3d49e3ebdcd2447b0e2b478de6939c9715e4620c5804c49248b45990"
+    }
+  },
+  "checks": {
+    "source_contract": {
+      "status": "passed",
+      "review": "Frame contract and asset/bone hierarchy validated by the provided generator; wardrobe extension parsed only.",
+      "evidence": [
+        {
+          "path": "after-effects/production.json",
+          "sha256": "200209f25586c7f3b5eea498d260b1ade639fd9414bf2f6cee2d5f5467195996"
+        }
+      ]
+    },
+    "native_structure": {
+      "status": "pending",
+      "reason": "After Effects native execution and/or native visual approval unavailable."
+    },
+    "rig_visual": {
+      "status": "pending",
+      "reason": "After Effects native execution and/or native visual approval unavailable."
+    },
+    "storyboard_visual": {
+      "status": "pending",
+      "reason": "After Effects native execution and/or native visual approval unavailable."
+    },
+    "rendered_color": {
+      "status": "pending",
+      "reason": "After Effects native execution and/or native visual approval unavailable."
+    },
+    "render_decode": {
+      "status": "passed",
+      "review": "Only the local surrogate H264 diagnostic was decoded, not an AE production render.",
+      "evidence": [
+        {
+          "path": "proof/render-decode-final.json",
+          "sha256": "351af1192c19832494494a2c777039be011ab7844d3e93514709db02f65e6ce9"
+        }
+      ]
+    },
+    "editability": {
+      "status": "pending",
+      "reason": "After Effects native execution and/or native visual approval unavailable."
+    },
+    "audio_sync": {
+      "status": "not_applicable",
+      "reason": "No audio requested or delivered"
+    }
+  },
+  "delivery_status": "DRAFT BUILDER / STATIC PSD + LOCAL DIAGNOSTIC; NO NATIVE AEP"
+}
