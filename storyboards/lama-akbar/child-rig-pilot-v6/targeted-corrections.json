@@ -1,0 +1,34 @@
+{
+  "version": 6,
+  "scope": "Same one-child diagnostic; no other views or characters.",
+  "same_360_authored_poses": true,
+  "source_changes": [
+    "New sleeveless blouse torso painting; disjoint side panels tucked under visible dress in local diagnostic and JSX opacity expression. PSD keeps full blouse side fabric available.",
+    "New socks with front cuffs, no opaque shaded interior oval; reduced ankle overlap radius 25.",
+    "New fabric-only shorts with complete waistband; basic torso cleaned by connected row components.",
+    "Pivot-centered limb masks with matched 43px elbow and 50px knee radii; generated interior skin texture retargeted; no added joint patch layers."
+  ],
+  "visual_review": {
+    "frames": [
+      135,
+      165,
+      205,
+      260
+    ],
+    "evidence": "proof/targeted-before-after.jpg",
+    "observed": "Side fabric strip at raised arm removed in dressed diagnostic; front sock cuffs follow calf, opaque hollow oval removed; basic torso slivers removed; knee/elbow contours centered and smoothly connected.",
+    "reviewer": "assistant inspection of selected local diagnostic frames; user approval pending"
+  },
+  "side_fabric_pixels_overlap_front": 0,
+  "unchanged_art": [
+    "Face",
+    "Head",
+    "Hair",
+    "Glasses",
+    "Dress",
+    "Shoes"
+  ],
+  "native_after_effects": "unavailable, not executed",
+  "native_photoshop": "not executed; GIMP save/reopen and independent PSD reader checked",
+  "final_production_approval": "pending"
+}

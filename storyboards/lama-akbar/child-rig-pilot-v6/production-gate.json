@@ -1,0 +1,12 @@
+{
+  "final_ready": false,
+  "errors": [
+    "Current source manifest, native project and rendered video fingerprints are required",
+    "rig_visual: not passed",
+    "rendered_color: not passed",
+    "native_structure: not passed",
+    "storyboard_visual: not passed",
+    "editability: not passed"
+  ],
+  "scope": "Confirms recorded evidence is present and unchanged. Review statements still require truthful native/visual inspection; this tool does not perform it."
+}

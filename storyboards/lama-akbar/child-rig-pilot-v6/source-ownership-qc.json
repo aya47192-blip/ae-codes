@@ -1,0 +1,26 @@
+{
+  "physical_part_occurrences": {
+    "Skin_UpperArm_L": 1,
+    "Skin_Forearm_L": 1,
+    "Skin_Hand_L": 1,
+    "Skin_Thigh_L": 1,
+    "Skin_Shin_L": 1,
+    "Skin_BareFoot_L": 1,
+    "Skin_UpperArm_R": 1,
+    "Skin_Forearm_R": 1,
+    "Skin_Hand_R": 1,
+    "Skin_Thigh_R": 1,
+    "Skin_Shin_R": 1,
+    "Skin_BareFoot_R": 1
+  },
+  "no_active_whole_body_backdrop": true,
+  "skin_overlap_outside_joint_regions_pixels": 0,
+  "garment_torso_sleeve_projection_overlap_pixels": 17170,
+  "projection_note": "Complete sleeves may occlude torso fabric at rest. This is not a second sleeve printed on torso; vacated-region renders test that distinction.",
+  "vacated_hand_remaining_pixels": 0,
+  "vacated_sleeve_remaining_pixels": 0,
+  "vacated_shin_remaining_pixels": 0,
+  "foot_contact_error_pixels_local": 2.5421149729252077e-13,
+  "native_after_effects": "not available, not run",
+  "rollout_approved": false
+}

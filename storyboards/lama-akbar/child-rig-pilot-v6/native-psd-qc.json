@@ -1,0 +1,31 @@
+{
+  "native_application": "GIMP 3.0.4",
+  "save_reopen": "passed",
+  "native_visibility_cases": [
+    "normal",
+    "body_barefoot",
+    "no_dress",
+    "no_socks",
+    "no_shoes",
+    "no_footwear",
+    "no_eye_R",
+    "no_glasses",
+    "blank_face"
+  ],
+  "groups": [
+    "Glasses",
+    "Face",
+    "Hair",
+    "Head",
+    "Dress",
+    "Blouse",
+    "Shoes",
+    "Socks",
+    "Body"
+  ],
+  "leaf_layers": 37,
+  "sha256": "89ee50e9e8e97133edcc47d3115f72c7ff578b0c68bd2802b32def20d8c795e3",
+  "native_photoshop": "not run",
+  "native_after_effects": "not available",
+  "no_complete_hidden_reference_layer": true
+}
