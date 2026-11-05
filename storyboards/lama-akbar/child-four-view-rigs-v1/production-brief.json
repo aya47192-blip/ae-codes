@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "approval": "User explicitly approved all four model sheet views in current turn.",
+  "reference": "reference/approved-model-sheet.png",
+  "baseline": "/workspace/output/lama-akbar-child-rig-pilot-v6/technique-reference/TECHNIQUE-V6.md",
+  "scope": [
+    "front",
+    "threequarter",
+    "side",
+    "back"
+  ],
+  "delivery": {
+    "psd": "one genuine layered PSD per view",
+    "ae": "editable JSX plus assets; native AEP only if actually saved in AE",
+    "local_diagnostics": "four 12-second view tests, assembled 48-second review, 1920x1080, 30fps"
+  },
+  "preserve": [
+    "identity",
+    "age8",
+    "curly brown bob",
+    "glasses/face angles",
+    "warm grainy illustrated style",
+    "cream blouse and front-cuff socks",
+    "teal pinafore",
+    "brown Mary Jane shoes"
+  ],
+  "layers": [
+    "intact head skin beneath independently hidden features",
+    "hair",
+    "glasses",
+    "eyes with all lashes",
+    "brows/nose/mouth as visible in view",
+    "torso in opaque basic top",
+    "fabric-only shorts",
+    "one instance of each anatomical upper/lower limb and complete hand/foot",
+    "complete blouse torso and continuous sleeves",
+    "dress bib/straps and complete skirt",
+    "socks",
+    "shoes"
+  ],
+  "required_checks": [
+    "independent PSD reopening",
+    "feature hide/show without holes",
+    "dress off reveals full blouse",
+    "footwear off reveals bare feet",
+    "no baked sleeve fragments on torso",
+    "shared radii and true pivot-centered caps",
+    "vacated part ownership",
+    "rest and compound pose visual review",
+    "full video decode",
+    "native/render evidence kept separate"
+  ],
+  "rollout": "Only approved child and these four views; no new ages, other characters or scene backgrounds in this task.",
+  "native_status": "After Effects availability must be checked; absent native execution stays pending, not passed."
+}

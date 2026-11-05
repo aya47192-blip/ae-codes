@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "delivery_status": "Editable PSDs plus AE builder; native AE approval pending",
+  "artifacts": {
+    "source_manifest": {
+      "path": "source-manifest.json",
+      "sha256": "d542076be273b3136bda59aae3890e346c725a9943ca590df4899f3d519638cd"
+    },
+    "video": {
+      "path": "Leila-08-Four-Views-Local-Review.mp4",
+      "sha256": "a72aff5d4731fba972aa44d4063b7dc6391e78f0b6d5be90cb19198d5ac57897"
+    }
+  },
+  "checks": {
+    "native_structure": {
+      "status": "pending",
+      "reason": "After Effects is unavailable; native execution, native render, visual review and editability require that runtime."
+    },
+    "rig_visual": {
+      "status": "pending",
+      "reason": "After Effects is unavailable; native execution, native render, visual review and editability require that runtime."
+    },
+    "storyboard_visual": {
+      "status": "pending",
+      "reason": "After Effects is unavailable; native execution, native render, visual review and editability require that runtime."
+    },
+    "rendered_color": {
+      "status": "pending",
+      "reason": "After Effects is unavailable; native execution, native render, visual review and editability require that runtime."
+    },
+    "editability": {
+      "status": "pending",
+      "reason": "After Effects is unavailable; native execution, native render, visual review and editability require that runtime."
+    },
+    "source_contract": {
+      "status": "passed",
+      "review": "Four approved views, 139 active raster parts, 15 bones/view. Production generator passed frame/shot/parent/pivot contracts; JSX parsed and all bundled assets matched the frozen art.",
+      "evidence": [
+        {
+          "path": "After-Effects/source-qc.json",
+          "sha256": "6f371443508a4aba5abf59d2d33d69260df8d332d0bd479e38deca9913ec3fe3"
+        },
+        {
+          "path": "art-freeze-manifest.json",
+          "sha256": "9bfec07668f86a24e15d6c6db3cc4f36ed4ce82a5adb8a1c871e34f27a728bb7"
+        },
+        {
+          "path": "verification.json",
+          "sha256": "4c5c1a6b25539df033bf70a368f022a4285223709efcbc7701ccd900d0acfcbe"
+        }
+      ]
+    },
+    "render_decode": {
+      "status": "passed",
+      "review": "All 1440 frames of the assembled local FK diagnostic decoded at 1920x1080/30fps, h264/yuv420p, BT.709. This is a surrogate diagnostic, not an After Effects render.",
+      "evidence": [
+        {
+          "path": "delivery-review-decode.json",
+          "sha256": "a7201c923c0eb24efd6b5d41775f40997ae7c32e9cd32f495e0d05372a535382"
+        }
+      ]
+    },
+    "audio_sync": {
+      "status": "not_applicable",
+      "reason": "No audio requested or delivered"
+    }
+  },
+  "native_project_note": "No AEP exists because After Effects has not run. The JSX builder saves one only inside AE."
+}

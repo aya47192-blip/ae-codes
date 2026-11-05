@@ -1,0 +1,19 @@
+{
+  "status": "passed for inspected local/static frames only",
+  "review": "Inspected final native-GIMP normal/blank-face images, hidden-hair and wardrobe cases; local FK compound arm/crouch poses and decoded motion contacts. No duplicated shin in the vacated footprint, no sock retained in the shoe/base body. No guarantee about unseen native AE frames.",
+  "evidence": [
+    {
+      "path": "native-face-review-final.jpg",
+      "sha256": "14a749f6bc7565f2bba6d69ea86eed001eaf688ded75a42e3448d8205d3b6551"
+    },
+    {
+      "path": "final-motion-extremes.jpg",
+      "sha256": "c1813deaebe5ba664cd5c36d76d400caa46376e31d0a54045885726883ee9d32"
+    },
+    {
+      "path": "delivery-review-contact.jpg",
+      "sha256": "ccf3272f76a5ed469c4e2408cc6bff261352d82ca5c85d55f56d62a9f3998a14"
+    }
+  ],
+  "alpha_edge_scope": "Opaque feature tests exclude 3-pixel anti-aliased head boundaries; the excluded side sample (811,372) had alpha 249, not an interior hole."
+}

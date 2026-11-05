@@ -1,0 +1,237 @@
+{
+  "front": {
+    "view": "front",
+    "layers": 37,
+    "bones": 15,
+    "anatomical_occurrences": {
+      "Skin_UpperArm_L": 1,
+      "Skin_Forearm_L": 1,
+      "Skin_Hand_L": 1,
+      "Skin_Thigh_L": 1,
+      "Skin_Shin_L": 1,
+      "Skin_BareFoot_L": 1,
+      "Skin_UpperArm_R": 1,
+      "Skin_Forearm_R": 1,
+      "Skin_Hand_R": 1,
+      "Skin_Thigh_R": 1,
+      "Skin_Shin_R": 1,
+      "Skin_BareFoot_R": 1
+    },
+    "wardrobe_uses_corresponding_anatomical_bones": true,
+    "no_active_whole_body_backdrop": true,
+    "blouse_front_side_duplicate_pixels": 0,
+    "psd_reader": "psd-tools",
+    "rle_verified": true,
+    "native_psd_export_and_reopen": "GIMP",
+    "native_composite_mae_8bit": 6.944444444444445e-07,
+    "hide_features": {
+      "Eye_R": {
+        "tested_core_pixels": 7510,
+        "opaque_underpaint_pixels": 7510
+      },
+      "Glasses_Frame": {
+        "tested_core_pixels": 2873,
+        "opaque_underpaint_pixels": 2873
+      }
+    },
+    "footwear_off_matches_bare_body": true,
+    "sock_like_pixels_baked_in_shoes": 0,
+    "vacated_near_hand": {
+      "core_pixels": 989,
+      "remaining_pixels": 0,
+      "status": "passed"
+    },
+    "both_legs_vacated": {
+      "core_pixels": 7016,
+      "remaining_pixels": 0
+    },
+    "local_fk_contact": {
+      "pipeline": "Python/Pillow FK surrogate, not After Effects",
+      "frames": 360,
+      "fps": 30,
+      "planted_foot_samples": 180,
+      "max_planted_foot_drift_comp_pixels": 2.5421149729252077e-13,
+      "native_after_effects": "not run",
+      "visual_approval": "pending inspection",
+      "source_ownership_qc": "source-ownership-qc.json",
+      "ownership_scope": "Part ownership validated separately using per-view masks and motion regions; frontal probe coordinates not reused."
+    },
+    "native_photoshop": "not executed",
+    "native_after_effects": "not available",
+    "production_approval": "pending native application/visual/editability checks; local diagnostic only"
+  },
+  "threequarter": {
+    "view": "threequarter",
+    "layers": 37,
+    "bones": 15,
+    "anatomical_occurrences": {
+      "Skin_UpperArm_L": 1,
+      "Skin_Forearm_L": 1,
+      "Skin_Hand_L": 1,
+      "Skin_Thigh_L": 1,
+      "Skin_Shin_L": 1,
+      "Skin_BareFoot_L": 1,
+      "Skin_UpperArm_R": 1,
+      "Skin_Forearm_R": 1,
+      "Skin_Hand_R": 1,
+      "Skin_Thigh_R": 1,
+      "Skin_Shin_R": 1,
+      "Skin_BareFoot_R": 1
+    },
+    "wardrobe_uses_corresponding_anatomical_bones": true,
+    "no_active_whole_body_backdrop": true,
+    "blouse_front_side_duplicate_pixels": 0,
+    "psd_reader": "psd-tools",
+    "rle_verified": true,
+    "native_psd_export_and_reopen": "GIMP",
+    "native_composite_mae_8bit": 8.449074074074074e-06,
+    "hide_features": {
+      "Eye_R": {
+        "tested_core_pixels": 3599,
+        "opaque_underpaint_pixels": 3599
+      },
+      "Glasses_Frame": {
+        "tested_core_pixels": 2413,
+        "opaque_underpaint_pixels": 2413
+      }
+    },
+    "footwear_off_matches_bare_body": true,
+    "sock_like_pixels_baked_in_shoes": 0,
+    "vacated_near_hand": {
+      "core_pixels": 1914,
+      "remaining_pixels": 0,
+      "status": "passed"
+    },
+    "both_legs_vacated": {
+      "core_pixels": 6960,
+      "remaining_pixels": 0
+    },
+    "local_fk_contact": {
+      "pipeline": "Python/Pillow FK surrogate, not After Effects",
+      "frames": 360,
+      "fps": 30,
+      "planted_foot_samples": 180,
+      "max_planted_foot_drift_comp_pixels": 2.5421149729252077e-13,
+      "native_after_effects": "not run",
+      "visual_approval": "pending inspection",
+      "source_ownership_qc": "source-ownership-qc.json",
+      "ownership_scope": "Part ownership validated separately using per-view masks and motion regions; frontal probe coordinates not reused."
+    },
+    "native_photoshop": "not executed",
+    "native_after_effects": "not available",
+    "production_approval": "pending native application/visual/editability checks; local diagnostic only"
+  },
+  "side": {
+    "view": "side",
+    "layers": 35,
+    "bones": 15,
+    "anatomical_occurrences": {
+      "Skin_UpperArm_L": 1,
+      "Skin_Forearm_L": 1,
+      "Skin_Hand_L": 1,
+      "Skin_Thigh_L": 1,
+      "Skin_Shin_L": 1,
+      "Skin_BareFoot_L": 1,
+      "Skin_UpperArm_R": 1,
+      "Skin_Forearm_R": 1,
+      "Skin_Hand_R": 1,
+      "Skin_Thigh_R": 1,
+      "Skin_Shin_R": 1,
+      "Skin_BareFoot_R": 1
+    },
+    "wardrobe_uses_corresponding_anatomical_bones": true,
+    "no_active_whole_body_backdrop": true,
+    "blouse_front_side_duplicate_pixels": 0,
+    "psd_reader": "psd-tools",
+    "rle_verified": true,
+    "native_psd_export_and_reopen": "GIMP",
+    "native_composite_mae_8bit": 2.5925925925925925e-05,
+    "hide_features": {
+      "Eye_L": {
+        "tested_core_pixels": 4389,
+        "opaque_underpaint_pixels": 4389
+      },
+      "Glasses_Frame": {
+        "tested_core_pixels": 919,
+        "opaque_underpaint_pixels": 919
+      }
+    },
+    "footwear_off_matches_bare_body": true,
+    "sock_like_pixels_baked_in_shoes": 0,
+    "vacated_near_hand": {
+      "core_pixels": 0,
+      "remaining_pixels": 0,
+      "status": "not_applicable_due_to_projection"
+    },
+    "both_legs_vacated": {
+      "core_pixels": 4173,
+      "remaining_pixels": 0
+    },
+    "local_fk_contact": {
+      "pipeline": "Python/Pillow FK surrogate, not After Effects",
+      "frames": 360,
+      "fps": 30,
+      "planted_foot_samples": 180,
+      "max_planted_foot_drift_comp_pixels": 0.0003811371640327395,
+      "native_after_effects": "not run",
+      "visual_approval": "pending inspection",
+      "source_ownership_qc": "source-ownership-qc.json",
+      "ownership_scope": "Part ownership validated separately using per-view masks and motion regions; frontal probe coordinates not reused."
+    },
+    "native_photoshop": "not executed",
+    "native_after_effects": "not available",
+    "production_approval": "pending native application/visual/editability checks; local diagnostic only"
+  },
+  "back": {
+    "view": "back",
+    "layers": 30,
+    "bones": 15,
+    "anatomical_occurrences": {
+      "Skin_UpperArm_L": 1,
+      "Skin_Forearm_L": 1,
+      "Skin_Hand_L": 1,
+      "Skin_Thigh_L": 1,
+      "Skin_Shin_L": 1,
+      "Skin_BareFoot_L": 1,
+      "Skin_UpperArm_R": 1,
+      "Skin_Forearm_R": 1,
+      "Skin_Hand_R": 1,
+      "Skin_Thigh_R": 1,
+      "Skin_Shin_R": 1,
+      "Skin_BareFoot_R": 1
+    },
+    "wardrobe_uses_corresponding_anatomical_bones": true,
+    "no_active_whole_body_backdrop": true,
+    "blouse_front_side_duplicate_pixels": 0,
+    "psd_reader": "psd-tools",
+    "rle_verified": true,
+    "native_psd_export_and_reopen": "GIMP",
+    "native_composite_mae_8bit": 4.7453703703703705e-06,
+    "hide_features": {},
+    "footwear_off_matches_bare_body": true,
+    "sock_like_pixels_baked_in_shoes": 0,
+    "vacated_near_hand": {
+      "core_pixels": 1145,
+      "remaining_pixels": 0,
+      "status": "passed"
+    },
+    "both_legs_vacated": {
+      "core_pixels": 7682,
+      "remaining_pixels": 0
+    },
+    "local_fk_contact": {
+      "pipeline": "Python/Pillow FK surrogate, not After Effects",
+      "frames": 360,
+      "fps": 30,
+      "planted_foot_samples": 180,
+      "max_planted_foot_drift_comp_pixels": 3.2155493553843715e-13,
+      "native_after_effects": "not run",
+      "visual_approval": "pending inspection",
+      "source_ownership_qc": "source-ownership-qc.json",
+      "ownership_scope": "Part ownership validated separately using per-view masks and motion regions; frontal probe coordinates not reused."
+    },
+    "native_photoshop": "not executed",
+    "native_after_effects": "not available",
+    "production_approval": "pending native application/visual/editability checks; local diagnostic only"
+  }
+}
