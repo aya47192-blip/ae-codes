@@ -1,12 +1,14 @@
 # Alice in Wonderland — الفيديو الجديد
 
+**تصحيح تشغيل:** استخدمي [الفيديو H.264](Alice_1080p_H264_COMPATIBLE.mp4) بدل نسخة HEVC القديمة التي قد تعرض صوتًا فقط. الدقة والمدة وتوقيت الحركة والصوت محفوظة. حزمة After Effects الحالية تستخدم نسخة H.264 أيضًا.
+
 - [تحميل الـStoryboard والمراجع](Alice_Storyboard_and_Models.zip)
 - [الصور الملونة 01–15](Alice_Final_Panels_01_15.zip)
 - [الصور الملونة 16–30](Alice_Final_Panels_16_30.zip)
-- [الفيديو النهائي 1080p MP4](Video3_Alice_Final_HEVC.mp4)
+- [الفيديو المصحح 1080p H.264 MP4](Alice_1080p_H264_COMPATIBLE.mp4)
 - [Photoshop: طبقات العناصر](Alice_Photoshop_Objects.zip)
 - [Photoshop: طبقات الألوان](Alice_Photoshop_Paint.zip)
-- [تجهيز After Effects وتعليماته](Alice_AfterEffects_Setup.zip)
+- [تجهيز After Effects المصحح H.264 وتعليماته](Alice_AfterEffects_H264_FIXED.zip)
 
 فكّي حزمتَي الصور الملونة مع حزمة الستوري بورد في نفس الفولدر. حزمة After Effects تحتوي على الفيديو وسكريبت يُنشئ AEP على جهازك، وليست ملف AEP مُختبرًا داخل البرنامج هنا. طبقات الخلفية مناطق من نفس الفيديو فوق نسخة كاملة، وليست فصلًا أصليًا للشخصيات.
 

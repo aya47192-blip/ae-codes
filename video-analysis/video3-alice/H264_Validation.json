@@ -1,0 +1,22 @@
+{
+  "codec": "h264",
+  "tag": "avc1",
+  "pixel_format": "yuv420p",
+  "profile": "High",
+  "level": 41,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 1464,
+  "duration_seconds": 58.56,
+  "timestamps_match": true,
+  "audio_all_packet_hashes_and_timestamps_match": true,
+  "full_decode": "passed",
+  "nonblack_sample_means": [
+    110.78390062371399,
+    56.35003359696502,
+    56.58776443544239
+  ],
+  "native_windows_player_test": "not available"
+}
