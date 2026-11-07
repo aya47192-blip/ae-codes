@@ -1,0 +1,12 @@
+{
+  "video_frames": 1121,
+  "source_frames_retained_in_order": 1121,
+  "max_pts_error_seconds": 7.105427357601002e-15,
+  "audio_packet_sha256_matches": true,
+  "audio_packets": 1668,
+  "trimmed_audio_prefix_packets": 102,
+  "full_decode": "passed",
+  "archives_crc": "passed",
+  "native_AE_Photoshop_test": "unavailable",
+  "final_sha256": "3ffc2c0ca516165a85d2606b40b978293cded22ad6f8840f5462188594515c35"
+}
