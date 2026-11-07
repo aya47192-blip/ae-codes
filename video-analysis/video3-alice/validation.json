@@ -1,0 +1,15 @@
+{
+  "frames": 1464,
+  "fps": 25,
+  "duration_seconds": 58.56,
+  "max_pts_error_seconds": 0.0,
+  "AAC_all_packet_hashes_and_timestamps_match": true,
+  "audio_packets": 2523,
+  "decode": "passed",
+  "PSD_reopen_object_and_paint_composites_equal": true,
+  "PSD_full_RGB_matches_source_crop": true,
+  "PSD_actual_visibility_exports": "passed and visually inspected",
+  "AE_JSX": "syntax and regression mock passed; native AE unavailable",
+  "native_Photoshop": "unavailable",
+  "final_sha256": "87c63171078efb2f7bd1db6ee6561f3eee792f3bbbece082ba2b55674e71dd6b"
+}

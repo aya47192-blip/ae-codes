@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Alice_AfterEffects_Setup.zip",
+    "bytes": 12468944,
+    "git_blob": "449d4356666c2bec0d4720b7bcbf331631dfa4da",
+    "sha256": "c87da4166f4e9f5b6ce21600f860494d7d7e0bb02752b43ac7d23685998124cf"
+  },
+  {
+    "name": "Alice_Final_Panels_01_15.zip",
+    "bytes": 7902155,
+    "git_blob": "a6081d8ba03066aeb923fb016c0e81a4834c2c69",
+    "sha256": "b312cbd864ad56d137e4571715d604c42e94509900a4d1566abcc360126d2613"
+  },
+  {
+    "name": "Alice_Final_Panels_16_30.zip",
+    "bytes": 6080136,
+    "git_blob": "9bc8e594a97f7b2bf9d9b3ddf5d14d52cfd3b863",
+    "sha256": "58db13d74ddb6006f23ae8a91db3594a20eacbf6ba2b7957aa48c4d2ada1d5c6"
+  },
+  {
+    "name": "Alice_Photoshop_Objects.zip",
+    "bytes": 5564063,
+    "git_blob": "d4b60fcb3b9af5f09359a82b7f9bd5f6d782881d",
+    "sha256": "d11dbba3d0b48e65e2723c78fce519881702950ee0d02caef3d3281beb3dde44"
+  },
+  {
+    "name": "Alice_Photoshop_Paint.zip",
+    "bytes": 12236412,
+    "git_blob": "d057dd4b9f41fbe91a22020bb66a595ab2bff07f",
+    "sha256": "1c49cc7fd6d1dd696d840e0075676e452a34184689ec436a0af8ef3b73b1b9c0"
+  },
+  {
+    "name": "Alice_Storyboard_and_Models.zip",
+    "bytes": 11387588,
+    "git_blob": "77ac2b22c883dce0b6d9a619df5e0b30e2c89946",
+    "sha256": "6967ce009013021a9ba0382e1ce6fb1b2ab08fb31caae5d49bb4926e582db7d6"
+  },
+  {
+    "name": "Video3_Alice_Final_HEVC.mp4",
+    "bytes": 12520771,
+    "git_blob": "835331f03f923927acc9632b04b1dfcb25c0ef0e",
+    "sha256": "87c63171078efb2f7bd1db6ee6561f3eee792f3bbbece082ba2b55674e71dd6b"
+  }
+]
