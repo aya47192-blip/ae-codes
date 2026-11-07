@@ -1,0 +1,22 @@
+{
+  "Lama-Akbar-Animatic-Dialogue-Review.mp4": "6f94ad67281376065d69808db20446190053f356bcbe2e8c15af53277d46fa70",
+  "Lama-Akbar-Animatic-Clean.mp4": "8822ff1aa891160735bc0e472258bc13a46f7cb1d6158102a09dc3c9b53c0fb1",
+  "Lama-Akbar-Animatic-Editable-Source.zip": "b38f1b02404702244d50e54f9b59b47cd2630871071c665d30043750c670cb58",
+  "README.md": "36a5f01083ad06fefbb1d20d8cee076601faf968718d214c78c5ffbeb48f905c",
+  "README-AR.md": "6aa5d2700e5117df0a2b27e0280743b61fde3e5fdf41e19693fd18c2178b3b7e",
+  "Dialogue-Review-AR.srt": "45c3d087e6f88a4395168a1633aa9e7cdb64499cc4fd2738f94e3502cc2538b0",
+  "production-brief.json": "fcfb2ccdf5f4dddf6db45fc8f67ceb4be9ba2ad37ad0eaaaf9aa4a3a5c6e282e",
+  "source-verification.json": "ef006a48872803c10a3c2b6f417bbe676bb0d9ebad75b7910e4233ee45df2577",
+  "local-review.json": "75ba0670618ad172cb926bd80896ccae401694a1c38e654a4b87196ad36006bb",
+  "sound-design.json": "9a6848871c4bd3c47db2e660b22a333ab78bec0358a7000a062291453b7eb25d",
+  "render-requirements.json": "1f2a44856dc209b53fa9a0f67f1274e314998de9ce2e0f51ad4b3b8a40248376",
+  "source-manifest.json": "cbc333c905b7186257dfadcab3ba3dc0091159333a1ac9dceda49bfd973a6b8c",
+  "final-evidence.json": "87ab4c29c22fdba1ea33c8133983916918ccf5643a16cab74e71952f430f7e56",
+  "production-gate.json": "8b87693d4cf1eacca5a93b28f0eac27fe44db22121643d9b467456c52ec1b8ea",
+  "camera-and-shot-plan.json": "b4250b5c8b06075a9712f75502a43912fa05998a1f95c528051ea303080bb79d",
+  "dialogue-review-cues.json": "83dcbdf9b41f6c442d7c85eb80e01facef53de3bb24cb16586be79b4297179a7",
+  "proof/clean-render-qc.json": "24c9fa66e06b6b47352ce7073b4a1c8042945e1ba6c6ac64b9108cc031685666",
+  "proof/review-render-qc.json": "b9c0837c3a4ec4b4e951d8094feb13dec5e5297e0b929eb40c516ce5c5f823f0",
+  "proof/review-contact-small.jpg": "80c6136492a87cfef8029318576b79a7a77ce4170a9dc6259815d596044ce014",
+  "Lama-Akbar-Animatic-Checks.zip": "62cad745efccd3548b8dc10b205013d8b52381655a5b3f45efe7344fad39c609"
+}

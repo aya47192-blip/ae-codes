@@ -1,0 +1,14 @@
+{
+  "scope": "Accepted still-panel animatic only. No character animation, natural walking, lip sync or native AE execution claimed.",
+  "source_art": "36 paintings copied unchanged, independent byte equality checked",
+  "picture_geometry": "Full painting rectangle remains in frame through all camera endpoints, and never overlaps the optional caption area",
+  "inspected_images": [
+    "proof/dialogue-first.png",
+    "proof/dialogue-end.png",
+    "proof/review-contact.jpg"
+  ],
+  "camera": "0–2.4% smooth image-space scale,16 contact/pose-sensitive panels held static, hard cuts between poses avoid double-exposure limbs",
+  "audio": "Locally synthesized non-vocal provisional ambience/foley; measured source peak0.1422 and RMS0.0040, no clipping in source mix. Native replay and listening review not claimed.",
+  "media_checks": "Both90s MP4s fully decoded,2700frames each,1080square/30fps,stereo48kAAC,taggedBT.709",
+  "layers": "Per-shot flattened painting, camera null, optional caption rasters, paper background and2audio tracks. Characters/painted backgrounds remain flattened within each shot."
+}

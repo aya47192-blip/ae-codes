@@ -1,0 +1,285 @@
+{
+  "duration": 90,
+  "sample_rate": 48000,
+  "channels_mix": 2,
+  "stems": 2,
+  "stem_sample_rate": 24000,
+  "origin": "Deterministic locally synthesized sound placeholders, not field recordings or AI speech",
+  "spoken_dialogue": false,
+  "music": false,
+  "peak": 0.14215871070040062,
+  "rms": 0.0040155432645673445,
+  "event_count": 54,
+  "events": [
+    {
+      "event": "quiet room air / synthetic placeholder",
+      "start": 0,
+      "end": 90.0
+    },
+    {
+      "event": "soft air / location transition",
+      "start": 15,
+      "end": 21.0
+    },
+    {
+      "event": "soft air / location transition",
+      "start": 21,
+      "end": 27.0
+    },
+    {
+      "event": "soft air / location transition",
+      "start": 42,
+      "end": 49.0
+    },
+    {
+      "event": "soft air / location transition",
+      "start": 68,
+      "end": 90.0
+    },
+    {
+      "event": "quiet night rain fades toward dawn",
+      "start": 27,
+      "end": 42.0
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 1.2,
+      "end": 1.3999583333333334
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 5.7,
+      "end": 5.934145833333333
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 9.3,
+      "end": 9.502166666666668
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 14.2,
+      "end": 14.431208333333334
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 69.8,
+      "end": 70.03241666666666
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 74.8,
+      "end": 75.03947916666667
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 80.8,
+      "end": 80.98539583333333
+    },
+    {
+      "event": "distant synthetic bird chirp",
+      "start": 88.4,
+      "end": 88.56339583333333
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 0.5,
+      "end": 2.3
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 3.15,
+      "end": 4.5
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 27.3,
+      "end": 28.9
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 34.2,
+      "end": 35.0
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 36.4,
+      "end": 37.0
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 83.3,
+      "end": 84.8
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 85.6,
+      "end": 86.7
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 87.4,
+      "end": 89.4
+    },
+    {
+      "event": "notebook closing",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "event": "schoolbag fabric",
+      "start": 14.1,
+      "end": 14.5
+    },
+    {
+      "event": "notebook lands",
+      "start": 17.7,
+      "end": 17.85
+    },
+    {
+      "event": "notebook pickup",
+      "start": 21.35,
+      "end": 21.6
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 15.2,
+      "end": 15.35
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 15.7,
+      "end": 15.85
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 16.2,
+      "end": 16.35
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 16.7,
+      "end": 16.85
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 25.2,
+      "end": 25.35
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 25.65,
+      "end": 25.8
+    },
+    {
+      "event": "illustrative footstep cue, no actual walk animation",
+      "start": 26.1,
+      "end": 26.25
+    },
+    {
+      "event": "cardboard work",
+      "start": 28.8,
+      "end": 29.02
+    },
+    {
+      "event": "cardboard work",
+      "start": 30.7,
+      "end": 30.92
+    },
+    {
+      "event": "cardboard work",
+      "start": 31.3,
+      "end": 31.52
+    },
+    {
+      "event": "cardboard work",
+      "start": 33.1,
+      "end": 33.32
+    },
+    {
+      "event": "pencil roll",
+      "start": 38.7,
+      "end": 38.85
+    },
+    {
+      "event": "pencil roll settle",
+      "start": 38.86,
+      "end": 39.01
+    },
+    {
+      "event": "desk phone bell cue",
+      "start": 42.25,
+      "end": 42.52
+    },
+    {
+      "event": "desk phone bell cue",
+      "start": 42.75,
+      "end": 43.02
+    },
+    {
+      "event": "phone receiver lift",
+      "start": 44.05,
+      "end": 44.2
+    },
+    {
+      "event": "office plans",
+      "start": 45.4,
+      "end": 45.9
+    },
+    {
+      "event": "phone receiver down",
+      "start": 47.2,
+      "end": 47.35
+    },
+    {
+      "event": "drawing paper",
+      "start": 49.3,
+      "end": 49.8
+    },
+    {
+      "event": "pencil scratch / synthetic placeholder",
+      "start": 53.1,
+      "end": 53.5
+    },
+    {
+      "event": "old notebook handled",
+      "start": 57.5,
+      "end": 57.8
+    },
+    {
+      "event": "notebook closing",
+      "start": 60.7,
+      "end": 60.85
+    },
+    {
+      "event": "wooden toy contact",
+      "start": 62.1,
+      "end": 62.25
+    },
+    {
+      "event": "clothes shift",
+      "start": 64.0,
+      "end": 64.55
+    },
+    {
+      "event": "wooden train set on table",
+      "start": 71.7,
+      "end": 71.85
+    },
+    {
+      "event": "old notebook opening",
+      "start": 76.0,
+      "end": 76.45
+    },
+    {
+      "event": "old page turn",
+      "start": 77.2,
+      "end": 77.65
+    },
+    {
+      "event": "chair slide into sunlight",
+      "start": 80.7,
+      "end": 81.4
+    }
+  ]
+}

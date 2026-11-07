@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "duration_seconds": 90,
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "frames": 2700,
+  "shots": 36,
+  "approved_reference": "../lama-akbar-storyboard-v2/storyboard.json",
+  "purpose": "User explicitly accepted a no-extra-cost still-panel animatic fallback after video/speech generation was plan-gated.",
+  "preserve": "Exact original artwork copied unchanged; fit full panels on paper matte, no limbs cropped, no new characters or drawing.",
+  "motion": "Only restrained 0–2.4% camera scale; contact/pose-critical panels held still. No character rig/walk/lip-sync claimed.",
+  "sound": "Procedural temporary ambience and foley, no music or spoken voices.",
+  "dialogue": "Optional raster captions and SRT from exact approved script, planned windows only.",
+  "native_ae": "Builder source only; AE unavailable, not natively executed.",
+  "layers": "Each storyboard image is still a flattened illustration. Camera controls, paper background, caption rasters and two sound stems are independently editable; internal characters and scene objects are not separated.",
+  "format_note": "Square review preserves whole approved panels; widescreen final layout remains a different future task."
+}

@@ -1,0 +1,35 @@
+{
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "frames": 2700,
+  "codec": "h264",
+  "pixelFormats": [
+    "yuv420p"
+  ],
+  "colorPrimaries": "bt709",
+  "colorTransfer": "bt709",
+  "colorSpace": "bt709",
+  "audio": {
+    "required": true,
+    "sampleRate": 48000,
+    "channels": 2,
+    "matchDuration": true,
+    "toleranceSeconds": 0.05
+  },
+  "reviewFrames": [
+    30,
+    315,
+    600,
+    855,
+    1215,
+    1365,
+    1575,
+    1770,
+    1995,
+    2070,
+    2325,
+    2580,
+    2670
+  ]
+}

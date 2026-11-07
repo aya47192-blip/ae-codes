@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "delivery_status": "Complete90s local still-panel animatic plus editable AE builder source; production-native validation pending",
+  "artifacts": {
+    "source_manifest": {
+      "path": "source-manifest.json",
+      "sha256": "cbc333c905b7186257dfadcab3ba3dc0091159333a1ac9dceda49bfd973a6b8c"
+    },
+    "video": {
+      "path": "Lama-Akbar-Animatic-Dialogue-Review.mp4",
+      "sha256": "6f94ad67281376065d69808db20446190053f356bcbe2e8c15af53277d46fa70"
+    }
+  },
+  "checks": {
+    "native_structure": {
+      "status": "pending",
+      "reason": "Native AE execution unavailable; no production-final claim for accepted still-panel animatic."
+    },
+    "rig_visual": {
+      "status": "pending",
+      "reason": "Native AE execution unavailable; no production-final claim for accepted still-panel animatic."
+    },
+    "rendered_color": {
+      "status": "pending",
+      "reason": "Native AE execution unavailable; no production-final claim for accepted still-panel animatic."
+    },
+    "editability": {
+      "status": "pending",
+      "reason": "Native AE execution unavailable; no production-final claim for accepted still-panel animatic."
+    },
+    "audio_sync": {
+      "status": "pending",
+      "reason": "Native AE execution unavailable; no production-final claim for accepted still-panel animatic."
+    },
+    "source_contract": {
+      "status": "passed",
+      "review": "Locked90s/2700frame contract covers all36 approved panels; source generator and independent image/geometry checks passed.",
+      "evidence": [
+        {
+          "path": "After-Effects/source-qc.json",
+          "sha256": "6f371443508a4aba5abf59d2d33d69260df8d332d0bd479e38deca9913ec3fe3"
+        },
+        {
+          "path": "source-verification.json",
+          "sha256": "ef006a48872803c10a3c2b6f417bbe676bb0d9ebad75b7910e4233ee45df2577"
+        }
+      ]
+    },
+    "storyboard_visual": {
+      "status": "passed",
+      "review": "Limited to local still-panel animatic: inspected decoded overview and first/final dialogue crops; source art is byte-identical and no full painting is cropped. No body mechanics/lip sync evaluation exists.",
+      "evidence": [
+        {
+          "path": "local-review.json",
+          "sha256": "75ba0670618ad172cb926bd80896ccae401694a1c38e654a4b87196ad36006bb"
+        },
+        {
+          "path": "proof/review-contact.jpg",
+          "sha256": "64cd45eae0ad22bcad04771cb39ffd0653ee3efc7e682403ff6397923d89bf09"
+        },
+        {
+          "path": "proof/dialogue-first.png",
+          "sha256": "d7a8f1e320b3fe9066394289a57c597bbbb96ec7b82637f7820bd4381025d5fd"
+        },
+        {
+          "path": "proof/dialogue-end.png",
+          "sha256": "f5b37a8f7d765e2602fbf9747adf21a439dcb05fd6a8f902d5451278f5b7eba3"
+        }
+      ]
+    },
+    "render_decode": {
+      "status": "passed",
+      "review": "Both actual local MP4 deliveries passed full video/audio decode,frame count,cadence,duration,codec,color tags and48k stereo audio checks. These are not AE renders.",
+      "evidence": [
+        {
+          "path": "proof/clean-render-qc.json",
+          "sha256": "24c9fa66e06b6b47352ce7073b4a1c8042945e1ba6c6ac64b9108cc031685666"
+        },
+        {
+          "path": "proof/review-render-qc.json",
+          "sha256": "b9c0837c3a4ec4b4e951d8094feb13dec5e5297e0b929eb40c516ce5c5f823f0"
+        }
+      ]
+    }
+  },
+  "native_project_note": "No native AEP exists; JSX saves one only when executed inside After Effects."
+}
