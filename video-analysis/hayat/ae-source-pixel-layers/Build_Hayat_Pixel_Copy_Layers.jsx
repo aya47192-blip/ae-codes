@@ -37,7 +37,7 @@
         }
         var edit = makeComp('01_EDIT_SOURCE_PIXEL_REGIONS__ORIGINAL_BASE_RETAINED');
         var base = edit.layers.add(footage); identity(base);
-        base.name = 'BASE_INTACT_FINAL_VIDEO__LOCKED'; base.locked = true;
+        base.name = 'BASE_INTACT_FINAL_VIDEO__LOCKED';
         base.comment = 'Unmodified final movie. Includes the girl and every original visible object. This full base deliberately remains intact. Hiding an overlay reveals the same object in this base; it does NOT remove an object from the film.';
         var overlays = [];
         function addRegion(name, start, end, vertices, note) {
@@ -119,6 +119,8 @@
         edit.openInViewer();
         var dest = new File(root.fsName+'/Hayat_Source_Pixel_Regions.aep'); var suffix = 2;
         while(dest.exists) { dest = new File(root.fsName+'/Hayat_Source_Pixel_Regions_'+suffix+'.aep'); suffix++; }
+        // Lock only after all names, comments, QA and setup writes have finished.
+        base.locked = true;
         project.save(dest);
         app.endUndoGroup(); undo=false;
         alert('AEP created: '+dest.fsName+'\n\n'+report+'\n\nImportant: these are editing overlays above the intact video. Hiding an overlay does not erase the object from the base.');
