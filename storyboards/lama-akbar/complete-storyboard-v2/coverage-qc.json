@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "scope": "Storyboard planning and image coverage only; no native animation claim",
+  "chapters": 4,
+  "scenes": 12,
+  "frames": 36,
+  "seconds": 90,
+  "planned_frames_30fps": 2700,
+  "character_images": 8,
+  "pdf_pages": 42,
+  "page_layout_bounds": [
+    {
+      "page": 1,
+      "label": "cover",
+      "bottom": 1685
+    },
+    {
+      "page": 2,
+      "label": "story chapters",
+      "bottom": 1495
+    },
+    {
+      "page": 3,
+      "label": "story chapters",
+      "bottom": 1543
+    },
+    {
+      "page": 4,
+      "label": "character catalog",
+      "bottom": 1900
+    },
+    {
+      "page": 5,
+      "label": "character catalog",
+      "bottom": 1900
+    },
+    {
+      "page": 6,
+      "label": "K01",
+      "bottom": 1511
+    },
+    {
+      "page": 7,
+      "label": "K02",
+      "bottom": 1517
+    },
+    {
+      "page": 8,
+      "label": "K03",
+      "bottom": 1512
+    },
+    {
+      "page": 9,
+      "label": "K04",
+      "bottom": 1517
+    },
+    {
+      "page": 10,
+      "label": "K05",
+      "bottom": 1517
+    },
+    {
+      "page": 11,
+      "label": "K06",
+      "bottom": 1480
+    },
+    {
+      "page": 12,
+      "label": "K07",
+      "bottom": 1512
+    },
+    {
+      "page": 13,
+      "label": "K08",
+      "bottom": 1517
+    },
+    {
+      "page": 14,
+      "label": "K09",
+      "bottom": 1467
+    },
+    {
+      "page": 15,
+      "label": "K10",
+      "bottom": 1517
+    },
+    {
+      "page": 16,
+      "label": "K11",
+      "bottom": 1517
+    },
+    {
+      "page": 17,
+      "label": "K12",
+      "bottom": 1514
+    },
+    {
+      "page": 18,
+      "label": "K13",
+      "bottom": 1515
+    },
+    {
+      "page": 19,
+      "label": "K14",
+      "bottom": 1475
+    },
+    {
+      "page": 20,
+      "label": "K15",
+      "bottom": 1477
+    },
+    {
+      "page": 21,
+      "label": "K16",
+      "bottom": 1480
+    },
+    {
+      "page": 22,
+      "label": "K17",
+      "bottom": 1480
+    },
+    {
+      "page": 23,
+      "label": "K18",
+      "bottom": 1480
+    },
+    {
+      "page": 24,
+      "label": "K19",
+      "bottom": 1493
+    },
+    {
+      "page": 25,
+      "label": "K20",
+      "bottom": 1503
+    },
+    {
+      "page": 26,
+      "label": "K21",
+      "bottom": 1442
+    },
+    {
+      "page": 27,
+      "label": "K22",
+      "bottom": 1517
+    },
+    {
+      "page": 28,
+      "label": "K23",
+      "bottom": 1517
+    },
+    {
+      "page": 29,
+      "label": "K24",
+      "bottom": 1517
+    },
+    {
+      "page": 30,
+      "label": "K25",
+      "bottom": 1514
+    },
+    {
+      "page": 31,
+      "label": "K26",
+      "bottom": 1480
+    },
+    {
+      "page": 32,
+      "label": "K27",
+      "bottom": 1480
+    },
+    {
+      "page": 33,
+      "label": "K28",
+      "bottom": 1514
+    },
+    {
+      "page": 34,
+      "label": "K29",
+      "bottom": 1517
+    },
+    {
+      "page": 35,
+      "label": "K30",
+      "bottom": 1517
+    },
+    {
+      "page": 36,
+      "label": "K31",
+      "bottom": 1512
+    },
+    {
+      "page": 37,
+      "label": "K32",
+      "bottom": 1512
+    },
+    {
+      "page": 38,
+      "label": "K33",
+      "bottom": 1512
+    },
+    {
+      "page": 39,
+      "label": "K34",
+      "bottom": 1517
+    },
+    {
+      "page": 40,
+      "label": "K35",
+      "bottom": 1480
+    },
+    {
+      "page": 41,
+      "label": "K36",
+      "bottom": 1517
+    },
+    {
+      "page": 42,
+      "label": "review boundaries",
+      "bottom": 1426
+    }
+  ],
+  "native_after_effects": "not run; video explicitly deferred until approval",
+  "final_pdf_all_pages_decoded": true,
+  "font_glyph_coverage": "passed for all source text",
+  "archives_crc_and_image_count": "passed",
+  "visual_review": {
+    "reviewed": [
+      "all six generated sheets",
+      "corrected sheet5 home wardrobe and elderly background",
+      "corrected sheet6 Arabic notebook phrases",
+      "PDF representative pages incl title, shot and final notes"
+    ],
+    "not_claimed": [
+      "native animation",
+      "pixel-exact match cuts",
+      "final16:9video layout"
+    ]
+  }
+}

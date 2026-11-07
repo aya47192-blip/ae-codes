@@ -1,0 +1,568 @@
+{
+  "version": 1,
+  "type": "Generated painted storyboard stills; character references extracted as whole figures, no PSD/rig/animation render",
+  "approved_child_reference": "reference/approved-child-model.png",
+  "adult_and_support_sources": [
+    "reference/exec-ef3e2198-9452-4673-aa64-a2e0ba4273ba.png",
+    "reference/exec-3574b842-fcea-45f2-9a8d-cb33525815c3.png"
+  ],
+  "sheet_sources": {
+    "1": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+    "2": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+    "3": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+    "4": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+    "5": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+    "6": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png"
+  },
+  "frame_extraction": [
+    {
+      "id": "K01",
+      "source": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+      "cell": 1,
+      "crop": [
+        4,
+        4,
+        510,
+        506
+      ],
+      "dimensions": [
+        506,
+        502
+      ]
+    },
+    {
+      "id": "K02",
+      "source": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+      "cell": 2,
+      "crop": [
+        518,
+        4,
+        1019,
+        506
+      ],
+      "dimensions": [
+        501,
+        502
+      ]
+    },
+    {
+      "id": "K03",
+      "source": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+      "cell": 3,
+      "crop": [
+        1027,
+        4,
+        1532,
+        506
+      ],
+      "dimensions": [
+        505,
+        502
+      ]
+    },
+    {
+      "id": "K04",
+      "source": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+      "cell": 4,
+      "crop": [
+        4,
+        514,
+        510,
+        1020
+      ],
+      "dimensions": [
+        506,
+        506
+      ]
+    },
+    {
+      "id": "K05",
+      "source": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+      "cell": 5,
+      "crop": [
+        518,
+        514,
+        1019,
+        1020
+      ],
+      "dimensions": [
+        501,
+        506
+      ]
+    },
+    {
+      "id": "K06",
+      "source": "/workspace/generated_images/exec-4c90f986-a5c5-487a-86eb-76820ab891da.png",
+      "cell": 6,
+      "crop": [
+        1027,
+        514,
+        1532,
+        1020
+      ],
+      "dimensions": [
+        505,
+        506
+      ]
+    },
+    {
+      "id": "K07",
+      "source": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+      "cell": 1,
+      "crop": [
+        4,
+        4,
+        508,
+        505
+      ],
+      "dimensions": [
+        504,
+        501
+      ]
+    },
+    {
+      "id": "K08",
+      "source": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+      "cell": 2,
+      "crop": [
+        516,
+        4,
+        1015,
+        505
+      ],
+      "dimensions": [
+        499,
+        501
+      ]
+    },
+    {
+      "id": "K09",
+      "source": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+      "cell": 3,
+      "crop": [
+        1023,
+        4,
+        1532,
+        505
+      ],
+      "dimensions": [
+        509,
+        501
+      ]
+    },
+    {
+      "id": "K10",
+      "source": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+      "cell": 4,
+      "crop": [
+        4,
+        513,
+        508,
+        1020
+      ],
+      "dimensions": [
+        504,
+        507
+      ]
+    },
+    {
+      "id": "K11",
+      "source": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+      "cell": 5,
+      "crop": [
+        516,
+        513,
+        1015,
+        1020
+      ],
+      "dimensions": [
+        499,
+        507
+      ]
+    },
+    {
+      "id": "K12",
+      "source": "/workspace/generated_images/exec-6295fd78-9790-4d84-b989-e022ac516e08.png",
+      "cell": 6,
+      "crop": [
+        1023,
+        513,
+        1532,
+        1020
+      ],
+      "dimensions": [
+        509,
+        507
+      ]
+    },
+    {
+      "id": "K13",
+      "source": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+      "cell": 1,
+      "crop": [
+        4,
+        4,
+        507,
+        506
+      ],
+      "dimensions": [
+        503,
+        502
+      ]
+    },
+    {
+      "id": "K14",
+      "source": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+      "cell": 2,
+      "crop": [
+        515,
+        4,
+        1020,
+        506
+      ],
+      "dimensions": [
+        505,
+        502
+      ]
+    },
+    {
+      "id": "K15",
+      "source": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+      "cell": 3,
+      "crop": [
+        1028,
+        4,
+        1532,
+        506
+      ],
+      "dimensions": [
+        504,
+        502
+      ]
+    },
+    {
+      "id": "K16",
+      "source": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+      "cell": 4,
+      "crop": [
+        4,
+        514,
+        507,
+        1020
+      ],
+      "dimensions": [
+        503,
+        506
+      ]
+    },
+    {
+      "id": "K17",
+      "source": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+      "cell": 6,
+      "crop": [
+        1028,
+        514,
+        1532,
+        1020
+      ],
+      "dimensions": [
+        504,
+        506
+      ]
+    },
+    {
+      "id": "K18",
+      "source": "/workspace/generated_images/exec-07493eaf-eb1b-4c42-9cbe-69c225b919f3.png",
+      "cell": 5,
+      "crop": [
+        515,
+        514,
+        1020,
+        1020
+      ],
+      "dimensions": [
+        505,
+        506
+      ]
+    },
+    {
+      "id": "K19",
+      "source": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+      "cell": 1,
+      "crop": [
+        4,
+        4,
+        507,
+        492
+      ],
+      "dimensions": [
+        503,
+        488
+      ]
+    },
+    {
+      "id": "K20",
+      "source": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+      "cell": 2,
+      "crop": [
+        515,
+        4,
+        1012,
+        492
+      ],
+      "dimensions": [
+        497,
+        488
+      ]
+    },
+    {
+      "id": "K21",
+      "source": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+      "cell": 3,
+      "crop": [
+        1020,
+        4,
+        1532,
+        492
+      ],
+      "dimensions": [
+        512,
+        488
+      ]
+    },
+    {
+      "id": "K22",
+      "source": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+      "cell": 4,
+      "crop": [
+        4,
+        500,
+        507,
+        1020
+      ],
+      "dimensions": [
+        503,
+        520
+      ]
+    },
+    {
+      "id": "K23",
+      "source": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+      "cell": 5,
+      "crop": [
+        515,
+        500,
+        1012,
+        1020
+      ],
+      "dimensions": [
+        497,
+        520
+      ]
+    },
+    {
+      "id": "K24",
+      "source": "/workspace/generated_images/exec-a57cb19e-7eab-4d85-b287-4c17aa319732.png",
+      "cell": 6,
+      "crop": [
+        1020,
+        500,
+        1532,
+        1020
+      ],
+      "dimensions": [
+        512,
+        520
+      ]
+    },
+    {
+      "id": "K25",
+      "source": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+      "cell": 1,
+      "crop": [
+        4,
+        4,
+        510,
+        508
+      ],
+      "dimensions": [
+        506,
+        504
+      ]
+    },
+    {
+      "id": "K26",
+      "source": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+      "cell": 2,
+      "crop": [
+        518,
+        4,
+        1022,
+        508
+      ],
+      "dimensions": [
+        504,
+        504
+      ]
+    },
+    {
+      "id": "K27",
+      "source": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+      "cell": 3,
+      "crop": [
+        1030,
+        4,
+        1532,
+        508
+      ],
+      "dimensions": [
+        502,
+        504
+      ]
+    },
+    {
+      "id": "K28",
+      "source": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+      "cell": 4,
+      "crop": [
+        4,
+        516,
+        510,
+        1020
+      ],
+      "dimensions": [
+        506,
+        504
+      ]
+    },
+    {
+      "id": "K29",
+      "source": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+      "cell": 5,
+      "crop": [
+        518,
+        516,
+        1022,
+        1020
+      ],
+      "dimensions": [
+        504,
+        504
+      ]
+    },
+    {
+      "id": "K30",
+      "source": "/workspace/generated_images/exec-ea4582eb-e2db-4a9e-a2f1-c7fbc061030f.png",
+      "cell": 6,
+      "crop": [
+        1030,
+        516,
+        1532,
+        1020
+      ],
+      "dimensions": [
+        502,
+        504
+      ]
+    },
+    {
+      "id": "K31",
+      "source": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png",
+      "cell": 1,
+      "crop": [
+        4,
+        4,
+        508,
+        505
+      ],
+      "dimensions": [
+        504,
+        501
+      ]
+    },
+    {
+      "id": "K32",
+      "source": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png",
+      "cell": 2,
+      "crop": [
+        516,
+        4,
+        1020,
+        505
+      ],
+      "dimensions": [
+        504,
+        501
+      ]
+    },
+    {
+      "id": "K33",
+      "source": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png",
+      "cell": 3,
+      "crop": [
+        1028,
+        4,
+        1532,
+        505
+      ],
+      "dimensions": [
+        504,
+        501
+      ]
+    },
+    {
+      "id": "K34",
+      "source": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png",
+      "cell": 4,
+      "crop": [
+        4,
+        513,
+        508,
+        1020
+      ],
+      "dimensions": [
+        504,
+        507
+      ]
+    },
+    {
+      "id": "K35",
+      "source": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png",
+      "cell": 5,
+      "crop": [
+        516,
+        513,
+        1020,
+        1020
+      ],
+      "dimensions": [
+        504,
+        507
+      ]
+    },
+    {
+      "id": "K36",
+      "source": "/workspace/generated_images/exec-9bf4cc8f-05d1-49ec-b5f3-63bd0ebad07f.png",
+      "cell": 6,
+      "crop": [
+        1028,
+        513,
+        1532,
+        1020
+      ],
+      "dimensions": [
+        504,
+        507
+      ]
+    }
+  ],
+  "image_edits": [
+    "Sheet05: corrected38-year-old home wardrobe/glasses and removed unchanged-age children from elderly scene",
+    "Sheet06: added correct Arabic physically in notebook with image generation editing tool"
+  ],
+  "not_done": [
+    "No native Photoshop authoring or recovered painting strokes",
+    "No AE project execution or video generation",
+    "No pixel-exact match-cut rig alignment"
+  ]
+}
