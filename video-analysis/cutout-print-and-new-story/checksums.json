@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alice_Print_PDFs_and_Backdrops.zip",
+    "size": 6171407,
+    "sha": "902cbaeb35b81b084934e0445e846718bfac5bef",
+    "sha256": "facfd036551736f67858823c2d95be4fb7a35e6db4c060b637abc2f5cf3b776e"
+  },
+  {
+    "name": "Alice_Browser_Print_All_Elements.zip",
+    "size": 6319747,
+    "sha": "bc9cccdcc0c001f1483f438c909ad3acd33871f2",
+    "sha256": "2cfa97dad56bc98870487769379b255f1c13a680bb309b5ff9c229719fe20aa9"
+  },
+  {
+    "name": "Alice_Local_PNG_Assets.zip",
+    "size": 6250821,
+    "sha": "213d4d251b5fc9c7b076f0d6fefb5241ff25813f",
+    "sha256": "e17fb3afe21ff0e2ea55d6ff9dd8e18734ea1addd7f5e7b4329062a8d1c64303"
+  },
+  {
+    "name": "The_Lost_Star_Film_and_Print_Assets.zip",
+    "size": 7256228,
+    "sha": "f7d970aaf10180bdec94265a829a659be7c65650",
+    "sha256": "f5b64170d3875a60f707ab84a8fefcd1854fa019ebc748743b8b1c686fb9f750"
+  },
+  {
+    "name": "The_Lost_Star_Cutout_H264.mp4",
+    "size": 2775774,
+    "sha": "f3c942164fba788800969a622c8c90aaedc2e729",
+    "sha256": "94415995c77d04453c0e7be7cec89be510d6330740a3643321fdd6cc2d072e5d"
+  },
+  {
+    "name": "Story_Preview.jpg",
+    "size": 532306,
+    "sha": "f90024c4442c3074e490dbc336aa4f836ee87db9",
+    "sha256": "b94acc4ea28d6636303edd9b6242320774e4ff057adefb0a1f16bcd62fda69e0"
+  }
+]
