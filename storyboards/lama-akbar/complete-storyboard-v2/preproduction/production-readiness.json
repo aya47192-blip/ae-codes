@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "status": "preproduction readiness and asset plan; not an animation-ready project",
+  "reference_storyboard": "../storyboard.json",
+  "preserve": [
+    "latest character identities and illustrated style",
+    "same clothing colors and age designs",
+    "36-shot narrative and Egyptian Arabic dialogue",
+    "no music"
+  ],
+  "duration_seconds": 90,
+  "fps": 30,
+  "total_frames": 2700,
+  "video_format": "1920x1080 proposed from previous tests; final widescreen layout requires approval, source boards are square",
+  "asset_locations": [
+    {
+      "id": "BG01",
+      "name": "غرفة الطفولة",
+      "shots": "K01–K06",
+      "variants": [
+        "صباح"
+      ],
+      "layers": [
+        "base room walls/floor, complete window wall",
+        "outside houses/sky seen through window",
+        "bed/blanket",
+        "mirror and reflection separate",
+        "bedside table and books",
+        "foreground curtain/plant",
+        "light/shadows separate"
+      ]
+    },
+    {
+      "id": "BG02",
+      "name": "شارع المدرسة",
+      "shots": "K07–K09",
+      "variants": [
+        "صباح"
+      ],
+      "layers": [
+        "complete distant buildings/sky",
+        "school facade/wall/gate",
+        "pavement and low step",
+        "trees/branches in separate foreground layers",
+        "background crowd separate"
+      ]
+    },
+    {
+      "id": "BG03",
+      "name": "مدخل الجامعة",
+      "shots": "K10–K12",
+      "variants": [
+        "نهار"
+      ],
+      "layers": [
+        "complete building facade/door",
+        "stairs and ground",
+        "plants/trees separate",
+        "background students separate"
+      ]
+    },
+    {
+      "id": "BG04",
+      "name": "استوديو العمارة",
+      "shots": "K13–K18",
+      "variants": [
+        "ليل ومطر",
+        "فجر نفس هندسة المكان"
+      ],
+      "layers": [
+        "complete room and window wall",
+        "outside sky/rain separate",
+        "desk with full surface behind props",
+        "lamp",
+        "house model",
+        "paper and notebook and tools as separate props",
+        "foreground items",
+        "lighting/shadows separate"
+      ]
+    },
+    {
+      "id": "BG05",
+      "name": "مكتب العمل",
+      "shots": "K19–K21",
+      "variants": [
+        "نهار"
+      ],
+      "layers": [
+        "complete office walls/window",
+        "outside city",
+        "desk with full surface",
+        "phone and plans separate",
+        "background furniture",
+        "coworkers separate",
+        "foreground props",
+        "light/shadows separate"
+      ]
+    },
+    {
+      "id": "BG06",
+      "name": "بيت ليلى",
+      "shots": "K22–K36",
+      "variants": [
+        "مساء الأمومة K22–K24",
+        "صباح اليوم التالي K25–K27",
+        "نهار بعد مرور السنوات K28–K36"
+      ],
+      "layers": [
+        "complete walls/floor and window geometry",
+        "complete outside view",
+        "sofa and rug",
+        "table and chairs individually complete",
+        "oval mirror and reflection separate",
+        "plant and curtains separate",
+        "notebook/train/crayons each separate",
+        "light/shadows separate"
+      ]
+    }
+  ],
+  "voice_roles": 8,
+  "dialogue_cues": [
+    {
+      "id": "V01",
+      "speaker": "ليلى — ٨ سنين",
+      "planned_in_seconds": 0.4,
+      "planned_out_seconds": 7.6,
+      "text": "لما أكبر هبقى مهندسة… وهبني بيت فيه شباك كبير، تدخل منه الشمس.",
+      "direction": "فضول وثقة طفلة؛ جملة واحدة متصلة تمر فوق K01 إلى K03.",
+      "shots": "K01–K03",
+      "lip_sync": "حديث هادئ/تفكير بصوت مسموع؛ تُراجع حركة الفم حسب اختيار الإخراج",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V02",
+      "speaker": "الأم",
+      "planned_in_seconds": 10.2,
+      "planned_out_seconds": 11.8,
+      "text": "يلا يا ليلى، هنتأخر!",
+      "direction": "نداء حنون من الباب، استعجال خفيف بلا عصبية.",
+      "shots": "K05",
+      "lip_sync": "على الكاميرا",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V03",
+      "speaker": "ليلى — ٨ سنين",
+      "planned_in_seconds": 12.1,
+      "planned_out_seconds": 12.7,
+      "text": "جاية!",
+      "direction": "رد طبيعي سريع وهي تلتفت للأم.",
+      "shots": "K05",
+      "lip_sync": "على الكاميرا",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V04",
+      "speaker": "صاحبة الجامعة",
+      "planned_in_seconds": 22,
+      "planned_out_seconds": 24.6,
+      "text": "ليلى، المحاضرة بدأت!",
+      "direction": "الاسم يبدأ خارج الكادر ثم نكشف الصاحبة؛ ليست جملتين منفصلتين مصطنعتين.",
+      "shots": "K10–K11",
+      "lip_sync": "البداية خارج الكاميرا، والباقي حسب الكشف",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V05",
+      "speaker": "ليلى — ٢٢ سنة",
+      "planned_in_seconds": 27.5,
+      "planned_out_seconds": 29.4,
+      "text": "بس أخلص الدراسة…",
+      "direction": "تفكير داخلي هادئ وسط التركيز، لا تعليق حزين خطابي.",
+      "shots": "K13",
+      "lip_sync": "داخلي، لا يلزم تحريك الفم",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V06",
+      "speaker": "ليلى — ٣٨ سنة",
+      "planned_in_seconds": 44.2,
+      "planned_out_seconds": 46.8,
+      "text": "الرسومات هتكون عند حضرتك الصبح.",
+      "direction": "أداء مهني واثق في الهاتف، كلام مصري واضح.",
+      "shots": "K20",
+      "lip_sync": "على الكاميرا",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V07",
+      "speaker": "الولد — ٧ سنين",
+      "planned_in_seconds": 49.4,
+      "planned_out_seconds": 50.8,
+      "text": "ماما، تبصيلي؟",
+      "direction": "طلب عادي بحماس طفولي خفيف.",
+      "shots": "K22",
+      "lip_sync": "على الكاميرا",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V08",
+      "speaker": "ليلى — ٣٨ سنة",
+      "planned_in_seconds": 51.1,
+      "planned_out_seconds": 52.4,
+      "text": "جاية يا حبيبي.",
+      "direction": "حنان وهي تقرب كرسيها من الطفلين.",
+      "shots": "K22",
+      "lip_sync": "على الكاميرا",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V09",
+      "speaker": "البنت — ٥ سنين",
+      "planned_in_seconds": 53.8,
+      "planned_out_seconds": 55,
+      "text": "الباب مايل!",
+      "direction": "بضحكة قصيرة طبيعية؛ يليها تفاعل الأم والولد.",
+      "shots": "K23",
+      "lip_sync": "على الكاميرا",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V10",
+      "speaker": "ليلى — ٣٨ سنة",
+      "planned_in_seconds": 57.8,
+      "planned_out_seconds": 59.2,
+      "text": "هكتب بكرة.",
+      "direction": "حديث لنفسها، قصير، بلا إحساس انهيار.",
+      "shots": "K24",
+      "lip_sync": "بصوت منخفض، تُراجع اللقطة في الأنيماتك",
+      "timing_status": "planned, not recorded or forced-aligned"
+    },
+    {
+      "id": "V11",
+      "speaker": "ليلى — ٧٢ سنة",
+      "planned_in_seconds": 85.5,
+      "planned_out_seconds": 86.9,
+      "text": "النهارده…",
+      "direction": "صوت أكبر سنًا لكنه طبيعي ومستقر، إدراك بسيط لا عظة.",
+      "shots": "K35",
+      "lip_sync": "خارج كادر الفم؛ لا مزامنة شفاه لازمة لهذا التفصيل",
+      "timing_status": "planned, not recorded or forced-aligned"
+    }
+  ],
+  "ordering": [
+    "approve small voice sample and record/generate final dialogue",
+    "align approved audio and shots in animatic",
+    "reconstruct full hidden background/prop regions on original coordinates",
+    "prepare required character poses/expressions and new usable rig or drawn animation",
+    "test one actual AE shot including foot contacts and lip sync",
+    "scale to full film only after native test review"
+  ],
+  "background_test": "hide every foreground object and inspect full underpainting; move foreground/camera through actual shot range and inspect outlines, joins, shadows and parallax",
+  "walk_test": "real contact/pass/up/down poses and weight transfer; foot world position remains stable during ground contact, no whole-character sliding substituted for steps",
+  "native_after_effects": "unavailable in current execution environment; no native AEP/render approval claimed",
+  "speech_generation": "no speech/voice generation tool is available in current tool set; external voice service or recordings required",
+  "ai_video_note": "a generated flattened clip is not an editable rig or recoverable layered scene; preserving identity/style and editable motion requires separate approved assets and native review",
+  "production_ready": false
+}
