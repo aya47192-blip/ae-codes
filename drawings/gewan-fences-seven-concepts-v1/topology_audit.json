@@ -1,0 +1,2566 @@
+{
+  "totals": {
+    "faces": 59351,
+    "edges": 167985,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "loose_edges": 0,
+    "holes": 1578
+  },
+  "parts_with_open_edges": {},
+  "parts_with_nonmanifold_edges": {},
+  "all_parts": {
+    "P01_00_Low_Base__Charcoal_Metal": {
+      "faces": 17,
+      "edges": 45,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_01_wood__Woodlook_Aluminium": {
+      "faces": 192,
+      "edges": 384,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_01_wood_Edge__Champagne_Metal": {
+      "faces": 48,
+      "edges": 96,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_02_glassfish_Panel__Art_Glass": {
+      "faces": 46,
+      "edges": 132,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_02_glassfish_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_02_glassfish_EtchWaves__Etched_Art": {
+      "faces": 202,
+      "edges": 588,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_02_glassfish_Fish__Etched_Art": {
+      "faces": 66,
+      "edges": 162,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_03_fishart_Dark__Charcoal_Metal": {
+      "faces": 43,
+      "edges": 123,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_03_fishart_Fish__Silver_Fish": {
+      "faces": 55,
+      "edges": 135,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_03_fishart_FishHang__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_04_coral_Perforated__Champagne_Metal": {
+      "faces": 1108,
+      "edges": 3318,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 152
+    },
+    "P01_05_glasswave_Panel__Art_Glass": {
+      "faces": 41,
+      "edges": 117,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_05_glasswave_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_05_glasswave_EtchWaves__Etched_Art": {
+      "faces": 424,
+      "edges": 1242,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_06_waves_Backing__Grey_Mineral": {
+      "faces": 46,
+      "edges": 132,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_06_waves_Wave_0__Ivory_Stone": {
+      "faces": 162,
+      "edges": 480,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_06_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 322,
+      "edges": 954,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_06_waves_Wave_1__Ivory_Stone": {
+      "faces": 162,
+      "edges": 480,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_06_waves_Wave_2__Ivory_Stone": {
+      "faces": 160,
+      "edges": 474,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_07_oval_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "P01_07_oval_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "P01_07_oval_Inner__Art_Glass": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_08_reeds_Perforated__Champagne_Metal": {
+      "faces": 1102,
+      "edges": 3300,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 148
+    },
+    "P01_09_flutes__Grey_Mineral": {
+      "faces": 162,
+      "edges": 324,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_09_flutes_Edge__Champagne_Metal": {
+      "faces": 42,
+      "edges": 84,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_10_ripples_Backing__Grey_Mineral": {
+      "faces": 36,
+      "edges": 102,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_10_ripples_Wave_0__Ivory_Stone": {
+      "faces": 103,
+      "edges": 297,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_10_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 185,
+      "edges": 537,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_10_ripples_Wave_1__Ivory_Stone": {
+      "faces": 145,
+      "edges": 429,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_10_ripples_Wave_2__Ivory_Stone": {
+      "faces": 124,
+      "edges": 366,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_10_ripples_Wave_3__Ivory_Stone": {
+      "faces": 68,
+      "edges": 198,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_11_tail_Backing__Grey_Mineral": {
+      "faces": 23,
+      "edges": 63,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_11_tail_Wave_0__Ivory_Stone": {
+      "faces": 53,
+      "edges": 147,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_11_tail_ConcealedLED__LED_Warm_3000K": {
+      "faces": 72,
+      "edges": 204,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_11_tail_Wave_1__Ivory_Stone": {
+      "faces": 31,
+      "edges": 81,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 784,
+      "edges": 2346,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 774,
+      "edges": 2316,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P01_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_00_Low_Base__Charcoal_Metal": {
+      "faces": 10,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_01_coral_Perforated__Champagne_Metal": {
+      "faces": 1060,
+      "edges": 3174,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 144
+    },
+    "P02_02_wood__Woodlook_Aluminium": {
+      "faces": 150,
+      "edges": 300,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_02_wood_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_03_woodoval_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "P02_03_woodoval_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "P02_03_woodoval_Inner__Art_Glass": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_03_woodoval_Slats__Woodlook_Aluminium": {
+      "faces": 322,
+      "edges": 684,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_04_glassfish_Panel__Art_Glass": {
+      "faces": 40,
+      "edges": 114,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_04_glassfish_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_04_glassfish_EtchWaves__Etched_Art": {
+      "faces": 200,
+      "edges": 582,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_04_glassfish_Fish__Etched_Art": {
+      "faces": 66,
+      "edges": 162,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_05_reeds_Perforated__Champagne_Metal": {
+      "faces": 1113,
+      "edges": 3333,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 144
+    },
+    "P02_06_darkwave_Backing__Charcoal_Metal": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_06_darkwave_Wave_0__Ivory_Stone": {
+      "faces": 160,
+      "edges": 474,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_06_darkwave_ConcealedLED__LED_Warm_3000K": {
+      "faces": 160,
+      "edges": 474,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_06_darkwave_Wave_1__Ivory_Stone": {
+      "faces": 160,
+      "edges": 474,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_07_frost_Panel__Frosted_Glass": {
+      "faces": 39,
+      "edges": 111,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_07_frost_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_07_frost_EtchWaves__Etched_Art": {
+      "faces": 424,
+      "edges": 1242,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_08_coral_Perforated__Champagne_Metal": {
+      "faces": 1078,
+      "edges": 3228,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 134
+    },
+    "P02_09_flutes__Grey_Mineral": {
+      "faces": 138,
+      "edges": 276,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_09_flutes_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_10_ripples_Backing__Grey_Mineral": {
+      "faces": 44,
+      "edges": 126,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_10_ripples_Wave_0__Ivory_Stone": {
+      "faces": 160,
+      "edges": 474,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_10_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 315,
+      "edges": 933,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_10_ripples_Wave_1__Ivory_Stone": {
+      "faces": 160,
+      "edges": 474,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_10_ripples_Wave_2__Ivory_Stone": {
+      "faces": 154,
+      "edges": 456,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_10_ripples_Wave_3__Ivory_Stone": {
+      "faces": 84,
+      "edges": 246,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_11_tail_Backing__Grey_Mineral": {
+      "faces": 36,
+      "edges": 102,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_11_tail_Wave_0__Ivory_Stone": {
+      "faces": 111,
+      "edges": 327,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_11_tail_ConcealedLED__LED_Warm_3000K": {
+      "faces": 109,
+      "edges": 321,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_11_tail_Wave_1__Ivory_Stone": {
+      "faces": 102,
+      "edges": 300,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 788,
+      "edges": 2358,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 777,
+      "edges": 2325,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P02_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_00_Continuous_Core__Grey_Mineral": {
+      "faces": 401,
+      "edges": 1197,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_00_Base__Charcoal_Metal": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_01_waves_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_01_waves_Wave_0__Ivory_Stone": {
+      "faces": 209,
+      "edges": 621,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_01_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 320,
+      "edges": 948,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_01_waves_Wave_1__Ivory_Stone": {
+      "faces": 207,
+      "edges": 615,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_01_waves_Wave_2__Ivory_Stone": {
+      "faces": 215,
+      "edges": 639,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_02_stone_Mortar__Charcoal_Metal": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_02_stone_Stone__Charcoal_Stone": {
+      "faces": 607,
+      "edges": 1239,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_02_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_02_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_03_wood__Woodlook_Aluminium": {
+      "faces": 126,
+      "edges": 252,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_03_wood_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_04_medallion_Backing__Grey_Mineral": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_04_medallion_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E00_04_medallion_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E00_04_medallion_Inner__Grey_Mineral": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_04_medallion_InnerRipples__Champagne_Metal": {
+      "faces": 580,
+      "edges": 1710,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_05_slots_Grey__Grey_Mineral": {
+      "faces": 25,
+      "edges": 69,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_05_slots_Recess__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_05_slots_Light__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_06_ripples_Backing__Grey_Mineral": {
+      "faces": 40,
+      "edges": 114,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_06_ripples_Wave_0__Ivory_Stone": {
+      "faces": 189,
+      "edges": 561,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_06_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 280,
+      "edges": 828,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_06_ripples_Wave_1__Ivory_Stone": {
+      "faces": 186,
+      "edges": 552,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_06_ripples_Wave_2__Ivory_Stone": {
+      "faces": 188,
+      "edges": 558,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_06_ripples_Wave_3__Ivory_Stone": {
+      "faces": 187,
+      "edges": 555,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_07_coral_Backing__Charcoal_Metal": {
+      "faces": 28,
+      "edges": 78,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_07_coral_Perforated__Champagne_Metal": {
+      "faces": 1326,
+      "edges": 3972,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 170
+    },
+    "E00_08_niche_Backing__Grey_Mineral": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_08_niche_NicheRim__Ivory_Stone": {
+      "faces": 10,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E00_08_niche_NicheField__Woodlook_Aluminium": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_08_niche_NicheLED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_08_niche_Dune__Ivory_Stone": {
+      "faces": 143,
+      "edges": 423,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_09_flutes__Grey_Mineral": {
+      "faces": 138,
+      "edges": 276,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_09_flutes_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_10_waves_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_10_waves_Wave_0__Ivory_Stone": {
+      "faces": 208,
+      "edges": 618,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_10_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 318,
+      "edges": 942,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_10_waves_Wave_1__Ivory_Stone": {
+      "faces": 208,
+      "edges": 618,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_10_waves_Wave_2__Ivory_Stone": {
+      "faces": 203,
+      "edges": 603,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_11_woodfall__Woodlook_Aluminium": {
+      "faces": 126,
+      "edges": 252,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_11_woodfall_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_12_stone_Mortar__Charcoal_Metal": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_12_stone_Stone__Charcoal_Stone": {
+      "faces": 602,
+      "edges": 1230,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_12_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_12_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_13_ripples_Backing__Grey_Mineral": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_13_ripples_Wave_0__Ivory_Stone": {
+      "faces": 167,
+      "edges": 495,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_13_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 288,
+      "edges": 852,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_13_ripples_Wave_1__Ivory_Stone": {
+      "faces": 165,
+      "edges": 489,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_13_ripples_Wave_2__Ivory_Stone": {
+      "faces": 166,
+      "edges": 492,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_13_ripples_Wave_3__Ivory_Stone": {
+      "faces": 164,
+      "edges": 486,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 845,
+      "edges": 2529,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 799,
+      "edges": 2391,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E00_93_EndCap__Ivory_Stone": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_00_Continuous_Core__Grey_Mineral": {
+      "faces": 393,
+      "edges": 1173,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_00_Base__Charcoal_Metal": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_01_woodfall__Woodlook_Aluminium": {
+      "faces": 132,
+      "edges": 264,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_01_woodfall_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_02_waves_Backing__Grey_Mineral": {
+      "faces": 44,
+      "edges": 126,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_02_waves_Wave_0__Ivory_Stone": {
+      "faces": 205,
+      "edges": 609,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_02_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 308,
+      "edges": 912,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_02_waves_Wave_1__Ivory_Stone": {
+      "faces": 201,
+      "edges": 597,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_02_waves_Wave_2__Ivory_Stone": {
+      "faces": 203,
+      "edges": 603,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_03_stone_Mortar__Charcoal_Metal": {
+      "faces": 36,
+      "edges": 102,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_03_stone_Stone__Charcoal_Stone": {
+      "faces": 591,
+      "edges": 1203,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_03_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_03_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_04_medallion_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_04_medallion_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E01_04_medallion_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E01_04_medallion_Inner__Grey_Mineral": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_04_medallion_InnerRipples__Champagne_Metal": {
+      "faces": 443,
+      "edges": 1299,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_05_slots_Grey__Grey_Mineral": {
+      "faces": 34,
+      "edges": 96,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_05_slots_Recess__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_05_slots_Light__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_06_coral_Backing__Charcoal_Metal": {
+      "faces": 30,
+      "edges": 84,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_06_coral_Perforated__Champagne_Metal": {
+      "faces": 1307,
+      "edges": 3915,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 172
+    },
+    "E01_07_woodfall__Woodlook_Aluminium": {
+      "faces": 144,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_07_woodfall_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_08_darkwave_Backing__Charcoal_Metal": {
+      "faces": 41,
+      "edges": 117,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_08_darkwave_Wave_0__Ivory_Stone": {
+      "faces": 192,
+      "edges": 570,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_08_darkwave_ConcealedLED__LED_Warm_3000K": {
+      "faces": 142,
+      "edges": 420,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_08_darkwave_Wave_1__Ivory_Stone": {
+      "faces": 190,
+      "edges": 564,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_09_flutes__Grey_Mineral": {
+      "faces": 120,
+      "edges": 240,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_09_flutes_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_10_ripples_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_10_ripples_Wave_0__Ivory_Stone": {
+      "faces": 211,
+      "edges": 627,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_10_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 324,
+      "edges": 960,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_10_ripples_Wave_1__Ivory_Stone": {
+      "faces": 211,
+      "edges": 627,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_10_ripples_Wave_2__Ivory_Stone": {
+      "faces": 213,
+      "edges": 633,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_10_ripples_Wave_3__Ivory_Stone": {
+      "faces": 215,
+      "edges": 639,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_11_stone_Mortar__Charcoal_Metal": {
+      "faces": 36,
+      "edges": 102,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_11_stone_Stone__Charcoal_Stone": {
+      "faces": 622,
+      "edges": 1272,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_11_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_11_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_12_waves_Backing__Grey_Mineral": {
+      "faces": 46,
+      "edges": 132,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_12_waves_Wave_0__Ivory_Stone": {
+      "faces": 215,
+      "edges": 639,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_12_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 324,
+      "edges": 960,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_12_waves_Wave_1__Ivory_Stone": {
+      "faces": 213,
+      "edges": 633,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_12_waves_Wave_2__Ivory_Stone": {
+      "faces": 213,
+      "edges": 633,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 815,
+      "edges": 2439,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 782,
+      "edges": 2340,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E01_93_EndCap__Ivory_Stone": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_00_Continuous_Core__Grey_Mineral": {
+      "faces": 336,
+      "edges": 1002,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_00_Base__Charcoal_Metal": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_01_slots_Grey__Grey_Mineral": {
+      "faces": 7,
+      "edges": 15,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_01_slots_Recess__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_01_slots_Light__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_02_wood__Woodlook_Aluminium": {
+      "faces": 132,
+      "edges": 264,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_02_wood_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_03_niche_Backing__Grey_Mineral": {
+      "faces": 34,
+      "edges": 96,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_03_niche_NicheRim__Ivory_Stone": {
+      "faces": 10,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E02_03_niche_NicheField__Woodlook_Aluminium": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_03_niche_NicheLED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_03_niche_Dune__Ivory_Stone": {
+      "faces": 144,
+      "edges": 426,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_04_stone_Mortar__Charcoal_Metal": {
+      "faces": 21,
+      "edges": 57,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_04_stone_Stone__Charcoal_Stone": {
+      "faces": 602,
+      "edges": 1218,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_04_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_04_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_05_flutes__Grey_Mineral": {
+      "faces": 132,
+      "edges": 264,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_05_flutes_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_06_oval_Backing__Charcoal_Metal": {
+      "faces": 41,
+      "edges": 117,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_06_oval_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E02_06_oval_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E02_06_oval_Inner__Grey_Mineral": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_07_slots_Grey__Grey_Mineral": {
+      "faces": 31,
+      "edges": 87,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_07_slots_Recess__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_07_slots_Light__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_08_coral_Backing__Charcoal_Metal": {
+      "faces": 36,
+      "edges": 102,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_08_coral_Perforated__Champagne_Metal": {
+      "faces": 1421,
+      "edges": 4257,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 164
+    },
+    "E02_09_wood__Woodlook_Aluminium": {
+      "faces": 132,
+      "edges": 264,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_09_wood_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_10_stone_Mortar__Charcoal_Metal": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_10_stone_Stone__Charcoal_Stone": {
+      "faces": 622,
+      "edges": 1272,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_10_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_10_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_11_flutes__Grey_Mineral": {
+      "faces": 132,
+      "edges": 264,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_11_flutes_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_12_darkwave_Backing__Charcoal_Metal": {
+      "faces": 57,
+      "edges": 165,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_12_darkwave_Wave_0__Ivory_Stone": {
+      "faces": 246,
+      "edges": 732,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_12_darkwave_ConcealedLED__LED_Warm_3000K": {
+      "faces": 208,
+      "edges": 618,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_12_darkwave_Wave_1__Ivory_Stone": {
+      "faces": 256,
+      "edges": 762,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 679,
+      "edges": 2031,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 676,
+      "edges": 2022,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E02_93_EndCap__Ivory_Stone": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_00_Continuous_Core__Grey_Mineral": {
+      "faces": 337,
+      "edges": 1005,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_00_Base__Charcoal_Metal": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_01_waves_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_01_waves_Wave_0__Ivory_Stone": {
+      "faces": 211,
+      "edges": 627,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_01_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 320,
+      "edges": 948,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_01_waves_Wave_1__Ivory_Stone": {
+      "faces": 211,
+      "edges": 627,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_01_waves_Wave_2__Ivory_Stone": {
+      "faces": 204,
+      "edges": 606,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_02_wood__Woodlook_Aluminium": {
+      "faces": 126,
+      "edges": 252,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_02_wood_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_03_ripples_Backing__Grey_Mineral": {
+      "faces": 26,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_03_ripples_Wave_0__Ivory_Stone": {
+      "faces": 212,
+      "edges": 630,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_03_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 320,
+      "edges": 948,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_03_ripples_Wave_1__Ivory_Stone": {
+      "faces": 211,
+      "edges": 627,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_03_ripples_Wave_2__Ivory_Stone": {
+      "faces": 206,
+      "edges": 612,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_03_ripples_Wave_3__Ivory_Stone": {
+      "faces": 206,
+      "edges": 612,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_04_medallion_Backing__Grey_Mineral": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_04_medallion_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E03_04_medallion_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E03_04_medallion_Inner__Grey_Mineral": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_04_medallion_InnerRipples__Champagne_Metal": {
+      "faces": 580,
+      "edges": 1710,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_05_slots_Grey__Grey_Mineral": {
+      "faces": 21,
+      "edges": 57,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_05_slots_Recess__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_05_slots_Light__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_06_stone_Mortar__Charcoal_Metal": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_06_stone_Stone__Charcoal_Stone": {
+      "faces": 597,
+      "edges": 1221,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_06_stone_Sconce__Charcoal_Metal": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_06_stone_SconceLED__LED_Warm_3000K": {
+      "faces": 18,
+      "edges": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_07_niche_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_07_niche_NicheRim__Ivory_Stone": {
+      "faces": 10,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E03_07_niche_NicheField__Woodlook_Aluminium": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_07_niche_NicheLED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_07_niche_Dune__Ivory_Stone": {
+      "faces": 144,
+      "edges": 426,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_08_woodfall__Woodlook_Aluminium": {
+      "faces": 126,
+      "edges": 252,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_08_woodfall_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_09_coral_Backing__Charcoal_Metal": {
+      "faces": 30,
+      "edges": 84,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_09_coral_Perforated__Champagne_Metal": {
+      "faces": 1333,
+      "edges": 3993,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 170
+    },
+    "E03_10_waves_Backing__Grey_Mineral": {
+      "faces": 45,
+      "edges": 129,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_10_waves_Wave_0__Ivory_Stone": {
+      "faces": 210,
+      "edges": 624,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_10_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 318,
+      "edges": 942,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_10_waves_Wave_1__Ivory_Stone": {
+      "faces": 207,
+      "edges": 615,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_10_waves_Wave_2__Ivory_Stone": {
+      "faces": 207,
+      "edges": 615,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_11_niche_Backing__Grey_Mineral": {
+      "faces": 44,
+      "edges": 126,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_11_niche_NicheRim__Ivory_Stone": {
+      "faces": 10,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "E03_11_niche_NicheField__Woodlook_Aluminium": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_11_niche_NicheLED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_11_niche_Dune__Ivory_Stone": {
+      "faces": 144,
+      "edges": 426,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_12_flutes__Grey_Mineral": {
+      "faces": 138,
+      "edges": 276,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_12_flutes_Edge__Champagne_Metal": {
+      "faces": 36,
+      "edges": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 698,
+      "edges": 2088,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 670,
+      "edges": 2004,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "E03_93_EndCap__Ivory_Stone": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_00_Low_Base__Charcoal_Metal": {
+      "faces": 33,
+      "edges": 93,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_01_frost_Panel__Frosted_Glass": {
+      "faces": 37,
+      "edges": 105,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_01_frost_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_01_frost_EtchWaves__Etched_Art": {
+      "faces": 424,
+      "edges": 1242,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_02_wood__Woodlook_Aluminium": {
+      "faces": 126,
+      "edges": 252,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_02_wood_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_03_glassfish_Panel__Art_Glass": {
+      "faces": 40,
+      "edges": 114,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_03_glassfish_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_03_glassfish_EtchWaves__Etched_Art": {
+      "faces": 200,
+      "edges": 582,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_03_glassfish_Fish__Etched_Art": {
+      "faces": 66,
+      "edges": 162,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_04_reeds_Perforated__Champagne_Metal": {
+      "faces": 1051,
+      "edges": 3147,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 144
+    },
+    "P04_05_oval_Frame__Ivory_Stone": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "P04_05_oval_Halo__LED_Warm_3000K": {
+      "faces": 194,
+      "edges": 576,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 2
+    },
+    "P04_05_oval_Inner__Art_Glass": {
+      "faces": 98,
+      "edges": 288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_06_waves_Backing__Grey_Mineral": {
+      "faces": 40,
+      "edges": 114,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_06_waves_Wave_0__Ivory_Stone": {
+      "faces": 140,
+      "edges": 414,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_06_waves_ConcealedLED__LED_Warm_3000K": {
+      "faces": 278,
+      "edges": 822,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_06_waves_Wave_1__Ivory_Stone": {
+      "faces": 140,
+      "edges": 414,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_06_waves_Wave_2__Ivory_Stone": {
+      "faces": 148,
+      "edges": 438,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_07_frost_Panel__Frosted_Glass": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_07_frost_Support__Champagne_Metal": {
+      "faces": 12,
+      "edges": 24,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_07_frost_EtchWaves__Etched_Art": {
+      "faces": 426,
+      "edges": 1248,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_08_darkwave_Backing__Charcoal_Metal": {
+      "faces": 35,
+      "edges": 99,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_08_darkwave_Wave_0__Ivory_Stone": {
+      "faces": 144,
+      "edges": 426,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_08_darkwave_ConcealedLED__LED_Warm_3000K": {
+      "faces": 120,
+      "edges": 354,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_08_darkwave_Wave_1__Ivory_Stone": {
+      "faces": 146,
+      "edges": 432,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_09_slots_Grey__Grey_Mineral": {
+      "faces": 33,
+      "edges": 93,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_09_slots_Recess__Charcoal_Metal": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_10_flutes__Grey_Mineral": {
+      "faces": 114,
+      "edges": 228,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_10_flutes_Edge__Champagne_Metal": {
+      "faces": 30,
+      "edges": 60,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_11_ripples_Backing__Grey_Mineral": {
+      "faces": 34,
+      "edges": 96,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_11_ripples_Wave_0__Ivory_Stone": {
+      "faces": 121,
+      "edges": 357,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_11_ripples_ConcealedLED__LED_Warm_3000K": {
+      "faces": 218,
+      "edges": 636,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_11_ripples_Wave_1__Ivory_Stone": {
+      "faces": 145,
+      "edges": 429,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_11_ripples_Wave_2__Ivory_Stone": {
+      "faces": 124,
+      "edges": 366,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_11_ripples_Wave_3__Ivory_Stone": {
+      "faces": 72,
+      "edges": 204,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_12_tail_Backing__Grey_Mineral": {
+      "faces": 36,
+      "edges": 102,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_12_tail_Wave_0__Ivory_Stone": {
+      "faces": 107,
+      "edges": 315,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_12_tail_ConcealedLED__LED_Warm_3000K": {
+      "faces": 115,
+      "edges": 339,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_12_tail_Wave_1__Ivory_Stone": {
+      "faces": 95,
+      "edges": 279,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_90_Continuous_Crest__Ivory_Stone": {
+      "faces": 787,
+      "edges": 2355,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_91_Crest_LED__LED_Warm_3000K": {
+      "faces": 774,
+      "edges": 2316,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    },
+    "P04_92_Base_LED__LED_Warm_3000K": {
+      "faces": 6,
+      "edges": 12,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_edges": 0,
+      "holes": 0
+    }
+  }
+}

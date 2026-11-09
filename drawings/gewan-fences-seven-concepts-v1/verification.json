@@ -1,0 +1,2434 @@
+{
+  "skp_version": "{17.0.1}",
+  "file_bytes": 21563721,
+  "definitions": 326,
+  "materials": [
+    {
+      "name": "Ivory_Stone",
+      "has_texture": false
+    },
+    {
+      "name": "Grey_Mineral",
+      "has_texture": true
+    },
+    {
+      "name": "Charcoal_Metal",
+      "has_texture": false
+    },
+    {
+      "name": "Charcoal_Stone",
+      "has_texture": true
+    },
+    {
+      "name": "Woodlook_Aluminium",
+      "has_texture": true
+    },
+    {
+      "name": "Champagne_Metal",
+      "has_texture": false
+    },
+    {
+      "name": "Silver_Fish",
+      "has_texture": false
+    },
+    {
+      "name": "Art_Glass",
+      "has_texture": false
+    },
+    {
+      "name": "Frosted_Glass",
+      "has_texture": false
+    },
+    {
+      "name": "Etched_Art",
+      "has_texture": false
+    },
+    {
+      "name": "LED_Warm_3000K",
+      "has_texture": false
+    },
+    {
+      "name": "LED_Diffuser",
+      "has_texture": false
+    },
+    {
+      "name": "Deck",
+      "has_texture": false
+    },
+    {
+      "name": "Water_Context",
+      "has_texture": false
+    }
+  ],
+  "errors": [],
+  "checks": [
+    "reopened saved SKP",
+    "named definitions and face counts compared",
+    "local bounds and length checked",
+    "finite coordinates checked",
+    "embedded texture records checked"
+  ],
+  "not_tested": [
+    "SketchUp Desktop import",
+    "native renderer / Enscape / V-Ray",
+    "exact source geometry or dimensions, unavailable",
+    "structural or pool-barrier compliance"
+  ],
+  "manifest": {
+    "stage": "v1 dimensional concept; not exact photographic reproduction",
+    "unit": "metres geometry; native SKP inches",
+    "assumptions": {
+      "length_each_m": 40,
+      "pool_max_height_m": 1.2,
+      "boundary_max_height_m": 2.4,
+      "pool_is_decorative_not_safety_enclosure": true,
+      "materials_recreated": true,
+      "render_lights_not_native_SKP": true,
+      "geometric_coordinate_rounding_m": 1e-07,
+      "reference_measurement_accuracy": "unavailable; no dimensioned reference"
+    },
+    "designs": [
+      {
+        "code": "P01",
+        "name": "Pool Current",
+        "kind": "pool",
+        "y_offset_m": 0,
+        "reference": "approved_three_row_board / row 1",
+        "length_m": 40,
+        "height_peak_m": 1.2,
+        "height_at_end_m": 0.0,
+        "sections": [
+          {
+            "index": 1,
+            "type": "wood",
+            "x_start_m": 0.018,
+            "x_end_m": 4.538962025316455
+          },
+          {
+            "index": 2,
+            "type": "glassfish",
+            "x_start_m": 4.574962025316455,
+            "x_end_m": 8.58959493670886
+          },
+          {
+            "index": 3,
+            "type": "fishart",
+            "x_start_m": 8.625594936708861,
+            "x_end_m": 12.640227848101265
+          },
+          {
+            "index": 4,
+            "type": "coral",
+            "x_start_m": 12.676227848101266,
+            "x_end_m": 15.678202531645569
+          },
+          {
+            "index": 5,
+            "type": "glasswave",
+            "x_start_m": 15.71420253164557,
+            "x_end_m": 19.222506329113923
+          },
+          {
+            "index": 6,
+            "type": "waves",
+            "x_start_m": 19.258506329113924,
+            "x_end_m": 23.273139240506328
+          },
+          {
+            "index": 7,
+            "type": "oval",
+            "x_start_m": 23.30913924050633,
+            "x_end_m": 26.31111392405063
+          },
+          {
+            "index": 8,
+            "type": "reeds",
+            "x_start_m": 26.347113924050632,
+            "x_end_m": 28.842759493670883
+          },
+          {
+            "index": 9,
+            "type": "flutes",
+            "x_start_m": 28.878759493670884,
+            "x_end_m": 32.387063291139235
+          },
+          {
+            "index": 10,
+            "type": "ripples",
+            "x_start_m": 32.423063291139236,
+            "x_end_m": 35.42503797468354
+          },
+          {
+            "index": 11,
+            "type": "tail",
+            "x_start_m": 35.46103797468354,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "P01_00_Low_Base__Charcoal_Metal": {
+            "faces": 17,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P01_01_wood__Woodlook_Aluminium": {
+            "faces": 192,
+            "solid_extrusions": 32,
+            "material": "Woodlook_Aluminium"
+          },
+          "P01_01_wood_Edge__Champagne_Metal": {
+            "faces": 48,
+            "solid_extrusions": 8,
+            "material": "Champagne_Metal"
+          },
+          "P01_02_glassfish_Panel__Art_Glass": {
+            "faces": 46,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P01_02_glassfish_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P01_02_glassfish_EtchWaves__Etched_Art": {
+            "faces": 202,
+            "solid_extrusions": 3,
+            "material": "Etched_Art"
+          },
+          "P01_02_glassfish_Fish__Etched_Art": {
+            "faces": 66,
+            "solid_extrusions": 6,
+            "material": "Etched_Art"
+          },
+          "P01_03_fishart_Dark__Charcoal_Metal": {
+            "faces": 43,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P01_03_fishart_Fish__Silver_Fish": {
+            "faces": 55,
+            "solid_extrusions": 5,
+            "material": "Silver_Fish"
+          },
+          "P01_03_fishart_FishHang__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "P01_04_coral_Perforated__Champagne_Metal": {
+            "faces": 1108,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "P01_05_glasswave_Panel__Art_Glass": {
+            "faces": 41,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P01_05_glasswave_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P01_05_glasswave_EtchWaves__Etched_Art": {
+            "faces": 424,
+            "solid_extrusions": 5,
+            "material": "Etched_Art"
+          },
+          "P01_06_waves_Backing__Grey_Mineral": {
+            "faces": 46,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P01_06_waves_Wave_0__Ivory_Stone": {
+            "faces": 162,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_06_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 322,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "P01_06_waves_Wave_1__Ivory_Stone": {
+            "faces": 162,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_06_waves_Wave_2__Ivory_Stone": {
+            "faces": 160,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_07_oval_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_07_oval_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P01_07_oval_Inner__Art_Glass": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P01_08_reeds_Perforated__Champagne_Metal": {
+            "faces": 1102,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "P01_09_flutes__Grey_Mineral": {
+            "faces": 162,
+            "solid_extrusions": 27,
+            "material": "Grey_Mineral"
+          },
+          "P01_09_flutes_Edge__Champagne_Metal": {
+            "faces": 42,
+            "solid_extrusions": 7,
+            "material": "Champagne_Metal"
+          },
+          "P01_10_ripples_Backing__Grey_Mineral": {
+            "faces": 36,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P01_10_ripples_Wave_0__Ivory_Stone": {
+            "faces": 103,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          },
+          "P01_10_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 185,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "P01_10_ripples_Wave_1__Ivory_Stone": {
+            "faces": 145,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_10_ripples_Wave_2__Ivory_Stone": {
+            "faces": 124,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_10_ripples_Wave_3__Ivory_Stone": {
+            "faces": 68,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_11_tail_Backing__Grey_Mineral": {
+            "faces": 23,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P01_11_tail_Wave_0__Ivory_Stone": {
+            "faces": 53,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          },
+          "P01_11_tail_ConcealedLED__LED_Warm_3000K": {
+            "faces": 72,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "P01_11_tail_Wave_1__Ivory_Stone": {
+            "faces": 31,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          },
+          "P01_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 784,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P01_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 774,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P01_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            -0.0005031,
+            -0.10599999999999998,
+            -0.001
+          ],
+          [
+            40.0000175,
+            0.08,
+            1.2009993
+          ]
+        ]
+      },
+      {
+        "code": "P02",
+        "name": "Pool Reef",
+        "kind": "pool",
+        "y_offset_m": 8,
+        "reference": "approved_three_row_board / row 2",
+        "length_m": 40,
+        "height_peak_m": 1.18,
+        "height_at_end_m": 0.0,
+        "sections": [
+          {
+            "index": 1,
+            "type": "coral",
+            "x_start_m": 0.018,
+            "x_end_m": 2.982
+          },
+          {
+            "index": 2,
+            "type": "wood",
+            "x_start_m": 3.018,
+            "x_end_m": 6.482
+          },
+          {
+            "index": 3,
+            "type": "woodoval",
+            "x_start_m": 6.518,
+            "x_end_m": 9.982
+          },
+          {
+            "index": 4,
+            "type": "glassfish",
+            "x_start_m": 10.018,
+            "x_end_m": 13.482
+          },
+          {
+            "index": 5,
+            "type": "reeds",
+            "x_start_m": 13.518,
+            "x_end_m": 16.482
+          },
+          {
+            "index": 6,
+            "type": "darkwave",
+            "x_start_m": 16.518,
+            "x_end_m": 20.482
+          },
+          {
+            "index": 7,
+            "type": "frost",
+            "x_start_m": 20.518,
+            "x_end_m": 23.982
+          },
+          {
+            "index": 8,
+            "type": "coral",
+            "x_start_m": 24.018,
+            "x_end_m": 26.982
+          },
+          {
+            "index": 9,
+            "type": "flutes",
+            "x_start_m": 27.018,
+            "x_end_m": 29.982
+          },
+          {
+            "index": 10,
+            "type": "ripples",
+            "x_start_m": 30.018,
+            "x_end_m": 33.982
+          },
+          {
+            "index": 11,
+            "type": "tail",
+            "x_start_m": 34.018,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "P02_00_Low_Base__Charcoal_Metal": {
+            "faces": 10,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P02_01_coral_Perforated__Champagne_Metal": {
+            "faces": 1060,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "P02_02_wood__Woodlook_Aluminium": {
+            "faces": 150,
+            "solid_extrusions": 25,
+            "material": "Woodlook_Aluminium"
+          },
+          "P02_02_wood_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "P02_03_woodoval_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_03_woodoval_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P02_03_woodoval_Inner__Art_Glass": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P02_03_woodoval_Slats__Woodlook_Aluminium": {
+            "faces": 322,
+            "solid_extrusions": 47,
+            "material": "Woodlook_Aluminium"
+          },
+          "P02_04_glassfish_Panel__Art_Glass": {
+            "faces": 40,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P02_04_glassfish_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P02_04_glassfish_EtchWaves__Etched_Art": {
+            "faces": 200,
+            "solid_extrusions": 3,
+            "material": "Etched_Art"
+          },
+          "P02_04_glassfish_Fish__Etched_Art": {
+            "faces": 66,
+            "solid_extrusions": 6,
+            "material": "Etched_Art"
+          },
+          "P02_05_reeds_Perforated__Champagne_Metal": {
+            "faces": 1113,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "P02_06_darkwave_Backing__Charcoal_Metal": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P02_06_darkwave_Wave_0__Ivory_Stone": {
+            "faces": 160,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_06_darkwave_ConcealedLED__LED_Warm_3000K": {
+            "faces": 160,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P02_06_darkwave_Wave_1__Ivory_Stone": {
+            "faces": 160,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_07_frost_Panel__Frosted_Glass": {
+            "faces": 39,
+            "solid_extrusions": 1,
+            "material": "Frosted_Glass"
+          },
+          "P02_07_frost_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P02_07_frost_EtchWaves__Etched_Art": {
+            "faces": 424,
+            "solid_extrusions": 5,
+            "material": "Etched_Art"
+          },
+          "P02_08_coral_Perforated__Champagne_Metal": {
+            "faces": 1078,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "P02_09_flutes__Grey_Mineral": {
+            "faces": 138,
+            "solid_extrusions": 23,
+            "material": "Grey_Mineral"
+          },
+          "P02_09_flutes_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "P02_10_ripples_Backing__Grey_Mineral": {
+            "faces": 44,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P02_10_ripples_Wave_0__Ivory_Stone": {
+            "faces": 160,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_10_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 315,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "P02_10_ripples_Wave_1__Ivory_Stone": {
+            "faces": 160,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_10_ripples_Wave_2__Ivory_Stone": {
+            "faces": 154,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_10_ripples_Wave_3__Ivory_Stone": {
+            "faces": 84,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_11_tail_Backing__Grey_Mineral": {
+            "faces": 36,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P02_11_tail_Wave_0__Ivory_Stone": {
+            "faces": 111,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_11_tail_ConcealedLED__LED_Warm_3000K": {
+            "faces": 109,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P02_11_tail_Wave_1__Ivory_Stone": {
+            "faces": 102,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 788,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P02_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 777,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P02_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            -0.0007671,
+            -0.10599999999999998,
+            -0.001
+          ],
+          [
+            40.0000095,
+            0.08,
+            1.1809983
+          ]
+        ]
+      },
+      {
+        "code": "E00",
+        "name": "Original Boundary revised no raised fish",
+        "kind": "wall",
+        "y_offset_m": 16,
+        "reference": "approved_three_row_board / row 3; raised fish removed per feedback",
+        "length_m": 40,
+        "height_peak_m": 2.4,
+        "height_at_end_m": 2.2999999999999994,
+        "sections": [
+          {
+            "index": 1,
+            "type": "waves",
+            "x_start_m": 0.018,
+            "x_end_m": 4.0021005025125636
+          },
+          {
+            "index": 2,
+            "type": "stone",
+            "x_start_m": 4.038100502512563,
+            "x_end_m": 7.017175879396986
+          },
+          {
+            "index": 3,
+            "type": "wood",
+            "x_start_m": 7.053175879396986,
+            "x_end_m": 10.032251256281407
+          },
+          {
+            "index": 4,
+            "type": "medallion",
+            "x_start_m": 10.068251256281409,
+            "x_end_m": 13.047326633165829
+          },
+          {
+            "index": 5,
+            "type": "slots",
+            "x_start_m": 13.08332663316583,
+            "x_end_m": 15.05737688442211
+          },
+          {
+            "index": 6,
+            "type": "ripples",
+            "x_start_m": 15.093376884422112,
+            "x_end_m": 18.574964824120602
+          },
+          {
+            "index": 7,
+            "type": "coral",
+            "x_start_m": 18.610964824120604,
+            "x_end_m": 20.886522613065324
+          },
+          {
+            "index": 8,
+            "type": "niche",
+            "x_start_m": 20.922522613065325,
+            "x_end_m": 23.901597989949746
+          },
+          {
+            "index": 9,
+            "type": "flutes",
+            "x_start_m": 23.937597989949747,
+            "x_end_m": 26.916673366834168
+          },
+          {
+            "index": 10,
+            "type": "waves",
+            "x_start_m": 26.95267336683417,
+            "x_end_m": 30.93677386934673
+          },
+          {
+            "index": 11,
+            "type": "woodfall",
+            "x_start_m": 30.97277386934673,
+            "x_end_m": 33.951849246231156
+          },
+          {
+            "index": 12,
+            "type": "stone",
+            "x_start_m": 33.98784924623116,
+            "x_end_m": 36.96692462311558
+          },
+          {
+            "index": 13,
+            "type": "ripples",
+            "x_start_m": 37.00292462311558,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "E00_00_Continuous_Core__Grey_Mineral": {
+            "faces": 401,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_00_Base__Charcoal_Metal": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E00_01_waves_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_01_waves_Wave_0__Ivory_Stone": {
+            "faces": 209,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_01_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 320,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_01_waves_Wave_1__Ivory_Stone": {
+            "faces": 207,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_01_waves_Wave_2__Ivory_Stone": {
+            "faces": 215,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_02_stone_Mortar__Charcoal_Metal": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E00_02_stone_Stone__Charcoal_Stone": {
+            "faces": 607,
+            "solid_extrusions": 97,
+            "material": "Charcoal_Stone"
+          },
+          "E00_02_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E00_02_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_03_wood__Woodlook_Aluminium": {
+            "faces": 126,
+            "solid_extrusions": 21,
+            "material": "Woodlook_Aluminium"
+          },
+          "E00_03_wood_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E00_04_medallion_Backing__Grey_Mineral": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_04_medallion_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_04_medallion_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_04_medallion_Inner__Grey_Mineral": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_04_medallion_InnerRipples__Champagne_Metal": {
+            "faces": 580,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E00_05_slots_Grey__Grey_Mineral": {
+            "faces": 25,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_05_slots_Recess__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E00_05_slots_Light__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_06_ripples_Backing__Grey_Mineral": {
+            "faces": 40,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_06_ripples_Wave_0__Ivory_Stone": {
+            "faces": 189,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_06_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 280,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_06_ripples_Wave_1__Ivory_Stone": {
+            "faces": 186,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_06_ripples_Wave_2__Ivory_Stone": {
+            "faces": 188,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_06_ripples_Wave_3__Ivory_Stone": {
+            "faces": 187,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_07_coral_Backing__Charcoal_Metal": {
+            "faces": 28,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E00_07_coral_Perforated__Champagne_Metal": {
+            "faces": 1326,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "E00_08_niche_Backing__Grey_Mineral": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_08_niche_NicheRim__Ivory_Stone": {
+            "faces": 10,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_08_niche_NicheField__Woodlook_Aluminium": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Woodlook_Aluminium"
+          },
+          "E00_08_niche_NicheLED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_08_niche_Dune__Ivory_Stone": {
+            "faces": 143,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_09_flutes__Grey_Mineral": {
+            "faces": 138,
+            "solid_extrusions": 23,
+            "material": "Grey_Mineral"
+          },
+          "E00_09_flutes_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E00_10_waves_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_10_waves_Wave_0__Ivory_Stone": {
+            "faces": 208,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_10_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 318,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_10_waves_Wave_1__Ivory_Stone": {
+            "faces": 208,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_10_waves_Wave_2__Ivory_Stone": {
+            "faces": 203,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_11_woodfall__Woodlook_Aluminium": {
+            "faces": 126,
+            "solid_extrusions": 21,
+            "material": "Woodlook_Aluminium"
+          },
+          "E00_11_woodfall_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E00_12_stone_Mortar__Charcoal_Metal": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E00_12_stone_Stone__Charcoal_Stone": {
+            "faces": 602,
+            "solid_extrusions": 96,
+            "material": "Charcoal_Stone"
+          },
+          "E00_12_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E00_12_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_13_ripples_Backing__Grey_Mineral": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E00_13_ripples_Wave_0__Ivory_Stone": {
+            "faces": 167,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_13_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 288,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_13_ripples_Wave_1__Ivory_Stone": {
+            "faces": 165,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_13_ripples_Wave_2__Ivory_Stone": {
+            "faces": 166,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_13_ripples_Wave_3__Ivory_Stone": {
+            "faces": 164,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 845,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E00_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 799,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E00_93_EndCap__Ivory_Stone": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            -2.59e-05,
+            -0.10599999999999998,
+            -0.11999999999999998
+          ],
+          [
+            40.0009989,
+            0.33,
+            2.401
+          ]
+        ]
+      },
+      {
+        "code": "E01",
+        "name": "Exterior Current",
+        "kind": "wall",
+        "y_offset_m": 24,
+        "reference": "approved_four_row_board / row 1",
+        "length_m": 40,
+        "height_peak_m": 2.4,
+        "height_at_end_m": 2.3,
+        "sections": [
+          {
+            "index": 1,
+            "type": "woodfall",
+            "x_start_m": 0.018,
+            "x_end_m": 3.0276852791878173
+          },
+          {
+            "index": 2,
+            "type": "waves",
+            "x_start_m": 3.063685279187817,
+            "x_end_m": 6.885553299492385
+          },
+          {
+            "index": 3,
+            "type": "stone",
+            "x_start_m": 6.921553299492385,
+            "x_end_m": 9.931238578680201
+          },
+          {
+            "index": 4,
+            "type": "medallion",
+            "x_start_m": 9.967238578680202,
+            "x_end_m": 13.992152284263957
+          },
+          {
+            "index": 5,
+            "type": "slots",
+            "x_start_m": 14.028152284263959,
+            "x_end_m": 16.834791878172588
+          },
+          {
+            "index": 6,
+            "type": "coral",
+            "x_start_m": 16.87079187817259,
+            "x_end_m": 19.271340101522842
+          },
+          {
+            "index": 7,
+            "type": "woodfall",
+            "x_start_m": 19.307340101522843,
+            "x_end_m": 22.62159390862944
+          },
+          {
+            "index": 8,
+            "type": "darkwave",
+            "x_start_m": 22.65759390862944,
+            "x_end_m": 26.174893401015225
+          },
+          {
+            "index": 9,
+            "type": "flutes",
+            "x_start_m": 26.210893401015227,
+            "x_end_m": 28.814487309644665
+          },
+          {
+            "index": 10,
+            "type": "ripples",
+            "x_start_m": 28.850487309644667,
+            "x_end_m": 32.87540101522842
+          },
+          {
+            "index": 11,
+            "type": "stone",
+            "x_start_m": 32.91140101522842,
+            "x_end_m": 35.921086294416234
+          },
+          {
+            "index": 12,
+            "type": "waves",
+            "x_start_m": 35.957086294416236,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "E01_00_Continuous_Core__Grey_Mineral": {
+            "faces": 393,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_00_Base__Charcoal_Metal": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E01_01_woodfall__Woodlook_Aluminium": {
+            "faces": 132,
+            "solid_extrusions": 22,
+            "material": "Woodlook_Aluminium"
+          },
+          "E01_01_woodfall_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E01_02_waves_Backing__Grey_Mineral": {
+            "faces": 44,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_02_waves_Wave_0__Ivory_Stone": {
+            "faces": 205,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_02_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 308,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_02_waves_Wave_1__Ivory_Stone": {
+            "faces": 201,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_02_waves_Wave_2__Ivory_Stone": {
+            "faces": 203,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_03_stone_Mortar__Charcoal_Metal": {
+            "faces": 36,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E01_03_stone_Stone__Charcoal_Stone": {
+            "faces": 591,
+            "solid_extrusions": 95,
+            "material": "Charcoal_Stone"
+          },
+          "E01_03_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E01_03_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_04_medallion_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_04_medallion_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_04_medallion_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_04_medallion_Inner__Grey_Mineral": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_04_medallion_InnerRipples__Champagne_Metal": {
+            "faces": 443,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E01_05_slots_Grey__Grey_Mineral": {
+            "faces": 34,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_05_slots_Recess__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E01_05_slots_Light__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_06_coral_Backing__Charcoal_Metal": {
+            "faces": 30,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E01_06_coral_Perforated__Champagne_Metal": {
+            "faces": 1307,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "E01_07_woodfall__Woodlook_Aluminium": {
+            "faces": 144,
+            "solid_extrusions": 24,
+            "material": "Woodlook_Aluminium"
+          },
+          "E01_07_woodfall_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E01_08_darkwave_Backing__Charcoal_Metal": {
+            "faces": 41,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E01_08_darkwave_Wave_0__Ivory_Stone": {
+            "faces": 192,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_08_darkwave_ConcealedLED__LED_Warm_3000K": {
+            "faces": 142,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_08_darkwave_Wave_1__Ivory_Stone": {
+            "faces": 190,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_09_flutes__Grey_Mineral": {
+            "faces": 120,
+            "solid_extrusions": 20,
+            "material": "Grey_Mineral"
+          },
+          "E01_09_flutes_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E01_10_ripples_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_10_ripples_Wave_0__Ivory_Stone": {
+            "faces": 211,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_10_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 324,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_10_ripples_Wave_1__Ivory_Stone": {
+            "faces": 211,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_10_ripples_Wave_2__Ivory_Stone": {
+            "faces": 213,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_10_ripples_Wave_3__Ivory_Stone": {
+            "faces": 215,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_11_stone_Mortar__Charcoal_Metal": {
+            "faces": 36,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E01_11_stone_Stone__Charcoal_Stone": {
+            "faces": 622,
+            "solid_extrusions": 99,
+            "material": "Charcoal_Stone"
+          },
+          "E01_11_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E01_11_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_12_waves_Backing__Grey_Mineral": {
+            "faces": 46,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E01_12_waves_Wave_0__Ivory_Stone": {
+            "faces": 215,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_12_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 324,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_12_waves_Wave_1__Ivory_Stone": {
+            "faces": 213,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_12_waves_Wave_2__Ivory_Stone": {
+            "faces": 213,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 815,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E01_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 782,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E01_93_EndCap__Ivory_Stone": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            -0.001,
+            -0.10599999999999998,
+            -0.11999999999999998
+          ],
+          [
+            40.001,
+            0.33,
+            2.401
+          ]
+        ]
+      },
+      {
+        "code": "E02",
+        "name": "Exterior Dune",
+        "kind": "wall",
+        "y_offset_m": 32,
+        "reference": "approved_four_row_board / row 2",
+        "length_m": 40,
+        "height_peak_m": 2.35,
+        "height_at_end_m": 2.3,
+        "sections": [
+          {
+            "index": 1,
+            "type": "slots",
+            "x_start_m": 0.018,
+            "x_end_m": 3.0908082901554406
+          },
+          {
+            "index": 2,
+            "type": "wood",
+            "x_start_m": 3.12680829015544,
+            "x_end_m": 6.199616580310881
+          },
+          {
+            "index": 3,
+            "type": "niche",
+            "x_start_m": 6.2356165803108805,
+            "x_end_m": 10.344694300518134
+          },
+          {
+            "index": 4,
+            "type": "stone",
+            "x_start_m": 10.380694300518135,
+            "x_end_m": 13.453502590673574
+          },
+          {
+            "index": 5,
+            "type": "flutes",
+            "x_start_m": 13.489502590673576,
+            "x_end_m": 16.355056994818653
+          },
+          {
+            "index": 6,
+            "type": "oval",
+            "x_start_m": 16.391056994818655,
+            "x_end_m": 19.982
+          },
+          {
+            "index": 7,
+            "type": "slots",
+            "x_start_m": 20.018,
+            "x_end_m": 22.57267357512953
+          },
+          {
+            "index": 8,
+            "type": "coral",
+            "x_start_m": 22.608673575129533,
+            "x_end_m": 25.681481865284972
+          },
+          {
+            "index": 9,
+            "type": "wood",
+            "x_start_m": 25.717481865284974,
+            "x_end_m": 28.790290155440413
+          },
+          {
+            "index": 10,
+            "type": "stone",
+            "x_start_m": 28.826290155440415,
+            "x_end_m": 31.899098445595854
+          },
+          {
+            "index": 11,
+            "type": "flutes",
+            "x_start_m": 31.935098445595855,
+            "x_end_m": 34.80065284974093
+          },
+          {
+            "index": 12,
+            "type": "darkwave",
+            "x_start_m": 34.83665284974093,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "E02_00_Continuous_Core__Grey_Mineral": {
+            "faces": 336,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E02_00_Base__Charcoal_Metal": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E02_01_slots_Grey__Grey_Mineral": {
+            "faces": 7,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E02_01_slots_Recess__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E02_01_slots_Light__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_02_wood__Woodlook_Aluminium": {
+            "faces": 132,
+            "solid_extrusions": 22,
+            "material": "Woodlook_Aluminium"
+          },
+          "E02_02_wood_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E02_03_niche_Backing__Grey_Mineral": {
+            "faces": 34,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E02_03_niche_NicheRim__Ivory_Stone": {
+            "faces": 10,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E02_03_niche_NicheField__Woodlook_Aluminium": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Woodlook_Aluminium"
+          },
+          "E02_03_niche_NicheLED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_03_niche_Dune__Ivory_Stone": {
+            "faces": 144,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E02_04_stone_Mortar__Charcoal_Metal": {
+            "faces": 21,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E02_04_stone_Stone__Charcoal_Stone": {
+            "faces": 602,
+            "solid_extrusions": 98,
+            "material": "Charcoal_Stone"
+          },
+          "E02_04_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E02_04_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_05_flutes__Grey_Mineral": {
+            "faces": 132,
+            "solid_extrusions": 22,
+            "material": "Grey_Mineral"
+          },
+          "E02_05_flutes_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E02_06_oval_Backing__Charcoal_Metal": {
+            "faces": 41,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E02_06_oval_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E02_06_oval_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_06_oval_Inner__Grey_Mineral": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E02_07_slots_Grey__Grey_Mineral": {
+            "faces": 31,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E02_07_slots_Recess__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E02_07_slots_Light__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_08_coral_Backing__Charcoal_Metal": {
+            "faces": 36,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E02_08_coral_Perforated__Champagne_Metal": {
+            "faces": 1421,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "E02_09_wood__Woodlook_Aluminium": {
+            "faces": 132,
+            "solid_extrusions": 22,
+            "material": "Woodlook_Aluminium"
+          },
+          "E02_09_wood_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E02_10_stone_Mortar__Charcoal_Metal": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E02_10_stone_Stone__Charcoal_Stone": {
+            "faces": 622,
+            "solid_extrusions": 99,
+            "material": "Charcoal_Stone"
+          },
+          "E02_10_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E02_10_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_11_flutes__Grey_Mineral": {
+            "faces": 132,
+            "solid_extrusions": 22,
+            "material": "Grey_Mineral"
+          },
+          "E02_11_flutes_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E02_12_darkwave_Backing__Charcoal_Metal": {
+            "faces": 57,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E02_12_darkwave_Wave_0__Ivory_Stone": {
+            "faces": 246,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E02_12_darkwave_ConcealedLED__LED_Warm_3000K": {
+            "faces": 208,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_12_darkwave_Wave_1__Ivory_Stone": {
+            "faces": 256,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E02_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 679,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E02_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 676,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E02_93_EndCap__Ivory_Stone": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            0.0,
+            -0.1,
+            -0.11999999999999998
+          ],
+          [
+            40.0000711,
+            0.33,
+            2.351
+          ]
+        ]
+      },
+      {
+        "code": "E03",
+        "name": "Exterior Tide",
+        "kind": "wall",
+        "y_offset_m": 40,
+        "reference": "approved_four_row_board / row 3",
+        "length_m": 40,
+        "height_peak_m": 2.4,
+        "height_at_end_m": 2.2,
+        "sections": [
+          {
+            "index": 1,
+            "type": "waves",
+            "x_start_m": 0.018,
+            "x_end_m": 3.9920250626566425
+          },
+          {
+            "index": 2,
+            "type": "wood",
+            "x_start_m": 4.028025062656642,
+            "x_end_m": 6.9995438596491235
+          },
+          {
+            "index": 3,
+            "type": "ripples",
+            "x_start_m": 7.035543859649123,
+            "x_end_m": 11.009568922305764
+          },
+          {
+            "index": 4,
+            "type": "medallion",
+            "x_start_m": 11.045568922305765,
+            "x_end_m": 14.017087719298246
+          },
+          {
+            "index": 5,
+            "type": "slots",
+            "x_start_m": 14.053087719298247,
+            "x_end_m": 16.42310275689223
+          },
+          {
+            "index": 6,
+            "type": "stone",
+            "x_start_m": 16.459102756892232,
+            "x_end_m": 19.430621553884713
+          },
+          {
+            "index": 7,
+            "type": "niche",
+            "x_start_m": 19.466621553884714,
+            "x_end_m": 23.440646616541354
+          },
+          {
+            "index": 8,
+            "type": "woodfall",
+            "x_start_m": 23.476646616541355,
+            "x_end_m": 26.448165413533836
+          },
+          {
+            "index": 9,
+            "type": "coral",
+            "x_start_m": 26.484165413533837,
+            "x_end_m": 28.954431077694238
+          },
+          {
+            "index": 10,
+            "type": "waves",
+            "x_start_m": 28.99043107769424,
+            "x_end_m": 32.96445614035088
+          },
+          {
+            "index": 11,
+            "type": "niche",
+            "x_start_m": 33.000456140350884,
+            "x_end_m": 36.97448120300753
+          },
+          {
+            "index": 12,
+            "type": "flutes",
+            "x_start_m": 37.01048120300753,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "E03_00_Continuous_Core__Grey_Mineral": {
+            "faces": 337,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_00_Base__Charcoal_Metal": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E03_01_waves_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_01_waves_Wave_0__Ivory_Stone": {
+            "faces": 211,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_01_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 320,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_01_waves_Wave_1__Ivory_Stone": {
+            "faces": 211,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_01_waves_Wave_2__Ivory_Stone": {
+            "faces": 204,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_02_wood__Woodlook_Aluminium": {
+            "faces": 126,
+            "solid_extrusions": 21,
+            "material": "Woodlook_Aluminium"
+          },
+          "E03_02_wood_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E03_03_ripples_Backing__Grey_Mineral": {
+            "faces": 26,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_03_ripples_Wave_0__Ivory_Stone": {
+            "faces": 212,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_03_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 320,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_03_ripples_Wave_1__Ivory_Stone": {
+            "faces": 211,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_03_ripples_Wave_2__Ivory_Stone": {
+            "faces": 206,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_03_ripples_Wave_3__Ivory_Stone": {
+            "faces": 206,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_04_medallion_Backing__Grey_Mineral": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_04_medallion_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_04_medallion_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_04_medallion_Inner__Grey_Mineral": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_04_medallion_InnerRipples__Champagne_Metal": {
+            "faces": 580,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E03_05_slots_Grey__Grey_Mineral": {
+            "faces": 21,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_05_slots_Recess__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E03_05_slots_Light__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_06_stone_Mortar__Charcoal_Metal": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E03_06_stone_Stone__Charcoal_Stone": {
+            "faces": 597,
+            "solid_extrusions": 95,
+            "material": "Charcoal_Stone"
+          },
+          "E03_06_stone_Sconce__Charcoal_Metal": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "Charcoal_Metal"
+          },
+          "E03_06_stone_SconceLED__LED_Warm_3000K": {
+            "faces": 18,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_07_niche_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_07_niche_NicheRim__Ivory_Stone": {
+            "faces": 10,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_07_niche_NicheField__Woodlook_Aluminium": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Woodlook_Aluminium"
+          },
+          "E03_07_niche_NicheLED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_07_niche_Dune__Ivory_Stone": {
+            "faces": 144,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_08_woodfall__Woodlook_Aluminium": {
+            "faces": 126,
+            "solid_extrusions": 21,
+            "material": "Woodlook_Aluminium"
+          },
+          "E03_08_woodfall_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "E03_09_coral_Backing__Charcoal_Metal": {
+            "faces": 30,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "E03_09_coral_Perforated__Champagne_Metal": {
+            "faces": 1333,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "E03_10_waves_Backing__Grey_Mineral": {
+            "faces": 45,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_10_waves_Wave_0__Ivory_Stone": {
+            "faces": 210,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_10_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 318,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_10_waves_Wave_1__Ivory_Stone": {
+            "faces": 207,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_10_waves_Wave_2__Ivory_Stone": {
+            "faces": 207,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_11_niche_Backing__Grey_Mineral": {
+            "faces": 44,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "E03_11_niche_NicheRim__Ivory_Stone": {
+            "faces": 10,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_11_niche_NicheField__Woodlook_Aluminium": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Woodlook_Aluminium"
+          },
+          "E03_11_niche_NicheLED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_11_niche_Dune__Ivory_Stone": {
+            "faces": 144,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_12_flutes__Grey_Mineral": {
+            "faces": 138,
+            "solid_extrusions": 23,
+            "material": "Grey_Mineral"
+          },
+          "E03_12_flutes_Edge__Champagne_Metal": {
+            "faces": 36,
+            "solid_extrusions": 6,
+            "material": "Champagne_Metal"
+          },
+          "E03_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 698,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "E03_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 670,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "E03_93_EndCap__Ivory_Stone": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            -0.001,
+            -0.10599999999999998,
+            -0.11999999999999998
+          ],
+          [
+            40.001,
+            0.33,
+            2.401
+          ]
+        ]
+      },
+      {
+        "code": "P04",
+        "name": "Pool Lagoon",
+        "kind": "pool",
+        "y_offset_m": 48,
+        "reference": "approved_four_row_board / row 4",
+        "length_m": 40,
+        "height_peak_m": 1.2,
+        "height_at_end_m": 0.0,
+        "sections": [
+          {
+            "index": 1,
+            "type": "frost",
+            "x_start_m": 0.018,
+            "x_end_m": 3.1820000000000004
+          },
+          {
+            "index": 2,
+            "type": "wood",
+            "x_start_m": 3.218,
+            "x_end_m": 6.182
+          },
+          {
+            "index": 3,
+            "type": "glassfish",
+            "x_start_m": 6.218,
+            "x_end_m": 9.681999999999999
+          },
+          {
+            "index": 4,
+            "type": "reeds",
+            "x_start_m": 9.718,
+            "x_end_m": 12.681999999999999
+          },
+          {
+            "index": 5,
+            "type": "oval",
+            "x_start_m": 12.718,
+            "x_end_m": 15.681999999999999
+          },
+          {
+            "index": 6,
+            "type": "waves",
+            "x_start_m": 15.718,
+            "x_end_m": 19.182
+          },
+          {
+            "index": 7,
+            "type": "frost",
+            "x_start_m": 19.218,
+            "x_end_m": 22.182
+          },
+          {
+            "index": 8,
+            "type": "darkwave",
+            "x_start_m": 22.218,
+            "x_end_m": 25.182
+          },
+          {
+            "index": 9,
+            "type": "slots",
+            "x_start_m": 25.218,
+            "x_end_m": 27.982
+          },
+          {
+            "index": 10,
+            "type": "flutes",
+            "x_start_m": 28.018,
+            "x_end_m": 30.482
+          },
+          {
+            "index": 11,
+            "type": "ripples",
+            "x_start_m": 30.518,
+            "x_end_m": 33.482
+          },
+          {
+            "index": 12,
+            "type": "tail",
+            "x_start_m": 33.518,
+            "x_end_m": 40
+          }
+        ],
+        "parts": {
+          "P04_00_Low_Base__Charcoal_Metal": {
+            "faces": 33,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P04_01_frost_Panel__Frosted_Glass": {
+            "faces": 37,
+            "solid_extrusions": 1,
+            "material": "Frosted_Glass"
+          },
+          "P04_01_frost_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P04_01_frost_EtchWaves__Etched_Art": {
+            "faces": 424,
+            "solid_extrusions": 5,
+            "material": "Etched_Art"
+          },
+          "P04_02_wood__Woodlook_Aluminium": {
+            "faces": 126,
+            "solid_extrusions": 21,
+            "material": "Woodlook_Aluminium"
+          },
+          "P04_02_wood_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "P04_03_glassfish_Panel__Art_Glass": {
+            "faces": 40,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P04_03_glassfish_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P04_03_glassfish_EtchWaves__Etched_Art": {
+            "faces": 200,
+            "solid_extrusions": 3,
+            "material": "Etched_Art"
+          },
+          "P04_03_glassfish_Fish__Etched_Art": {
+            "faces": 66,
+            "solid_extrusions": 6,
+            "material": "Etched_Art"
+          },
+          "P04_04_reeds_Perforated__Champagne_Metal": {
+            "faces": 1051,
+            "solid_extrusions": 1,
+            "material": "Champagne_Metal"
+          },
+          "P04_05_oval_Frame__Ivory_Stone": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_05_oval_Halo__LED_Warm_3000K": {
+            "faces": 194,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P04_05_oval_Inner__Art_Glass": {
+            "faces": 98,
+            "solid_extrusions": 1,
+            "material": "Art_Glass"
+          },
+          "P04_06_waves_Backing__Grey_Mineral": {
+            "faces": 40,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P04_06_waves_Wave_0__Ivory_Stone": {
+            "faces": 140,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_06_waves_ConcealedLED__LED_Warm_3000K": {
+            "faces": 278,
+            "solid_extrusions": 2,
+            "material": "LED_Warm_3000K"
+          },
+          "P04_06_waves_Wave_1__Ivory_Stone": {
+            "faces": 140,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_06_waves_Wave_2__Ivory_Stone": {
+            "faces": 148,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_07_frost_Panel__Frosted_Glass": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Frosted_Glass"
+          },
+          "P04_07_frost_Support__Champagne_Metal": {
+            "faces": 12,
+            "solid_extrusions": 2,
+            "material": "Champagne_Metal"
+          },
+          "P04_07_frost_EtchWaves__Etched_Art": {
+            "faces": 426,
+            "solid_extrusions": 5,
+            "material": "Etched_Art"
+          },
+          "P04_08_darkwave_Backing__Charcoal_Metal": {
+            "faces": 35,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P04_08_darkwave_Wave_0__Ivory_Stone": {
+            "faces": 144,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_08_darkwave_ConcealedLED__LED_Warm_3000K": {
+            "faces": 120,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P04_08_darkwave_Wave_1__Ivory_Stone": {
+            "faces": 146,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_09_slots_Grey__Grey_Mineral": {
+            "faces": 33,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P04_09_slots_Recess__Charcoal_Metal": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "Charcoal_Metal"
+          },
+          "P04_10_flutes__Grey_Mineral": {
+            "faces": 114,
+            "solid_extrusions": 19,
+            "material": "Grey_Mineral"
+          },
+          "P04_10_flutes_Edge__Champagne_Metal": {
+            "faces": 30,
+            "solid_extrusions": 5,
+            "material": "Champagne_Metal"
+          },
+          "P04_11_ripples_Backing__Grey_Mineral": {
+            "faces": 34,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P04_11_ripples_Wave_0__Ivory_Stone": {
+            "faces": 121,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_11_ripples_ConcealedLED__LED_Warm_3000K": {
+            "faces": 218,
+            "solid_extrusions": 3,
+            "material": "LED_Warm_3000K"
+          },
+          "P04_11_ripples_Wave_1__Ivory_Stone": {
+            "faces": 145,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_11_ripples_Wave_2__Ivory_Stone": {
+            "faces": 124,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_11_ripples_Wave_3__Ivory_Stone": {
+            "faces": 72,
+            "solid_extrusions": 2,
+            "material": "Ivory_Stone"
+          },
+          "P04_12_tail_Backing__Grey_Mineral": {
+            "faces": 36,
+            "solid_extrusions": 1,
+            "material": "Grey_Mineral"
+          },
+          "P04_12_tail_Wave_0__Ivory_Stone": {
+            "faces": 107,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_12_tail_ConcealedLED__LED_Warm_3000K": {
+            "faces": 115,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P04_12_tail_Wave_1__Ivory_Stone": {
+            "faces": 95,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_90_Continuous_Crest__Ivory_Stone": {
+            "faces": 787,
+            "solid_extrusions": 1,
+            "material": "Ivory_Stone"
+          },
+          "P04_91_Crest_LED__LED_Warm_3000K": {
+            "faces": 774,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          },
+          "P04_92_Base_LED__LED_Warm_3000K": {
+            "faces": 6,
+            "solid_extrusions": 1,
+            "material": "LED_Warm_3000K"
+          }
+        },
+        "readback_local_bounds_m": [
+          [
+            -7.3e-05,
+            -0.10599999999999998,
+            -0.001
+          ],
+          [
+            40.00001,
+            0.23999999999999996,
+            1.201
+          ]
+        ]
+      }
+    ]
+  },
+  "topology_totals": {
+    "faces": 59351,
+    "edges": 167985,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "loose_edges": 0,
+    "holes": 1578
+  },
+  "texture_readback": [
+    {
+      "name": "Grey_Mineral",
+      "bytes": 195430,
+      "image_pixels": [
+        512,
+        512
+      ],
+      "tile_size_mm": [
+        1000.0,
+        1000.0
+      ]
+    },
+    {
+      "name": "Charcoal_Stone",
+      "bytes": 270408,
+      "image_pixels": [
+        512,
+        512
+      ],
+      "tile_size_mm": [
+        600.0,
+        300.0
+      ]
+    },
+    {
+      "name": "Woodlook_Aluminium",
+      "bytes": 540557,
+      "image_pixels": [
+        512,
+        1024
+      ],
+      "tile_size_mm": [
+        200.00000000000003,
+        2000.0
+      ]
+    }
+  ],
+  "component_roots": [
+    "P01_Pool Current",
+    "P02_Pool Reef",
+    "E00_Original Boundary revised no raised fish",
+    "E01_Exterior Current",
+    "E02_Exterior Dune",
+    "E03_Exterior Tide",
+    "P04_Pool Lagoon"
+  ],
+  "material_transparency": [
+    {
+      "name": "Art_Glass",
+      "alpha": null
+    },
+    {
+      "name": "Frosted_Glass",
+      "alpha": null
+    }
+  ],
+  "sha256": "60488a6d90d8b01e802e70994e73ce69bd65935c930eef4ea5e14b2ae4a1936f"
+}
