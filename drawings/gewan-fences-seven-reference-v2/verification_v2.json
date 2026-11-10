@@ -1,0 +1,290 @@
+{
+  "version": "{17.0.1}",
+  "file_bytes": 49298629,
+  "faces": 124674,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "loose_edges": 0,
+  "part_errors": [],
+  "textures": [
+    {
+      "name": "Grey_Plaster",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        1000.0,
+        1000.0
+      ],
+      "embedded_bytes": 908263
+    },
+    {
+      "name": "Stone_Warm",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        1200.0,
+        600.0
+      ],
+      "embedded_bytes": 1040950
+    },
+    {
+      "name": "Stone_Stacked",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        700.0,
+        280.0
+      ],
+      "embedded_bytes": 1230764
+    },
+    {
+      "name": "Stone_Basalt",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        400.00000000000006,
+        400.00000000000006
+      ],
+      "embedded_bytes": 1503241
+    },
+    {
+      "name": "Stone_Fine",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        1000.0,
+        1000.0
+      ],
+      "embedded_bytes": 986800
+    },
+    {
+      "name": "Wood_Walnut",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        140.0,
+        1300.0
+      ],
+      "embedded_bytes": 1126949
+    },
+    {
+      "name": "Wood_Teak",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        160.0,
+        1500.0
+      ],
+      "embedded_bytes": 1126287
+    }
+  ],
+  "per_option": [
+    {
+      "code": "P01",
+      "bounds_m": [
+        [
+          -0.05,
+          -0.149,
+          -0.03686747
+        ],
+        [
+          14.587961250000001,
+          0.065,
+          1.21877762
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 10,
+      "pier_count": 0
+    },
+    {
+      "code": "P02",
+      "bounds_m": [
+        [
+          -0.05,
+          -0.12100000000000001,
+          -0.04026316
+        ],
+        [
+          15.986853949999999,
+          0.05999999999999999,
+          1.22052472
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 11,
+      "pier_count": 0
+    },
+    {
+      "code": "E00",
+      "bounds_m": [
+        [
+          -0.0130572,
+          -0.136,
+          -0.0768
+        ],
+        [
+          40.62756097,
+          0.34,
+          2.4287858
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 13,
+      "pier_count": 14
+    },
+    {
+      "code": "E01",
+      "bounds_m": [
+        [
+          -0.01726619,
+          -0.125,
+          -0.06906475
+        ],
+        [
+          35.85781646,
+          0.34,
+          2.44315464
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 12,
+      "pier_count": 13
+    },
+    {
+      "code": "E02",
+      "bounds_m": [
+        [
+          -0.01111111,
+          -0.146,
+          -0.08888889
+        ],
+        [
+          46.13333333,
+          0.34,
+          2.54222107
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 12,
+      "pier_count": 13
+    },
+    {
+      "code": "E03",
+      "bounds_m": [
+        [
+          -0.00260424,
+          -0.146,
+          -0.08
+        ],
+        [
+          42.33,
+          0.34,
+          2.51343372
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 12,
+      "pier_count": 13
+    },
+    {
+      "code": "P04",
+      "bounds_m": [
+        [
+          -0.05,
+          -0.11600000000000002,
+          -0.05666667
+        ],
+        [
+          22.41111775,
+          0.05999999999999999,
+          1.22887026
+        ]
+      ],
+      "source_proportions_preserved_by_uniform_scale": true,
+      "unit_count": 11,
+      "pier_count": 0
+    }
+  ],
+  "external_piers": {
+    "count": 53,
+    "distinct_geometry_signatures": 53,
+    "signatures": {
+      "E00_PIER_01": "83cfcf47c0a271afb0e67f7dfd0059715737d4856833e14f11fc539fdf245b90",
+      "E00_PIER_02": "4fa032bd00c16ae04f965c0410328b33df98c3987f4ace1ab23459dbb53e1538",
+      "E00_PIER_03": "6d7e2563bda3045f65e615a00aa8101dc389b3188c204acf3a0fb638b4535a37",
+      "E00_PIER_04": "5e35351d70692dda9b336b2248376f8287d1f2b2e69e51c2b2851b278513ab9e",
+      "E00_PIER_05": "dcd20dafb269b30b7d4e48928d375577b270226cd71a1f78553f9f60dfbc66fa",
+      "E00_PIER_06": "f3bdc84dc27d83241fbcfb9017264a9d2bbe4848f04c86343834a28ebe78fa4a",
+      "E00_PIER_07": "a2de01bfefe8597cf3227396d1f330d379a735f4981ded68b739ace84835834a",
+      "E00_PIER_08": "5f663eec516027e2b1d3c9c1f1f5967dcaa24f944c058e4917258d82f2d6f37c",
+      "E00_PIER_09": "e2c92b16631ec0a7f74a49662d86d3345c142229f3061a48a8631ef113222ba6",
+      "E00_PIER_10": "04fd170a957440c5188bf449badea1a0814a22a980ad44bc7ee62be7d42cf803",
+      "E00_PIER_11": "36ae6549d6ba3ae5a861c37c7866f19a5aaf91739b0b636b7cb052662f42d03f",
+      "E00_PIER_12": "edb79686c8558c2af97d874e2e73c3abd4009da74f8bf90d5d9d7fe5e4129cce",
+      "E00_PIER_13": "a95726b0402e3b1cead7dbf2952288b82ba114d70c1d4d7b4ea51993b00c64a8",
+      "E00_PIER_14": "3410d0144d4b3d2f9ea6eeaf96e670787296c292738a54a919bee9d95b6294cc",
+      "E01_PIER_15": "8fad1af4eeb27aa2f00b737de73ad5065e5d1cc83b14baaba9674e819c8722f5",
+      "E01_PIER_16": "55c4fef4647d792738c46ab0621c64a8fb9282c00efcd3a5f8a0ddccd8ec242f",
+      "E01_PIER_17": "5253e3563b184e561d17bccdfad1c77b08a0e85981b6f1e8bbab23b39a4058fc",
+      "E01_PIER_18": "acdeeae6a68ae344afdcf81c3b5b12c9ce340481cf4be32ff99b9b0444d074a8",
+      "E01_PIER_19": "05e087cf7ce126003362d44d8dc0b5060c085ef8c029f61d9c75d25114ad8c9b",
+      "E01_PIER_20": "de2d0aac4714db1536791106a5f3cc4753870004516d36423b396d70dc6abf7f",
+      "E01_PIER_21": "0af9030c07308f7373d2ccd7c45c6bca172b4e213da035b8795c7668d4648b2a",
+      "E01_PIER_22": "7ee71fe7be0de6a22561c40333572276eb1358c85366e204ac7693f544840a87",
+      "E01_PIER_23": "672a6cb735ea25ed3f80a31079b9899dd9e1eff52702309b579dc39ef38f2545",
+      "E01_PIER_24": "fcbbb748466b06bed04437072e145352e05cf0f1ff2b07738498642a5269b10f",
+      "E01_PIER_25": "129d81879e732d23e9755e8014bbce5bf32275d0e2e3909963370d8c59b68ef4",
+      "E01_PIER_26": "fc6fd47185c657a344f0c026be99d9a381661b3bc8abae6645d5695e7b63f5ab",
+      "E01_PIER_27": "c4b39251888a1624aa5accdf4b0e77fb34e1743b91c873ac21d431610fe9c22b",
+      "E02_PIER_28": "caba5cf9bc5483a722c6a4723f5014da5c4b66f5ada634022ecdad18f9611d0e",
+      "E02_PIER_29": "92a26581158459976c14adc1c943f21f090bea0b923663773c3c4f3b037c360a",
+      "E02_PIER_30": "a4e175a21953cf4da3123556fdb5e234d6750ba66d7eb78fb14f0cef84a87cfc",
+      "E02_PIER_31": "78d981d5624f00924b98ae1db7f90b93c35e0b10fd5b4684a2dfd87911b6898a",
+      "E02_PIER_32": "37e86d3e2eb6a77de7f621bb1d9f9f5c632c4097ca5d9250c9cc8faaa6984f3e",
+      "E02_PIER_33": "43b704e343efa8f6a1640859519f292946dd58d88e0230b46165eaee9ad6e428",
+      "E02_PIER_34": "a7dcedff85660479e3a902067131718e6e871654673eca1a8f0c98284215edc9",
+      "E02_PIER_35": "6bc7185268f240e457af32bf1caa252fd72cda1ed3ff54103a74811da48210c5",
+      "E02_PIER_36": "6db252077a91a8f0cf8b4456fd39d742951784fcc7e497d8be28bbcfd3f94f92",
+      "E02_PIER_37": "f2bfd7f544c38807c991f09b0eb9db2fbac01165dd47500b432335bc46d69ee4",
+      "E02_PIER_38": "79c0ff9e1b65548cbfbf41cccb577d7e76bfcd89fe8564d372be04c2f74aa7ce",
+      "E02_PIER_39": "9d529a2830c43c2af945eead1468ad438ef3f79cee79f88b982a0eb5c265af47",
+      "E02_PIER_40": "d27449748dc40da5942af9ef04d8fdc8e8b602d5b7595bbdbe5d5a3543a72e05",
+      "E03_PIER_41": "8adb02295b5640e38aa7a86b73e3db89006290f55c560c3d269ae029f5433a05",
+      "E03_PIER_42": "8f3a83a56b16126cb976ce973f9aec1adeda5a605328bfbd80ad5076be51d7b6",
+      "E03_PIER_43": "cbddf84c5a513291853f52284a1a0b0da293595d3c8e4930560086cfd4822f31",
+      "E03_PIER_44": "40e79c932eade67ab69fea36c0d01aec93b362307101637112159d0ec84e794e",
+      "E03_PIER_45": "1128dc349f18cc8fc9d8239f328039c9828d7cf420ed16dc1c63538b1f1edbd4",
+      "E03_PIER_46": "1bb9783335292ae25a4538a31c123532cafff02d1901d906218e3e4ba0303631",
+      "E03_PIER_47": "cb959f51153ef82c61472b830d7cbeedca43408c7cbc60c18b083f0af48f8328",
+      "E03_PIER_48": "46bcc8e68dd3b4fb9dc5b8e7c14aae03aaabd165616282f768356ea11a5fe15d",
+      "E03_PIER_49": "2bc83b07f6d468267e6834d29679f343ce6d800fc9de5f49bac4fc052f720d86",
+      "E03_PIER_50": "dfca2dece62a343c7d227b5386a8f475e2368c302c3af8ed4825a6ef1dfa73f3",
+      "E03_PIER_51": "94d996e45752c18a1728f3e48adb033b8a85088287d62633abce298b7cfc99ea",
+      "E03_PIER_52": "ed89ffde6d5a1b20091fc2bab7f2036de1f71fe55cdd769857d0c049bd36a483",
+      "E03_PIER_53": "504c3f9c64e6f8d26889d77884033c95e975c9b6d98785c31c068b9386b2d9c9"
+    }
+  },
+  "not_verified": [
+    "SketchUp Desktop",
+    "actual site dimensions",
+    "millimetre correspondence to unmeasured source pictures",
+    "structural sizing and fixing approval",
+    "native V-Ray / Enscape rendering"
+  ],
+  "sha256": "eccf9d51a5cad592043db53f0fda25759f7263cb7d2eb76f99164a0cca4b1399"
+}

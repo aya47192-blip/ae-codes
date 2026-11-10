@@ -1,0 +1,54 @@
+﻿option,pier_id,design,width_mm,position_reference_px,body_material
+E00,PIER_01,single inset amber spine,280,32,Grey_Plaster
+E00,PIER_02,offset pair timber and bronze,300,255,Grey_Dark
+E00,PIER_03,slender sculptural tree,260,400,Stone_Warm
+E00,PIER_04,four stone flutes,320,545,Ivory
+E00,PIER_05,diamond bronze inset,290,696,Grey_Plaster
+E00,PIER_06,organic perforated insert,310,813,Grey_Dark
+E00,PIER_07,asymmetric split light,270,1011,Stone_Warm
+E00,PIER_08,three stepped square pockets,280,1117,Ivory
+E00,PIER_09,single diagonal bronze fold,300,1287,Grey_Plaster
+E00,PIER_10,flowing edge groove,260,1434,Grey_Dark
+E00,PIER_11,stepped limestone shoulders,320,1646,Stone_Warm
+E00,PIER_12,slate recess and downlight,290,1773,Ivory
+E00,PIER_13,two branching bronze reeds,310,1943,Grey_Plaster
+E00,PIER_14,off-centre leaf stalk,270,2148,Grey_Dark
+E01,PIER_15,staggered oval slit,280,54,Stone_Warm
+E01,PIER_16,two intersecting arches,300,282,Ivory
+E01,PIER_17,three unequal horizontal slots,260,414,Grey_Plaster
+E01,PIER_18,tapered timber spindle,320,534,Grey_Dark
+E01,PIER_19,folded chevron frame,290,810,Stone_Warm
+E01,PIER_20,asymmetric corner lantern,310,939,Ivory
+E01,PIER_21,long ribbed brass strip,270,1025,Grey_Plaster
+E01,PIER_22,hollow rectangular niche,280,1180,Grey_Dark
+E01,PIER_23,two interleaved wave strips,300,1420,Stone_Warm
+E01,PIER_24,four cascading small windows,260,1510,Ivory
+E01,PIER_25,vertical bamboo relief,320,1712,Grey_Plaster
+E01,PIER_26,bronze basket pattern,290,1865,Grey_Dark
+E01,PIER_27,small stacked pebble recess,310,2130,Stone_Warm
+E02,PIER_28,double divergent fan,270,55,Ivory
+E02,PIER_29,single botanical leaf,280,242,Grey_Plaster
+E02,PIER_30,tilted rectangular inlay,300,382,Grey_Dark
+E02,PIER_31,notched split monolith,260,635,Stone_Warm
+E02,PIER_32,slender crescent recess,320,781,Ivory
+E02,PIER_33,five unequal metal pins,290,909,Grey_Plaster
+E02,PIER_34,reed and stone pairing,310,1105,Grey_Dark
+E02,PIER_35,long irregular coral branch,270,1201,Stone_Warm
+E02,PIER_36,triple nested diamond,280,1391,Ivory
+E02,PIER_37,asymmetric timber comb,300,1537,Grey_Plaster
+E02,PIER_38,three folded metal tabs,260,1660,Grey_Dark
+E02,PIER_39,oval and vertical spine,320,1760,Stone_Warm
+E02,PIER_40,one-sided narrow fluting,290,2130,Ivory
+E03,PIER_41,shallow rising diagonal niche,310,34,Grey_Plaster
+E03,PIER_42,six offset amber points,270,299,Grey_Dark
+E03,PIER_43,black inset with twin ivory ribs,280,400,Stone_Warm
+E03,PIER_44,two uneven curving slits,300,569,Ivory
+E03,PIER_45,bronze ray fan,260,700,Grey_Plaster
+E03,PIER_46,vertical stack of three arches,320,804,Grey_Dark
+E03,PIER_47,folded bronze leaf,290,1000,Stone_Warm
+E03,PIER_48,horizontal timber louvres,310,1303,Ivory
+E03,PIER_49,narrow layered wave inlay,270,1434,Grey_Plaster
+E03,PIER_50,four staggered bronze squares,280,1572,Grey_Dark
+E03,PIER_51,single twisted metal fin,300,1800,Stone_Warm
+E03,PIER_52,split illuminated stepped frame,260,1988,Ivory
+E03,PIER_53,sculpted falling timber cap,320,2150,Grey_Plaster
