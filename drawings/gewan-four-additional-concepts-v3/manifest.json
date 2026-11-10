@@ -1,0 +1,172 @@
+{
+  "title": "Four additional, independently composed fence concepts",
+  "designs": [
+    {
+      "code": "EX1",
+      "title": "Offset Portals",
+      "kind": "wall",
+      "brief": "Asymmetric rectangular returns, layered stone cassettes and broad folded bronze planes. No circles, wave relief, fish or coral.",
+      "length_m": 22.200000000000003,
+      "height_m": 2.4,
+      "units": [
+        {
+          "index": 1,
+          "start_m": 0.3,
+          "end_m": 4.5
+        },
+        {
+          "index": 2,
+          "start_m": 4.8,
+          "end_m": 8.2
+        },
+        {
+          "index": 3,
+          "start_m": 8.5,
+          "end_m": 13.3
+        },
+        {
+          "index": 4,
+          "start_m": 13.600000000000001,
+          "end_m": 17.400000000000002
+        },
+        {
+          "index": 5,
+          "start_m": 17.700000000000003,
+          "end_m": 21.900000000000002
+        }
+      ],
+      "post_count": 6,
+      "parts": 60,
+      "y_offset_m": 0
+    },
+    {
+      "code": "EX2",
+      "title": "Woven Courtyard",
+      "kind": "wall",
+      "brief": "Curved three-dimensional stone sails, a woven bronze field, mineral facets, a twisted bronze sculpture and deeply cut ceramic screens.",
+      "length_m": 22.36,
+      "height_m": 2.4,
+      "units": [
+        {
+          "index": 1,
+          "start_m": 0.28,
+          "end_m": 3.38
+        },
+        {
+          "index": 2,
+          "start_m": 3.66,
+          "end_m": 7.26
+        },
+        {
+          "index": 3,
+          "start_m": 7.54,
+          "end_m": 10.54
+        },
+        {
+          "index": 4,
+          "start_m": 10.819999999999999,
+          "end_m": 14.819999999999999
+        },
+        {
+          "index": 5,
+          "start_m": 15.099999999999998,
+          "end_m": 18.4
+        },
+        {
+          "index": 6,
+          "start_m": 18.68,
+          "end_m": 22.08
+        }
+      ],
+      "post_count": 7,
+      "parts": 76,
+      "y_offset_m": 7
+    },
+    {
+      "code": "PL1",
+      "title": "Prism Waterline",
+      "kind": "pool",
+      "brief": "Level 1000 mm railing with fluted glass, prismatic ceramic accents, folded satin-metal panels and an architectural etched field.",
+      "length_m": 11.700000000000001,
+      "height_m": 1.0,
+      "units": [
+        {
+          "index": 1,
+          "start_m": 0.05,
+          "end_m": 2.15
+        },
+        {
+          "index": 2,
+          "start_m": 2.1999999999999997,
+          "end_m": 4.8
+        },
+        {
+          "index": 3,
+          "start_m": 4.85,
+          "end_m": 6.75
+        },
+        {
+          "index": 4,
+          "start_m": 6.8,
+          "end_m": 9.0
+        },
+        {
+          "index": 5,
+          "start_m": 9.05,
+          "end_m": 11.65
+        }
+      ],
+      "post_count": 6,
+      "parts": 92,
+      "y_offset_m": 14
+    },
+    {
+      "code": "PL2",
+      "title": "Breeze Weave",
+      "kind": "pool",
+      "brief": "A level champagne railing with real interlaced infill, sea-glass tiles, tension geometry and broad glazed blades.",
+      "length_m": 12.065,
+      "height_m": 1.0,
+      "units": [
+        {
+          "index": 1,
+          "start_m": 0.045,
+          "end_m": 1.845
+        },
+        {
+          "index": 2,
+          "start_m": 1.89,
+          "end_m": 4.09
+        },
+        {
+          "index": 3,
+          "start_m": 4.135,
+          "end_m": 6.035
+        },
+        {
+          "index": 4,
+          "start_m": 6.08,
+          "end_m": 7.83
+        },
+        {
+          "index": 5,
+          "start_m": 7.875,
+          "end_m": 10.075
+        },
+        {
+          "index": 6,
+          "start_m": 10.12,
+          "end_m": 12.02
+        }
+      ],
+      "post_count": 7,
+      "parts": 98,
+      "y_offset_m": 21
+    }
+  ],
+  "units": "metres; native storage inches",
+  "pool_height_mm": 1000,
+  "all_ends_vertical": true,
+  "reused_v2_decorative_definitions": 0,
+  "dimensions_status": "proposed design dimensions, not surveyed site measurements"
+}

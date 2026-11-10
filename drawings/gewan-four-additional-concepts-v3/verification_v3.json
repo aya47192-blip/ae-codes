@@ -1,0 +1,140 @@
+{
+  "version": "{17.0.1}",
+  "faces": 7625,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "loose_edges": 0,
+  "errors": [],
+  "options": [
+    {
+      "code": "EX1",
+      "bounds_m": [
+        [
+          -0.008,
+          -0.28,
+          -0.05999999999999999
+        ],
+        [
+          22.208,
+          0.36,
+          2.395
+        ]
+      ],
+      "height_m": 2.395,
+      "units": 5,
+      "posts": 6
+    },
+    {
+      "code": "EX2",
+      "bounds_m": [
+        [
+          -0.008,
+          -0.43773932000000004,
+          -0.05999999999999999
+        ],
+        [
+          22.368,
+          0.36,
+          2.395
+        ]
+      ],
+      "height_m": 2.395,
+      "units": 6,
+      "posts": 7
+    },
+    {
+      "code": "PL1",
+      "bounds_m": [
+        [
+          -0.027000000000000003,
+          -0.072,
+          -0.008
+        ],
+        [
+          11.727,
+          0.075,
+          1.0
+        ]
+      ],
+      "height_m": 1.0,
+      "units": 5,
+      "posts": 6
+    },
+    {
+      "code": "PL2",
+      "bounds_m": [
+        [
+          -0.0295,
+          -0.11999999999999998,
+          -0.008
+        ],
+        [
+          12.0945,
+          0.154,
+          1.0
+        ]
+      ],
+      "height_m": 1.0,
+      "units": 6,
+      "posts": 7
+    }
+  ],
+  "embedded_textures": [
+    {
+      "name": "Greige_Mineral",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        1000.0,
+        1000.0
+      ]
+    },
+    {
+      "name": "Honed_Travertine",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        1200.0,
+        650.0
+      ]
+    },
+    {
+      "name": "Silver_Sand_Stone",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        800.0000000000001,
+        800.0000000000001
+      ]
+    },
+    {
+      "name": "Oaklook_Aluminium",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "tile_mm": [
+        300.0,
+        1500.0
+      ]
+    }
+  ],
+  "sha256": "c54afdd4dd3aa4d5f35676ed82e6ad046ebace371bc5b76d115028dc10c2c17a",
+  "not_tested": [
+    "SketchUp Desktop",
+    "structural and pool barrier certification",
+    "measured site fit"
+  ],
+  "pool_end_post_heights_mm": {
+    "PL1_POST_01_RHS": 1000.0,
+    "PL1_POST_06_RHS": 1000.0,
+    "PL2_POST_01_RHS": 1000.0,
+    "PL2_POST_07_RHS": 1000.0
+  }
+}
