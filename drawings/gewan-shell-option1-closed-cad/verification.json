@@ -1,0 +1,230 @@
+{
+  "source_image": "exec-e95a2406-90c0-4251-af26-5624dc23fc3f.png",
+  "source_sha256": "9faac4a383bf3789d55f9eed976e7ab3c2b13b7afd067cbe287a4c6c253a06a8",
+  "units": "millimetres",
+  "scale_reference": "large lower-left roundabout; user confirmed diameter 25 metres",
+  "reference_circle_diameter_mm": 25000.0,
+  "mm_per_source_pixel": 318.3079279310909,
+  "reference_radial_fit_error_px": 1.6229824148445857,
+  "straight_wall_chalets": [
+    {
+      "chalet": 1,
+      "source_deviation_px": 1.9116800973530954,
+      "rotation_degrees": -15.313742005989212,
+      "vertices": 16
+    },
+    {
+      "chalet": 2,
+      "source_deviation_px": 1.816154004938631,
+      "rotation_degrees": 3.236900272209588,
+      "vertices": 14
+    },
+    {
+      "chalet": 3,
+      "source_deviation_px": 2.2179486572755183,
+      "rotation_degrees": 25.766424352685217,
+      "vertices": 10
+    },
+    {
+      "chalet": 4,
+      "source_deviation_px": 1.0533703247651551,
+      "rotation_degrees": 34.57973284966318,
+      "vertices": 17
+    },
+    {
+      "chalet": 5,
+      "source_deviation_px": 1.9788272662062816,
+      "rotation_degrees": 16.001100244159307,
+      "vertices": 16
+    },
+    {
+      "chalet": 6,
+      "source_deviation_px": 2.5189630797671105,
+      "rotation_degrees": 28.146703804314413,
+      "vertices": 10
+    },
+    {
+      "chalet": 7,
+      "source_deviation_px": 1.0,
+      "rotation_degrees": -42.74414114737729,
+      "vertices": 19
+    },
+    {
+      "chalet": 8,
+      "source_deviation_px": 1.0119288512538887,
+      "rotation_degrees": -33.807464037051744,
+      "vertices": 19
+    },
+    {
+      "chalet": 9,
+      "source_deviation_px": 1.0689655172413401,
+      "rotation_degrees": -44.166182252647346,
+      "vertices": 17
+    },
+    {
+      "chalet": 10,
+      "source_deviation_px": 0.9575175804338409,
+      "rotation_degrees": -34.708108399009674,
+      "vertices": 21
+    },
+    {
+      "chalet": 11,
+      "source_deviation_px": 1.028991510855131,
+      "rotation_degrees": -20.641381138418634,
+      "vertices": 20
+    },
+    {
+      "chalet": 12,
+      "source_deviation_px": 2.88220626530597,
+      "rotation_degrees": -3.9480247883842083,
+      "vertices": 10
+    }
+  ],
+  "curve_fit_tolerance_px": 1.4,
+  "straight_run_tolerance_px": 2.0,
+  "raster_trace_limit": "Source is generated raster, not survey CAD. Pixel-scale reconstruction does not imply millimetre accuracy.",
+  "repairs": [
+    {
+      "type": "remove_medial_corner_spike",
+      "node": 100,
+      "location_px": [
+        261.0,
+        647.0
+      ]
+    },
+    {
+      "type": "remove_medial_corner_spike",
+      "node": 103,
+      "location_px": [
+        252.0,
+        654.0
+      ]
+    },
+    {
+      "type": "remove_medial_corner_spike",
+      "node": 198,
+      "location_px": [
+        366.0,
+        980.0
+      ]
+    },
+    {
+      "type": "remove_medial_corner_spike",
+      "node": 235,
+      "location_px": [
+        475.0,
+        1100.0
+      ]
+    },
+    {
+      "type": "join_missing_boundary",
+      "node": 42,
+      "start_px": [
+        511.0,
+        440.0
+      ],
+      "end_px": [
+        519.0,
+        461.0
+      ],
+      "length_px": 22.47220505424423
+    },
+    {
+      "type": "join_missing_boundary",
+      "node": 122,
+      "start_px": [
+        394.0,
+        706.0
+      ],
+      "end_px": [
+        386.0,
+        721.0
+      ],
+      "length_px": 17.0
+    },
+    {
+      "type": "join_missing_boundary",
+      "node": 161,
+      "start_px": [
+        613.0,
+        836.0
+      ],
+      "end_px": [
+        608.0,
+        839.0
+      ],
+      "length_px": 5.830951894845301
+    }
+  ],
+  "microscopic_skeleton_loops_removed": [],
+  "shared_network_entities": 364,
+  "closed_region_count": 133,
+  "noded_cuts": 11,
+  "noded_dangles": 0,
+  "noded_invalid_rings": 0,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_tested": false,
+  "closed_regions_note": "Companion region file repeats shared edges intentionally so every region and hole is independently closed. Primary shared drawing has each network edge once. Analytic arcs were recovered from the shared CAD curves. Only unmatched noded chords use straight approximations at <=0.025 source pixel chord error.",
+  "region_arc_recovery_fallback_chords": 0,
+  "DXF_readback": {
+    "Shared": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "units_mm": true,
+      "entities": {
+        "LWPOLYLINE": 362,
+        "CIRCLE": 2
+      },
+      "open_polyline_entities": 340,
+      "self_intersecting_paths": [],
+      "zero_length_edges": 0,
+      "max_abs_z_mm": 0,
+      "duplicate_sample_edges": 0,
+      "unconnected_endpoints": [],
+      "reference_circle_diameter_mm": 25000.0
+    },
+    "Closed_Regions": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "units_mm": true,
+      "entities": {
+        "LWPOLYLINE": 164,
+        "CIRCLE": 4
+      },
+      "open_polyline_entities": 0,
+      "self_intersecting_paths": [],
+      "zero_length_edges": 0,
+      "max_abs_z_mm": 0,
+      "duplicate_sample_edges": 4831
+    },
+    "Chalets_Only": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "units_mm": true,
+      "entities": {
+        "LWPOLYLINE": 12
+      },
+      "open_polyline_entities": 0,
+      "self_intersecting_paths": [],
+      "zero_length_edges": 0,
+      "max_abs_z_mm": 0,
+      "duplicate_sample_edges": 0
+    }
+  },
+  "planar_face_formation_check": {
+    "test": "Read FINAL DXF from disk; reconstruct region holes, flatten analytic arcs at 5mm chord bound, create native SKP planar faces, reopen SKP and count faces/edges. This is not a SketchUp Desktop import test.",
+    "source_dxf_sha256": "741ee4b2da5dca090570ce3c87315803fb9f727f83676162923c322066abada1",
+    "expected_regions": 133,
+    "readback_faces": 133,
+    "holes": 35,
+    "loose_edges": 0,
+    "skp_sha256": "ddfce5dbb76123d431da65152642ff931d2a19024b239a1fd69a0fb4e70dd9d1"
+  },
+  "DWG_conversion": {
+    "delivered": false,
+    "reason": "Native conversion trials failed independent native roundtrip/document validation. Rejected DWG attempts are not part of this delivery. Validated AutoCAD DXF files are supplied."
+  },
+  "closed_region_contours": 168,
+  "closed_region_holes": 35,
+  "closed_region_surfaces": 133
+}

@@ -1,0 +1,7 @@
+OPEN: Gewan_Shell_Option1_Closed_Regions.dxf
+UNITS: millimetres (25,000 mm reference circle)
+133 closed planar regions; 35 interior holes; 12 chalets.
+Do not import Shared and Closed_Regions together on top of each other.
+Shared.dxf uses a deduplicated connected edge network; Closed_Regions.dxf intentionally repeats shared boundaries to keep every region independent.
+DXF is directly editable in AutoCAD. Use SAVEAS there if DWG is needed.
+Read README_AR.md and verification.json for accuracy limits and tests.
