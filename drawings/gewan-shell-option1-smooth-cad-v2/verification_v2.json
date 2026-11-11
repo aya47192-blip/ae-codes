@@ -1,0 +1,82 @@
+{
+  "source_cad": "Gewan_Shell_Option1_Shared.dxf",
+  "source_cad_sha256": "9ac33cbafa66c7f90bb207eda60b46685c8e9dc881662f04323f143e71af88ed",
+  "units": "mm",
+  "reference_circle_diameter_mm": 25000,
+  "curves_rebuilt_as_global_strands": 144,
+  "bezier_spans": 739,
+  "G1_arc_segments": 4012,
+  "max_biarc_fit_error_mm_measured": 0.6484978064562101,
+  "max_spline_join_angle_degrees": 1.4787793334710982e-06,
+  "closed_region_count": 133,
+  "micro_cells_removed_area_mm2": [
+    294323.9146917203,
+    410847.4259348118,
+    245894.82331270672,
+    370080.7889157628
+  ],
+  "polygonize_dangles": 0,
+  "polygonize_invalid": 0,
+  "polygonize_bridge_segments": 52,
+  "unmatched_region_chords": 0,
+  "source_reconstruction_mm_per_pixel": 318.3079279310909,
+  "max_chalet_reconstruction_deviation_px": 6.1146372834690075,
+  "max_node_shift_px": 7.402540999998827,
+  "SketchUp_Desktop_tested": false,
+  "AutoCAD_Desktop_tested": false,
+  "DXF_readback": {
+    "Gewan_Shell_Smooth_Master_v2.dxf": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "entities": {
+        "LINE": 274,
+        "SPLINE": 465,
+        "LWPOLYLINE": 12,
+        "CIRCLE": 2
+      },
+      "self_intersecting_paths": [],
+      "open_polyline_entities": 0,
+      "zero_length_polyline_edges": 0,
+      "max_chalet_right_angle_error_degrees": 1.5347723092418164e-12
+    },
+    "Gewan_Shell_Shared_Arcs_v2.dxf": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "entities": {
+        "LWPOLYLINE": 4024,
+        "CIRCLE": 2
+      },
+      "self_intersecting_paths": [],
+      "open_polyline_entities": 4012,
+      "zero_length_polyline_edges": 0,
+      "max_chalet_right_angle_error_degrees": 1.5347723092418164e-12
+    },
+    "Gewan_Shell_Closed_Regions_v2.dxf": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "entities": {
+        "LWPOLYLINE": 164,
+        "CIRCLE": 4
+      },
+      "self_intersecting_paths": [],
+      "open_polyline_entities": 0,
+      "zero_length_polyline_edges": 0,
+      "max_chalet_right_angle_error_degrees": 1.5347723092418164e-12
+    }
+  },
+  "master_single_curve_endpoints": [],
+  "arc_chain_join_angle_degrees_max": 1.4787793334710982e-06,
+  "arc_chain_join_angle_degrees_p99": 1.2074182697257333e-06,
+  "join_checks_on_sub_10mm_spans_omitted": 0,
+  "planar_face_formation_check": {
+    "test": "Read FINAL DXF from disk; reconstruct region holes, flatten analytic arcs at 5mm chord bound, create native SKP planar faces, reopen SKP and count faces/edges. This is not a SketchUp Desktop import test.",
+    "source_dxf_sha256": "e5ef1c57bbbbfa4424546c0090adaf0fb387d8152c64d36cd043b5ccac603515",
+    "expected_regions": 133,
+    "readback_faces": 133,
+    "holes": 35,
+    "loose_edges": 0,
+    "skp_sha256": "eded4301f4d79f5bb4b8d312f7faa326eb11b5f7b4dd682410908f80092f88b6"
+  },
+  "status": "V2 supersedes V1: global curve continuity and orthogonal chalet reconstruction",
+  "accuracy_note": "Raster-scale concept reconstruction; source pixel corresponds to 318.3 mm. Millimetre units and submillimetre arc approximation do not imply survey/millimetre source accuracy."
+}

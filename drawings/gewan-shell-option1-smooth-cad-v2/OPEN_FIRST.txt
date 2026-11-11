@@ -1,0 +1,9 @@
+START: Gewan_Shell_Closed_Regions_v2.dxf
+UNITS: millimetres
+Reference circle diameter: 25,000 mm
+V2 replaces rejected V1.
+133 closed planar regions; 35 holes; 12 straight-wall chalets.
+Do not import all three alternatives on top of one another.
+Smooth_Master is the native spline geometry; Closed_Regions is the closed arc-based variant for extrusion workflows.
+See CAD_v2_Before_After.pdf for actual CAD before/after comparisons.
+AutoCAD / SketchUp Desktop import not tested here.

@@ -1,3 +1,5 @@
+> **مستبدل بعد ملاحظات على العروجة والتكسير. استخدمي [نسخة تصحيح المنحنيات V2](../gewan-shell-option1-smooth-cad-v2/README.md). الملفات القديمة محفوظة للأرشفة والمقارنة فقط.**
+
 # Gewan — Geometric Shell Option 1 / AutoCAD DXF
 
 [Closed regions DXF — start here for SketchUp](Gewan_Shell_Option1_Closed_Regions.dxf) · [Full AutoCAD package](Gewan_Shell_Option1_AutoCAD.zip) · [CAD preview PDF](Gewan_Shell_Option1_Review.pdf)
