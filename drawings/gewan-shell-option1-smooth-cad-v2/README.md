@@ -1,3 +1,5 @@
+> **V2 مرفوضة بسبب التنعيم الزائد خارج الشاليهات. استخدمي [التصحيح الموضعي V3](../gewan-shell-option1-local-repair-v3/README.md). الملفات هنا للأرشفة فقط.**
+
 # Gewan / geometric shell / CAD curve correction V2
 
 **V2 replaces the rejected V1 drawing.** V1's closure/Audit checks did not establish acceptable curve quality.

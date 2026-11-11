@@ -1,0 +1,7 @@
+START: Gewan_Shell_Closed_Regions_v3.dxf
+UNITS: millimetres
+Reference circle: diameter 25,000 mm
+V3 supersedes V2: original lower/central layout and U building restored; local chalet repairs only, plus two sharpened U crenellations.
+Do not import both variants on top of each other.
+See CAD_v3_Restored_U_and_Lower.pdf and verification_v3.json.
+Desktop applications not tested.

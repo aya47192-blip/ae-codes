@@ -1,0 +1,100 @@
+{
+  "reference": "V1 pre-smoothing CAD; V2 correction confined to chalet groups",
+  "units": "mm",
+  "reference_circle_diameter_mm": 25000,
+  "edited_original_paths": 204,
+  "protected_original_paths": 158,
+  "protected_path_signature_changes": 0,
+  "main_U_protected_paths": 21,
+  "main_U_path_signature_changes": 1,
+  "closed_regions": 133,
+  "polygonize_dangles": 0,
+  "polygonize_invalid_rings": 0,
+  "region_arc_recovery_fallback_chords": 0,
+  "source_cad_sha256": "9ac33cbafa66c7f90bb207eda60b46685c8e9dc881662f04323f143e71af88ed",
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_tested": false,
+  "main_U_crenellation_local_repairs": {
+    "Gewan_Shell_Local_Repair_Master_v3.dxf": [
+      {
+        "handle": "12C",
+        "detail": 1,
+        "source_arc_replaced_by_straight_steps": true
+      },
+      {
+        "handle": "12C",
+        "detail": 2,
+        "source_arc_replaced_by_straight_steps": true
+      }
+    ],
+    "Gewan_Shell_Closed_Regions_v3.dxf": [
+      {
+        "handle": "34",
+        "detail": 2,
+        "source_arc_replaced_by_straight_steps": true
+      },
+      {
+        "handle": "34",
+        "detail": 1,
+        "source_arc_replaced_by_straight_steps": true
+      },
+      {
+        "handle": "45",
+        "detail": 1,
+        "source_arc_replaced_by_straight_steps": true
+      },
+      {
+        "handle": "45",
+        "detail": 2,
+        "source_arc_replaced_by_straight_steps": true
+      }
+    ]
+  },
+  "main_U_note": "Restored pre-smoothing U profile; two rounded source-CAD crenellation arcs alone were replaced with angular straight returns, with shared adjacent region boundaries updated consistently. All other U segments are retained.",
+  "DXF_readback": {
+    "Gewan_Shell_Local_Repair_Master_v3.dxf": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "self_intersections": [],
+      "open_polyline_entities": 149,
+      "entities": {
+        "LWPOLYLINE": 171,
+        "CIRCLE": 2,
+        "LINE": 82,
+        "SPLINE": 192
+      }
+    },
+    "Gewan_Shell_Closed_Regions_v3.dxf": {
+      "audit_errors": 0,
+      "audit_repairs": 0,
+      "self_intersections": [],
+      "open_polyline_entities": 0,
+      "entities": {
+        "LWPOLYLINE": 164,
+        "CIRCLE": 4
+      }
+    }
+  },
+  "main_U_closed_loop_native_segments_missing": 2,
+  "main_U_closed_loop_native_segments_added": 7,
+  "main_U_unchanged_native_segments": 128,
+  "main_U_detail_change_scope": "Only two rounded crenellation arcs replaced with seven straight step segments; all other native U boundary segments unchanged.",
+  "sha256": {
+    "Gewan_Shell_Closed_Regions_v3.dxf": "b73e21370ee6952583acd81fc894818296c235ecf4af65983ed5a290ab7e0a25",
+    "Gewan_Shell_Local_Repair_Master_v3.dxf": "1cbc36355e80891a19d5f588e14e0e51e6904dd676b8f921556b723127afc363"
+  },
+  "planar_face_formation_check": {
+    "test": "Read FINAL DXF from disk; reconstruct region holes, flatten analytic arcs at 5mm chord bound, create native SKP planar faces, reopen SKP and count faces/edges. This is not a SketchUp Desktop import test.",
+    "source_dxf_sha256": "b73e21370ee6952583acd81fc894818296c235ecf4af65983ed5a290ab7e0a25",
+    "expected_regions": 133,
+    "readback_faces": 133,
+    "holes": 35,
+    "loose_edges": 0,
+    "skp_sha256": "745fa22aa31dd859d3d3badba6e33af8504e8931d3c21f8b02edba93115d8279"
+  },
+  "protected_original_path_check_after_U_repair": {
+    "source_paths_checked": 158,
+    "unexpected_changes": 0,
+    "intentional_U_tooth_path": 247
+  }
+}
