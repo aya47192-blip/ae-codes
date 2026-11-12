@@ -1,3 +1,5 @@
+> Rejected design: the user rejected this strip-based continuation. For the proposed shell composition revision, see [revision 2](../gewan-shell-concept-revision2/README.md). The original uploaded DWG remains the authoritative protected source.
+
 # Gewan Palace — concept continuation on the supplied DWG
 
 Source: hhhhhhhhhhhhhhhh.dwg, uploaded for this revision. No older plan was used.

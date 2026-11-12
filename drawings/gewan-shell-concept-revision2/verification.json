@@ -1,0 +1,19 @@
+{
+  "authoritative_source": "hhhhhhhhhhhhhhhh.dwg",
+  "source_sha256": "f383461c6f291d8089664bc363889b509171fa2f8fbe8f55208aeb4e6cce4333",
+  "preserved_original_model_entities": 244,
+  "source_model_entities_changed": 0,
+  "new_closed_regions": 31,
+  "new_region_intersections": 0,
+  "new_regions_outside_source_site": 0,
+  "minimum_region_clearance_to_original_geometry_mm": 1458.1446267251063,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "units": "millimetres; no scale or coordinate changes",
+  "rejected_design_candidates": [],
+  "area_m2": 3746.6905340399085,
+  "not_tested": [
+    "AutoCAD/SketchUp desktop import",
+    "Engineering or statutory design review"
+  ]
+}

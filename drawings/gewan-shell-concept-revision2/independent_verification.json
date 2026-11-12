@@ -1,0 +1,10 @@
+{
+  "independent_reader": "libredwg-web 0.8.8 WebAssembly",
+  "original_dwg_model_entities": 244,
+  "exported_dxf_model_entities": 276,
+  "source_geometry_mismatches": 0,
+  "comparison_numeric_resolution_mm": 1e-06,
+  "new_closed_regions": 31,
+  "new_connected_outer_guide": 1,
+  "closed_region_endpoint_gaps_mm": 0
+}
