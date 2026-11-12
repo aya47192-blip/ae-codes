@@ -1,0 +1,192 @@
+{
+  "library_components": 10,
+  "individual_files": 10,
+  "artwork_inside_frame_verified": true,
+  "artwork_positioned_texture_matrices_read_back": true,
+  "lobby_file_modified": false,
+  "SketchUp_Desktop_tested": false,
+  "pattern_method": "Approved concept image retained as picture texture inside three-dimensional frame; relief in the picture is not fully modelled carving",
+  "plants": "Procedural 3D foliage interpreting the approved concept, not botanically or pixel-for-pixel identical to concept render",
+  "all_checks": [
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "A1",
+      "native_faces": 44,
+      "export_bounds_error_mm": 1.2600000098839104e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "A2",
+      "native_faces": 44,
+      "export_bounds_error_mm": 8.19999999845944e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "A3",
+      "native_faces": 44,
+      "export_bounds_error_mm": 1.1200000038513735e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "A4",
+      "native_faces": 837,
+      "export_bounds_error_mm": 9.600000017151444e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 802
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "A5",
+      "native_faces": 44,
+      "export_bounds_error_mm": 8.19999999845944e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "P1",
+      "native_faces": 12747,
+      "export_bounds_error_mm": 9.704095083051811e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 9668
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "P2",
+      "native_faces": 3660,
+      "export_bounds_error_mm": 1.0219430301994237e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 2928
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "P3",
+      "native_faces": 11033,
+      "export_bounds_error_mm": 1.1532002242020667e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 11472
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "P4",
+      "native_faces": 30065,
+      "export_bounds_error_mm": 9.134044631764482e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 22212
+    },
+    {
+      "file": "Islamic_Decor_10_Library.skp",
+      "code": "P5",
+      "native_faces": 7454,
+      "export_bounds_error_mm": 1.260538440295278e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5564
+    },
+    {
+      "file": "A1.skp",
+      "code": "A1",
+      "native_faces": 44,
+      "export_bounds_error_mm": 1.2600000098839104e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "A2.skp",
+      "code": "A2",
+      "native_faces": 44,
+      "export_bounds_error_mm": 8.19999999845944e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "A3.skp",
+      "code": "A3",
+      "native_faces": 44,
+      "export_bounds_error_mm": 1.1200000038513735e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "A4.skp",
+      "code": "A4",
+      "native_faces": 837,
+      "export_bounds_error_mm": 9.600000017151444e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 802
+    },
+    {
+      "file": "A5.skp",
+      "code": "A5",
+      "native_faces": 44,
+      "export_bounds_error_mm": 8.19999999845944e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5
+    },
+    {
+      "file": "P1.skp",
+      "code": "P1",
+      "native_faces": 12747,
+      "export_bounds_error_mm": 9.704095083051811e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 9668
+    },
+    {
+      "file": "P2.skp",
+      "code": "P2",
+      "native_faces": 3660,
+      "export_bounds_error_mm": 1.0219430301994237e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 2928
+    },
+    {
+      "file": "P3.skp",
+      "code": "P3",
+      "native_faces": 11033,
+      "export_bounds_error_mm": 1.1532002242020667e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 11472
+    },
+    {
+      "file": "P4.skp",
+      "code": "P4",
+      "native_faces": 30065,
+      "export_bounds_error_mm": 9.134044631764482e-06,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 22212
+    },
+    {
+      "file": "P5.skp",
+      "code": "P5",
+      "native_faces": 7454,
+      "export_bounds_error_mm": 1.260538440295278e-05,
+      "closed_face_loops": true,
+      "loose_edges": 0,
+      "hidden_or_soft_edges": 5564
+    }
+  ]
+}
