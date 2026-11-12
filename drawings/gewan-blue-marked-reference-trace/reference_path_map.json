@@ -1,0 +1,562 @@
+[
+  {
+    "reference_edge_id": 99,
+    "cad_handle": "30",
+    "node_a": 63,
+    "node_b": 68,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.7810671906919602
+  },
+  {
+    "reference_edge_id": 100,
+    "cad_handle": "31",
+    "node_a": 63,
+    "node_b": 69,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8647471368090516
+  },
+  {
+    "reference_edge_id": 101,
+    "cad_handle": "32",
+    "node_a": 63,
+    "node_b": 82,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0949788543906986
+  },
+  {
+    "reference_edge_id": 106,
+    "cad_handle": "33",
+    "node_a": 68,
+    "node_b": 71,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.4913463982767727
+  },
+  {
+    "reference_edge_id": 107,
+    "cad_handle": "34",
+    "node_a": 68,
+    "node_b": 72,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.3198387236149895
+  },
+  {
+    "reference_edge_id": 108,
+    "cad_handle": "35",
+    "node_a": 69,
+    "node_b": 72,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9784152944115415
+  },
+  {
+    "reference_edge_id": 109,
+    "cad_handle": "36",
+    "node_a": 69,
+    "node_b": 82,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.2464234462727186
+  },
+  {
+    "reference_edge_id": 112,
+    "cad_handle": "37",
+    "node_a": 71,
+    "node_b": 73,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0150613236279438
+  },
+  {
+    "reference_edge_id": 113,
+    "cad_handle": "38",
+    "node_a": 71,
+    "node_b": 73,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.86204365669896
+  },
+  {
+    "reference_edge_id": 114,
+    "cad_handle": "39",
+    "node_a": 72,
+    "node_b": 75,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.5433520826105727
+  },
+  {
+    "reference_edge_id": 115,
+    "cad_handle": "3A",
+    "node_a": 73,
+    "node_b": 76,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.4075381284954682
+  },
+  {
+    "reference_edge_id": 116,
+    "cad_handle": "3B",
+    "node_a": 74,
+    "node_b": 86,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0322471956736186
+  },
+  {
+    "reference_edge_id": 117,
+    "cad_handle": "3C",
+    "node_a": 74,
+    "node_b": 87,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.2002290821696107
+  },
+  {
+    "reference_edge_id": 118,
+    "cad_handle": "3D",
+    "node_a": 74,
+    "node_b": 86,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0943529580346274
+  },
+  {
+    "reference_edge_id": 119,
+    "cad_handle": "3E",
+    "node_a": 75,
+    "node_b": 93,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.156702335326944
+  },
+  {
+    "reference_edge_id": 120,
+    "cad_handle": "3F",
+    "node_a": 75,
+    "node_b": 93,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9588231647855452
+  },
+  {
+    "reference_edge_id": 121,
+    "cad_handle": "40",
+    "node_a": 76,
+    "node_b": 104,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8717594144657068
+  },
+  {
+    "reference_edge_id": 122,
+    "cad_handle": "41",
+    "node_a": 76,
+    "node_b": 104,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9061052112079849
+  },
+  {
+    "reference_edge_id": 130,
+    "cad_handle": "42",
+    "node_a": 82,
+    "node_b": 87,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.38540498852220423
+  },
+  {
+    "reference_edge_id": 137,
+    "cad_handle": "43",
+    "node_a": 87,
+    "node_b": 222,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0600986024391228
+  },
+  {
+    "reference_edge_id": 147,
+    "cad_handle": "44",
+    "node_a": 98,
+    "node_b": 98,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1821081495384655
+  },
+  {
+    "reference_edge_id": 153,
+    "cad_handle": "45",
+    "node_a": 104,
+    "node_b": 112,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8796366738862137
+  },
+  {
+    "reference_edge_id": 166,
+    "cad_handle": "46",
+    "node_a": 112,
+    "node_b": 116,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.5396329141010501
+  },
+  {
+    "reference_edge_id": 167,
+    "cad_handle": "47",
+    "node_a": 112,
+    "node_b": 116,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1408384685747888
+  },
+  {
+    "reference_edge_id": 172,
+    "cad_handle": "48",
+    "node_a": 116,
+    "node_b": 123,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9396844344441471
+  },
+  {
+    "reference_edge_id": 185,
+    "cad_handle": "49",
+    "node_a": 127,
+    "node_b": 128,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.2205813094012558
+  },
+  {
+    "reference_edge_id": 186,
+    "cad_handle": "4A",
+    "node_a": 128,
+    "node_b": 134,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.7124704998791531
+  },
+  {
+    "reference_edge_id": 194,
+    "cad_handle": "4B",
+    "node_a": 134,
+    "node_b": 148,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8295927625731677
+  },
+  {
+    "reference_edge_id": 245,
+    "cad_handle": "4C",
+    "node_a": 169,
+    "node_b": 187,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.154434908500578
+  },
+  {
+    "reference_edge_id": 248,
+    "cad_handle": "4D",
+    "node_a": 171,
+    "node_b": 182,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1050478406033377
+  },
+  {
+    "reference_edge_id": 254,
+    "cad_handle": "4E",
+    "node_a": 175,
+    "node_b": 190,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.2470000765141223
+  },
+  {
+    "reference_edge_id": 255,
+    "cad_handle": "4F",
+    "node_a": 176,
+    "node_b": 178,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.562740237217948
+  },
+  {
+    "reference_edge_id": 256,
+    "cad_handle": "50",
+    "node_a": 176,
+    "node_b": 176,
+    "closed": true,
+    "centerline_fit_hausdorff_px": 1.0380107999971826
+  },
+  {
+    "reference_edge_id": 257,
+    "cad_handle": "51",
+    "node_a": 177,
+    "node_b": 199,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.185778130435563
+  },
+  {
+    "reference_edge_id": 258,
+    "cad_handle": "52",
+    "node_a": 177,
+    "node_b": 189,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1382415147575977
+  },
+  {
+    "reference_edge_id": 259,
+    "cad_handle": "53",
+    "node_a": 177,
+    "node_b": 189,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1485843853416506
+  },
+  {
+    "reference_edge_id": 260,
+    "cad_handle": "54",
+    "node_a": 178,
+    "node_b": 185,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.2107746623355902
+  },
+  {
+    "reference_edge_id": 261,
+    "cad_handle": "55",
+    "node_a": 178,
+    "node_b": 222,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0559076573273785
+  },
+  {
+    "reference_edge_id": 266,
+    "cad_handle": "56",
+    "node_a": 182,
+    "node_b": 184,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6859943405702108
+  },
+  {
+    "reference_edge_id": 267,
+    "cad_handle": "57",
+    "node_a": 182,
+    "node_b": 212,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.7771208690108857
+  },
+  {
+    "reference_edge_id": 270,
+    "cad_handle": "58",
+    "node_a": 184,
+    "node_b": 213,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.20880739955853
+  },
+  {
+    "reference_edge_id": 271,
+    "cad_handle": "59",
+    "node_a": 185,
+    "node_b": 194,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6069796484020187
+  },
+  {
+    "reference_edge_id": 272,
+    "cad_handle": "5A",
+    "node_a": 185,
+    "node_b": 222,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.2304709823797457
+  },
+  {
+    "reference_edge_id": 278,
+    "cad_handle": "5B",
+    "node_a": 189,
+    "node_b": 195,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.4056141939491259
+  },
+  {
+    "reference_edge_id": 279,
+    "cad_handle": "5C",
+    "node_a": 190,
+    "node_b": 219,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.720289947366286
+  },
+  {
+    "reference_edge_id": 280,
+    "cad_handle": "5D",
+    "node_a": 190,
+    "node_b": 193,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6324555320336399
+  },
+  {
+    "reference_edge_id": 284,
+    "cad_handle": "5E",
+    "node_a": 193,
+    "node_b": 196,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8219949365268612
+  },
+  {
+    "reference_edge_id": 285,
+    "cad_handle": "5F",
+    "node_a": 193,
+    "node_b": 219,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1570624301540409
+  },
+  {
+    "reference_edge_id": 286,
+    "cad_handle": "60",
+    "node_a": 194,
+    "node_b": 215,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1655542172853417
+  },
+  {
+    "reference_edge_id": 287,
+    "cad_handle": "61",
+    "node_a": 194,
+    "node_b": 221,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9771607147026278
+  },
+  {
+    "reference_edge_id": 288,
+    "cad_handle": "62",
+    "node_a": 195,
+    "node_b": 195,
+    "closed": true,
+    "centerline_fit_hausdorff_px": 0.9029322367727232
+  },
+  {
+    "reference_edge_id": 289,
+    "cad_handle": "63",
+    "node_a": 196,
+    "node_b": 196,
+    "closed": true,
+    "centerline_fit_hausdorff_px": 0.9449816826963324
+  },
+  {
+    "reference_edge_id": 290,
+    "cad_handle": "64",
+    "node_a": 197,
+    "node_b": 203,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.7435366210756513
+  },
+  {
+    "reference_edge_id": 295,
+    "cad_handle": "65",
+    "node_a": 203,
+    "node_b": 210,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6318218295894356
+  },
+  {
+    "reference_edge_id": 305,
+    "cad_handle": "66",
+    "node_a": 209,
+    "node_b": 223,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.1147983214762003
+  },
+  {
+    "reference_edge_id": 307,
+    "cad_handle": "67",
+    "node_a": 212,
+    "node_b": 213,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.5883484054145744
+  },
+  {
+    "reference_edge_id": 318,
+    "cad_handle": "68",
+    "node_a": 219,
+    "node_b": 227,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6738712308957169
+  },
+  {
+    "reference_edge_id": 320,
+    "cad_handle": "69",
+    "node_a": 222,
+    "node_b": 221,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.3937586463302019
+  },
+  {
+    "reference_edge_id": 321,
+    "cad_handle": "6A",
+    "node_a": 221,
+    "node_b": 228,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.599612793364782
+  },
+  {
+    "reference_edge_id": 323,
+    "cad_handle": "6B",
+    "node_a": 224,
+    "node_b": 226,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6260990336999411
+  },
+  {
+    "reference_edge_id": 325,
+    "cad_handle": "6C",
+    "node_a": 226,
+    "node_b": 228,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.6600652485123106
+  },
+  {
+    "reference_edge_id": 326,
+    "cad_handle": "6D",
+    "node_a": 226,
+    "node_b": 229,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8944271909999261
+  },
+  {
+    "reference_edge_id": 327,
+    "cad_handle": "6E",
+    "node_a": 227,
+    "node_b": 233,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0806487950379438
+  },
+  {
+    "reference_edge_id": 328,
+    "cad_handle": "6F",
+    "node_a": 227,
+    "node_b": 233,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9508991139600804
+  },
+  {
+    "reference_edge_id": 329,
+    "cad_handle": "70",
+    "node_a": 228,
+    "node_b": 232,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.7146167038469127
+  },
+  {
+    "reference_edge_id": 330,
+    "cad_handle": "71",
+    "node_a": 229,
+    "node_b": 234,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.9968652605611185
+  },
+  {
+    "reference_edge_id": 331,
+    "cad_handle": "72",
+    "node_a": 229,
+    "node_b": 233,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 1.0731275745469804
+  },
+  {
+    "reference_edge_id": 335,
+    "cad_handle": "73",
+    "node_a": 232,
+    "node_b": 234,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8049844718998989
+  },
+  {
+    "reference_edge_id": 348,
+    "cad_handle": "74",
+    "node_a": 251,
+    "node_b": 251,
+    "closed": true,
+    "centerline_fit_hausdorff_px": 1.2200490140792382
+  },
+  {
+    "reference_edge_id": 361,
+    "cad_handle": "75",
+    "node_a": 232,
+    "node_b": 234,
+    "closed": false,
+    "centerline_fit_hausdorff_px": 0.8348474701254136
+  }
+]

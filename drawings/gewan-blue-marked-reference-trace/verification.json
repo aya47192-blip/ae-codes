@@ -1,0 +1,41 @@
+{
+  "status": "Faithful standalone tracing ready; integration is pending scale/placement decision after collision checks",
+  "reference_image": "Unmarked_Reference.png",
+  "reference_image_size_px": [
+    1215,
+    1295
+  ],
+  "new_design_motifs_invented": 0,
+  "native_cubic_spline_paths": 70,
+  "closed_source_loops": 4,
+  "all_closed_loops_valid": true,
+  "maximum_curve_fit_hausdorff_to_centerline_px": 1.2470000765141223,
+  "p99_exported_line_distance_outside_black_reference_stroke_px": 0.292499163746834,
+  "maximum_exported_line_distance_outside_black_reference_stroke_px": 1.0,
+  "native_shared_junction_gap_mm": 0.0,
+  "intentional_boundary_endpoint_nodes": 14,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "units": "millimetres",
+  "calibration": "The previously confirmed 25 m large circle in this exact reference image",
+  "mm_per_reference_pixel": 318.3079279310909,
+  "coordinate_note": "Standalone is uniformly scaled from reference; not silently warped to the corrected building",
+  "original_user_dwg_sha256_unchanged": "f383461c6f291d8089664bc363889b509171fa2f8fbe8f55208aeb4e6cce4333",
+  "source_dwg_changes": 0,
+  "not_verified": [
+    "Absolute millimetre accuracy of a raster source",
+    "Desktop AutoCAD/SketchUp opening",
+    "Successful integration without altering reference shapes"
+  ],
+  "collapsed_medial_axis_pixel_artifacts": [
+    134,
+    136,
+    144,
+    217,
+    303,
+    319,
+    356,
+    357,
+    360
+  ]
+}

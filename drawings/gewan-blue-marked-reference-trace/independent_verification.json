@@ -1,0 +1,9 @@
+{
+  "reader": "libredwg-web 0.8.8 WebAssembly",
+  "dxf_entities": 70,
+  "native_closed_splines": 4,
+  "insunits": 4,
+  "all_entity_types": [
+    "SPLINE"
+  ]
+}
