@@ -1,0 +1,413 @@
+{
+  "openings": [
+    {
+      "name": "North_Windows_Left",
+      "kind": "window",
+      "a": 21.6,
+      "b": 28.2,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 4,
+      "swing": "in",
+      "basis": "photo groups on CAD grid",
+      "wall": "North_Bar_Facade",
+      "axis": "X",
+      "c": 36.2967715193
+    },
+    {
+      "name": "North_Windows_Right",
+      "kind": "window",
+      "a": 38.6,
+      "b": 45.2,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 4,
+      "swing": "in",
+      "basis": "photo groups on CAD grid",
+      "wall": "North_Bar_Facade",
+      "axis": "X",
+      "c": 36.2967715193
+    },
+    {
+      "name": "West_W1",
+      "kind": "window",
+      "a": 15.9985482145,
+      "b": 18.794994824,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "West_Facade",
+      "axis": "Y",
+      "c": 20.8868357888
+    },
+    {
+      "name": "West_W2",
+      "kind": "window",
+      "a": 20.1985482145,
+      "b": 22.994994824,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "West_Facade",
+      "axis": "Y",
+      "c": 20.8868357888
+    },
+    {
+      "name": "West_W3",
+      "kind": "window",
+      "a": 24.3985482146,
+      "b": 27.194994824,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "West_Facade",
+      "axis": "Y",
+      "c": 20.8868357888
+    },
+    {
+      "name": "West_Double_Door",
+      "kind": "double",
+      "a": 28.7441679223,
+      "b": 31.2493751162,
+      "sill": 0,
+      "head": 3.2,
+      "panes": 2,
+      "swing": "out",
+      "basis": "CAD",
+      "wall": "West_Facade",
+      "axis": "Y",
+      "c": 20.8868357888
+    },
+    {
+      "name": "West_W4",
+      "kind": "window",
+      "a": 32.7985482146,
+      "b": 35.594994824,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "West_Facade",
+      "axis": "Y",
+      "c": 20.8868357888
+    },
+    {
+      "name": "Front_W1",
+      "kind": "window",
+      "a": 22.3368357892,
+      "b": 23.6368357892,
+      "sill": 0.65,
+      "head": 3.55,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "South_Entrance_Facade",
+      "axis": "X",
+      "c": 15.2967715172
+    },
+    {
+      "name": "Front_W2",
+      "kind": "window",
+      "a": 26.5368357892,
+      "b": 27.8368357892,
+      "sill": 0.65,
+      "head": 3.55,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "South_Entrance_Facade",
+      "axis": "X",
+      "c": 15.2967715172
+    },
+    {
+      "name": "Lobby_Entrance_Portal",
+      "kind": "portal",
+      "a": 31.2118357909,
+      "b": 35.7618357909,
+      "sill": 0,
+      "head": 3.6,
+      "panes": 1,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "South_Entrance_Facade",
+      "axis": "X",
+      "c": 15.2967715172
+    },
+    {
+      "name": "Front_W3",
+      "kind": "window",
+      "a": 39.1368357909,
+      "b": 40.4368357909,
+      "sill": 0.65,
+      "head": 3.55,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "South_Entrance_Facade",
+      "axis": "X",
+      "c": 15.2967715172
+    },
+    {
+      "name": "Front_W4",
+      "kind": "window",
+      "a": 41.9,
+      "b": 43.2,
+      "sill": 0.65,
+      "head": 3.55,
+      "panes": 2,
+      "swing": "in",
+      "basis": "photo reference, approximate",
+      "wall": "South_Entrance_Facade",
+      "axis": "X",
+      "c": 15.2967715172
+    },
+    {
+      "name": "Front_Service_Door",
+      "kind": "single",
+      "a": 44.637,
+      "b": 45.737,
+      "sill": 0,
+      "head": 3.1,
+      "panes": 1,
+      "swing": "out",
+      "basis": "photo reference, approximate",
+      "wall": "South_Entrance_Facade",
+      "axis": "X",
+      "c": 15.2967715172
+    },
+    {
+      "name": "East_Door_Lower",
+      "kind": "single",
+      "a": 18.3717715172,
+      "b": 19.3717715172,
+      "sill": 0,
+      "head": 3.1,
+      "panes": 1,
+      "swing": "out",
+      "basis": "CAD",
+      "wall": "East_Lower",
+      "axis": "Y",
+      "c": 46.0868357909
+    },
+    {
+      "name": "East_Door_Upper",
+      "kind": "single",
+      "a": 28.0217715172,
+      "b": 29.0217715172,
+      "sill": 0,
+      "head": 3.1,
+      "panes": 1,
+      "swing": "out",
+      "basis": "CAD",
+      "wall": "East_Upper",
+      "axis": "Y",
+      "c": 46.0868357909
+    },
+    {
+      "name": "East_Upper_Window",
+      "kind": "window",
+      "a": 32.7985482146,
+      "b": 35.594994824,
+      "sill": 0.12,
+      "head": 4.45,
+      "panes": 2,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "East_Upper",
+      "axis": "Y",
+      "c": 46.0868357909
+    },
+    {
+      "name": "Vestibule_West_Glass",
+      "kind": "window",
+      "a": 30.25,
+      "b": 31.95,
+      "sill": 0.08,
+      "head": 3.65,
+      "panes": 1,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "Vestibule_Glazed_Front",
+      "axis": "X",
+      "c": 8.9367715172
+    },
+    {
+      "name": "Revolving_Entrance_Clear_Opening",
+      "kind": "portal",
+      "a": 31.95,
+      "b": 35.02,
+      "sill": 0,
+      "head": 3.65,
+      "panes": 1,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "Vestibule_Glazed_Front",
+      "axis": "X",
+      "c": 8.9367715172
+    },
+    {
+      "name": "Vestibule_East_Glass",
+      "kind": "window",
+      "a": 35.02,
+      "b": 36.72,
+      "sill": 0.08,
+      "head": 3.65,
+      "panes": 1,
+      "swing": "in",
+      "basis": "CAD",
+      "wall": "Vestibule_Glazed_Front",
+      "axis": "X",
+      "c": 8.9367715172
+    },
+    {
+      "name": "Service_Room_Door_1",
+      "kind": "single",
+      "a": 16.9,
+      "b": 17.9,
+      "sill": 0,
+      "head": 2.7,
+      "panes": 1,
+      "swing": "out",
+      "basis": "photo proportion, approximate",
+      "wall": "Service_Corridor_Partition",
+      "axis": "Y",
+      "c": 49.05
+    },
+    {
+      "name": "Service_Room_Door_2",
+      "kind": "single",
+      "a": 23.0,
+      "b": 24.0,
+      "sill": 0,
+      "head": 2.7,
+      "panes": 1,
+      "swing": "out",
+      "basis": "photo proportion, approximate",
+      "wall": "Service_Corridor_Partition",
+      "axis": "Y",
+      "c": 49.05
+    },
+    {
+      "name": "Service_Room_Door_3",
+      "kind": "single",
+      "a": 29.7,
+      "b": 30.7,
+      "sill": 0,
+      "head": 2.7,
+      "panes": 1,
+      "swing": "out",
+      "basis": "photo proportion, approximate",
+      "wall": "Service_Corridor_Partition",
+      "axis": "Y",
+      "c": 49.05
+    }
+  ],
+  "clearance_zones": [
+    {
+      "id": "West_Double_Door",
+      "bounds": [
+        20.5,
+        28.3,
+        23.25,
+        31.65
+      ]
+    },
+    {
+      "id": "East_Door_Lower",
+      "bounds": [
+        44.0,
+        18.1,
+        46.3,
+        19.7
+      ]
+    },
+    {
+      "id": "East_Door_Upper",
+      "bounds": [
+        44.0,
+        27.7,
+        46.3,
+        29.4
+      ]
+    },
+    {
+      "id": "Front_Service_Door",
+      "bounds": [
+        44.35,
+        15.05,
+        46.0,
+        17.0
+      ]
+    },
+    {
+      "id": "Lobby_Entrance_Portal",
+      "bounds": [
+        31.1,
+        14.0,
+        35.9,
+        18.0
+      ]
+    }
+  ],
+  "artwork_mounts": [
+    {
+      "name": "Unique_Artwork_00",
+      "pos": [
+        21.0818357888,
+        23.35,
+        1.9
+      ],
+      "rotation": 1.5707963267948966
+    },
+    {
+      "name": "Unique_Artwork_01",
+      "pos": [
+        45.8918357909,
+        16.25,
+        1.9
+      ],
+      "rotation": -1.5707963267948966
+    },
+    {
+      "name": "Unique_Artwork_02",
+      "pos": [
+        45.8918357909,
+        17.7,
+        1.9
+      ],
+      "rotation": -1.5707963267948966
+    },
+    {
+      "name": "Unique_Artwork_03",
+      "pos": [
+        45.8918357909,
+        30.9,
+        1.9
+      ],
+      "rotation": -1.5707963267948966
+    }
+  ],
+  "bar_position": [
+    33.4868357909,
+    34.0,
+    0
+  ],
+  "reception_position": [
+    45.6,
+    23.6967715172,
+    0
+  ],
+  "reception_rotation_z": -1.5707963267948966,
+  "alternate_swap_delta_m": [
+    -13.9,
+    0,
+    0
+  ]
+}
