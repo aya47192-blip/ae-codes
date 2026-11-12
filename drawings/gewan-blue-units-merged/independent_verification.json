@@ -1,0 +1,12 @@
+{
+  "independent_reader": "libredwg-web 0.8.8 WebAssembly",
+  "source_model_entities_compared": 244,
+  "source_geometry_mismatches": 0,
+  "merged_model_entities": 250,
+  "copied_block_definitions": 6,
+  "uniform_insert_transforms_verified": 6,
+  "copied_block_splines": 88,
+  "additions_only_model_entities": 6,
+  "source_comparison_numeric_resolution_mm": 1e-06,
+  "maximum_copied_block_control_point_readback_error_mm": 0
+}

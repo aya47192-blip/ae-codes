@@ -1,0 +1,129 @@
+{
+  "source_original_dwg_sha256": "f383461c6f291d8089664bc363889b509171fa2f8fbe8f55208aeb4e6cce4333",
+  "original_model_entities_preserved": 244,
+  "original_geometry_changed": 0,
+  "units": "millimetres",
+  "placed_reference_blocks": 6,
+  "all_insert_xyz_scales_equal": true,
+  "all_insert_scales_less_than_one": true,
+  "nonlinear_deformations": 0,
+  "maximum_block_control_point_difference_from_reference_mm": 0,
+  "new_source_line_crossings": 0,
+  "new_geometry_outside_site": 0,
+  "crossing_unit_pairs": 0,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "minimum_clearance_to_original_mm": 809.0517579514625,
+  "unit_checks": [
+    {
+      "unit": "A_UPPER_LEFT",
+      "uniform_scale": 0.49904338482855587,
+      "rotation_degrees": 0,
+      "reference_face_ids": [
+        38,
+        43,
+        44,
+        47,
+        49,
+        50,
+        51,
+        52
+      ],
+      "copied_paths": 26,
+      "closed_network_regions": 8,
+      "dangling_network_segments": 0,
+      "invalid_network_rings": 0,
+      "region_building_overlaps": 0,
+      "minimum_clearance_to_original_mm": 933.1825576773477
+    },
+    {
+      "unit": "B_LEFT_MIDDLE",
+      "uniform_scale": 0.5848354693860521,
+      "rotation_degrees": 0,
+      "reference_face_ids": [
+        60,
+        72
+      ],
+      "copied_paths": 5,
+      "closed_network_regions": 2,
+      "dangling_network_segments": 0,
+      "invalid_network_rings": 0,
+      "region_building_overlaps": 0,
+      "minimum_clearance_to_original_mm": 1584.055537203765
+    },
+    {
+      "unit": "C_LEFT_LOWER",
+      "uniform_scale": 0.6531603166604114,
+      "rotation_degrees": 0,
+      "reference_face_ids": [
+        89,
+        99,
+        104,
+        110,
+        115
+      ],
+      "copied_paths": 14,
+      "closed_network_regions": 5,
+      "dangling_network_segments": 0,
+      "invalid_network_rings": 0,
+      "region_building_overlaps": 0,
+      "minimum_clearance_to_original_mm": 2197.540685482657
+    },
+    {
+      "unit": "D_UNDER_BUILDING",
+      "uniform_scale": 0.3243338008224603,
+      "rotation_degrees": 0,
+      "reference_face_ids": [
+        114
+      ],
+      "copied_paths": 7,
+      "closed_network_regions": 1,
+      "dangling_network_segments": 0,
+      "invalid_network_rings": 0,
+      "region_building_overlaps": 0,
+      "minimum_clearance_to_original_mm": 809.0517579514625
+    },
+    {
+      "unit": "E_BOTTOM_CURVE",
+      "uniform_scale": 0.3812309157106649,
+      "rotation_degrees": 0,
+      "reference_face_ids": [
+        126,
+        129
+      ],
+      "copied_paths": 6,
+      "closed_network_regions": 2,
+      "dangling_network_segments": 0,
+      "invalid_network_rings": 0,
+      "region_building_overlaps": 0,
+      "minimum_clearance_to_original_mm": 830.0983935168961
+    },
+    {
+      "unit": "F_RIGHT",
+      "uniform_scale": 0.5206957214303133,
+      "rotation_degrees": 0,
+      "reference_face_ids": [
+        100,
+        103,
+        108,
+        109,
+        113,
+        116,
+        118,
+        122,
+        125
+      ],
+      "copied_paths": 30,
+      "closed_network_regions": 9,
+      "dangling_network_segments": 0,
+      "invalid_network_rings": 0,
+      "region_building_overlaps": 0,
+      "minimum_clearance_to_original_mm": 1387.7483024021903
+    }
+  ],
+  "source_curve_fit_precision_px": 1.2470000765141223,
+  "application_checks_not_performed": [
+    "Desktop AutoCAD opening",
+    "Desktop SketchUp import"
+  ]
+}

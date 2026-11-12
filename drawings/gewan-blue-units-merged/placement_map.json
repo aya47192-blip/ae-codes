@@ -1,0 +1,827 @@
+[
+  {
+    "name": "A_UPPER_LEFT",
+    "reference_face_ids": [
+      38,
+      43,
+      44,
+      47,
+      49,
+      50,
+      51,
+      52
+    ],
+    "reference_edge_ids": [
+      99,
+      100,
+      101,
+      106,
+      107,
+      108,
+      109,
+      112,
+      113,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      130,
+      135,
+      142,
+      147,
+      153,
+      155,
+      166,
+      172,
+      173
+    ],
+    "excluded_orphan_pixel_edges": [],
+    "reference_center_px": [
+      255.20452899147028,
+      607.706017203112
+    ],
+    "uniform_scale": 0.49904338482855587,
+    "target_center_m": [
+      82.02211200617194,
+      6.172349550001553
+    ],
+    "rotation_degrees": 0,
+    "footprint_area_m2": 475.5394834315564,
+    "target_mask": [
+      [
+        59,
+        17
+      ],
+      [
+        64,
+        25
+      ],
+      [
+        85,
+        27
+      ],
+      [
+        105,
+        23
+      ],
+      [
+        105,
+        5
+      ],
+      [
+        98,
+        -16
+      ],
+      [
+        82,
+        -32
+      ],
+      [
+        69,
+        -8
+      ],
+      [
+        60,
+        2
+      ]
+    ],
+    "block_name": "GEWAN_A_UPPER_LEFT",
+    "insert_handle": "14D",
+    "paths": [
+      {
+        "reference_edge": 99,
+        "block_entity_handle": "133"
+      },
+      {
+        "reference_edge": 100,
+        "block_entity_handle": "134"
+      },
+      {
+        "reference_edge": 101,
+        "block_entity_handle": "135"
+      },
+      {
+        "reference_edge": 106,
+        "block_entity_handle": "136"
+      },
+      {
+        "reference_edge": 107,
+        "block_entity_handle": "137"
+      },
+      {
+        "reference_edge": 108,
+        "block_entity_handle": "138"
+      },
+      {
+        "reference_edge": 109,
+        "block_entity_handle": "139"
+      },
+      {
+        "reference_edge": 112,
+        "block_entity_handle": "13A"
+      },
+      {
+        "reference_edge": 113,
+        "block_entity_handle": "13B"
+      },
+      {
+        "reference_edge": 115,
+        "block_entity_handle": "13C"
+      },
+      {
+        "reference_edge": 116,
+        "block_entity_handle": "13D"
+      },
+      {
+        "reference_edge": 117,
+        "block_entity_handle": "13E"
+      },
+      {
+        "reference_edge": 118,
+        "block_entity_handle": "13F"
+      },
+      {
+        "reference_edge": 119,
+        "block_entity_handle": "140"
+      },
+      {
+        "reference_edge": 120,
+        "block_entity_handle": "141"
+      },
+      {
+        "reference_edge": 121,
+        "block_entity_handle": "142"
+      },
+      {
+        "reference_edge": 122,
+        "block_entity_handle": "143"
+      },
+      {
+        "reference_edge": 130,
+        "block_entity_handle": "144"
+      },
+      {
+        "reference_edge": 135,
+        "block_entity_handle": "145"
+      },
+      {
+        "reference_edge": 142,
+        "block_entity_handle": "146"
+      },
+      {
+        "reference_edge": 147,
+        "block_entity_handle": "147"
+      },
+      {
+        "reference_edge": 153,
+        "block_entity_handle": "148"
+      },
+      {
+        "reference_edge": 155,
+        "block_entity_handle": "149"
+      },
+      {
+        "reference_edge": 166,
+        "block_entity_handle": "14A"
+      },
+      {
+        "reference_edge": 172,
+        "block_entity_handle": "14B"
+      },
+      {
+        "reference_edge": 173,
+        "block_entity_handle": "14C"
+      }
+    ]
+  },
+  {
+    "name": "B_LEFT_MIDDLE",
+    "reference_face_ids": [
+      60,
+      72
+    ],
+    "reference_edge_ids": [
+      166,
+      167,
+      194,
+      195,
+      209
+    ],
+    "excluded_orphan_pixel_edges": [],
+    "reference_center_px": [
+      244.0,
+      719.2924940984602
+    ],
+    "uniform_scale": 0.5848354693860521,
+    "target_center_m": [
+      92.98544458459769,
+      -39.81114159114541
+    ],
+    "rotation_degrees": 0,
+    "footprint_area_m2": 244.50615261451333,
+    "target_mask": [
+      [
+        79,
+        -26
+      ],
+      [
+        92,
+        -24
+      ],
+      [
+        100,
+        -32
+      ],
+      [
+        106,
+        -47
+      ],
+      [
+        102,
+        -54
+      ],
+      [
+        92,
+        -55
+      ],
+      [
+        85,
+        -43
+      ]
+    ],
+    "block_name": "GEWAN_B_LEFT_MIDDLE",
+    "insert_handle": "157",
+    "paths": [
+      {
+        "reference_edge": 166,
+        "block_entity_handle": "152"
+      },
+      {
+        "reference_edge": 167,
+        "block_entity_handle": "153"
+      },
+      {
+        "reference_edge": 194,
+        "block_entity_handle": "154"
+      },
+      {
+        "reference_edge": 195,
+        "block_entity_handle": "155"
+      },
+      {
+        "reference_edge": 209,
+        "block_entity_handle": "156"
+      }
+    ]
+  },
+  {
+    "name": "C_LEFT_LOWER",
+    "reference_face_ids": [
+      89,
+      99,
+      104,
+      110,
+      115
+    ],
+    "reference_edge_ids": [
+      245,
+      246,
+      256,
+      260,
+      261,
+      269,
+      271,
+      272,
+      282,
+      283,
+      287,
+      290,
+      295,
+      320
+    ],
+    "excluded_orphan_pixel_edges": [],
+    "reference_center_px": [
+      379.2635296928762,
+      913.75
+    ],
+    "uniform_scale": 0.6531603166604114,
+    "target_center_m": [
+      136.94527258131282,
+      -117.82927712477938
+    ],
+    "rotation_degrees": 0,
+    "footprint_area_m2": 766.3522644263496,
+    "target_mask": [
+      [
+        100,
+        -76
+      ],
+      [
+        108,
+        -75
+      ],
+      [
+        118,
+        -90
+      ],
+      [
+        122,
+        -102
+      ],
+      [
+        139,
+        -119
+      ],
+      [
+        159,
+        -130
+      ],
+      [
+        170,
+        -148
+      ],
+      [
+        181,
+        -156
+      ],
+      [
+        176,
+        -166
+      ],
+      [
+        153,
+        -164
+      ],
+      [
+        130,
+        -153
+      ],
+      [
+        111,
+        -132
+      ],
+      [
+        102,
+        -107
+      ]
+    ],
+    "block_name": "GEWAN_C_LEFT_LOWER",
+    "insert_handle": "16A",
+    "paths": [
+      {
+        "reference_edge": 245,
+        "block_entity_handle": "15C"
+      },
+      {
+        "reference_edge": 246,
+        "block_entity_handle": "15D"
+      },
+      {
+        "reference_edge": 256,
+        "block_entity_handle": "15E"
+      },
+      {
+        "reference_edge": 260,
+        "block_entity_handle": "15F"
+      },
+      {
+        "reference_edge": 261,
+        "block_entity_handle": "160"
+      },
+      {
+        "reference_edge": 269,
+        "block_entity_handle": "161"
+      },
+      {
+        "reference_edge": 271,
+        "block_entity_handle": "162"
+      },
+      {
+        "reference_edge": 272,
+        "block_entity_handle": "163"
+      },
+      {
+        "reference_edge": 282,
+        "block_entity_handle": "164"
+      },
+      {
+        "reference_edge": 283,
+        "block_entity_handle": "165"
+      },
+      {
+        "reference_edge": 287,
+        "block_entity_handle": "166"
+      },
+      {
+        "reference_edge": 290,
+        "block_entity_handle": "167"
+      },
+      {
+        "reference_edge": 295,
+        "block_entity_handle": "168"
+      },
+      {
+        "reference_edge": 320,
+        "block_entity_handle": "169"
+      }
+    ]
+  },
+  {
+    "name": "D_UNDER_BUILDING",
+    "reference_face_ids": [
+      114
+    ],
+    "reference_edge_ids": [
+      286,
+      287,
+      313,
+      314,
+      321,
+      323,
+      325
+    ],
+    "excluded_orphan_pixel_edges": [],
+    "reference_center_px": [
+      510.0,
+      1031.601137011718
+    ],
+    "uniform_scale": 0.3243338008224603,
+    "target_center_m": [
+      194.2892497662649,
+      -160.95215310442975
+    ],
+    "rotation_degrees": 0,
+    "footprint_area_m2": 139.14146725417217,
+    "target_mask": [
+      [
+        174,
+        -155
+      ],
+      [
+        193,
+        -155
+      ],
+      [
+        217,
+        -153
+      ],
+      [
+        225,
+        -156
+      ],
+      [
+        224,
+        -168
+      ],
+      [
+        205,
+        -173
+      ],
+      [
+        181,
+        -176
+      ]
+    ],
+    "block_name": "GEWAN_D_UNDER_BUILDING",
+    "insert_handle": "176",
+    "paths": [
+      {
+        "reference_edge": 286,
+        "block_entity_handle": "16F"
+      },
+      {
+        "reference_edge": 287,
+        "block_entity_handle": "170"
+      },
+      {
+        "reference_edge": 313,
+        "block_entity_handle": "171"
+      },
+      {
+        "reference_edge": 314,
+        "block_entity_handle": "172"
+      },
+      {
+        "reference_edge": 321,
+        "block_entity_handle": "173"
+      },
+      {
+        "reference_edge": 323,
+        "block_entity_handle": "174"
+      },
+      {
+        "reference_edge": 325,
+        "block_entity_handle": "175"
+      }
+    ]
+  },
+  {
+    "name": "E_BOTTOM_CURVE",
+    "reference_face_ids": [
+      126,
+      129
+    ],
+    "reference_edge_ids": [
+      325,
+      326,
+      329,
+      330,
+      335,
+      361
+    ],
+    "excluded_orphan_pixel_edges": [],
+    "reference_center_px": [
+      533.5,
+      1095.1098609262242
+    ],
+    "uniform_scale": 0.3812309157106649,
+    "target_center_m": [
+      256.92995425760876,
+      -165.65869248239542
+    ],
+    "rotation_degrees": 0,
+    "footprint_area_m2": 103.48046172413483,
+    "target_mask": [
+      [
+        227,
+        -158
+      ],
+      [
+        252,
+        -158
+      ],
+      [
+        270,
+        -146
+      ],
+      [
+        288,
+        -143
+      ],
+      [
+        296,
+        -159
+      ],
+      [
+        284,
+        -170
+      ],
+      [
+        255,
+        -171
+      ],
+      [
+        229,
+        -169
+      ]
+    ],
+    "block_name": "GEWAN_E_BOTTOM_CURVE",
+    "insert_handle": "181",
+    "paths": [
+      {
+        "reference_edge": 325,
+        "block_entity_handle": "17B"
+      },
+      {
+        "reference_edge": 326,
+        "block_entity_handle": "17C"
+      },
+      {
+        "reference_edge": 329,
+        "block_entity_handle": "17D"
+      },
+      {
+        "reference_edge": 330,
+        "block_entity_handle": "17E"
+      },
+      {
+        "reference_edge": 335,
+        "block_entity_handle": "17F"
+      },
+      {
+        "reference_edge": 361,
+        "block_entity_handle": "180"
+      }
+    ]
+  },
+  {
+    "name": "F_RIGHT",
+    "reference_face_ids": [
+      100,
+      103,
+      108,
+      109,
+      113,
+      116,
+      118,
+      122,
+      125
+    ],
+    "reference_edge_ids": [
+      253,
+      254,
+      257,
+      258,
+      259,
+      266,
+      267,
+      270,
+      277,
+      278,
+      279,
+      280,
+      284,
+      285,
+      288,
+      289,
+      291,
+      296,
+      297,
+      305,
+      307,
+      311,
+      318,
+      322,
+      323,
+      326,
+      327,
+      328,
+      331,
+      348
+    ],
+    "excluded_orphan_pixel_edges": [],
+    "reference_center_px": [
+      835.0,
+      992.1376966290677
+    ],
+    "uniform_scale": 0.5206957214303133,
+    "target_center_m": [
+      308.29285498812015,
+      -142.9193275482355
+    ],
+    "rotation_degrees": 0,
+    "footprint_area_m2": 888.7636769455496,
+    "target_mask": [
+      [
+        292,
+        -135
+      ],
+      [
+        312,
+        -112
+      ],
+      [
+        325,
+        -121
+      ],
+      [
+        334,
+        -142
+      ],
+      [
+        334,
+        -157
+      ],
+      [
+        325,
+        -166
+      ],
+      [
+        302,
+        -164
+      ],
+      [
+        281,
+        -155
+      ]
+    ],
+    "block_name": "GEWAN_F_RIGHT",
+    "insert_handle": "1A4",
+    "paths": [
+      {
+        "reference_edge": 253,
+        "block_entity_handle": "186"
+      },
+      {
+        "reference_edge": 254,
+        "block_entity_handle": "187"
+      },
+      {
+        "reference_edge": 257,
+        "block_entity_handle": "188"
+      },
+      {
+        "reference_edge": 258,
+        "block_entity_handle": "189"
+      },
+      {
+        "reference_edge": 259,
+        "block_entity_handle": "18A"
+      },
+      {
+        "reference_edge": 266,
+        "block_entity_handle": "18B"
+      },
+      {
+        "reference_edge": 267,
+        "block_entity_handle": "18C"
+      },
+      {
+        "reference_edge": 270,
+        "block_entity_handle": "18D"
+      },
+      {
+        "reference_edge": 277,
+        "block_entity_handle": "18E"
+      },
+      {
+        "reference_edge": 278,
+        "block_entity_handle": "18F"
+      },
+      {
+        "reference_edge": 279,
+        "block_entity_handle": "190"
+      },
+      {
+        "reference_edge": 280,
+        "block_entity_handle": "191"
+      },
+      {
+        "reference_edge": 284,
+        "block_entity_handle": "192"
+      },
+      {
+        "reference_edge": 285,
+        "block_entity_handle": "193"
+      },
+      {
+        "reference_edge": 288,
+        "block_entity_handle": "194"
+      },
+      {
+        "reference_edge": 289,
+        "block_entity_handle": "195"
+      },
+      {
+        "reference_edge": 291,
+        "block_entity_handle": "196"
+      },
+      {
+        "reference_edge": 296,
+        "block_entity_handle": "197"
+      },
+      {
+        "reference_edge": 297,
+        "block_entity_handle": "198"
+      },
+      {
+        "reference_edge": 305,
+        "block_entity_handle": "199"
+      },
+      {
+        "reference_edge": 307,
+        "block_entity_handle": "19A"
+      },
+      {
+        "reference_edge": 311,
+        "block_entity_handle": "19B"
+      },
+      {
+        "reference_edge": 318,
+        "block_entity_handle": "19C"
+      },
+      {
+        "reference_edge": 322,
+        "block_entity_handle": "19D"
+      },
+      {
+        "reference_edge": 323,
+        "block_entity_handle": "19E"
+      },
+      {
+        "reference_edge": 326,
+        "block_entity_handle": "19F"
+      },
+      {
+        "reference_edge": 327,
+        "block_entity_handle": "1A0"
+      },
+      {
+        "reference_edge": 328,
+        "block_entity_handle": "1A1"
+      },
+      {
+        "reference_edge": 331,
+        "block_entity_handle": "1A2"
+      },
+      {
+        "reference_edge": 348,
+        "block_entity_handle": "1A3"
+      }
+    ]
+  }
+]
