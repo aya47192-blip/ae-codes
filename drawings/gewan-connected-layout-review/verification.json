@@ -1,0 +1,161 @@
+{
+  "status": "Connected landscape layout review; replaces the rejected small-unit placement",
+  "source_dwg_sha256": "f383461c6f291d8089664bc363889b509171fa2f8fbe8f55208aeb4e6cce4333",
+  "protected_original_entities_unchanged": 243,
+  "protected_source_geometry_mismatches_independent_reader": 0,
+  "modified_existing_blue_guide": {
+    "original_dxf_handle": "70",
+    "operation": "Trim upper end to the field perimeter, retaining the original straight support line",
+    "original_length_m": 39.998777096447505,
+    "trimmed_length_m": 39.500147444244334,
+    "supporting_line_deviation_mm": 3.12933952271849e-11
+  },
+  "new_or_completed_blue_entities": 47,
+  "inserted_minature_blocks": 0,
+  "maximum_native_curve_end_contact_gap_mm": 0.0038134079242967025,
+  "native_curve_end_contact_tolerance_mm": 0.01,
+  "new_curves_outside_work_boundary": [],
+  "new_curves_inside_building": [],
+  "self_crossing_new_curves": [],
+  "boundary_containment_test_margin_mm": 20,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "reference_boundary_contacts_adjusted": [
+    {
+      "node": 74,
+      "distance_m": 3.154443384240329e-05,
+      "target": "new boundary"
+    },
+    {
+      "node": 87,
+      "distance_m": 0.02765881555162768,
+      "target": "48"
+    },
+    {
+      "node": 123,
+      "distance_m": 2.7731278997228306,
+      "target": "3E"
+    },
+    {
+      "node": 127,
+      "distance_m": 4.75538230726237,
+      "target": "3E"
+    },
+    {
+      "node": 148,
+      "distance_m": 5.162139556353017,
+      "target": "41"
+    },
+    {
+      "node": 169,
+      "distance_m": 5.532817202848085,
+      "target": "43"
+    },
+    {
+      "node": 187,
+      "distance_m": 0.1277894874330101,
+      "target": "4C"
+    },
+    {
+      "node": 199,
+      "distance_m": 1.5141937712827045,
+      "target": "46"
+    },
+    {
+      "node": 190,
+      "distance_m": 6.805241976179827,
+      "target": "6F"
+    },
+    {
+      "node": 219,
+      "distance_m": 6.712676442503557,
+      "target": "6F"
+    },
+    {
+      "node": 215,
+      "distance_m": 3.136287403654177,
+      "target": "4D"
+    },
+    {
+      "node": 221,
+      "distance_m": 3.321474758639213e-05,
+      "target": "new boundary"
+    },
+    {
+      "node": 197,
+      "distance_m": 1.4092612206510238,
+      "target": "4D"
+    },
+    {
+      "node": 210,
+      "distance_m": 5.111278601821441,
+      "target": "4D"
+    },
+    {
+      "node": 209,
+      "distance_m": 6.38697776584404,
+      "target": "5D"
+    },
+    {
+      "node": 223,
+      "distance_m": 3.0332750232359245,
+      "target": "58"
+    },
+    {
+      "node": 224,
+      "distance_m": 2.4634762916570954,
+      "target": "58"
+    },
+    {
+      "node": 228,
+      "distance_m": 4.0061054554517386e-05,
+      "target": "new boundary"
+    },
+    {
+      "node": 229,
+      "distance_m": 0.11381001580186605,
+      "target": "47"
+    },
+    {
+      "node": 227,
+      "distance_m": 5.8166052522442575,
+      "target": "47"
+    },
+    {
+      "node": 233,
+      "distance_m": 0.1531112408823381,
+      "target": "47"
+    },
+    {
+      "node": 232,
+      "distance_m": 2.2345975589011896e-05,
+      "target": "new boundary"
+    },
+    {
+      "node": 234,
+      "distance_m": 2.234597561703743e-05,
+      "target": "new boundary"
+    }
+  ],
+  "clipped_near_boundary_fragments_removed": [
+    "14C",
+    "162",
+    "146",
+    "14E",
+    "156",
+    "157"
+  ],
+  "diagnostic_polygonization": {
+    "regions": 30,
+    "minimum_region_area_m2": 15.299018631522534,
+    "invalid_rings": 0,
+    "maximum_chord_contact_adjustment_mm": 0.2666715306230044,
+    "note": "Native analytic endpoint contacts pass the 0.01 mm check. Chord polygonization still reports numerical/connector cut-dangle artifacts and is not a Desktop SketchUp face-formation test."
+  },
+  "units": "millimetres; original plan scale and coordinates retained",
+  "desktop_tests_not_performed": [
+    "AutoCAD opening",
+    "SketchUp import and push/pull face formation"
+  ],
+  "source_raster_precision_note": "Reference curves originate from a raster image; absolute millimetre matching is not claimed."
+}

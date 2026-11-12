@@ -1,0 +1,257 @@
+[
+  {
+    "handle": "131",
+    "source": "missing upper reference boundary",
+    "exported": true
+  },
+  {
+    "handle": "132",
+    "source": "missing lower reference boundary",
+    "exported": true
+  },
+  {
+    "handle": "135",
+    "source": "reference edge 99",
+    "exported": true
+  },
+  {
+    "handle": "136",
+    "source": "reference edge 100",
+    "exported": true
+  },
+  {
+    "handle": "137",
+    "source": "reference edge 101",
+    "exported": true
+  },
+  {
+    "handle": "138",
+    "source": "reference edge 106",
+    "exported": true
+  },
+  {
+    "handle": "139",
+    "source": "reference edge 108",
+    "exported": true
+  },
+  {
+    "handle": "13A",
+    "source": "reference edge 109",
+    "exported": true
+  },
+  {
+    "handle": "13B",
+    "source": "reference edge 112",
+    "exported": true
+  },
+  {
+    "handle": "13C",
+    "source": "reference edge 112",
+    "exported": true
+  },
+  {
+    "handle": "13D",
+    "source": "reference edge 113",
+    "exported": true
+  },
+  {
+    "handle": "13E",
+    "source": "reference edge 115",
+    "exported": true
+  },
+  {
+    "handle": "13F",
+    "source": "reference edge 118",
+    "exported": true
+  },
+  {
+    "handle": "140",
+    "source": "reference edge 120",
+    "exported": true
+  },
+  {
+    "handle": "141",
+    "source": "reference edge 121",
+    "exported": true
+  },
+  {
+    "handle": "142",
+    "source": "reference edge 122",
+    "exported": true
+  },
+  {
+    "handle": "143",
+    "source": "reference edge 130",
+    "exported": true
+  },
+  {
+    "handle": "144",
+    "source": "reference edge 147",
+    "exported": true
+  },
+  {
+    "handle": "145",
+    "source": "reference edge 167",
+    "exported": true
+  },
+  {
+    "handle": "146",
+    "source": "reference edge 172",
+    "exported": false
+  },
+  {
+    "handle": "147",
+    "source": "reference edge 194",
+    "exported": true
+  },
+  {
+    "handle": "148",
+    "source": "reference edge 245",
+    "exported": true
+  },
+  {
+    "handle": "149",
+    "source": "reference edge 255",
+    "exported": true
+  },
+  {
+    "handle": "14A",
+    "source": "reference edge 256",
+    "exported": true
+  },
+  {
+    "handle": "14B",
+    "source": "reference edge 256",
+    "exported": true
+  },
+  {
+    "handle": "14C",
+    "source": "reference edge 256",
+    "exported": false
+  },
+  {
+    "handle": "14D",
+    "source": "reference edge 256",
+    "exported": true
+  },
+  {
+    "handle": "14E",
+    "source": "reference edge 257",
+    "exported": false
+  },
+  {
+    "handle": "14F",
+    "source": "reference edge 258",
+    "exported": true
+  },
+  {
+    "handle": "150",
+    "source": "reference edge 259",
+    "exported": true
+  },
+  {
+    "handle": "151",
+    "source": "reference edge 260",
+    "exported": true
+  },
+  {
+    "handle": "152",
+    "source": "reference edge 261",
+    "exported": true
+  },
+  {
+    "handle": "153",
+    "source": "reference edge 271",
+    "exported": true
+  },
+  {
+    "handle": "154",
+    "source": "reference edge 272",
+    "exported": true
+  },
+  {
+    "handle": "155",
+    "source": "reference edge 278",
+    "exported": true
+  },
+  {
+    "handle": "156",
+    "source": "reference edge 285",
+    "exported": false
+  },
+  {
+    "handle": "157",
+    "source": "reference edge 285",
+    "exported": false
+  },
+  {
+    "handle": "158",
+    "source": "reference edge 286",
+    "exported": true
+  },
+  {
+    "handle": "159",
+    "source": "reference edge 287",
+    "exported": true
+  },
+  {
+    "handle": "15A",
+    "source": "reference edge 288",
+    "exported": true
+  },
+  {
+    "handle": "15B",
+    "source": "reference edge 289",
+    "exported": true
+  },
+  {
+    "handle": "15C",
+    "source": "reference edge 290",
+    "exported": true
+  },
+  {
+    "handle": "15D",
+    "source": "reference edge 295",
+    "exported": true
+  },
+  {
+    "handle": "15E",
+    "source": "reference edge 305",
+    "exported": true
+  },
+  {
+    "handle": "15F",
+    "source": "reference edge 323",
+    "exported": true
+  },
+  {
+    "handle": "160",
+    "source": "reference edge 325",
+    "exported": true
+  },
+  {
+    "handle": "161",
+    "source": "reference edge 326",
+    "exported": true
+  },
+  {
+    "handle": "162",
+    "source": "reference edge 328",
+    "exported": false
+  },
+  {
+    "handle": "163",
+    "source": "reference edge 328",
+    "exported": true
+  },
+  {
+    "handle": "164",
+    "source": "reference edge 348",
+    "exported": true
+  },
+  {
+    "handle": "165",
+    "source": "reference edge 361",
+    "exported": true
+  }
+]
