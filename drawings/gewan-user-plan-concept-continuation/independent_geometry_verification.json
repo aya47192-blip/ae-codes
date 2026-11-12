@@ -1,0 +1,13 @@
+{
+  "reader": "Independent LibreDWG WebAssembly via libredwg-web 0.8.8",
+  "version": null,
+  "units": 4,
+  "original_entities": 244,
+  "dxf_entities": 275,
+  "connected_open_boundary_splines": 1,
+  "new_entities": 30,
+  "source_geometry_comparison_tolerance_mm": 1e-06,
+  "source_geometry_mismatches": 0,
+  "new_closed_spline_flags": 30,
+  "all_new_spline_endpoint_gaps_mm": 0.0
+}

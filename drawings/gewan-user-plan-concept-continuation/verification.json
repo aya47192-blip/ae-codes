@@ -1,0 +1,206 @@
+{
+  "source_sha256": "f383461c6f291d8089664bc363889b509171fa2f8fbe8f55208aeb4e6cce4333",
+  "units": "millimetres (INSUNITS=4), no scaling or relocation",
+  "source_entities_preserved": 244,
+  "source_entities_changed": 0,
+  "added_closed_native_splines": 30,
+  "added_connected_boundary_splines": 1,
+  "boundary_join_endpoint_gap_mm": 0,
+  "rejected_candidates": [],
+  "added_total_area_m2": 2564.0538406442242,
+  "minimum_clearance_to_source_mm": 1007.8938130914578,
+  "new_self_intersections": 0,
+  "new_overlapping_pairs": 0,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "checks_not_performed": [
+    "Opening in desktop AutoCAD / SketchUp",
+    "Engineering, drainage or statutory design review"
+  ],
+  "cells": [
+    {
+      "handle": "12F",
+      "zone": "LEFT_UPPER",
+      "area_m2": 69.30040740985973,
+      "clearance_mm": 1980.014398876555
+    },
+    {
+      "handle": "130",
+      "zone": "LEFT_UPPER",
+      "area_m2": 59.40062105475287,
+      "clearance_mm": 4589.277598077189
+    },
+    {
+      "handle": "131",
+      "zone": "LEFT_UPPER",
+      "area_m2": 78.23506554582016,
+      "clearance_mm": 3203.6402029311653
+    },
+    {
+      "handle": "132",
+      "zone": "LEFT_UPPER",
+      "area_m2": 63.068521115721516,
+      "clearance_mm": 8323.836745262655
+    },
+    {
+      "handle": "133",
+      "zone": "LEFT_UPPER",
+      "area_m2": 75.51027491354341,
+      "clearance_mm": 3897.9982781831063
+    },
+    {
+      "handle": "134",
+      "zone": "LEFT_UPPER",
+      "area_m2": 54.40159583527119,
+      "clearance_mm": 11249.596267904526
+    },
+    {
+      "handle": "135",
+      "zone": "LEFT_UPPER",
+      "area_m2": 67.5761169946166,
+      "clearance_mm": 1108.9403436772295
+    },
+    {
+      "handle": "136",
+      "zone": "LEFT_UPPER",
+      "area_m2": 46.69123856757448,
+      "clearance_mm": 8023.336646852398
+    },
+    {
+      "handle": "137",
+      "zone": "LEFT_UPPER",
+      "area_m2": 47.10441526023335,
+      "clearance_mm": 1007.8938130914578
+    },
+    {
+      "handle": "138",
+      "zone": "LEFT_UPPER",
+      "area_m2": 67.50207803767842,
+      "clearance_mm": 5974.441806931969
+    },
+    {
+      "handle": "13A",
+      "zone": "LEFT_MIDDLE",
+      "area_m2": 79.7685050731668,
+      "clearance_mm": 3432.285096603811
+    },
+    {
+      "handle": "13B",
+      "zone": "LEFT_MIDDLE",
+      "area_m2": 73.63454849045148,
+      "clearance_mm": 4397.432648114521
+    },
+    {
+      "handle": "13C",
+      "zone": "LEFT_MIDDLE",
+      "area_m2": 53.23096227810507,
+      "clearance_mm": 4003.40231511183
+    },
+    {
+      "handle": "13E",
+      "zone": "LEFT_LOWER",
+      "area_m2": 45.6066901063,
+      "clearance_mm": 2265.9139332497666
+    },
+    {
+      "handle": "13F",
+      "zone": "LEFT_LOWER",
+      "area_m2": 55.95289430630059,
+      "clearance_mm": 2227.5138196619
+    },
+    {
+      "handle": "140",
+      "zone": "LEFT_LOWER",
+      "area_m2": 73.95309850630026,
+      "clearance_mm": 2347.324685703673
+    },
+    {
+      "handle": "141",
+      "zone": "LEFT_LOWER",
+      "area_m2": 101.15530270630033,
+      "clearance_mm": 2849.2396444867672
+    },
+    {
+      "handle": "143",
+      "zone": "ABOVE_CIRCLE",
+      "area_m2": 158.69375543010403,
+      "clearance_mm": 6477.380514908043
+    },
+    {
+      "handle": "144",
+      "zone": "ABOVE_CIRCLE",
+      "area_m2": 177.43736966023374,
+      "clearance_mm": 11802.353118160738
+    },
+    {
+      "handle": "145",
+      "zone": "ABOVE_CIRCLE",
+      "area_m2": 167.42824263670033,
+      "clearance_mm": 10652.364199530897
+    },
+    {
+      "handle": "146",
+      "zone": "ABOVE_CIRCLE",
+      "area_m2": 139.92242301535683,
+      "clearance_mm": 12561.819251194396
+    },
+    {
+      "handle": "148",
+      "zone": "BELOW_BUILDING",
+      "area_m2": 114.13416887672876,
+      "clearance_mm": 3421.259389121381
+    },
+    {
+      "handle": "149",
+      "zone": "BELOW_BUILDING",
+      "area_m2": 62.500091774556125,
+      "clearance_mm": 3019.187680510679
+    },
+    {
+      "handle": "14A",
+      "zone": "BELOW_BUILDING",
+      "area_m2": 44.23640948647355,
+      "clearance_mm": 1019.8420392452465
+    },
+    {
+      "handle": "14B",
+      "zone": "BELOW_BUILDING",
+      "area_m2": 125.59492987686528,
+      "clearance_mm": 1929.519299887123
+    },
+    {
+      "handle": "14D",
+      "zone": "RIGHT",
+      "area_m2": 80.53138832605086,
+      "clearance_mm": 4196.182928755847
+    },
+    {
+      "handle": "14E",
+      "zone": "RIGHT",
+      "area_m2": 102.40176151900282,
+      "clearance_mm": 5458.026714630798
+    },
+    {
+      "handle": "14F",
+      "zone": "RIGHT",
+      "area_m2": 107.5644985827719,
+      "clearance_mm": 5934.963608636721
+    },
+    {
+      "handle": "150",
+      "zone": "RIGHT",
+      "area_m2": 86.80922587835379,
+      "clearance_mm": 6965.29408548714
+    },
+    {
+      "handle": "151",
+      "zone": "RIGHT",
+      "area_m2": 84.70723937902986,
+      "clearance_mm": 4850.046829977147
+    }
+  ],
+  "new_entities_outside_site_envelope": 0,
+  "boundary_clearance_check_excludes_intended_joins": true,
+  "delivery_format": "DXF (AutoCAD 2000)",
+  "dwg_export_status": "Withheld: model geometry matched, but structural roundtrip failed. See README."
+}
