@@ -1,0 +1,15 @@
+{
+  "source_filename": "Turtle_Closed_Regions.dwg",
+  "source_sha256": "174b3b66e74d9329e93e5aa999d5667ad480ba5a4283ce8e981e60fa74c1df71",
+  "source_model_entities": 1272,
+  "preserved_source_model_entities": 1272,
+  "source_geometry_mismatches": 0,
+  "maximum_original_coordinate_difference_mm": 5.820766091346741e-11,
+  "coordinate_comparison_tolerance_mm": 1e-07,
+  "added_closure_lines": 2,
+  "primary_CAD_entities": 1274,
+  "units": "mm; original coordinates and INSUNITS=4 retained",
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "independent_reader": "LibreDWG WebAssembly; entity types, layers, coordinates, radii, curve control points, knots, weights and flags compared to the uploaded DWG by source handle."
+}

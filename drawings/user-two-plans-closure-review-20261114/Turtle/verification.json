@@ -1,0 +1,21 @@
+{
+  "source_file": "Turtle_Closed_Regions.dwg",
+  "faces_readback": 112,
+  "holes_readback": 40,
+  "loose_edges_inside_face_components": 0,
+  "invalid_region_rings": 0,
+  "CAD_region_entities": 152,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "maximum_SKP_vertex_readback_difference_mm": 3.253907165344266e-11,
+  "global_CAD_coordinates_preserved_by_instance_transform": true,
+  "component_local_offset_mm": [
+    0.0,
+    0.0
+  ],
+  "SKP_units_internal": "inch; original mm divided by 25.4",
+  "all_Z_zero": true,
+  "SKP_sha256": "c68cecb4446516e7b690854218e87b9f0ecd32045ffffd430538da88c8cda6b5",
+  "test_method": "Actual SKP and derived DXF reread; faces, holes, edge use, vertex coordinates and instance transforms checked. This is not a SketchUp Desktop import test.",
+  "SketchUp_Desktop_tested": false
+}

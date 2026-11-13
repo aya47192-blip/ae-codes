@@ -1,0 +1,21 @@
+{
+  "Both_Plans_Source_Preserved_Closed.dxf": "c1ede43331e1f4755db94545d35710d615a8467206f10cb04fcae6d35f3b6958",
+  "Fish_Scales/Fish_Scales_CAD_Preview.pdf": "96d4b013235d3987cfb419ad64237533c5f0209173666ef46210072426236c10",
+  "Fish_Scales/Fish_Scales_CAD_Preview.png": "4926c6ed2d5f99b003b40947f7a2bea2b98b651af389fdbb0dc6704ba6b7dc8f",
+  "Fish_Scales/Fish_Scales_Closed_Areas_For_Import.dxf": "8478bf5d4b3c21e3b6de816b5f748dce11a189d7b964c5a28710a144df67b27d",
+  "Fish_Scales/Fish_Scales_Closed_Faces_Check.png": "207ce219314e291ccdb4275601e773cf48a467d5f36d5bd415f933497e599c72",
+  "Fish_Scales/Fish_Scales_Flat_Closed_Faces.skp": "03b6ccfd03ffae5226b268a2d45d4f31d2d223f6808852478c71e14fb9536b6d",
+  "Fish_Scales/verification.json": "3dfefc1426b3c1bc311c9d450758b9755d0caadea4e3e9e392a13e65b3a83d4b",
+  "README_AR.md": "86a1f28534a3e7d252323b9a4fa558e3b9b5b8de19c838f6d00d1e2c2b6ef4cc",
+  "Review_Only_Proposed_Large_Closures_OFF.dxf": "5d56354f2288932603a6f79cd366f3466d8f9cdf9bf60f5130543eea3d17b48e",
+  "Six_Large_Gaps_For_Review.png": "1d4a0f0d885f6e7d8c0dd1ad0675dc28f898c89dcd0c5c3a132e21dafee11a52",
+  "Turtle/Turtle_CAD_Preview.pdf": "1bac9aca0cb8a4241b3fc009ea2c5299dda517f2b9d251cfd85ab8aebab38c5c",
+  "Turtle/Turtle_CAD_Preview.png": "873c7dfd68030b4d810cde1b532f3aede6c24143d63abb4a8df96562f34c123e",
+  "Turtle/Turtle_Closed_Areas_For_Import.dxf": "b2b15e64010884386b0767e6565cb297b250f89fcd6e800bae0e65fb9973b8d7",
+  "Turtle/Turtle_Closed_Faces_Check.png": "83f5ec684aebdc20b992bdb3e5e152fb222187f3a0ef36896b4d95f6704d0395",
+  "Turtle/Turtle_Flat_Closed_Faces.skp": "c68cecb4446516e7b690854218e87b9f0ecd32045ffffd430538da88c8cda6b5",
+  "Turtle/verification.json": "6c55782a48dc0c4efbd807d13ff116b1649c49a1ba1575930e34ffd7b1e58a2c",
+  "applied_closures.json": "4f4ed339c7978c3c325b48ca6c4b3128ba077bee2651061fe8459cc4d8f7dc3e",
+  "proposed_extra_closures.json": "9ad58fba3afd377c7b36dd58a20024a164f9a138e306f8644af701e2bbbed21b",
+  "source_preservation.json": "a87b519cbea81214afdc2c67acda3244e717a945503f9fb86b1ddd466530b041"
+}

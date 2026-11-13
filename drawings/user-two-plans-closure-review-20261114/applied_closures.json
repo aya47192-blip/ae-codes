@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "from_handle": "1AF",
+    "to_handle": "124",
+    "start": [
+      -66383.25211718114,
+      162496.21236639505,
+      0.0
+    ],
+    "end": [
+      -66338.3937087035,
+      162521.42445931176,
+      0.0
+    ],
+    "length_mm": 51.458006572229436,
+    "reason": "gap closure by added line only; all source geometry preserved",
+    "new_dxf_handle": "A43"
+  },
+  {
+    "id": 2,
+    "from_handle": "96B",
+    "to_handle": "A0D",
+    "start": [
+      757239.2250662181,
+      -34241.53844674125,
+      0.0
+    ],
+    "end": [
+      757041.9331193863,
+      -33684.71317404544,
+      0.0
+    ],
+    "length_mm": 590.7440195189598,
+    "reason": "gap closure by added line only; all source geometry preserved",
+    "new_dxf_handle": "A44"
+  }
+]

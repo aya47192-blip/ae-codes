@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "from_handle": "7F5",
+    "to_handle": "A07",
+    "start": [
+      738875.7061726665,
+      -35407.47615426833,
+      0.0
+    ],
+    "end": [
+      738800.2129619984,
+      -30188.35992731069,
+      0.0
+    ],
+    "length_mm": 5219.662193605023,
+    "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+    "target_segment": 25,
+    "target_parameter": 0.6313147962991864
+  },
+  {
+    "id": 2,
+    "from_handle": "7F6",
+    "to_handle": "A07",
+    "start": [
+      732463.0487812676,
+      -35698.9605811501,
+      0.0
+    ],
+    "end": [
+      732384.6816364075,
+      -30281.158983098958,
+      0.0
+    ],
+    "length_mm": 5418.368348980998,
+    "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+    "target_segment": 25,
+    "target_parameter": 0.36752483140530123
+  },
+  {
+    "id": 3,
+    "from_handle": "7FB",
+    "to_handle": "A07",
+    "start": [
+      693112.6511522289,
+      -30743.72532416003,
+      0.0
+    ],
+    "end": [
+      696310.623068483,
+      -30471.433661424424,
+      0.0
+    ],
+    "length_mm": 3209.5431336476186,
+    "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+    "target_segment": 14,
+    "target_parameter": 0.3529529731374505
+  },
+  {
+    "id": 4,
+    "from_handle": "7FC",
+    "to_handle": "A07",
+    "start": [
+      690489.2913102929,
+      -25205.52121340642,
+      0.0
+    ],
+    "end": [
+      694948.0505149071,
+      -23686.085811582794,
+      0.0
+    ],
+    "length_mm": 4710.543236724084,
+    "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+    "target_segment": 9,
+    "target_parameter": 0.9219791096408357
+  },
+  {
+    "id": 5,
+    "from_handle": "928",
+    "to_handle": "A10",
+    "start": [
+      790759.9341576213,
+      -21416.22366394342,
+      0.0
+    ],
+    "end": [
+      789350.93271963,
+      -19448.570537801934,
+      0.0
+    ],
+    "length_mm": 2420.1123686879173,
+    "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+    "target_segment": 1,
+    "target_parameter": 0.21706590945140825
+  },
+  {
+    "id": 6,
+    "from_handle": "92F",
+    "to_handle": "933",
+    "start": [
+      783764.307912459,
+      -26954.42777469703,
+      0.0
+    ],
+    "end": [
+      789192.0567911707,
+      -29340.111102311595,
+      0.0
+    ],
+    "length_mm": 5928.907389225642,
+    "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+    "target_segment": 0,
+    "target_parameter": 12.834456955261105
+  }
+]
