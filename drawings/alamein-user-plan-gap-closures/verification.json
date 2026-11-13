@@ -1,0 +1,248 @@
+{
+  "source_filename": "العالمين.dwg",
+  "source_sha256": "c868a88d75b37d34ae75d505f49643a387323bbfc3c82428f9675ce8e8b0c308",
+  "source_upload_unmodified": true,
+  "source_model_entities": 363,
+  "preserved_source_model_entities": 363,
+  "source_geometry_mismatches": [],
+  "maximum_measured_original_coordinate_difference_mm": 4.656612873077393e-10,
+  "comparison_tolerance_mm": 1e-07,
+  "new_closure_lines": 10,
+  "original_entities_moved_deleted_redrawn_smoothed_or_rescaled": 0,
+  "final_native_CAD_entities": 373,
+  "units": "mm; original INSUNITS=4 retained; no rescaling",
+  "scope_authorization": "User explicitly approved larger openings and missing closing side, by additions only, without moving or deleting source lines.",
+  "closure_log": [
+    {
+      "id": 1,
+      "from_handle": "82",
+      "to_handle": "3B",
+      "start": [
+        1904763.371810237,
+        335697.5877257649,
+        0.0
+      ],
+      "end": [
+        1904754.4505215124,
+        335642.76403787534,
+        0.0
+      ],
+      "length_mm": 55.54481205579439,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "97E"
+    },
+    {
+      "id": 2,
+      "from_handle": "8E",
+      "to_handle": "84",
+      "start": [
+        1925964.625261794,
+        369972.1506600213,
+        0.0
+      ],
+      "end": [
+        1925947.0104136239,
+        369902.7127470273,
+        0.0
+      ],
+      "length_mm": 71.63732712091074,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "97F"
+    },
+    {
+      "id": 3,
+      "from_handle": "91",
+      "to_handle": "3C",
+      "start": [
+        1928751.863155852,
+        328262.5688830414,
+        0.0
+      ],
+      "end": [
+        1928745.266510072,
+        328249.13076071185,
+        0.0
+      ],
+      "length_mm": 14.969932107140206,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "980"
+    },
+    {
+      "id": 4,
+      "from_handle": "A6",
+      "to_handle": "52",
+      "start": [
+        2013692.257800107,
+        295388.9638837962,
+        0.0
+      ],
+      "end": [
+        2013690.1919050408,
+        295379.378209893,
+        0.0
+      ],
+      "length_mm": 9.805767007383798,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "981"
+    },
+    {
+      "id": 5,
+      "from_handle": "F6",
+      "to_handle": "61",
+      "start": [
+        2097204.388645272,
+        217573.5450798196,
+        0.0
+      ],
+      "end": [
+        2097168.86930569,
+        217504.7620401142,
+        0.0
+      ],
+      "length_mm": 77.41272528122455,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "982"
+    },
+    {
+      "id": 6,
+      "from_handle": "159",
+      "to_handle": "3B3",
+      "start": [
+        1929306.199228276,
+        148860.6548538698,
+        0.0
+      ],
+      "end": [
+        1929283.3899845737,
+        148516.9300836881,
+        0.0
+      ],
+      "length_mm": 344.4807385540687,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "983"
+    },
+    {
+      "id": 7,
+      "from_handle": "160",
+      "to_handle": "3B3",
+      "start": [
+        1944501.663672401,
+        140468.797882295,
+        0.0
+      ],
+      "end": [
+        1944128.513471365,
+        140204.55258992044,
+        0.0
+      ],
+      "length_mm": 457.2380638959757,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "984"
+    },
+    {
+      "id": 8,
+      "from_handle": "165",
+      "to_handle": "3B3",
+      "start": [
+        1947159.427283562,
+        134420.5967617742,
+        0.0
+      ],
+      "end": [
+        1946961.1042038738,
+        134362.12556231397,
+        0.0
+      ],
+      "length_mm": 206.76296840438826,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "985"
+    },
+    {
+      "id": 9,
+      "from_handle": "165",
+      "to_handle": "3B3",
+      "start": [
+        1947678.760193818,
+        130733.6093329835,
+        0.0
+      ],
+      "end": [
+        1947671.015544038,
+        130732.83517743606,
+        0.0
+      ],
+      "length_mm": 7.783245918395031,
+      "reason": "approved gap closure; source unchanged",
+      "new_dxf_handle": "986"
+    },
+    {
+      "id": 10,
+      "from_handle": "109",
+      "to_handle": "109",
+      "start": [
+        1951572.253430376,
+        278782.474004372,
+        0.0
+      ],
+      "end": [
+        1953701.028058608,
+        282689.5743955396,
+        0.0
+      ],
+      "length_mm": 4449.394889697478,
+      "reason": "approved missing closing side; original polyline vertices unchanged",
+      "new_dxf_handle": "987"
+    }
+  ],
+  "source_non_region_strokes_retained": [
+    "93: overrun crossing existing boundary; no new join added",
+    "B4: overrun crossing existing boundary; no new join added",
+    "150: isolated 9.87 mm curve; retained in native CAD"
+  ],
+  "submillimetre_measurement": "Endpoint-to-other-curve differences below 1 mm were at most 0.0000528 mm; larger real openings were separately measured and approved. Native source geometry stays unchanged. Canonical meshing joins numerical contacts only in derived face outputs.",
+  "primary_CAD_audit_errors": 0,
+  "primary_CAD_audit_fixes": 0,
+  "independent_reader": "LibreDWG WebAssembly: uploaded DWG and final DXF model geometry compared by source handles, coordinates, native curve control points, knots and flags; decoder storage flag bits normalized.",
+  "face_mesh": {
+    "source_primitives": 1522,
+    "canonical_mesh_primitives": 1484,
+    "coincident_primitives_collapsed_for_face_derivation_only": 31,
+    "maximum_mesh_chord_error_mm": 0.05,
+    "coordinate_grid_mm": 0.001,
+    "numerical_endpoint_cluster_tolerance_mm": 0.0001,
+    "max_cluster_adjustment_mm": 2.639604787602019e-05,
+    "bounded_faces": 108,
+    "holes": 20,
+    "tiny_numerical_face_areas_mm2_excluded": [],
+    "network_cuts": 0,
+    "network_dangles": 3,
+    "invalid_rings": 0,
+    "native_CAD_was_not_tessellated_or_modified": true
+  },
+  "face_readback": {
+    "file": "Alamein_Flat_Closed_Faces.skp",
+    "source": "Alamein_Closed_Areas_For_Import.dxf",
+    "method": "Build planar faces and holes from corrected native-CAD derived mesh; reopen SKP and count geometry. Not a SketchUp Desktop import test.",
+    "faces_readback": 108,
+    "holes_readback": 20,
+    "loose_face_component_edges": 0,
+    "all_Z_zero": true,
+    "coordinates": "Global CAD coordinates retained through component instance translation; local component points are offset solely for numerical stability.",
+    "component_local_offset_mm": [
+      1800000.0,
+      300000.0
+    ],
+    "units_internal": "inch; mm divided by 25.4",
+    "SKP_sha256": "b4cc65d499be6034e840d5fa75c1a6becce1b3a0d14099ea26b12ec044c0c2c0",
+    "closed_DXF_entities": 128,
+    "closed_DXF_invalid_rings": [],
+    "closed_DXF_audit_errors": 0,
+    "closed_DXF_audit_fixes": 0,
+    "SketchUp_Desktop_tested": false
+  },
+  "maximum_SKP_local_vertex_readback_deviation_mm": 3.253907165344266e-11,
+  "SKP_global_instance_positions_verified": true,
+  "new_DWG_status": "Not delivered: attempted conversion failed structural roundtrip checks. The verified CAD deliverables are DXF; the uploaded DWG remains untouched.",
+  "desktop_AutoCAD_tested": false,
+  "desktop_SketchUp_tested": false
+}
