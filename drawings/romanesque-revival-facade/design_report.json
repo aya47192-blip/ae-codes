@@ -1,0 +1,587 @@
+{
+  "style": "ROMANESQUE REVIVAL",
+  "source_sheet_position": "single original supplied facade",
+  "source_unit_flag": 1,
+  "numeric_coordinate_scale_preserved": true,
+  "opening_schedule": [
+    {
+      "name": "LEFT_NARROW",
+      "original_rough_opening_bounds": [
+        414.725659433,
+        115.835849857,
+        415.686319605,
+        122.735849857
+      ],
+      "new_head": "semicircular infill within original rough opening"
+    },
+    {
+      "name": "LEFT_WIDE",
+      "original_rough_opening_bounds": [
+        416.37662221,
+        115.835849857,
+        417.67662221,
+        122.735849857
+      ],
+      "new_head": "semicircular infill within original rough opening"
+    },
+    {
+      "name": "TOWER_NARROW",
+      "original_rough_opening_bounds": [
+        418.20139646,
+        116.835089457,
+        418.843524225,
+        125.155089457
+      ],
+      "new_head": "semicircular infill within original rough opening"
+    },
+    {
+      "name": "TOWER_WIDE",
+      "original_rough_opening_bounds": [
+        419.745798158,
+        116.835849857,
+        420.743163206,
+        125.155849857
+      ],
+      "new_head": "semicircular infill within original rough opening"
+    },
+    {
+      "name": "BALCONY",
+      "original_rough_opening_bounds": [
+        422.361486064,
+        120.435849857,
+        424.365621487,
+        122.03505424
+      ],
+      "new_head": "semicircular infill within original rough opening"
+    },
+    {
+      "name": "ENTRANCE",
+      "original_rough_opening_bounds": [
+        422.31847777312026,
+        115.835849857244,
+        424.408477773151,
+        118.75467404293222
+      ],
+      "new_head": "exact original entrance arch, radius and spring positions preserved"
+    }
+  ],
+  "opening_groups": 6,
+  "source_panel_groups": 6,
+  "new_components": {
+    "source": 1,
+    "roof": 4,
+    "column": 10,
+    "window": 5,
+    "detail": 4,
+    "roof_background": 4,
+    "cornice": 5,
+    "railing": 1,
+    "door": 1,
+    "entrance_surround": 1
+  },
+  "native_blocks": 35,
+  "native_closed_contours": 97,
+  "connected_native_chains": 1144,
+  "old_ornament_curves_reused": 0,
+  "original_style_blocks_reused": 0,
+  "stroke_aci": 7,
+  "lineweight_mm": 0.25,
+  "linetype": "Continuous",
+  "source_structural_line_segments_retained": 33,
+  "block_schedule": [
+    {
+      "block": "ROMANESQUE_FACADE_ENTRANCE_ROOF",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        0,
+        0
+      ],
+      "entities": 3
+    },
+    {
+      "block": "ROMANESQUE_FACADE_MAIN_ROOF",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        0,
+        0
+      ],
+      "entities": 2
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_LEFT_EDGE",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        414.447666986,
+        115.085849857244
+      ],
+      "entities": 111
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_LEFT_MIDDLE",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        415.961536755,
+        115.085849857244
+      ],
+      "entities": 19
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_TOWER_LEFT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        417.765525458,
+        115.085849857244
+      ],
+      "entities": 140
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_TOWER_MIDDLE",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        419.279395227,
+        115.085849857244
+      ],
+      "entities": 19
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_TOWER_RIGHT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        421.209566137,
+        115.085849857244
+      ],
+      "entities": 19
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_TOWER_REAR",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        422.723435908,
+        124.525725535
+      ],
+      "entities": 20
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_RIGHT_LEFT",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        424.917666986,
+        115.085849857244
+      ],
+      "entities": 113
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_RIGHT_MIDDLE_A",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        426.425030633,
+        115.085849857244
+      ],
+      "entities": 19
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_RIGHT_MIDDLE_B",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        428.810303338,
+        115.085849857244
+      ],
+      "entities": 19
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PILASTER_RIGHT_EDGE",
+      "kind": "column",
+      "anchor_source_coordinates": [
+        430.317666986,
+        115.085849857244
+      ],
+      "entities": 111
+    },
+    {
+      "block": "ROMANESQUE_FACADE_WINDOW_LEFT_NARROW",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        415.205989519,
+        115.835849857
+      ],
+      "entities": 25
+    },
+    {
+      "block": "ROMANESQUE_FACADE_WINDOW_LEFT_WIDE",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        417.02662221,
+        115.835849857
+      ],
+      "entities": 25
+    },
+    {
+      "block": "ROMANESQUE_FACADE_WINDOW_TOWER_NARROW",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        418.52246034250004,
+        116.835089457
+      ],
+      "entities": 25
+    },
+    {
+      "block": "ROMANESQUE_FACADE_WINDOW_TOWER_WIDE",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        420.244480682,
+        116.835849857
+      ],
+      "entities": 25
+    },
+    {
+      "block": "ROMANESQUE_FACADE_WINDOW_BALCONY",
+      "kind": "window",
+      "anchor_source_coordinates": [
+        423.3635537755,
+        120.435849857
+      ],
+      "entities": 15
+    },
+    {
+      "block": "ROMANESQUE_FACADE_BLIND_ARCH_1",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        425.655,
+        115.635849857244
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ROMANESQUE_FACADE_BLIND_ARCH_2",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        427.615,
+        115.635849857244
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ROMANESQUE_FACADE_BLIND_ARCH_3",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        429.58000000000004,
+        115.635849857244
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ROMANESQUE_FACADE_ARCADE_TOWER_FRONT",
+      "kind": "roof_background",
+      "anchor_source_coordinates": [
+        419.49,
+        125.73
+      ],
+      "entities": 11
+    },
+    {
+      "block": "ROMANESQUE_FACADE_ARCADE_TOWER_RETURN",
+      "kind": "roof_background",
+      "anchor_source_coordinates": [
+        421.975,
+        125.73
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ROMANESQUE_FACADE_ARCADE_REAR",
+      "kind": "roof_background",
+      "anchor_source_coordinates": [
+        426.57500000000005,
+        124.98
+      ],
+      "entities": 18
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CORNICE_TOWER",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        420.2444806825,
+        126.735849857244
+      ],
+      "entities": 17
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CORNICE_LEFT",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        415.8745532595,
+        124.325725535
+      ],
+      "entities": 14
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CORNICE_RIGHT",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        427.617666986,
+        124.325725535
+      ],
+      "entities": 20
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CORNICE_BRIDGE",
+      "kind": "roof_background",
+      "anchor_source_coordinates": [
+        423.101613175,
+        124.325725535
+      ],
+      "entities": 5
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CORNICE_REAR",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        426.63577097999996,
+        126.335725535
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CORNICE_CANOPY",
+      "kind": "cornice",
+      "anchor_source_coordinates": [
+        423.2540284092257,
+        122.433972288
+      ],
+      "entities": 4
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CANOPY_FASCIA",
+      "kind": "detail",
+      "anchor_source_coordinates": [
+        423.25,
+        122.633972288
+      ],
+      "entities": 10
+    },
+    {
+      "block": "ROMANESQUE_FACADE_BALCONY_GUARD",
+      "kind": "railing",
+      "anchor_source_coordinates": [
+        423.241019407,
+        119.135849857244
+      ],
+      "entities": 11
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PORTAL_CLEAR_OPENING",
+      "kind": "door",
+      "anchor_source_coordinates": [
+        423.3634777731356,
+        115.835849857244
+      ],
+      "entities": 20
+    },
+    {
+      "block": "ROMANESQUE_FACADE_PORTAL_RECESSED_ARCHES",
+      "kind": "entrance_surround",
+      "anchor_source_coordinates": [
+        423.3634777731356,
+        115.835849857244
+      ],
+      "entities": 37
+    },
+    {
+      "block": "ROMANESQUE_FACADE_MAIN_ROOF_SLATES",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        420.2444806829585,
+        127.4505885052976
+      ],
+      "entities": 143
+    },
+    {
+      "block": "ROMANESQUE_FACADE_CANOPY_SLATES",
+      "kind": "roof",
+      "anchor_source_coordinates": [
+        423.0681014516758,
+        123.1339722882746
+      ],
+      "entities": 72
+    }
+  ],
+  "architecture_review": [
+    {
+      "name": "LEFT_EDGE",
+      "type": "cushion-capital pier",
+      "source_axis": 414.447666986,
+      "bounds": [
+        414.447666986,
+        115.085849857244,
+        414.617666986,
+        124.325725535
+      ]
+    },
+    {
+      "name": "LEFT_MIDDLE",
+      "type": "cushion-capital pier",
+      "source_axis": 415.961536755,
+      "bounds": [
+        415.751536755,
+        115.085849857244,
+        416.171536755,
+        124.325725535
+      ]
+    },
+    {
+      "name": "TOWER_LEFT",
+      "type": "cushion-capital pier",
+      "source_axis": 417.765525458,
+      "bounds": [
+        417.765525458,
+        115.085849857244,
+        417.93552545800003,
+        126.735849857244
+      ]
+    },
+    {
+      "name": "TOWER_MIDDLE",
+      "type": "cushion-capital pier",
+      "source_axis": 419.279395227,
+      "bounds": [
+        419.06939522700003,
+        115.085849857244,
+        419.489395227,
+        126.735849857244
+      ]
+    },
+    {
+      "name": "TOWER_RIGHT",
+      "type": "cushion-capital pier",
+      "source_axis": 421.209566137,
+      "bounds": [
+        420.99956613700004,
+        115.085849857244,
+        421.419566137,
+        126.735849857244
+      ]
+    },
+    {
+      "name": "TOWER_REAR",
+      "type": "cushion-capital pier",
+      "source_axis": 422.723435908,
+      "bounds": [
+        422.723435908,
+        124.525725535,
+        422.893435908,
+        126.335725535
+      ]
+    },
+    {
+      "name": "RIGHT_LEFT",
+      "type": "cushion-capital pier",
+      "source_axis": 424.917666986,
+      "bounds": [
+        424.917666986,
+        115.085849857244,
+        425.087666986,
+        124.325725535
+      ]
+    },
+    {
+      "name": "RIGHT_MIDDLE_A",
+      "type": "cushion-capital pier",
+      "source_axis": 426.425030633,
+      "bounds": [
+        426.215030633,
+        115.085849857244,
+        426.635030633,
+        124.325725535
+      ]
+    },
+    {
+      "name": "RIGHT_MIDDLE_B",
+      "type": "cushion-capital pier",
+      "source_axis": 428.810303338,
+      "bounds": [
+        428.600303338,
+        115.085849857244,
+        429.02030333799996,
+        124.325725535
+      ]
+    },
+    {
+      "name": "RIGHT_EDGE",
+      "type": "cushion-capital pier",
+      "source_axis": 430.317666986,
+      "bounds": [
+        430.147666986,
+        115.085849857244,
+        430.317666986,
+        124.325725535
+      ]
+    },
+    {
+      "name": "TOWER",
+      "type": "stepped corbel cornice",
+      "original_envelope": [
+        417.180552321,
+        126.735849857244,
+        423.308409044,
+        127.4505885052976
+      ]
+    },
+    {
+      "name": "LEFT",
+      "type": "stepped corbel cornice",
+      "original_envelope": [
+        413.983581061,
+        124.325725535,
+        417.765525458,
+        124.740464183
+      ]
+    },
+    {
+      "name": "RIGHT",
+      "type": "stepped corbel cornice",
+      "original_envelope": [
+        424.453581061,
+        124.325725535,
+        430.781752911,
+        124.740464183
+      ]
+    },
+    {
+      "name": "BRIDGE",
+      "type": "stepped corbel cornice",
+      "original_envelope": [
+        421.390389832,
+        124.325725535,
+        424.812836518,
+        124.525725535
+      ]
+    },
+    {
+      "name": "REAR",
+      "type": "stepped corbel cornice",
+      "original_envelope": [
+        422.723435908,
+        126.335725535,
+        430.548106052,
+        126.535725535
+      ]
+    },
+    {
+      "name": "CANOPY",
+      "type": "stepped corbel cornice",
+      "original_envelope": [
+        421.5903898324514,
+        122.433972288,
+        424.917666986,
+        122.633972288
+      ]
+    }
+  ],
+  "notes": [
+    "Original coordinates and unit header retained. No rescale assumed.",
+    "Semicircular window infill heads fit within original rough opening envelopes; opaque wall recesses are not new openings.",
+    "Original entrance clear arch radius and jamb spring positions retained exactly.",
+    "Romanesque stepped corbel cornices, Lombard arcades, cushion capitals, Norman chevron portal moulding and stone arched guard are new editable components.",
+    "Original opening reference is a separate DXF; no hidden reference geometry in the finished facade."
+  ]
+}

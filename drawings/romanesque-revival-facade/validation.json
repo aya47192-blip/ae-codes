@@ -1,0 +1,74 @@
+{
+  "source_units_flag": 1,
+  "output_units_flag": 1,
+  "numeric_coordinate_scale": 1,
+  "critical_source_entities_verified": 25,
+  "source_curve_samples_checked": 565,
+  "source_geometry_max_distance": 9.987620330775826e-08,
+  "source_geometry_mismatches": [],
+  "join_tolerance_source_units": 2e-06,
+  "max_valid_join_distance": 1.0049515708487888e-07,
+  "unjoined_endpoints": [],
+  "intentional_ground_extensions": [
+    {
+      "entity": 3,
+      "point": [
+        410.31038748,
+        115.085849857
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 16,
+      "point": [
+        435.574478242,
+        115.085849857
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 17,
+      "point": [
+        410.31038748,
+        114.833228995
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 17,
+      "point": [
+        435.574478242,
+        114.833228995
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 18,
+      "point": [
+        410.31038748,
+        114.60303983
+      ],
+      "reason": "original ground-line extension"
+    },
+    {
+      "entity": 18,
+      "point": [
+        435.574478242,
+        114.60303983
+      ],
+      "reason": "original ground-line extension"
+    }
+  ],
+  "duplicate_native_primitives": [],
+  "zero_length_entities": [],
+  "straight_overlap_length_numerical_residual": 0,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "editable_components": 35,
+  "source_rough_opening_references_unchanged": true,
+  "reference_geometry_in_separate_dxf": true,
+  "right_wall_blind_arches_not_new_openings": true,
+  "lineweight_mm": 0.25,
+  "stroke_color": "ACI7",
+  "AutoCAD_Desktop_tested": false
+}

@@ -1,0 +1,223 @@
+{
+  "original_source": "\u0648\u0627\u062c\u0647\u0647 \u062a\u0639\u062f\u064a\u0644 1.dwg",
+  "retained_source_entities": [
+    {
+      "source_handle": "D233",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D23F",
+      "source_layer": "WALL",
+      "component": "ENTRANCE_ROOF"
+    },
+    {
+      "source_handle": "D38A",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D38B",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D38C",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D38D",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D38E",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D38F",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D391",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D392",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D3F4",
+      "source_layer": "WALL",
+      "component": "ENTRANCE_ROOF"
+    },
+    {
+      "source_handle": "D3FD",
+      "source_layer": "WALL",
+      "component": "ENTRANCE_ROOF"
+    },
+    {
+      "source_handle": "D408",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D412",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D563",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D564",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D565",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D566",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D567",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D568",
+      "source_layer": "STAR",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D586",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D5E3",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D612",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D613",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D614",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D615",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "D66B",
+      "source_layer": "AGSCDGRAPH",
+      "component": "MAIN_ROOF"
+    },
+    {
+      "source_handle": "D66C",
+      "source_layer": "AGSCDGRAPH",
+      "component": "MAIN_ROOF"
+    },
+    {
+      "source_handle": "D6CA",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "DA3C",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "DA3D",
+      "source_layer": "WALLS",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "DB55",
+      "source_layer": "WALL",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    },
+    {
+      "source_handle": "DB56",
+      "source_layer": "AGSCDGRAPH",
+      "component": "SOURCE_ARCHITECTURAL_PLANES"
+    }
+  ],
+  "original_opening_envelopes": [
+    [
+      "LEFT_NARROW",
+      [
+        414.725659433,
+        115.835849857,
+        415.686319605,
+        122.735849857
+      ]
+    ],
+    [
+      "LEFT_WIDE",
+      [
+        416.37662221,
+        115.835849857,
+        417.67662221,
+        122.735849857
+      ]
+    ],
+    [
+      "TOWER_NARROW",
+      [
+        418.20139646,
+        116.835089457,
+        418.843524225,
+        125.155089457
+      ]
+    ],
+    [
+      "TOWER_WIDE",
+      [
+        419.745798158,
+        116.835849857,
+        420.743163206,
+        125.155849857
+      ]
+    ],
+    [
+      "BALCONY",
+      [
+        422.361486064,
+        120.435849857,
+        424.365621487,
+        122.03505424
+      ]
+    ]
+  ],
+  "source_units_header": 1,
+  "coordinate_scale": 1,
+  "reference_file": "original_opening_reference.dxf, separate optional drawing",
+  "original_mass_silhouette_retained": true,
+  "original_roof_silhouette_retained": true,
+  "right_blind_arches_are_opaque": true
+}
