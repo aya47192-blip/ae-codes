@@ -1,0 +1,271 @@
+{
+  "status": "Both user-edited plans complete after explicit approval of the six larger closures",
+  "source_preservation": {
+    "source_filename": "Turtle_Closed_Regions.dwg",
+    "source_sha256": "174b3b66e74d9329e93e5aa999d5667ad480ba5a4283ce8e981e60fa74c1df71",
+    "source_model_entities": 1272,
+    "preserved_source_model_entities": 1272,
+    "source_geometry_mismatches": 0,
+    "maximum_original_coordinate_difference_mm": 5.820766091346741e-11,
+    "coordinate_comparison_tolerance_mm": 1e-07,
+    "added_closure_lines": 8,
+    "primary_CAD_entities": 1280,
+    "units": "mm; original coordinates and INSUNITS=4 retained",
+    "audit_errors": 0,
+    "audit_fixes": 0,
+    "independent_reader": "LibreDWG WebAssembly; entity types, layers, coordinates, radii, curve control points, knots, weights and flags compared to the uploaded DWG by source handle."
+  },
+  "applied_closures": [
+    {
+      "id": 1,
+      "from_handle": "1AF",
+      "to_handle": "124",
+      "start": [
+        -66383.25211718114,
+        162496.21236639505,
+        0.0
+      ],
+      "end": [
+        -66338.3937087035,
+        162521.42445931176,
+        0.0
+      ],
+      "length_mm": 51.458006572229436,
+      "reason": "gap closure by added line only; all source geometry preserved",
+      "new_dxf_handle": "A43"
+    },
+    {
+      "id": 2,
+      "from_handle": "96B",
+      "to_handle": "A0D",
+      "start": [
+        757239.2250662181,
+        -34241.53844674125,
+        0.0
+      ],
+      "end": [
+        757041.9331193863,
+        -33684.71317404544,
+        0.0
+      ],
+      "length_mm": 590.7440195189598,
+      "reason": "gap closure by added line only; all source geometry preserved",
+      "new_dxf_handle": "A44"
+    },
+    {
+      "id": 3,
+      "from_handle": "7F5",
+      "to_handle": "A07",
+      "start": [
+        738875.7061726665,
+        -35407.47615426833,
+        0.0
+      ],
+      "end": [
+        738800.2129619984,
+        -30188.35992731069,
+        0.0
+      ],
+      "length_mm": 5219.662193605023,
+      "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+      "target_segment": 25,
+      "target_parameter": 0.6313147962991864,
+      "authorization": "User explicitly approved the six proposed connections",
+      "new_dxf_handle": "A45"
+    },
+    {
+      "id": 4,
+      "from_handle": "7F6",
+      "to_handle": "A07",
+      "start": [
+        732463.0487812676,
+        -35698.9605811501,
+        0.0
+      ],
+      "end": [
+        732384.6816364075,
+        -30281.158983098958,
+        0.0
+      ],
+      "length_mm": 5418.368348980998,
+      "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+      "target_segment": 25,
+      "target_parameter": 0.36752483140530123,
+      "authorization": "User explicitly approved the six proposed connections",
+      "new_dxf_handle": "A46"
+    },
+    {
+      "id": 5,
+      "from_handle": "7FB",
+      "to_handle": "A07",
+      "start": [
+        693112.6511522289,
+        -30743.72532416003,
+        0.0
+      ],
+      "end": [
+        696310.623068483,
+        -30471.433661424424,
+        0.0
+      ],
+      "length_mm": 3209.5431336476186,
+      "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+      "target_segment": 14,
+      "target_parameter": 0.3529529731374505,
+      "authorization": "User explicitly approved the six proposed connections",
+      "new_dxf_handle": "A47"
+    },
+    {
+      "id": 6,
+      "from_handle": "7FC",
+      "to_handle": "A07",
+      "start": [
+        690489.2913102929,
+        -25205.52121340642,
+        0.0
+      ],
+      "end": [
+        694948.0505149071,
+        -23686.085811582794,
+        0.0
+      ],
+      "length_mm": 4710.543236724084,
+      "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+      "target_segment": 9,
+      "target_parameter": 0.9219791096408357,
+      "authorization": "User explicitly approved the six proposed connections",
+      "new_dxf_handle": "A48"
+    },
+    {
+      "id": 7,
+      "from_handle": "928",
+      "to_handle": "A10",
+      "start": [
+        790759.9341576213,
+        -21416.22366394342,
+        0.0
+      ],
+      "end": [
+        789350.93271963,
+        -19448.570537801934,
+        0.0
+      ],
+      "length_mm": 2420.1123686879173,
+      "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+      "target_segment": 1,
+      "target_parameter": 0.21706590945140825,
+      "authorization": "User explicitly approved the six proposed connections",
+      "new_dxf_handle": "A49"
+    },
+    {
+      "id": 8,
+      "from_handle": "92F",
+      "to_handle": "933",
+      "start": [
+        783764.307912459,
+        -26954.42777469703,
+        0.0
+      ],
+      "end": [
+        789192.0567911707,
+        -29340.111102311595,
+        0.0
+      ],
+      "length_mm": 5928.907389225642,
+      "reason": "larger gap masked by an identical reversed copy of the same open curve; addition only, source geometry stays fixed",
+      "target_segment": 0,
+      "target_parameter": 12.834456955261105,
+      "authorization": "User explicitly approved the six proposed connections",
+      "new_dxf_handle": "A4A"
+    }
+  ],
+  "approval_of_six_larger_closures": {
+    "approved": true,
+    "instruction": "نعم، أضيفي الوصلات الست فقط",
+    "source": "User reply to six-large-gap approval question"
+  },
+  "face_mesh": {
+    "source_primitives": 2844,
+    "canonical_mesh_primitives": 2013,
+    "coincident_primitives_collapsed_for_face_derivation_only": 831,
+    "maximum_mesh_chord_error_mm": 0.05,
+    "coordinate_grid_mm": 0.001,
+    "numerical_endpoint_cluster_tolerance_mm": 0.0001,
+    "max_cluster_adjustment_mm": 6.763784337126624e-07,
+    "bounded_faces": 204,
+    "holes": 57,
+    "tiny_numerical_face_areas_mm2_excluded": [],
+    "network_cuts": 14,
+    "network_dangles": 4,
+    "invalid_rings": 0,
+    "native_CAD_was_not_tessellated_or_modified": true
+  },
+  "plan_results": {
+    "Turtle": {
+      "source_file": "Turtle_Closed_Regions.dwg",
+      "faces_readback": 112,
+      "holes_readback": 40,
+      "loose_edges_inside_face_components": 0,
+      "invalid_region_rings": 0,
+      "CAD_region_entities": 152,
+      "audit_errors": 0,
+      "audit_fixes": 0,
+      "maximum_SKP_vertex_readback_difference_mm": 3.253907165344266e-11,
+      "global_CAD_coordinates_preserved_by_instance_transform": true,
+      "component_local_offset_mm": [
+        0.0,
+        0.0
+      ],
+      "SKP_units_internal": "inch; original mm divided by 25.4",
+      "all_Z_zero": true,
+      "SKP_sha256": "c68cecb4446516e7b690854218e87b9f0ecd32045ffffd430538da88c8cda6b5",
+      "test_method": "Actual SKP and derived DXF reread; faces, holes, edge use, vertex coordinates and instance transforms checked. This is not a SketchUp Desktop import test.",
+      "SketchUp_Desktop_tested": false,
+      "independent_DXF_reader": {
+        "reader": "LibreDWG WebAssembly",
+        "entities": 152,
+        "closed_flags_verified": true,
+        "maximum_coordinate_difference_mm": 0.0,
+        "units": 4
+      }
+    },
+    "Fish_Scales": {
+      "source_file": "Turtle_Closed_Regions.dwg",
+      "faces_readback": 92,
+      "holes_readback": 17,
+      "loose_edges_inside_face_components": 0,
+      "invalid_region_rings": 0,
+      "CAD_region_entities": 109,
+      "audit_errors": 0,
+      "audit_fixes": 0,
+      "maximum_SKP_vertex_readback_difference_mm": 3.253907165344266e-11,
+      "global_CAD_coordinates_preserved_by_instance_transform": true,
+      "component_local_offset_mm": [
+        636098.6459512023,
+        -57269.2931594555
+      ],
+      "SKP_units_internal": "inch; original mm divided by 25.4",
+      "all_Z_zero": true,
+      "SKP_sha256": "f78e31b14018115d358de2860b74dc98ffd92b5917b2236dcad00f7dc704077f",
+      "test_method": "Actual SKP and derived DXF reread; faces, holes, edge use, vertex coordinates and instance transforms checked. This is not a SketchUp Desktop import test.",
+      "SketchUp_Desktop_tested": false,
+      "independent_DXF_reader": {
+        "reader": "LibreDWG WebAssembly",
+        "entities": 109,
+        "closed_flags_verified": true,
+        "maximum_coordinate_difference_mm": 0.0,
+        "units": 4
+      }
+    }
+  },
+  "original_source_entities_moved_deleted_smoothed_or_rescaled": 0,
+  "Turtle_unchanged_by_Fish_repairs": true,
+  "unmodified_original_overruns_retained": [
+    "179",
+    "19F",
+    "1AC",
+    "A04"
+  ],
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_tested": false
+}
