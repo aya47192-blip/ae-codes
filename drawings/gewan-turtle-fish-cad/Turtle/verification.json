@@ -1,0 +1,459 @@
+{
+  "source_raster": "/workspace/work/gewan_two_options_cad/Turtle/source.png",
+  "source_sha256": "f16e8801bfd1b89674ff004e27bb02dc239ced5ee973037da3e2dce9884442a2",
+  "units": "millimetres",
+  "reference_circle_diameter_mm": 25000,
+  "mm_per_source_pixel": 293.7765003692624,
+  "maximum_curve_fit_deviation_px": 2.3447717991517254,
+  "bounded_regions": 124,
+  "removed_raster_microcells_area_m2": [
+    2.672611373753339,
+    0.19670562152413126,
+    0.012085548713962366,
+    0.3879323818263248,
+    0.2157615804230379,
+    0.1869933696999544,
+    2.2081511609466817
+  ],
+  "microcell_filter_limit_m2": 3,
+  "region_ring_count": 176,
+  "degenerate_raster_rings_removed": [
+    {
+      "source_area_px2": 2.2792012036904907,
+      "location_px": [
+        365.49351084362434,
+        202.49802456894864
+      ]
+    },
+    {
+      "source_area_px2": 2.1666666666666288,
+      "location_px": [
+        1051.9145299145298,
+        479.1538461538462
+      ]
+    },
+    {
+      "source_area_px2": 4.494919589782086,
+      "location_px": [
+        892.4886198433342,
+        387.99887101995165
+      ]
+    },
+    {
+      "source_area_px2": 2.5000000000001137,
+      "location_px": [
+        1050.5555555555557,
+        477.66666666666663
+      ]
+    }
+  ],
+  "invalid_exported_region_rings": [],
+  "source_network_non_region_connectors": 5,
+  "source_network_dangles": 0,
+  "region_mapping_fallbacks": [
+    {
+      "curve": 85,
+      "from_px": [
+        892.4658595300024,
+        389.9966130598547
+      ],
+      "to_px": [
+        910.0,
+        379.0
+      ],
+      "reason": "source intersection inside a path"
+    },
+    {
+      "from_px": [
+        910.0,
+        379.0
+      ],
+      "to_px": [
+        910.0,
+        379.5884478053918
+      ],
+      "reason": "new raw intersection fragment"
+    },
+    {
+      "from_px": [
+        910.0,
+        379.5884478053918
+      ],
+      "to_px": [
+        910.6805144337725,
+        380.481360229883
+      ],
+      "reason": "new raw intersection fragment"
+    },
+    {
+      "curve": 85,
+      "from_px": [
+        910.6805144337725,
+        380.481360229883
+      ],
+      "to_px": [
+        910.0,
+        380.0
+      ],
+      "reason": "source intersection inside a path"
+    },
+    {
+      "from_px": [
+        910.0,
+        380.0
+      ],
+      "to_px": [
+        910.0,
+        379.5884478053918
+      ],
+      "reason": "new raw intersection fragment"
+    },
+    {
+      "from_px": [
+        910.0,
+        379.5884478053918
+      ],
+      "to_px": [
+        909.4809570955407,
+        378.90740441345895
+      ],
+      "reason": "new raw intersection fragment"
+    },
+    {
+      "curve": 233,
+      "from_px": [
+        909.4809570955407,
+        378.90740441345895
+      ],
+      "to_px": [
+        892.4658595300024,
+        389.9966130598547
+      ],
+      "reason": "source intersection inside a path"
+    },
+    {
+      "curve": 85,
+      "from_px": [
+        910.0,
+        379.0
+      ],
+      "to_px": [
+        892.4658595300024,
+        389.9966130598547
+      ],
+      "reason": "source intersection inside a path"
+    },
+    {
+      "curve": 233,
+      "from_px": [
+        892.4658595300024,
+        389.9966130598547
+      ],
+      "to_px": [
+        909.4809570955407,
+        378.90740441345895
+      ],
+      "reason": "source intersection inside a path"
+    },
+    {
+      "from_px": [
+        909.4809570955407,
+        378.90740441345895
+      ],
+      "to_px": [
+        910.0,
+        379.5884478053918
+      ],
+      "reason": "new raw intersection fragment"
+    },
+    {
+      "from_px": [
+        910.0,
+        379.5884478053918
+      ],
+      "to_px": [
+        910.0,
+        379.0
+      ],
+      "reason": "new raw intersection fragment"
+    }
+  ],
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "repairs": [
+    {
+      "type": "remove_redundant_open_stub",
+      "node": 23,
+      "length_px": 49.04163056034261
+    },
+    {
+      "type": "remove_redundant_open_stub",
+      "node": 26,
+      "length_px": 43.284271247461895
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 54,
+      "from_px": [
+        158.0,
+        279.0
+      ],
+      "to_px": [
+        161.0,
+        287.0
+      ],
+      "length_px": 8.54400374531753
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 60,
+      "from_px": [
+        741.0,
+        328.0
+      ],
+      "to_px": [
+        741.0,
+        345.0
+      ],
+      "length_px": 17.0
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 62,
+      "from_px": [
+        730.0,
+        351.0
+      ],
+      "to_px": [
+        724.0,
+        349.0
+      ],
+      "length_px": 6.324555320336759
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 69,
+      "from_px": [
+        491.0,
+        381.0
+      ],
+      "to_px": [
+        512.3333333333334,
+        399.6666666666667
+      ],
+      "length_px": 28.347055500625775
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 86,
+      "from_px": [
+        1100.0,
+        463.0
+      ],
+      "to_px": [
+        1081.0,
+        457.0
+      ],
+      "length_px": 19.924858845171276
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 126,
+      "from_px": [
+        1221.0,
+        706.0
+      ],
+      "to_px": [
+        1206.0,
+        726.0
+      ],
+      "length_px": 25.0
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 131,
+      "from_px": [
+        1149.0,
+        766.0
+      ],
+      "to_px": [
+        1146.6666666666667,
+        761.3333333333334
+      ],
+      "length_px": 5.2174919474994415
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 138,
+      "from_px": [
+        1313.0,
+        801.0
+      ],
+      "to_px": [
+        1304.75,
+        812.0
+      ],
+      "length_px": 13.75
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 141,
+      "from_px": [
+        1331.0,
+        816.0
+      ],
+      "to_px": [
+        1339.75,
+        806.0
+      ],
+      "length_px": 13.287682265918312
+    },
+    {
+      "type": "close_reference_gap",
+      "node": 145,
+      "from_px": [
+        1178.0,
+        844.0
+      ],
+      "to_px": [
+        1177.0,
+        836.0
+      ],
+      "length_px": 8.06225774829855
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 1,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 2.1056008868328915,
+      "max_contact_adjustment_px": 0,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 2,
+      "centreline_offset_px": 3.0,
+      "boundary_deviation_px": 1.8183840810640155,
+      "max_contact_adjustment_px": 1.5292295607205928,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 3,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 1.9804440548355895,
+      "max_contact_adjustment_px": 0,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 4,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 2.488783107218353,
+      "max_contact_adjustment_px": 0,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 5,
+      "centreline_offset_px": 3.0,
+      "boundary_deviation_px": 2.288043451800471,
+      "max_contact_adjustment_px": 0.2495790896727068,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 6,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 1.8797187071858004,
+      "max_contact_adjustment_px": 0,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 7,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 2.575027519251762,
+      "max_contact_adjustment_px": 1.5845493238460413,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 8,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 2.0602689678712522,
+      "max_contact_adjustment_px": 0,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 9,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 2.89576404177069,
+      "max_contact_adjustment_px": 0,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 10,
+      "centreline_offset_px": 2.8284271247461903,
+      "boundary_deviation_px": 2.884747148102747,
+      "max_contact_adjustment_px": 2.8274547278353537,
+      "vertices": 10
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 11,
+      "centreline_offset_px": 3.0,
+      "boundary_deviation_px": 2.8787270492470585,
+      "max_contact_adjustment_px": 0,
+      "vertices": 8
+    },
+    {
+      "type": "rectilinear_chalet_footprint",
+      "chalet": 12,
+      "centreline_offset_px": 3.0,
+      "boundary_deviation_px": 2.5831981376365185,
+      "max_contact_adjustment_px": 1.3629566657132144,
+      "vertices": 10
+    }
+  ],
+  "source_accuracy_note": "Raster reconstruction, not measured survey geometry. Chalet orthogonalisation and reference gap repairs documented separately.",
+  "desktop_AutoCAD_tested": false,
+  "desktop_SketchUp_import_tested": false,
+  "exported_region_count": 124,
+  "exported_hole_count": 52,
+  "maximum_closed_ring_end_gap_mm": 3.061616997868383e-12,
+  "unattached_network_curve_ends": [],
+  "maximum_interior_curve_contact_gap_mm": 0.0,
+  "self_crossing_network_entities": [],
+  "nonplanar_entities": [],
+  "exact_duplicate_network_paths": 0,
+  "exported_circle_diameters_mm": [
+    25000.0,
+    9505.016301297483
+  ],
+  "planar_face_construction_check": {
+    "method": "Read exported DXF, flatten analytical curves at 1 mm chord bound, form faces with assigned holes using OpenSKP, write SKP and read back. This is not an import test inside SketchUp Desktop.",
+    "faces_readback": 124,
+    "holes": 52,
+    "loose_edges": 0,
+    "file_sha256": "3eff53a9c701161f31f11b5e00c32bb58d0198f03550755d4381fceb45e69e03"
+  },
+  "independent_readback": {
+    "Plan": {
+      "entities": 255,
+      "reader": "LibreDWG WebAssembly / libredwg-web",
+      "geometry_mismatches_at_0_000001_mm": [],
+      "flag_normalization": "DWG internal LWPOLYLINE closure bit 512 compared with DXF bit 1; SPLINE compatibility mask 7",
+      "sha256": "3685019b8d89c36a5c0d2695bbf1f8572de6a91d9eccd596ffbf9a8623374a90"
+    },
+    "Closed_Regions": {
+      "entities": 176,
+      "reader": "LibreDWG WebAssembly / libredwg-web",
+      "geometry_mismatches_at_0_000001_mm": [],
+      "flag_normalization": "DWG internal LWPOLYLINE closure bit 512 compared with DXF bit 1; SPLINE compatibility mask 7",
+      "sha256": "4cd25884e60bcb9716ccbe2fd814bd9872aff030507734aa6f9e59b2f605f79d"
+    }
+  }
+}
