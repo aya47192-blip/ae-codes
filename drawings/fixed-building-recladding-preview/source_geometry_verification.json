@@ -1,0 +1,14 @@
+{
+  "reference": "Actual original DXF, not image reconstruction",
+  "original_source_entities_tested": 122,
+  "source_samples_tested": 1438,
+  "original_window_profiles_and_glazing_preserved": true,
+  "original_arched_entrance_preserved": true,
+  "both_original_pitched_roof_silhouettes_preserved": true,
+  "original_exposed_wall_boundaries_and_stair_levels_preserved": true,
+  "maximum_numeric_source_difference": 1.9975145470497912e-08,
+  "source_geometry_mismatches": [],
+  "new_openings_added": false,
+  "new_roofs_or_gables_added": false,
+  "review_status": "Preview only; user selection pending"
+}
