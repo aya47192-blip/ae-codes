@@ -1,0 +1,322 @@
+{
+  "status": "source-derived conceptual elevation studies, not construction drawings",
+  "styles": {
+    "A": "ART DECO",
+    "B": "ART NOUVEAU",
+    "C": "VICTORIAN"
+  },
+  "source_sha256": "ef05f7b341f01166f8fdf57c3be2b7adf6a23abc1d8ea20419d2fe4f2d616f10",
+  "source_modified": false,
+  "same_before_after_display_bounds": {
+    "A": [
+      330,
+      1493,
+      519,
+      1610
+    ],
+    "B": [
+      361,
+      1043,
+      535,
+      1250
+    ],
+    "C": [
+      651,
+      701,
+      939,
+      885
+    ]
+  },
+  "enclosures": {
+    "A": [
+      {
+        "bounds": [
+          349.05,
+          1525.6,
+          372.4,
+          1549.04
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART DECO"
+      },
+      {
+        "bounds": [
+          349.05,
+          1551.36,
+          372.4,
+          1577.25
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART DECO"
+      },
+      {
+        "bounds": [
+          473.76,
+          1525.6,
+          496.9,
+          1549.04
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART DECO"
+      },
+      {
+        "bounds": [
+          473.76,
+          1551.36,
+          496.9,
+          1577.25
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART DECO"
+      }
+    ],
+    "B": [
+      {
+        "bounds": [
+          398.35,
+          1094.45,
+          414.35,
+          1118.88
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          398.35,
+          1119.6433,
+          414.35,
+          1144.0733
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          398.35,
+          1144.8366,
+          414.35,
+          1169.2666000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          398.35,
+          1170.0299,
+          414.35,
+          1194.4599
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          398.35,
+          1195.2232000000001,
+          414.35,
+          1219.6532000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          477.65,
+          1094.45,
+          493.55,
+          1118.88
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          477.65,
+          1119.6433,
+          493.55,
+          1144.0733
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          477.65,
+          1144.8366,
+          493.55,
+          1169.2666000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          477.65,
+          1170.0299,
+          493.55,
+          1194.4599
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          477.65,
+          1195.2232000000001,
+          493.55,
+          1219.6532000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          431.25,
+          1093.75,
+          460.25,
+          1118.1
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          431.25,
+          1118.95,
+          460.25,
+          1143.25
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          431.25,
+          1144.15,
+          460.25,
+          1169.5
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      },
+      {
+        "bounds": [
+          427.4,
+          1170.4,
+          464.1,
+          1194.55
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "ART NOUVEAU"
+      }
+    ],
+    "C": [
+      {
+        "bounds": [
+          721.1,
+          762.45,
+          749.7,
+          791.45
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      },
+      {
+        "bounds": [
+          721.1,
+          792.25,
+          749.7,
+          821.35
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      },
+      {
+        "bounds": [
+          721.1,
+          822.15,
+          749.7,
+          849.95
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      },
+      {
+        "bounds": [
+          851.75,
+          762.45,
+          880.35,
+          791.45
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      },
+      {
+        "bounds": [
+          851.75,
+          792.25,
+          880.35,
+          821.35
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      },
+      {
+        "bounds": [
+          851.75,
+          822.15,
+          880.35,
+          849.95
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      },
+      {
+        "bounds": [
+          782.05,
+          762.45,
+          818.95,
+          791.45
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "VICTORIAN"
+      }
+    ]
+  },
+  "structural_scope": "No changes proposed to masses, existing slabs, roof silhouettes, levels, or rear structural openings. Elevation-only glazing study; plan enclosure depth not inferred.",
+  "balcony_replacement": "Full-height front glazing; original rear doors/windows remain behind it. Existing Juliet guards removed without inventing slabs. Roof parapets resurfaced at original height.",
+  "checks": {
+    "original_dwg_hash_unchanged": true,
+    "pdf_pages": 3,
+    "before_after_same_coordinates_and_display_limits": true,
+    "rendering": "Source CAD paths, selectively occluded by proposed facade surfaces; no image tracing.",
+    "not_verified": "Construction feasibility, enclosure depth, structure, thermal/ventilation requirements cannot be verified from elevation studies alone."
+  }
+}
