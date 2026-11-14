@@ -1,0 +1,1025 @@
+{
+  "preserved_options": {
+    "01_Art_Deco": {
+      "byte_identical_to_previous_delivery": true,
+      "dwg_sha256": "b29b432bb530cbcb03cbd5ef7e065ceebaf6a346afc990bbeafd724a67275946"
+    },
+    "02_Greek_Revival": {
+      "byte_identical_to_previous_delivery": true,
+      "dwg_sha256": "71bbb8d1b3bc29cb8d1fe7fe56e1ba2a2935fb5b4256cee5ffbe717f4857f924"
+    }
+  },
+  "C": {
+    "style": "Modern Classic with replacement cladding and classical French windows",
+    "components": {
+      "COLUMN": 2,
+      "ENCLOSURE": 7,
+      "WINDOW": 43
+    },
+    "windows": [
+      {
+        "replacement_casing_bounds": [
+          722.75,
+          768.4900000000001,
+          734.25,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          723.57,
+          769.45,
+          733.43,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          736.55,
+          768.4900000000001,
+          748.05,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          737.37,
+          769.45,
+          747.2299999999999,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          722.75,
+          798.311,
+          734.25,
+          819.45
+        ],
+        "glazing_bounds": [
+          723.57,
+          799.271,
+          733.43,
+          818.2
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          736.55,
+          798.311,
+          748.05,
+          819.45
+        ],
+        "glazing_bounds": [
+          737.37,
+          799.271,
+          747.2299999999999,
+          818.2
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          722.75,
+          827.938,
+          734.25,
+          848.0500000000001
+        ],
+        "glazing_bounds": [
+          723.57,
+          828.8979999999999,
+          733.43,
+          846.8000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          736.55,
+          827.938,
+          748.05,
+          848.0500000000001
+        ],
+        "glazing_bounds": [
+          737.37,
+          828.8979999999999,
+          747.2299999999999,
+          846.8000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          853.4,
+          768.4900000000001,
+          864.9,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          854.22,
+          769.45,
+          864.0799999999999,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          867.2,
+          768.4900000000001,
+          878.7,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          868.0200000000001,
+          769.45,
+          877.88,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          853.4,
+          798.311,
+          864.9,
+          819.45
+        ],
+        "glazing_bounds": [
+          854.22,
+          799.271,
+          864.0799999999999,
+          818.2
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          867.2,
+          798.311,
+          878.7,
+          819.45
+        ],
+        "glazing_bounds": [
+          868.0200000000001,
+          799.271,
+          877.88,
+          818.2
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          853.4,
+          827.938,
+          864.9,
+          848.0500000000001
+        ],
+        "glazing_bounds": [
+          854.22,
+          828.8979999999999,
+          864.0799999999999,
+          846.8000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          867.2,
+          827.938,
+          878.7,
+          848.0500000000001
+        ],
+        "glazing_bounds": [
+          868.0200000000001,
+          828.8979999999999,
+          877.88,
+          846.8000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          783.6999999999999,
+          768.4900000000001,
+          793.3666666666667,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          784.52,
+          769.45,
+          792.5466666666666,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          795.6666666666666,
+          768.4900000000001,
+          805.3333333333334,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          796.4866666666667,
+          769.45,
+          804.5133333333333,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          807.6333333333333,
+          768.4900000000001,
+          817.3000000000001,
+          789.5500000000001
+        ],
+        "glazing_bounds": [
+          808.4533333333334,
+          769.45,
+          816.48,
+          788.3000000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "new_front_within_existing_balcony",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          670.0016,
+          766.7715,
+          679.8894,
+          785.6059
+        ],
+        "glazing_bounds": [
+          672.1516,
+          768.5714999999999,
+          677.7394,
+          783.5059
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          670.0016,
+          796.4349,
+          679.8894,
+          815.2692
+        ],
+        "glazing_bounds": [
+          672.1516,
+          798.2348999999999,
+          677.7394,
+          813.1691999999999
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          670.0016,
+          826.0982,
+          679.8894,
+          846.28
+        ],
+        "glazing_bounds": [
+          672.1516,
+          827.8982,
+          677.7394,
+          843.38
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          682.1216,
+          766.7715,
+          695.1855,
+          785.6059
+        ],
+        "glazing_bounds": [
+          684.2715999999999,
+          768.5714999999999,
+          693.0355000000001,
+          783.5059
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          682.1216,
+          796.4349,
+          695.1855,
+          815.2692
+        ],
+        "glazing_bounds": [
+          684.2715999999999,
+          798.2348999999999,
+          693.0355000000001,
+          813.1691999999999
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          682.1216,
+          826.0982,
+          695.1855,
+          846.28
+        ],
+        "glazing_bounds": [
+          684.2715999999999,
+          827.8982,
+          693.0355000000001,
+          843.38
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          697.4178,
+          766.7715,
+          707.3055,
+          785.6059
+        ],
+        "glazing_bounds": [
+          699.5678,
+          768.5714999999999,
+          705.1555000000001,
+          783.5059
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          697.4178,
+          796.4349,
+          707.3055,
+          815.2692
+        ],
+        "glazing_bounds": [
+          699.5678,
+          798.2348999999999,
+          705.1555000000001,
+          813.1691999999999
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          697.4178,
+          826.0982,
+          707.3055,
+          846.28
+        ],
+        "glazing_bounds": [
+          699.5678,
+          827.8982,
+          705.1555000000001,
+          843.38
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          893.8251,
+          766.7715,
+          903.7129,
+          785.6059
+        ],
+        "glazing_bounds": [
+          895.9751,
+          768.5714999999999,
+          901.5629,
+          783.5059
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          893.8251,
+          796.4349,
+          903.7129,
+          815.2692
+        ],
+        "glazing_bounds": [
+          895.9751,
+          798.2348999999999,
+          901.5629,
+          813.1691999999999
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          893.8251,
+          826.0982,
+          903.7129,
+          846.28
+        ],
+        "glazing_bounds": [
+          895.9751,
+          827.8982,
+          901.5629,
+          843.38
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          905.9451,
+          766.7715,
+          919.009,
+          785.6059
+        ],
+        "glazing_bounds": [
+          908.0951,
+          768.5714999999999,
+          916.859,
+          783.5059
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          905.9451,
+          796.4349,
+          919.009,
+          815.2692
+        ],
+        "glazing_bounds": [
+          908.0951,
+          798.2348999999999,
+          916.859,
+          813.1691999999999
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          905.9451,
+          826.0982,
+          919.009,
+          846.28
+        ],
+        "glazing_bounds": [
+          908.0951,
+          827.8982,
+          916.859,
+          843.38
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          921.2413,
+          766.7715,
+          931.1291,
+          785.6059
+        ],
+        "glazing_bounds": [
+          923.3913,
+          768.5714999999999,
+          928.9791,
+          783.5059
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          921.2413,
+          796.4349,
+          931.1291,
+          815.2692
+        ],
+        "glazing_bounds": [
+          923.3913,
+          798.2348999999999,
+          928.9791,
+          813.1691999999999
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          921.2413,
+          826.0982,
+          931.1291,
+          846.28
+        ],
+        "glazing_bounds": [
+          923.3913,
+          827.8982,
+          928.9791,
+          843.38
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          784.59506,
+          796.21,
+          799.007256,
+          815.494
+        ],
+        "glazing_bounds": [
+          786.123394,
+          798.01,
+          797.478922,
+          813.394
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          784.59506,
+          826.0,
+          799.007256,
+          846.5
+        ],
+        "glazing_bounds": [
+          786.123394,
+          827.8,
+          797.478922,
+          843.4
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          802.123406,
+          796.21,
+          816.535603,
+          815.494
+        ],
+        "glazing_bounds": [
+          803.6517409999999,
+          798.01,
+          815.0072680000001,
+          813.394
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          802.123406,
+          826.0,
+          816.535603,
+          846.5
+        ],
+        "glazing_bounds": [
+          803.6517409999999,
+          827.8,
+          815.0072680000001,
+          843.4
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": true,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          711.5753,
+          775.9851,
+          717.8675,
+          784.0751
+        ],
+        "glazing_bounds": [
+          712.4753,
+          777.0350999999999,
+          716.9675,
+          782.4251
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          711.5753,
+          805.6485,
+          717.8675,
+          813.7385
+        ],
+        "glazing_bounds": [
+          712.4753,
+          806.6985,
+          716.9675,
+          812.0885000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          711.5753,
+          836.6369,
+          717.8675,
+          844.7269
+        ],
+        "glazing_bounds": [
+          712.4753,
+          837.6868999999999,
+          716.9675,
+          843.0769
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          883.2632,
+          775.9851,
+          889.5554,
+          784.0751
+        ],
+        "glazing_bounds": [
+          884.1632,
+          777.0350999999999,
+          888.6554,
+          782.4251
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          883.2632,
+          805.6485,
+          889.5554,
+          813.7385
+        ],
+        "glazing_bounds": [
+          884.1632,
+          806.6985,
+          888.6554,
+          812.0885000000001
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          883.2632,
+          836.6369,
+          889.5554,
+          844.7269
+        ],
+        "glazing_bounds": [
+          884.1632,
+          837.6868999999999,
+          888.6554,
+          843.0769
+        ],
+        "style": "Classical French sash with moulded surround",
+        "arched_head": false,
+        "role": "existing_opening",
+        "existing_structural_opening": "retained behind replacement framing/infill"
+      }
+    ],
+    "enclosures": [
+      {
+        "bounds": [
+          721.1,
+          762.45,
+          749.7,
+          791.45
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 2,
+        "solid_plinth_height": 6.09,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      },
+      {
+        "bounds": [
+          721.1,
+          792.25,
+          749.7,
+          821.35
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 2,
+        "solid_plinth_height": 6.111000000000004,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      },
+      {
+        "bounds": [
+          721.1,
+          822.15,
+          749.7,
+          849.95
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 2,
+        "solid_plinth_height": 5.838000000000014,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      },
+      {
+        "bounds": [
+          851.75,
+          762.45,
+          880.35,
+          791.45
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 2,
+        "solid_plinth_height": 6.09,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      },
+      {
+        "bounds": [
+          851.75,
+          792.25,
+          880.35,
+          821.35
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 2,
+        "solid_plinth_height": 6.111000000000004,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      },
+      {
+        "bounds": [
+          851.75,
+          822.15,
+          880.35,
+          849.95
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 2,
+        "solid_plinth_height": 5.838000000000014,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      },
+      {
+        "bounds": [
+          782.05,
+          762.45,
+          818.95,
+          791.45
+        ],
+        "type": "solid_plinth_and_wall_piers_with_classical_windows",
+        "window_count": 3,
+        "solid_plinth_height": 6.09,
+        "source_slab_limits_unchanged": true,
+        "rear_existing_openings": "retained behind new nonstructural infill"
+      }
+    ],
+    "recladding": {
+      "whole_body_skin_replaces_old_surface_linework": true,
+      "roof_outline_retained_from_source_faces": true,
+      "roof_face_source_bounds": [
+        [
+          663.035226,
+          848.546832,
+          713.373042,
+          863.902623
+        ],
+        [
+          887.75762,
+          848.546832,
+          938.095436,
+          863.902623
+        ],
+        [
+          720.384381,
+          850.344611,
+          750.415108,
+          864.750474
+        ],
+        [
+          850.715554,
+          850.344611,
+          880.746281,
+          864.750474
+        ]
+      ],
+      "ground_existing_apertures_preserved": [
+        [
+          672.473567,
+          704.6,
+          718.316935,
+          732.4
+        ],
+        [
+          672.473567,
+          742.0,
+          718.316935,
+          756.6
+        ],
+        [
+          722.811383,
+          704.6,
+          760.564745,
+          732.4
+        ],
+        [
+          722.811383,
+          742.0,
+          760.564745,
+          756.6
+        ],
+        [
+          765.059193,
+          704.6,
+          798.318107,
+          732.4
+        ],
+        [
+          765.059193,
+          742.0,
+          798.318107,
+          756.6
+        ],
+        [
+          803.262,
+          704.6,
+          836.071469,
+          732.4
+        ],
+        [
+          803.262,
+          742.0,
+          836.071469,
+          756.6
+        ],
+        [
+          842.549862,
+          704.6,
+          876.5215,
+          732.4
+        ],
+        [
+          842.549862,
+          742.0,
+          876.5215,
+          756.6
+        ],
+        [
+          882.999893,
+          704.6,
+          925.061537,
+          732.4
+        ],
+        [
+          882.999893,
+          742.0,
+          925.061537,
+          756.6
+        ]
+      ],
+      "balcony_infill": "Solid plinth and wall piers with separate classical French windows; no continuous curtain wall",
+      "unchanged_other_options": "A Art Deco and B Greek Revival are copied byte-for-byte"
+    },
+    "source_native_primitives_in_reference": 14709,
+    "retained_source_primitives_after_whole_body_cladding": 1278,
+    "checks": {
+      "modelspace_entities": 1413,
+      "cad_types": {
+        "LINE": 9658,
+        "ARC": 5705,
+        "ELLIPSE": 576,
+        "CIRCLE": 20,
+        "LWPOLYLINE": 542
+      },
+      "audit_errors": 0,
+      "audit_fixes_on_reopen": 0
+    }
+  },
+  "combined_checks": {
+    "modelspace_entities": 6187,
+    "cad_types": {
+      "LINE": 26538,
+      "ARC": 6518,
+      "LWPOLYLINE": 986,
+      "ELLIPSE": 1124,
+      "CIRCLE": 72,
+      "SPLINE": 14
+    },
+    "audit_errors": 0,
+    "audit_fixes_on_reopen": 0
+  },
+  "units_flag": 1,
+  "numeric_scale_preserved": true,
+  "AutoCAD_Desktop_open_tested": false
+}
