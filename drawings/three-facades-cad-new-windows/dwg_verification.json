@@ -1,0 +1,46 @@
+{
+  "00_Three_Facades": {
+    "dwg_version": "AutoCAD 2000 (AC1015)",
+    "geometry_signatures_equal_after_dwg_roundtrip": true,
+    "precision_in_source_units": 1e-07,
+    "native_entity_count_including_hidden_reference": 37928,
+    "units_flag_preserved": true,
+    "source_reference_layer_off": true,
+    "roundtrip_audit_errors": 0,
+    "roundtrip_audit_fixes": 0,
+    "dwg_bytes": 2242736
+  },
+  "01_Art_Deco": {
+    "dwg_version": "AutoCAD 2000 (AC1015)",
+    "geometry_signatures_equal_after_dwg_roundtrip": true,
+    "precision_in_source_units": 1e-07,
+    "native_entity_count_including_hidden_reference": 8702,
+    "units_flag_preserved": true,
+    "source_reference_layer_off": true,
+    "roundtrip_audit_errors": 0,
+    "roundtrip_audit_fixes": 0,
+    "dwg_bytes": 487218
+  },
+  "02_Art_Nouveau": {
+    "dwg_version": "AutoCAD 2000 (AC1015)",
+    "geometry_signatures_equal_after_dwg_roundtrip": true,
+    "precision_in_source_units": 1e-07,
+    "native_entity_count_including_hidden_reference": 10505,
+    "units_flag_preserved": true,
+    "source_reference_layer_off": true,
+    "roundtrip_audit_errors": 0,
+    "roundtrip_audit_fixes": 0,
+    "dwg_bytes": 623339
+  },
+  "03_Victorian": {
+    "dwg_version": "AutoCAD 2000 (AC1015)",
+    "geometry_signatures_equal_after_dwg_roundtrip": true,
+    "precision_in_source_units": 1e-07,
+    "native_entity_count_including_hidden_reference": 18721,
+    "units_flag_preserved": true,
+    "source_reference_layer_off": true,
+    "roundtrip_audit_errors": 0,
+    "roundtrip_audit_fixes": 0,
+    "dwg_bytes": 1142374
+  }
+}
