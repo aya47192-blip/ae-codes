@@ -1,0 +1,945 @@
+{
+  "accepted_A_kept_unchanged": true,
+  "third_style_status": "Modern Classic selected by the user",
+  "styles": {
+    "A": "ART DECO",
+    "B": "SIMPLIFIED GREEK REVIVAL",
+    "C": "MODERN CLASSIC"
+  },
+  "A": {
+    "byte_identical_to_previously_delivered_Art_Deco": true
+  },
+  "B": {
+    "style": "SIMPLIFIED GREEK REVIVAL",
+    "components": {
+      "ENCLOSURE": 14,
+      "WINDOW": 12
+    },
+    "windows": [
+      {
+        "replacement_casing_bounds": [
+          374.4121,
+          1097.1903,
+          388.83910000000003,
+          1114.8901
+        ],
+        "glazing_bounds": [
+          377.2921,
+          1099.4503,
+          385.9291,
+          1111.35014
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          374.4121,
+          1122.3835,
+          388.83910000000003,
+          1140.0833
+        ],
+        "glazing_bounds": [
+          377.2921,
+          1124.6435,
+          385.9291,
+          1136.54334
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          374.4121,
+          1145.7531,
+          388.83910000000003,
+          1165.3476
+        ],
+        "glazing_bounds": [
+          377.2921,
+          1148.0131,
+          385.9291,
+          1158.5976
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          374.4121,
+          1172.7697999999998,
+          388.83910000000003,
+          1190.4696
+        ],
+        "glazing_bounds": [
+          377.2921,
+          1175.0297999999998,
+          385.9291,
+          1186.9296399999998
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          374.4121,
+          1196.1395,
+          388.83910000000003,
+          1215.7340000000002
+        ],
+        "glazing_bounds": [
+          377.2921,
+          1198.3995,
+          385.9291,
+          1208.9840000000002
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          502.63840000000005,
+          1097.1903,
+          517.0654999999999,
+          1114.8901
+        ],
+        "glazing_bounds": [
+          505.51840000000004,
+          1099.4503,
+          514.1555,
+          1111.35014
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          502.63840000000005,
+          1122.3835,
+          517.0654999999999,
+          1140.0833
+        ],
+        "glazing_bounds": [
+          505.51840000000004,
+          1124.6435,
+          514.1555,
+          1136.54334
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          502.63840000000005,
+          1145.7531,
+          517.0654999999999,
+          1165.3476
+        ],
+        "glazing_bounds": [
+          505.51840000000004,
+          1148.0131,
+          514.1555,
+          1158.5976
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          502.63840000000005,
+          1172.7697999999998,
+          517.0654999999999,
+          1190.4696
+        ],
+        "glazing_bounds": [
+          505.51840000000004,
+          1175.0297999999998,
+          514.1555,
+          1186.9296399999998
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          502.63840000000005,
+          1196.1395,
+          517.0654999999999,
+          1215.7340000000002
+        ],
+        "glazing_bounds": [
+          505.51840000000004,
+          1198.3995,
+          514.1555,
+          1208.9840000000002
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          431.1033,
+          1200,
+          443.7214,
+          1214.65
+        ],
+        "glazing_bounds": [
+          433.0233,
+          1201.7,
+          441.8014,
+          1211.72
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          447.7261,
+          1200,
+          460.34430000000003,
+          1214.65
+        ],
+        "glazing_bounds": [
+          449.6461,
+          1201.7,
+          458.4243,
+          1211.72
+        ],
+        "style": "SIMPLIFIED GREEK REVIVAL",
+        "existing_opening": "retained behind new casing/head infill"
+      }
+    ],
+    "enclosures": [
+      {
+        "bounds": [
+          398.35,
+          1094.45,
+          414.35,
+          1118.88
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          398.35,
+          1119.6433,
+          414.35,
+          1144.0733
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          398.35,
+          1144.8366,
+          414.35,
+          1169.2666000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          398.35,
+          1170.0299,
+          414.35,
+          1194.4599
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          398.35,
+          1195.2232000000001,
+          414.35,
+          1219.6532000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          477.65,
+          1094.45,
+          493.55,
+          1118.88
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          477.65,
+          1119.6433,
+          493.55,
+          1144.0733
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          477.65,
+          1144.8366,
+          493.55,
+          1169.2666000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          477.65,
+          1170.0299,
+          493.55,
+          1194.4599
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          477.65,
+          1195.2232000000001,
+          493.55,
+          1219.6532000000002
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          431.25,
+          1093.75,
+          460.25,
+          1118.1
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          431.25,
+          1118.95,
+          460.25,
+          1143.25
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          431.25,
+          1144.15,
+          460.25,
+          1169.5
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      },
+      {
+        "bounds": [
+          427.4,
+          1170.4,
+          464.1,
+          1194.55
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "SIMPLIFIED GREEK REVIVAL"
+      }
+    ],
+    "checks": {
+      "modelspace_entities": 1165,
+      "cad_types": {
+        "ARC": 346,
+        "LINE": 8889,
+        "ELLIPSE": 548,
+        "CIRCLE": 52,
+        "LWPOLYLINE": 200,
+        "SPLINE": 14
+      },
+      "audit_errors": 0,
+      "audit_fixes_on_reopen": 0
+    }
+  },
+  "C": {
+    "style": "MODERN CLASSIC",
+    "components": {
+      "ENCLOSURE": 7,
+      "WINDOW": 28
+    },
+    "windows": [
+      {
+        "replacement_casing_bounds": [
+          670.0016,
+          766.7715,
+          679.8894,
+          785.6059
+        ],
+        "glazing_bounds": [
+          671.7814040000001,
+          768.3715,
+          678.109596,
+          782.969084
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          670.0016,
+          796.4349,
+          679.8894,
+          815.2692
+        ],
+        "glazing_bounds": [
+          671.7814040000001,
+          798.0349,
+          678.109596,
+          812.632398
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          670.0016,
+          826.0982,
+          679.8894,
+          846.28
+        ],
+        "glazing_bounds": [
+          671.7814040000001,
+          827.6982,
+          678.109596,
+          840.48
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          682.1216,
+          766.7715,
+          695.1855,
+          785.6059
+        ],
+        "glazing_bounds": [
+          683.9505459999999,
+          768.3715,
+          693.3565540000001,
+          782.969084
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          682.1216,
+          796.4349,
+          695.1855,
+          815.2692
+        ],
+        "glazing_bounds": [
+          683.9505459999999,
+          798.0349,
+          693.3565540000001,
+          812.632398
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          682.1216,
+          826.0982,
+          695.1855,
+          846.28
+        ],
+        "glazing_bounds": [
+          683.9505459999999,
+          827.6982,
+          693.3565540000001,
+          840.48
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          697.4178,
+          766.7715,
+          707.3055,
+          785.6059
+        ],
+        "glazing_bounds": [
+          699.197586,
+          768.3715,
+          705.5257140000001,
+          782.969084
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          697.4178,
+          796.4349,
+          707.3055,
+          815.2692
+        ],
+        "glazing_bounds": [
+          699.197586,
+          798.0349,
+          705.5257140000001,
+          812.632398
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          697.4178,
+          826.0982,
+          707.3055,
+          846.28
+        ],
+        "glazing_bounds": [
+          699.197586,
+          827.6982,
+          705.5257140000001,
+          840.48
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          893.8251,
+          766.7715,
+          903.7129,
+          785.6059
+        ],
+        "glazing_bounds": [
+          895.604904,
+          768.3715,
+          901.933096,
+          782.969084
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          893.8251,
+          796.4349,
+          903.7129,
+          815.2692
+        ],
+        "glazing_bounds": [
+          895.604904,
+          798.0349,
+          901.933096,
+          812.632398
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          893.8251,
+          826.0982,
+          903.7129,
+          846.28
+        ],
+        "glazing_bounds": [
+          895.604904,
+          827.6982,
+          901.933096,
+          840.48
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          905.9451,
+          766.7715,
+          919.009,
+          785.6059
+        ],
+        "glazing_bounds": [
+          907.774046,
+          768.3715,
+          917.180054,
+          782.969084
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          905.9451,
+          796.4349,
+          919.009,
+          815.2692
+        ],
+        "glazing_bounds": [
+          907.774046,
+          798.0349,
+          917.180054,
+          812.632398
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          905.9451,
+          826.0982,
+          919.009,
+          846.28
+        ],
+        "glazing_bounds": [
+          907.774046,
+          827.6982,
+          917.180054,
+          840.48
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          921.2413,
+          766.7715,
+          931.1291,
+          785.6059
+        ],
+        "glazing_bounds": [
+          923.021104,
+          768.3715,
+          929.349296,
+          782.969084
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          921.2413,
+          796.4349,
+          931.1291,
+          815.2692
+        ],
+        "glazing_bounds": [
+          923.021104,
+          798.0349,
+          929.349296,
+          812.632398
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          921.2413,
+          826.0982,
+          931.1291,
+          846.28
+        ],
+        "glazing_bounds": [
+          923.021104,
+          827.6982,
+          929.349296,
+          840.48
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          785.4939,
+          796.21,
+          798.1084,
+          815.494
+        ],
+        "glazing_bounds": [
+          787.5122200000001,
+          797.8100000000001,
+          796.09008,
+          812.7942400000001
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          785.4939,
+          826.7724,
+          798.1084,
+          846.4955
+        ],
+        "glazing_bounds": [
+          787.5122200000001,
+          828.3724,
+          796.09008,
+          840.9955
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          802.1234,
+          796.21,
+          816.985,
+          815.494
+        ],
+        "glazing_bounds": [
+          804.501256,
+          797.8100000000001,
+          814.607144,
+          812.7942400000001
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          802.1234,
+          826.7724,
+          816.985,
+          846.4955
+        ],
+        "glazing_bounds": [
+          804.501256,
+          828.3724,
+          814.607144,
+          840.9955
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          711.5753,
+          775.9851,
+          717.8675,
+          784.0751
+        ],
+        "glazing_bounds": [
+          712.1252999999999,
+          776.4851,
+          717.3175,
+          782.9425
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          711.5753,
+          805.6485,
+          717.8675,
+          813.7385
+        ],
+        "glazing_bounds": [
+          712.1252999999999,
+          806.1485,
+          717.3175,
+          812.6059
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          711.5753,
+          836.6369,
+          717.8675,
+          844.7269
+        ],
+        "glazing_bounds": [
+          712.1252999999999,
+          837.1369,
+          717.3175,
+          843.5943
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          883.2632,
+          775.9851,
+          889.5554,
+          784.0751
+        ],
+        "glazing_bounds": [
+          883.8131999999999,
+          776.4851,
+          889.0054,
+          782.9425
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          883.2632,
+          805.6485,
+          889.5554,
+          813.7385
+        ],
+        "glazing_bounds": [
+          883.8131999999999,
+          806.1485,
+          889.0054,
+          812.6059
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      },
+      {
+        "replacement_casing_bounds": [
+          883.2632,
+          836.6369,
+          889.5554,
+          844.7269
+        ],
+        "glazing_bounds": [
+          883.8131999999999,
+          837.1369,
+          889.0054,
+          843.5943
+        ],
+        "style": "MODERN CLASSIC",
+        "existing_opening": "retained behind new casing/head infill"
+      }
+    ],
+    "enclosures": [
+      {
+        "bounds": [
+          721.1,
+          762.45,
+          749.7,
+          791.45
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      },
+      {
+        "bounds": [
+          721.1,
+          792.25,
+          749.7,
+          821.35
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      },
+      {
+        "bounds": [
+          721.1,
+          822.15,
+          749.7,
+          849.95
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      },
+      {
+        "bounds": [
+          851.75,
+          762.45,
+          880.35,
+          791.45
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      },
+      {
+        "bounds": [
+          851.75,
+          792.25,
+          880.35,
+          821.35
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      },
+      {
+        "bounds": [
+          851.75,
+          822.15,
+          880.35,
+          849.95
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      },
+      {
+        "bounds": [
+          782.05,
+          762.45,
+          818.95,
+          791.45
+        ],
+        "type": "full_height_front_glazing",
+        "existing_rear_openings": "retained behind glazing",
+        "style": "MODERN CLASSIC"
+      }
+    ],
+    "checks": {
+      "modelspace_entities": 2254,
+      "cad_types": {
+        "LINE": 10496,
+        "ARC": 5788,
+        "ELLIPSE": 576,
+        "CIRCLE": 25,
+        "LWPOLYLINE": 277
+      },
+      "audit_errors": 0,
+      "audit_fixes_on_reopen": 0
+    }
+  },
+  "combined_checks": {
+    "modelspace_entities": 7028,
+    "cad_types": {
+      "LINE": 27376,
+      "ARC": 6601,
+      "LWPOLYLINE": 721,
+      "ELLIPSE": 1124,
+      "CIRCLE": 77,
+      "SPLINE": 14
+    },
+    "audit_errors": 0,
+    "audit_fixes_on_reopen": 0
+  },
+  "source_units_flag": 1,
+  "numeric_coordinate_scale_preserved": true
+}
