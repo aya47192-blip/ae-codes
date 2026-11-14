@@ -1,0 +1,20 @@
+{
+  "source_file": "Ayaa_Restaurant_Neoclassical_LINEWORK.dwg",
+  "source_sha256": "fa572806063f141988e01ee0a16742f8641a9a86693770542dddae60b400d6f4",
+  "INSUNITS": 6,
+  "unit": "metre",
+  "chairs": 284,
+  "banquettes": 14,
+  "tables": 80,
+  "measurements_m": {
+    "middle_aisle_envelope_clearance": 1.858,
+    "lower_connection_between_six_seat_groups": 1.066,
+    "example_cross_row_envelope_clearance_1": 1.469,
+    "example_cross_row_envelope_clearance_2": 1.388,
+    "gap_before_long_table_row": 0.883,
+    "lower_row_gap": 1.09,
+    "adjacent_middle_tables_gap": 0.364,
+    "column_1381_to_upper_chair_row_gap": 0.791
+  },
+  "basis": "Furniture as drawn. Group envelopes include drawn chairs. No additional chair pull-out or occupied movement allowance. Not an egress/code certification. Proposal is a diagram only. Uploaded source DWG unchanged."
+}
