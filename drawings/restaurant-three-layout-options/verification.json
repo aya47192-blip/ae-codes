@@ -1,0 +1,164 @@
+{
+  "layouts": {
+    "01_Axial_Neoclassical": {
+      "chairs": 312,
+      "banquettes": 14,
+      "architecture_entities_unchanged": 261,
+      "DXF_audit_errors": 0,
+      "DXF_audit_fixes": 0,
+      "furniture_intersections": [],
+      "furniture_column_intersections": [],
+      "reserved_route_intersections": [],
+      "chairs_farther_than_0_9m_from_connected_1m_walkway": [
+        [
+          "21EF",
+          1.0872,
+          [
+            13.079,
+            2.5
+          ]
+        ]
+      ],
+      "walkway_width_test_m": 1.0,
+      "main_spine_width_m": 1.8,
+      "main_free_area_m2": 169.30824686452786,
+      "all_chairs_unit_scale": true,
+      "CAD_Desktop_open_tested": false,
+      "individual_seat_approach_width_test_m": 0.6,
+      "unreached_individual_seats": [],
+      "tables_farther_than_1_1m_from_1m_service_network": []
+    },
+    "02_East_Family_Modern": {
+      "chairs": 304,
+      "banquettes": 14,
+      "architecture_entities_unchanged": 261,
+      "DXF_audit_errors": 0,
+      "DXF_audit_fixes": 0,
+      "furniture_intersections": [],
+      "furniture_column_intersections": [],
+      "reserved_route_intersections": [],
+      "chairs_farther_than_0_9m_from_connected_1m_walkway": [
+        [
+          "21EB",
+          1.0906,
+          [
+            13.079,
+            2.5
+          ]
+        ],
+        [
+          "23D6",
+          0.9048,
+          [
+            9.175,
+            20.275
+          ]
+        ],
+        [
+          "23DF",
+          0.9048,
+          [
+            10.775,
+            20.275
+          ]
+        ],
+        [
+          "23F5",
+          0.9048,
+          [
+            15.175,
+            20.275
+          ]
+        ]
+      ],
+      "walkway_width_test_m": 1.0,
+      "main_spine_width_m": 1.8,
+      "main_free_area_m2": 171.00720576515272,
+      "all_chairs_unit_scale": true,
+      "CAD_Desktop_open_tested": false,
+      "individual_seat_approach_width_test_m": 0.6,
+      "unreached_individual_seats": [],
+      "tables_farther_than_1_1m_from_1m_service_network": []
+    },
+    "03_Woven_Bohemian": {
+      "chairs": 300,
+      "banquettes": 14,
+      "architecture_entities_unchanged": 261,
+      "DXF_audit_errors": 0,
+      "DXF_audit_fixes": 0,
+      "furniture_intersections": [],
+      "furniture_column_intersections": [],
+      "reserved_route_intersections": [],
+      "chairs_farther_than_0_9m_from_connected_1m_walkway": [
+        [
+          "2209",
+          1.0913,
+          [
+            13.079,
+            2.5
+          ]
+        ]
+      ],
+      "walkway_width_test_m": 1.0,
+      "main_spine_width_m": 1.8,
+      "main_free_area_m2": 180.73040632502529,
+      "all_chairs_unit_scale": true,
+      "CAD_Desktop_open_tested": false,
+      "individual_seat_approach_width_test_m": 0.6,
+      "unreached_individual_seats": [],
+      "tables_farther_than_1_1m_from_1m_service_network": []
+    }
+  },
+  "native_DWG_readback": {
+    "01_Axial_Neoclassical": {
+      "DWG_version": "AutoCAD 2000",
+      "chairs_after_native_readback": 312,
+      "all_geometry_signatures_equal_to_DXF": true,
+      "roundtrip_audit_errors": 0,
+      "roundtrip_audit_fixes": 0,
+      "units": "metres",
+      "native_DWG_bytes": 580252,
+      "Desktop_open_tested": false
+    },
+    "02_East_Family_Modern": {
+      "DWG_version": "AutoCAD 2000",
+      "chairs_after_native_readback": 304,
+      "all_geometry_signatures_equal_to_DXF": true,
+      "roundtrip_audit_errors": 0,
+      "roundtrip_audit_fixes": 0,
+      "units": "metres",
+      "native_DWG_bytes": 542567,
+      "Desktop_open_tested": false
+    },
+    "03_Woven_Bohemian": {
+      "DWG_version": "AutoCAD 2000",
+      "chairs_after_native_readback": 300,
+      "all_geometry_signatures_equal_to_DXF": true,
+      "roundtrip_audit_errors": 0,
+      "roundtrip_audit_fixes": 0,
+      "units": "metres",
+      "native_DWG_bytes": 543902,
+      "Desktop_open_tested": false
+    }
+  },
+  "entrance_connectivity": {
+    "01_Axial_Neoclassical": {
+      "staff_approach_lower_right": 0.0,
+      "guest_approach_upper_left": 0.0,
+      "upper_door_inner_approach": 0.0
+    },
+    "02_East_Family_Modern": {
+      "staff_approach_lower_right": 0.0,
+      "guest_approach_upper_left": 0.0,
+      "upper_door_inner_approach": 0.0
+    },
+    "03_Woven_Bohemian": {
+      "staff_approach_lower_right": 0.0,
+      "guest_approach_upper_left": 0.0,
+      "upper_door_inner_approach": 0.0
+    }
+  },
+  "bar_role": "Fixed orders / drinks service counter. Adjacent lower opening is staff/service access. Bar geometry retained, service approach unoccupied.",
+  "source_file": "Ayaa_Restaurant_Neoclassical_LINEWORK.dwg",
+  "source_SHA256": "fa572806063f141988e01ee0a16742f8641a9a86693770542dddae60b400d6f4"
+}
