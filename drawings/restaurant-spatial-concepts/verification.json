@@ -1,0 +1,152 @@
+{
+  "geometry": {
+    "01_Garden_Spine": {
+      "standalone_chairs": 249,
+      "assigned_bench_dining_places": 51,
+      "total_dining_places": 300,
+      "capacity_basis": "Dining covers: individual chairs plus assigned bench places at actual tables; unserved bench length not counted.",
+      "architecture_entities_unchanged": 255,
+      "furniture_intersections": [],
+      "column_intersections": [],
+      "route_intersection_areas_m2": {
+        "main": [
+          0.0
+        ],
+        "secondary": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "service": [
+          0.0
+        ]
+      },
+      "entrance_distances_to_1m_walk_network": {
+        "staff": 0.0,
+        "guest_upper_left": 0.0,
+        "upper_door": 0.0
+      },
+      "DXF_audit_errors": 0,
+      "DXF_audit_fixes": 0,
+      "Desktop_open_tested": false
+    },
+    "02_U_Promenade": {
+      "standalone_chairs": 272,
+      "assigned_bench_dining_places": 28,
+      "total_dining_places": 300,
+      "capacity_basis": "Dining covers: individual chairs plus assigned bench places at actual tables; unserved bench length not counted.",
+      "architecture_entities_unchanged": 255,
+      "furniture_intersections": [],
+      "column_intersections": [],
+      "route_intersection_areas_m2": {
+        "main": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "secondary": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "service": [
+          0.0
+        ]
+      },
+      "entrance_distances_to_1m_walk_network": {
+        "staff": 0.0,
+        "guest_upper_left": 0.0,
+        "upper_door": 0.0
+      },
+      "DXF_audit_errors": 0,
+      "DXF_audit_fixes": 0,
+      "Desktop_open_tested": false
+    },
+    "03_Cross_Booth_Streets": {
+      "standalone_chairs": 268,
+      "assigned_bench_dining_places": 32,
+      "total_dining_places": 300,
+      "capacity_basis": "Dining covers: individual chairs plus assigned bench places at actual tables; unserved bench length not counted.",
+      "architecture_entities_unchanged": 255,
+      "furniture_intersections": [],
+      "column_intersections": [],
+      "route_intersection_areas_m2": {
+        "main": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "secondary": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "service": [
+          0.0
+        ]
+      },
+      "entrance_distances_to_1m_walk_network": {
+        "staff": 0.0,
+        "guest_upper_left": 0.0,
+        "upper_door": 0.0
+      },
+      "DXF_audit_errors": 0,
+      "DXF_audit_fixes": 0,
+      "Desktop_open_tested": false
+    }
+  },
+  "native_DWG_readback": {
+    "01_Garden_Spine": {
+      "DWG_version": "AutoCAD 2000",
+      "chairs_after_native_readback": 249,
+      "all_geometry_signatures_equal_to_DXF": true,
+      "roundtrip_audit_errors": 0,
+      "roundtrip_audit_fixes": 0,
+      "units": "metres",
+      "native_DWG_bytes": 607278,
+      "Desktop_open_tested": false
+    },
+    "02_U_Promenade": {
+      "DWG_version": "AutoCAD 2000",
+      "chairs_after_native_readback": 272,
+      "all_geometry_signatures_equal_to_DXF": true,
+      "roundtrip_audit_errors": 0,
+      "roundtrip_audit_fixes": 0,
+      "units": "metres",
+      "native_DWG_bytes": 607009,
+      "Desktop_open_tested": false
+    },
+    "03_Cross_Booth_Streets": {
+      "DWG_version": "AutoCAD 2000",
+      "chairs_after_native_readback": 268,
+      "all_geometry_signatures_equal_to_DXF": true,
+      "roundtrip_audit_errors": 0,
+      "roundtrip_audit_fixes": 0,
+      "units": "metres",
+      "native_DWG_bytes": 606033,
+      "Desktop_open_tested": false
+    }
+  },
+  "table_service_and_seat_approach": {
+    "01_Garden_Spine": {
+      "table_service": [],
+      "individual_chair": []
+    },
+    "02_U_Promenade": {
+      "table_service": [],
+      "individual_chair": []
+    },
+    "03_Cross_Booth_Streets": {
+      "table_service": [],
+      "individual_chair": []
+    }
+  },
+  "capacity_basis": "300 total dining places per option = individual chairs + assigned bench places. This is the stated working assumption pending user clarification; not 300 freestanding chairs.",
+  "archived_prior_options_modified": false,
+  "source": "02_Modern_Extended_Family_Benches.dxf",
+  "no_rendering_lighting_or_raster_references_in_CAD": true
+}
