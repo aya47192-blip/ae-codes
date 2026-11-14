@@ -1,0 +1,467 @@
+[
+  {
+    "code": "BF01",
+    "name": "BF01_Kilim_Medallion",
+    "title": "Kilim Medallion",
+    "title_ar": "نسيج تراثي بدرجات الطين",
+    "category": "Bohemian Artwork",
+    "shape": "square",
+    "frame_width_m": 0.6,
+    "frame_height_m": 0.6,
+    "depth_m": 0.045,
+    "outer_frame_rail_m": 0.035,
+    "frame_finish": "Natural Walnut",
+    "art_bounds_m": [
+      -0.234,
+      -0.02235,
+      0.06647272727272727,
+      0.234,
+      -0.02235,
+      0.5335272727272727
+    ],
+    "art_crop_pixels": [
+      10,
+      10,
+      505,
+      504
+    ],
+    "art_atlas": "square",
+    "art_aspect_ratio": 1.0020242914979758,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF02",
+    "name": "BF02_Olive_And_Palm",
+    "title": "Olive And Palm",
+    "title_ar": "زيتون وسعف نخيل",
+    "category": "Bohemian Artwork",
+    "shape": "square",
+    "frame_width_m": 0.7,
+    "frame_height_m": 0.7,
+    "depth_m": 0.045,
+    "outer_frame_rail_m": 0.035,
+    "frame_finish": "Light Oak + rattan liner",
+    "art_bounds_m": [
+      -0.27399999999999997,
+      -0.02235,
+      0.07600000000000001,
+      0.27399999999999997,
+      -0.02235,
+      0.6239999999999999
+    ],
+    "art_crop_pixels": [
+      521,
+      10,
+      1015,
+      504
+    ],
+    "art_atlas": "square",
+    "art_aspect_ratio": 1.0,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF03",
+    "name": "BF03_Oasis_Layers",
+    "title": "Oasis Layers",
+    "title_ar": "واحة وطبقات الصحراء",
+    "category": "Bohemian Artwork",
+    "shape": "square",
+    "frame_width_m": 0.8,
+    "frame_height_m": 0.8,
+    "depth_m": 0.045,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Natural Walnut + brushed metal bead",
+    "art_bounds_m": [
+      -0.327,
+      -0.02235,
+      0.07366060606060609,
+      0.327,
+      -0.02235,
+      0.726339393939394
+    ],
+    "art_crop_pixels": [
+      1031,
+      10,
+      1526,
+      504
+    ],
+    "art_atlas": "square",
+    "art_aspect_ratio": 1.0020242914979758,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF04",
+    "name": "BF04_Handmade_Earth_Collage",
+    "title": "Handmade Earth Collage",
+    "title_ar": "كولاج الورق والخامات الطبيعية",
+    "category": "Bohemian Artwork",
+    "shape": "square",
+    "frame_width_m": 0.9,
+    "frame_height_m": 0.9,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Warm Charcoal Timber + rattan liner",
+    "art_bounds_m": [
+      -0.35400000000000004,
+      -0.027049999999999998,
+      0.09599999999999997,
+      0.35400000000000004,
+      -0.027049999999999998,
+      0.804
+    ],
+    "art_crop_pixels": [
+      10,
+      520,
+      505,
+      1015
+    ],
+    "art_atlas": "square",
+    "art_aspect_ratio": 1.0,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF05",
+    "name": "BF05_Indigo_Block_Print",
+    "title": "Indigo Block Print",
+    "title_ar": "طباعة نباتية نيليّة",
+    "category": "Bohemian Artwork",
+    "shape": "square",
+    "frame_width_m": 1.0,
+    "frame_height_m": 1.0,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Light Oak + rattan liner",
+    "art_bounds_m": [
+      -0.4031838383838384,
+      -0.027049999999999998,
+      0.09599999999999997,
+      0.4031838383838384,
+      -0.027049999999999998,
+      0.904
+    ],
+    "art_crop_pixels": [
+      521,
+      520,
+      1015,
+      1015
+    ],
+    "art_atlas": "square",
+    "art_aspect_ratio": 0.997979797979798,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF06",
+    "name": "BF06_Heron_And_Papyrus",
+    "title": "Heron And Papyrus",
+    "title_ar": "بلشون وورق البردي",
+    "category": "Bohemian Artwork",
+    "shape": "portrait",
+    "frame_width_m": 0.6,
+    "frame_height_m": 0.9,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Light Oak",
+    "art_bounds_m": [
+      -0.214,
+      -0.027049999999999998,
+      0.12637745098039221,
+      0.214,
+      -0.027049999999999998,
+      0.7736225490196078
+    ],
+    "art_crop_pixels": [
+      6,
+      6,
+      414,
+      623
+    ],
+    "art_atlas": "portrait",
+    "art_aspect_ratio": 0.6612641815235009,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF07",
+    "name": "BF07_Date_Palm_Study",
+    "title": "Date Palm Study",
+    "title_ar": "دراسة نخلة وملمس الورق",
+    "category": "Bohemian Artwork",
+    "shape": "portrait",
+    "frame_width_m": 0.7,
+    "frame_height_m": 1.05,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Natural Walnut + brushed metal bead + rattan liner",
+    "art_bounds_m": [
+      -0.254,
+      -0.027049999999999998,
+      0.13804197530864198,
+      0.254,
+      -0.027049999999999998,
+      0.9119580246913581
+    ],
+    "art_crop_pixels": [
+      425,
+      6,
+      830,
+      623
+    ],
+    "art_atlas": "portrait",
+    "art_aspect_ratio": 0.6564019448946515,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF08",
+    "name": "BF08_Courtyard_Memory",
+    "title": "Courtyard Memory",
+    "title_ar": "ذاكرة فناء تراثي",
+    "category": "Bohemian Artwork",
+    "shape": "portrait",
+    "frame_width_m": 0.8,
+    "frame_height_m": 1.2,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.05,
+    "frame_finish": "Light Oak + rattan liner",
+    "art_bounds_m": [
+      -0.29600000000000004,
+      -0.027049999999999998,
+      0.15016748768472898,
+      0.29600000000000004,
+      -0.027049999999999998,
+      1.049832512315271
+    ],
+    "art_crop_pixels": [
+      841,
+      6,
+      1247,
+      623
+    ],
+    "art_atlas": "portrait",
+    "art_aspect_ratio": 0.6580226904376013,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF09",
+    "name": "BF09_Woven_Heritage",
+    "title": "Woven Heritage",
+    "title_ar": "نسيج يدوي طولي",
+    "category": "Bohemian Artwork",
+    "shape": "portrait",
+    "frame_width_m": 0.65,
+    "frame_height_m": 1.0,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Warm Charcoal Timber + brushed metal bead",
+    "art_bounds_m": [
+      -0.23900000000000002,
+      -0.027049999999999998,
+      0.1397426470588235,
+      0.23900000000000002,
+      -0.027049999999999998,
+      0.8602573529411766
+    ],
+    "art_crop_pixels": [
+      6,
+      632,
+      414,
+      1247
+    ],
+    "art_atlas": "portrait",
+    "art_aspect_ratio": 0.6634146341463415,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF10",
+    "name": "BF10_Wild_Grass_Collage",
+    "title": "Wild Grass Collage",
+    "title_ar": "كولاج أعشاب ونباتات",
+    "category": "Bohemian Artwork",
+    "shape": "portrait",
+    "frame_width_m": 0.9,
+    "frame_height_m": 1.35,
+    "depth_m": 0.065,
+    "outer_frame_rail_m": 0.05,
+    "frame_finish": "Light Oak",
+    "art_bounds_m": [
+      -0.35600000000000004,
+      -0.03175,
+      0.13440740740740742,
+      0.35600000000000004,
+      -0.03175,
+      1.2155925925925928
+    ],
+    "art_crop_pixels": [
+      425,
+      632,
+      830,
+      1247
+    ],
+    "art_atlas": "portrait",
+    "art_aspect_ratio": 0.6585365853658537,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF11",
+    "name": "BF11_Dunes_And_Palms",
+    "title": "Dunes And Palms",
+    "title_ar": "كثبان ونخيل",
+    "category": "Bohemian Artwork",
+    "shape": "landscape",
+    "frame_width_m": 0.9,
+    "frame_height_m": 0.6,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Natural Walnut + brushed metal bead",
+    "art_bounds_m": [
+      -0.3238918918918919,
+      -0.027049999999999998,
+      0.086,
+      0.3238918918918919,
+      -0.027049999999999998,
+      0.514
+    ],
+    "art_crop_pixels": [
+      6,
+      6,
+      622,
+      413
+    ],
+    "art_atlas": "landscape",
+    "art_aspect_ratio": 1.5135135135135136,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF12",
+    "name": "BF12_Meadow_Specimens",
+    "title": "Meadow Specimens",
+    "title_ar": "تكوين زهور وأعشاب",
+    "category": "Bohemian Artwork",
+    "shape": "landscape",
+    "frame_width_m": 1.1,
+    "frame_height_m": 0.75,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.042,
+    "frame_finish": "Light Oak + rattan liner",
+    "art_bounds_m": [
+      -0.42089926289926294,
+      -0.027049999999999998,
+      0.09599999999999997,
+      0.42089926289926294,
+      -0.027049999999999998,
+      0.654
+    ],
+    "art_crop_pixels": [
+      632,
+      6,
+      1246,
+      413
+    ],
+    "art_atlas": "landscape",
+    "art_aspect_ratio": 1.5085995085995085,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF13",
+    "name": "BF13_Mineral_Strata",
+    "title": "Mineral Strata",
+    "title_ar": "طبقات معدنية وكولاج",
+    "category": "Bohemian Artwork",
+    "shape": "landscape",
+    "frame_width_m": 1.2,
+    "frame_height_m": 0.8,
+    "depth_m": 0.055,
+    "outer_frame_rail_m": 0.05,
+    "frame_finish": "Warm Charcoal Timber + brushed metal bead",
+    "art_bounds_m": [
+      -0.4642758620689656,
+      -0.027049999999999998,
+      0.09399999999999997,
+      0.4642758620689656,
+      -0.027049999999999998,
+      0.7060000000000001
+    ],
+    "art_crop_pixels": [
+      6,
+      425,
+      622,
+      831
+    ],
+    "art_atlas": "landscape",
+    "art_aspect_ratio": 1.5172413793103448,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF14",
+    "name": "BF14_Ikat_And_Kilim",
+    "title": "Ikat And Kilim",
+    "title_ar": "تكوين إيكات وكليم",
+    "category": "Bohemian Artwork",
+    "shape": "landscape",
+    "frame_width_m": 1.4,
+    "frame_height_m": 0.9,
+    "depth_m": 0.065,
+    "outer_frame_rail_m": 0.05,
+    "frame_finish": "Light Oak + rattan liner",
+    "art_bounds_m": [
+      -0.5232610837438424,
+      -0.03175,
+      0.10399999999999998,
+      0.5232610837438424,
+      -0.03175,
+      0.796
+    ],
+    "art_crop_pixels": [
+      632,
+      425,
+      1246,
+      831
+    ],
+    "art_atlas": "landscape",
+    "art_aspect_ratio": 1.5123152709359606,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  },
+  {
+    "code": "BF15",
+    "name": "BF15_Quiet_Shore_Birds",
+    "title": "Quiet Shore Birds",
+    "title_ar": "طيور الشاطئ الهادئ",
+    "category": "Bohemian Artwork",
+    "shape": "landscape",
+    "frame_width_m": 1.5,
+    "frame_height_m": 1.0,
+    "depth_m": 0.065,
+    "outer_frame_rail_m": 0.05,
+    "frame_finish": "Natural Walnut + brushed metal bead",
+    "art_bounds_m": [
+      -0.6205856079404467,
+      -0.03175,
+      0.09399999999999997,
+      0.6205856079404467,
+      -0.03175,
+      0.906
+    ],
+    "art_crop_pixels": [
+      6,
+      842,
+      622,
+      1245
+    ],
+    "art_atlas": "landscape",
+    "art_aspect_ratio": 1.5285359801488834,
+    "installation": "back/wall plane Y=0; bottom insertion Z=0; front faces -Y; move complete component",
+    "artwork_method": "New printed artwork texture embedded inside physical 3D frame; image relief is depicted, not sculpted"
+  }
+]
