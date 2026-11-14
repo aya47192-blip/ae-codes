@@ -1,0 +1,2473 @@
+{
+  "input_dwg_sha256": "630de17fa965b57bc84f4d296b932f581758cc46cf2332bdb2a1317b28dd1929",
+  "input_file_is_user_assembled_three_facades": true,
+  "source_modelspace_entities": 3983,
+  "output_modelspace_entities": 3983,
+  "geometric_entities_added": 0,
+  "geometric_entities_removed": 0,
+  "geometric_entities_modified": 488,
+  "endpoint_extensions": 585,
+  "arc_gap_extensions": 0,
+  "max_single_endpoint_extension_source_units": 1.6499999999999773,
+  "max_perpendicular_movement_source_units": 5.5208592649031006e-14,
+  "total_existing_line_length_extended_source_units": 119.63033470206238,
+  "original_line_intervals_preserved": true,
+  "all_block_definition_geometry_unchanged": true,
+  "all_insert_positions_rotations_scales_unchanged": true,
+  "curves_and_closed_profiles_unchanged": true,
+  "remaining_detected_unambiguous_endpoint_gaps": 0,
+  "intentionally_open_ornament_endings_preserved": true,
+  "no_designs_restored_from_prior_files": true,
+  "endpoint_extensions_by_facade": {
+    "A": 216,
+    "B": 155,
+    "C": 214
+  },
+  "units_flag_preserved": true,
+  "units_flag": 0,
+  "DXF_audit_errors": 0,
+  "DXF_audit_fixes": 0,
+  "AutoCAD_Desktop_tested": false,
+  "modified_entities": [
+    {
+      "handle": "49DD",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "49DE",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "49DF",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "49E0",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "49E1",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "49E2",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "49F2",
+      "type": "LINE",
+      "length_added": 0.020734158811137604
+    },
+    {
+      "handle": "49FA",
+      "type": "LINE",
+      "length_added": 0.020734158811137604
+    },
+    {
+      "handle": "49FC",
+      "type": "LINE",
+      "length_added": 0.020734158812956593
+    },
+    {
+      "handle": "4A01",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A02",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A08",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A09",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A0A",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A0B",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A0C",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A0D",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A14",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A15",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A16",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A17",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A18",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A19",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A1D",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A1E",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A24",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4A57",
+      "type": "LINE",
+      "length_added": 0.007815145916652
+    },
+    {
+      "handle": "4AA6",
+      "type": "LINE",
+      "length_added": 0.007815145915060384
+    },
+    {
+      "handle": "4ADA",
+      "type": "LINE",
+      "length_added": 0.0207341588120471
+    },
+    {
+      "handle": "4B03",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B09",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B0A",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B0F",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B13",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B14",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B15",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B16",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B17",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B18",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B1F",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B20",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B21",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B22",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B23",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B24",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B2A",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B2B",
+      "type": "LINE",
+      "length_added": 0.029999999899928298
+    },
+    {
+      "handle": "4B31",
+      "type": "LINE",
+      "length_added": 0.02073415881022811
+    },
+    {
+      "handle": "4BDA",
+      "type": "LINE",
+      "length_added": 0.45999999989999196
+    },
+    {
+      "handle": "4BE0",
+      "type": "LINE",
+      "length_added": 0.9199999997999839
+    },
+    {
+      "handle": "4BE4",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4BE5",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4BE8",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4BEA",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4BEE",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4BF5",
+      "type": "LINE",
+      "length_added": 0.45999999989999196
+    },
+    {
+      "handle": "4C99",
+      "type": "LINE",
+      "length_added": 0.45999999989999196
+    },
+    {
+      "handle": "4CA0",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4CA4",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4CA6",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4CA9",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CAA",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CAE",
+      "type": "LINE",
+      "length_added": 0.9199999997999839
+    },
+    {
+      "handle": "4CB3",
+      "type": "LINE",
+      "length_added": 0.03322757710134416
+    },
+    {
+      "handle": "4CB4",
+      "type": "LINE",
+      "length_added": 0.45999999989999196
+    },
+    {
+      "handle": "4CBB",
+      "type": "LINE",
+      "length_added": 0.9199999997999839
+    },
+    {
+      "handle": "4CBF",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CC0",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CD9",
+      "type": "LINE",
+      "length_added": 0.9199999997999839
+    },
+    {
+      "handle": "4CDD",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CDE",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CF7",
+      "type": "LINE",
+      "length_added": 0.9199999997999839
+    },
+    {
+      "handle": "4CFB",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4CFC",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4D0F",
+      "type": "LINE",
+      "length_added": 0.45999999989999196
+    },
+    {
+      "handle": "4D16",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4D1A",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4D1C",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4D1F",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4D20",
+      "type": "LINE",
+      "length_added": 0.9599999997999475
+    },
+    {
+      "handle": "4D24",
+      "type": "LINE",
+      "length_added": 0.9199999997999839
+    },
+    {
+      "handle": "4D2A",
+      "type": "LINE",
+      "length_added": 0.45999999989999196
+    },
+    {
+      "handle": "4E6A",
+      "type": "LINE",
+      "length_added": 1.858889297384053
+    },
+    {
+      "handle": "4E6B",
+      "type": "LINE",
+      "length_added": 1.8588894637811109
+    },
+    {
+      "handle": "4E6C",
+      "type": "LINE",
+      "length_added": 1.858889334000196
+    },
+    {
+      "handle": "4E6D",
+      "type": "LINE",
+      "length_added": 1.4094444633674357
+    },
+    {
+      "handle": "4E6E",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4E6F",
+      "type": "LINE",
+      "length_added": 0.4799999998999738
+    },
+    {
+      "handle": "4E70",
+      "type": "LINE",
+      "length_added": 1.8188892973840893
+    },
+    {
+      "handle": "4E71",
+      "type": "LINE",
+      "length_added": 1.8188894637811472
+    },
+    {
+      "handle": "4E72",
+      "type": "LINE",
+      "length_added": 1.8188893340002323
+    },
+    {
+      "handle": "4E73",
+      "type": "LINE",
+      "length_added": 1.369444463367472
+    },
+    {
+      "handle": "4E74",
+      "type": "LINE",
+      "length_added": 1.3694446313890012
+    },
+    {
+      "handle": "4E75",
+      "type": "LINE",
+      "length_added": 1.3694446330182473
+    },
+    {
+      "handle": "4E7B",
+      "type": "LINE",
+      "length_added": 0.02073415881022811
+    },
+    {
+      "handle": "515E",
+      "type": "LWPOLYLINE",
+      "length_added": 0.039999980083734954
+    },
+    {
+      "handle": "515F",
+      "type": "LWPOLYLINE",
+      "length_added": 0.045181487321769964
+    },
+    {
+      "handle": "5160",
+      "type": "LWPOLYLINE",
+      "length_added": 0.045181729957789685
+    },
+    {
+      "handle": "5161",
+      "type": "LWPOLYLINE",
+      "length_added": 0.03999961066369906
+    },
+    {
+      "handle": "5162",
+      "type": "LWPOLYLINE",
+      "length_added": 0.04000085329869307
+    },
+    {
+      "handle": "5163",
+      "type": "LWPOLYLINE",
+      "length_added": 0.03999998008453076
+    },
+    {
+      "handle": "5164",
+      "type": "LWPOLYLINE",
+      "length_added": 0.045181729957676
+    },
+    {
+      "handle": "5165",
+      "type": "LWPOLYLINE",
+      "length_added": 0.045181487321769964
+    },
+    {
+      "handle": "5166",
+      "type": "LWPOLYLINE",
+      "length_added": 0.03999985329971878
+    },
+    {
+      "handle": "5167",
+      "type": "LWPOLYLINE",
+      "length_added": 0.040000610663696534
+    },
+    {
+      "handle": "516F",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4814362358398512
+    },
+    {
+      "handle": "5170",
+      "type": "LWPOLYLINE",
+      "length_added": 0.8399999999999181
+    },
+    {
+      "handle": "5171",
+      "type": "LWPOLYLINE",
+      "length_added": 0.48209853312141604
+    },
+    {
+      "handle": "5172",
+      "type": "LWPOLYLINE",
+      "length_added": 0.061436235839892106
+    },
+    {
+      "handle": "5173",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "5174",
+      "type": "LWPOLYLINE",
+      "length_added": 3.2999999999999545
+    },
+    {
+      "handle": "5175",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "5176",
+      "type": "LWPOLYLINE",
+      "length_added": 0.06209853312145697
+    },
+    {
+      "handle": "5177",
+      "type": "LWPOLYLINE",
+      "length_added": 0.061436235839892106
+    },
+    {
+      "handle": "5178",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "5179",
+      "type": "LWPOLYLINE",
+      "length_added": 3.2999999999999545
+    },
+    {
+      "handle": "517A",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "517B",
+      "type": "LWPOLYLINE",
+      "length_added": 0.06209853312145697
+    },
+    {
+      "handle": "517C",
+      "type": "LWPOLYLINE",
+      "length_added": 0.061436235839892106
+    },
+    {
+      "handle": "517D",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "517E",
+      "type": "LWPOLYLINE",
+      "length_added": 3.2999999999999545
+    },
+    {
+      "handle": "517F",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "5180",
+      "type": "LWPOLYLINE",
+      "length_added": 0.06209853312145697
+    },
+    {
+      "handle": "5181",
+      "type": "LWPOLYLINE",
+      "length_added": 0.061436235839892106
+    },
+    {
+      "handle": "5182",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "5183",
+      "type": "LWPOLYLINE",
+      "length_added": 3.2999999999999545
+    },
+    {
+      "handle": "5184",
+      "type": "LWPOLYLINE",
+      "length_added": 1.6499999999999773
+    },
+    {
+      "handle": "5185",
+      "type": "LWPOLYLINE",
+      "length_added": 0.06209853312145697
+    },
+    {
+      "handle": "5186",
+      "type": "LWPOLYLINE",
+      "length_added": 0.5208808700035661
+    },
+    {
+      "handle": "5187",
+      "type": "LWPOLYLINE",
+      "length_added": 0.8988894438456327
+    },
+    {
+      "handle": "5188",
+      "type": "LWPOLYLINE",
+      "length_added": 0.8988894438465422
+    },
+    {
+      "handle": "5189",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4494445733093926
+    },
+    {
+      "handle": "518A",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4494444634674437
+    },
+    {
+      "handle": "518B",
+      "type": "LWPOLYLINE",
+      "length_added": 0.44944463148897285
+    },
+    {
+      "handle": "518C",
+      "type": "LWPOLYLINE",
+      "length_added": 0.5259848700300154
+    },
+    {
+      "handle": "518D",
+      "type": "LWPOLYLINE",
+      "length_added": 0.5208808700035661
+    },
+    {
+      "handle": "518E",
+      "type": "LWPOLYLINE",
+      "length_added": 0.8988894438456327
+    },
+    {
+      "handle": "518F",
+      "type": "LWPOLYLINE",
+      "length_added": 0.8988894438465422
+    },
+    {
+      "handle": "5190",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4494445733093926
+    },
+    {
+      "handle": "5191",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4494444634674437
+    },
+    {
+      "handle": "5192",
+      "type": "LWPOLYLINE",
+      "length_added": 0.44944463148897285
+    },
+    {
+      "handle": "5193",
+      "type": "LWPOLYLINE",
+      "length_added": 0.5259848700300154
+    },
+    {
+      "handle": "5194",
+      "type": "LWPOLYLINE",
+      "length_added": 0.14797647275167947
+    },
+    {
+      "handle": "5195",
+      "type": "LWPOLYLINE",
+      "length_added": 0.5208808700035661
+    },
+    {
+      "handle": "5196",
+      "type": "LWPOLYLINE",
+      "length_added": 0.9583502062507705
+    },
+    {
+      "handle": "5197",
+      "type": "LWPOLYLINE",
+      "length_added": 0.95835020625168
+    },
+    {
+      "handle": "5198",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4494445733093926
+    },
+    {
+      "handle": "5199",
+      "type": "LWPOLYLINE",
+      "length_added": 0.4494444634674437
+    },
+    {
+      "handle": "519A",
+      "type": "LWPOLYLINE",
+      "length_added": 0.44944463148897285
+    },
+    {
+      "handle": "519B",
+      "type": "LWPOLYLINE",
+      "length_added": 0.5259848700300154
+    },
+    {
+      "handle": "5819",
+      "type": "LINE",
+      "length_added": 0.00015457159975085233
+    },
+    {
+      "handle": "581A",
+      "type": "LINE",
+      "length_added": 0.00015457158906428958
+    },
+    {
+      "handle": "5844",
+      "type": "LINE",
+      "length_added": 0.0001545715996371655
+    },
+    {
+      "handle": "5845",
+      "type": "LINE",
+      "length_added": 0.00015457158906428958
+    },
+    {
+      "handle": "586F",
+      "type": "LINE",
+      "length_added": 0.0001545715996371655
+    },
+    {
+      "handle": "5870",
+      "type": "LINE",
+      "length_added": 0.00015457158917797642
+    },
+    {
+      "handle": "589A",
+      "type": "LINE",
+      "length_added": 0.0009029156119595427
+    },
+    {
+      "handle": "589B",
+      "type": "LINE",
+      "length_added": 0.0009029156032056562
+    },
+    {
+      "handle": "58D6",
+      "type": "LINE",
+      "length_added": 0.0013308455957968812
+    },
+    {
+      "handle": "58D7",
+      "type": "LINE",
+      "length_added": 0.010686612322956535
+    },
+    {
+      "handle": "58E8",
+      "type": "LINE",
+      "length_added": 0.005255984368886857
+    },
+    {
+      "handle": "58F0",
+      "type": "LINE",
+      "length_added": 0.010686612194831469
+    },
+    {
+      "handle": "58FC",
+      "type": "LINE",
+      "length_added": 0.004707419433998439
+    },
+    {
+      "handle": "5903",
+      "type": "LINE",
+      "length_added": 0.010686612194831469
+    },
+    {
+      "handle": "5906",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5908",
+      "type": "LINE",
+      "length_added": 0.019999999899994347
+    },
+    {
+      "handle": "590B",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "590E",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5912",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5914",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5917",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5919",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "591C",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5925",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5926",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5927",
+      "type": "LINE",
+      "length_added": 0.01999999989993745
+    },
+    {
+      "handle": "5928",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "592A",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "592B",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "592C",
+      "type": "LINE",
+      "length_added": 0.01999999989993745
+    },
+    {
+      "handle": "592D",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "592F",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5930",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "593A",
+      "type": "LINE",
+      "length_added": 0.534400218069095
+    },
+    {
+      "handle": "5959",
+      "type": "LINE",
+      "length_added": 0.03999999979993163
+    },
+    {
+      "handle": "595A",
+      "type": "LINE",
+      "length_added": 0.03999999979993163
+    },
+    {
+      "handle": "5966",
+      "type": "LINE",
+      "length_added": 0.4628815664219701
+    },
+    {
+      "handle": "5968",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "597A",
+      "type": "LINE",
+      "length_added": 0.001330845595910568
+    },
+    {
+      "handle": "597B",
+      "type": "LINE",
+      "length_added": 0.29901284464642686
+    },
+    {
+      "handle": "597E",
+      "type": "LINE",
+      "length_added": 0.019999999899994347
+    },
+    {
+      "handle": "598C",
+      "type": "LINE",
+      "length_added": 0.001330845595571284
+    },
+    {
+      "handle": "598D",
+      "type": "LINE",
+      "length_added": 0.010686612323411282
+    },
+    {
+      "handle": "5995",
+      "type": "LINE",
+      "length_added": 0.025061213346816658
+    },
+    {
+      "handle": "5999",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "599A",
+      "type": "LINE",
+      "length_added": 0.04506121324993728
+    },
+    {
+      "handle": "599B",
+      "type": "LINE",
+      "length_added": 0.019999999899937504
+    },
+    {
+      "handle": "599C",
+      "type": "LINE",
+      "length_added": 0.04506121324914153
+    },
+    {
+      "handle": "599D",
+      "type": "LINE",
+      "length_added": 0.025061170943217803
+    },
+    {
+      "handle": "599E",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59A0",
+      "type": "LINE",
+      "length_added": 0.04506121324993728
+    },
+    {
+      "handle": "59A1",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59A2",
+      "type": "LINE",
+      "length_added": 0.045061213249937365
+    },
+    {
+      "handle": "59A3",
+      "type": "LINE",
+      "length_added": 0.025061170943899924
+    },
+    {
+      "handle": "59AF",
+      "type": "LINE",
+      "length_added": 0.0013308455959121224
+    },
+    {
+      "handle": "59B0",
+      "type": "LINE",
+      "length_added": 0.2990128446460858
+    },
+    {
+      "handle": "59B2",
+      "type": "LINE",
+      "length_added": 0.045061213249937365
+    },
+    {
+      "handle": "59D3",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59D6",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59DB",
+      "type": "LINE",
+      "length_added": 0.007731143282285302
+    },
+    {
+      "handle": "59DE",
+      "type": "LINE",
+      "length_added": 0.007731143281034747
+    },
+    {
+      "handle": "59E0",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59E2",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59E4",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "59E7",
+      "type": "LINE",
+      "length_added": 0.007731143280011565
+    },
+    {
+      "handle": "59EA",
+      "type": "LINE",
+      "length_added": 0.007731143278988384
+    },
+    {
+      "handle": "5A30",
+      "type": "LINE",
+      "length_added": 0.46288156641560363
+    },
+    {
+      "handle": "5A35",
+      "type": "LINE",
+      "length_added": 0.5344002180711414
+    },
+    {
+      "handle": "5A36",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A38",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A39",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A3B",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A3C",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A40",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A42",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A43",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A44",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5A55",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5A57",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5A58",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5A5C",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A5D",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A5E",
+      "type": "LINE",
+      "length_added": 0.01999999990005108
+    },
+    {
+      "handle": "5A60",
+      "type": "LINE",
+      "length_added": 0.01999999990005108
+    },
+    {
+      "handle": "5A61",
+      "type": "LINE",
+      "length_added": 0.01999999990005108
+    },
+    {
+      "handle": "5A63",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A64",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A68",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A6A",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A6B",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A6C",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "5A7D",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "5A7F",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "5A80",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "5A84",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A85",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5A88",
+      "type": "LINE",
+      "length_added": 0.26232070748937986
+    },
+    {
+      "handle": "5ACD",
+      "type": "LINE",
+      "length_added": 0.009164629631186472
+    },
+    {
+      "handle": "5ACE",
+      "type": "LINE",
+      "length_added": 0.00916462963414233
+    },
+    {
+      "handle": "5AD1",
+      "type": "LINE",
+      "length_added": 0.06663909104759114
+    },
+    {
+      "handle": "5B29",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B2A",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B2B",
+      "type": "LINE",
+      "length_added": 0.01914475192373999
+    },
+    {
+      "handle": "5B39",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B3A",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B3C",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B3D",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B52",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B53",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B55",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B56",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B6B",
+      "type": "LINE",
+      "length_added": 0.020001711444092907
+    },
+    {
+      "handle": "5B72",
+      "type": "LINE",
+      "length_added": 0.02000171144409288
+    },
+    {
+      "handle": "5B73",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B74",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B7C",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B7D",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B7F",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B80",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "5B81",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B82",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B83",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B84",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B88",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B89",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B8A",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B8B",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "5B9C",
+      "type": "LINE",
+      "length_added": 0.0011949535939947964
+    },
+    {
+      "handle": "5B9D",
+      "type": "LINE",
+      "length_added": 0.0011949535939947964
+    },
+    {
+      "handle": "5BF6",
+      "type": "LWPOLYLINE",
+      "length_added": 0.0037276006146953478
+    },
+    {
+      "handle": "5BF7",
+      "type": "LWPOLYLINE",
+      "length_added": 0.14401308415909853
+    },
+    {
+      "handle": "5BF8",
+      "type": "LWPOLYLINE",
+      "length_added": 0.16401308416311622
+    },
+    {
+      "handle": "5BF9",
+      "type": "LWPOLYLINE",
+      "length_added": 0.14401308415978065
+    },
+    {
+      "handle": "5BFA",
+      "type": "LWPOLYLINE",
+      "length_added": 0.16401308416118354
+    },
+    {
+      "handle": "5BFB",
+      "type": "LWPOLYLINE",
+      "length_added": 0.1440130841605196
+    },
+    {
+      "handle": "5BFC",
+      "type": "LWPOLYLINE",
+      "length_added": 0.16401308415925087
+    },
+    {
+      "handle": "5BFD",
+      "type": "LWPOLYLINE",
+      "length_added": 0.14401308416120173
+    },
+    {
+      "handle": "5BFE",
+      "type": "LWPOLYLINE",
+      "length_added": 0.16401308415845506
+    },
+    {
+      "handle": "6542",
+      "type": "LINE",
+      "length_added": 0.0034003980754846452
+    },
+    {
+      "handle": "6543",
+      "type": "LINE",
+      "length_added": 1.5281432237318882
+    },
+    {
+      "handle": "6785",
+      "type": "LINE",
+      "length_added": 0.014999999900084049
+    },
+    {
+      "handle": "6786",
+      "type": "LINE",
+      "length_added": 0.014999999899970362
+    },
+    {
+      "handle": "6789",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "678C",
+      "type": "LINE",
+      "length_added": 0.003742335456990986
+    },
+    {
+      "handle": "678E",
+      "type": "LINE",
+      "length_added": 0.029999999800111254
+    },
+    {
+      "handle": "678F",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6790",
+      "type": "LINE",
+      "length_added": 0.029999999800111254
+    },
+    {
+      "handle": "6791",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6798",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "679E",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "679F",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "67A0",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "67AA",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67AB",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67AC",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67AD",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67B0",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67BB",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67BF",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "67C0",
+      "type": "LINE",
+      "length_added": 0.019999999899994236
+    },
+    {
+      "handle": "6812",
+      "type": "LINE",
+      "length_added": 0.014999999899970362
+    },
+    {
+      "handle": "6813",
+      "type": "LINE",
+      "length_added": 0.014999999899970362
+    },
+    {
+      "handle": "6842",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6843",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6844",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6845",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6846",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6847",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6848",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6849",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "684A",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "684B",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "684C",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "684D",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "684E",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "684F",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6850",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6851",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6852",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6853",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6854",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6855",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6856",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6857",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6858",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6859",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "685A",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "685B",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "685C",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "685D",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "685E",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6860",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6872",
+      "type": "LINE",
+      "length_added": 0.02174462221205431
+    },
+    {
+      "handle": "6873",
+      "type": "LINE",
+      "length_added": 9.114076874539023e-06
+    },
+    {
+      "handle": "6877",
+      "type": "LINE",
+      "length_added": 9.114076874539023e-06
+    },
+    {
+      "handle": "6881",
+      "type": "LINE",
+      "length_added": 0.014999999900084049
+    },
+    {
+      "handle": "6882",
+      "type": "LINE",
+      "length_added": 0.01499999989994194
+    },
+    {
+      "handle": "68E7",
+      "type": "LINE",
+      "length_added": 9.114076874539023e-06
+    },
+    {
+      "handle": "68E8",
+      "type": "LINE",
+      "length_added": 9.114076874539023e-06
+    },
+    {
+      "handle": "68F2",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "68F3",
+      "type": "LINE",
+      "length_added": 0.014999999899998784
+    },
+    {
+      "handle": "68F7",
+      "type": "LINE",
+      "length_added": 0.01372598410040382
+    },
+    {
+      "handle": "68F8",
+      "type": "LINE",
+      "length_added": 1.2032598624820139
+    },
+    {
+      "handle": "6A20",
+      "type": "LINE",
+      "length_added": 0.09895780305352864
+    },
+    {
+      "handle": "6AEE",
+      "type": "LINE",
+      "length_added": 0.09589678261645174
+    },
+    {
+      "handle": "6B0A",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6B3D",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B3E",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B3F",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B40",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B41",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B42",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B43",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B44",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B45",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B46",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B47",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B48",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B49",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B4A",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B4B",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B4C",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B4D",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B4E",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B4F",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B50",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B51",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B52",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B53",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B54",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B55",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B6C",
+      "type": "LINE",
+      "length_added": 0.00026500027001929993
+    },
+    {
+      "handle": "6B7F",
+      "type": "LINE",
+      "length_added": 0.9958769790558222
+    },
+    {
+      "handle": "6B96",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6BA6",
+      "type": "LINE",
+      "length_added": 0.08563521881700353
+    },
+    {
+      "handle": "6BA7",
+      "type": "LINE",
+      "length_added": 0.08563521881700353
+    },
+    {
+      "handle": "6BAC",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6BAD",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6BB4",
+      "type": "LINE",
+      "length_added": 0.995876979051701
+    },
+    {
+      "handle": "6BE1",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE2",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE3",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE4",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE5",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE6",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE7",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE8",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BE9",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BEA",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BEB",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BEC",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BED",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BEE",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BEF",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF0",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF1",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF2",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF3",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF4",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF5",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF6",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF7",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF8",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6BF9",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6C10",
+      "type": "LINE",
+      "length_added": 0.029979576815094333
+    },
+    {
+      "handle": "6C5A",
+      "type": "LINE",
+      "length_added": 0.012388651680020847
+    },
+    {
+      "handle": "6C5C",
+      "type": "LINE",
+      "length_added": 0.06578278061597947
+    },
+    {
+      "handle": "6C5E",
+      "type": "LINE",
+      "length_added": 0.07372115521027656
+    },
+    {
+      "handle": "6C60",
+      "type": "LINE",
+      "length_added": 0.03180724106287273
+    },
+    {
+      "handle": "6C61",
+      "type": "LINE",
+      "length_added": 0.1335799125403144
+    },
+    {
+      "handle": "6C63",
+      "type": "LINE",
+      "length_added": 0.0032740894743022854
+    },
+    {
+      "handle": "6C64",
+      "type": "LINE",
+      "length_added": 0.05480530350732204
+    },
+    {
+      "handle": "6C65",
+      "type": "LINE",
+      "length_added": 0.08754049132096248
+    },
+    {
+      "handle": "6C66",
+      "type": "LINE",
+      "length_added": 0.10526146100810978
+    },
+    {
+      "handle": "6C67",
+      "type": "LINE",
+      "length_added": 0.08986999781015512
+    },
+    {
+      "handle": "6C68",
+      "type": "LINE",
+      "length_added": 0.0835663398468718
+    },
+    {
+      "handle": "6C69",
+      "type": "LINE",
+      "length_added": 0.04865677000027479
+    },
+    {
+      "handle": "6C6A",
+      "type": "LINE",
+      "length_added": 0.04235311204571365
+    },
+    {
+      "handle": "6C6D",
+      "type": "LINE",
+      "length_added": 0.14296058208107112
+    },
+    {
+      "handle": "6C6E",
+      "type": "LINE",
+      "length_added": 0.13665692413310185
+    },
+    {
+      "handle": "6C71",
+      "type": "LINE",
+      "length_added": 0.03206491000087543
+    },
+    {
+      "handle": "6C72",
+      "type": "LINE",
+      "length_added": 0.025761252041048826
+    },
+    {
+      "handle": "6C75",
+      "type": "LINE",
+      "length_added": 0.09074422992676659
+    },
+    {
+      "handle": "6C76",
+      "type": "LINE",
+      "length_added": 0.08444057197061779
+    },
+    {
+      "handle": "6C77",
+      "type": "LINE",
+      "length_added": 0.14422562617770046
+    },
+    {
+      "handle": "6C78",
+      "type": "LINE",
+      "length_added": 0.13792196822323982
+    },
+    {
+      "handle": "6C7D",
+      "type": "LINE",
+      "length_added": 0.027873068003328505
+    },
+    {
+      "handle": "6C81",
+      "type": "LINE",
+      "length_added": 0.02867681322920228
+    },
+    {
+      "handle": "6C86",
+      "type": "LINE",
+      "length_added": 0.016528372791320294
+    },
+    {
+      "handle": "6C89",
+      "type": "LINE",
+      "length_added": 0.0939075500669196
+    },
+    {
+      "handle": "6C8C",
+      "type": "LINE",
+      "length_added": 0.039861031189750123
+    },
+    {
+      "handle": "6C8D",
+      "type": "LINE",
+      "length_added": 0.08177540604263647
+    },
+    {
+      "handle": "6C8E",
+      "type": "LINE",
+      "length_added": 0.10200545215160006
+    },
+    {
+      "handle": "6C97",
+      "type": "LINE",
+      "length_added": 0.02677290357484095
+    },
+    {
+      "handle": "6C9B",
+      "type": "LINE",
+      "length_added": 0.026737554841051402
+    },
+    {
+      "handle": "6CA0",
+      "type": "LINE",
+      "length_added": 0.013440242626901
+    },
+    {
+      "handle": "6CA3",
+      "type": "LINE",
+      "length_added": 0.08976682073909152
+    },
+    {
+      "handle": "6CA6",
+      "type": "LINE",
+      "length_added": 0.034810848870686535
+    },
+    {
+      "handle": "6CA7",
+      "type": "LINE",
+      "length_added": 0.07603951862386406
+    },
+    {
+      "handle": "6CA8",
+      "type": "LINE",
+      "length_added": 0.09389540838724858
+    },
+    {
+      "handle": "6CA9",
+      "type": "LINE",
+      "length_added": 0.0641687658291603
+    },
+    {
+      "handle": "6CAA",
+      "type": "LINE",
+      "length_added": 0.004086731697092017
+    },
+    {
+      "handle": "6CAB",
+      "type": "LINE",
+      "length_added": 0.19286868627401946
+    },
+    {
+      "handle": "6CAC",
+      "type": "LINE",
+      "length_added": 0.05190469998348946
+    },
+    {
+      "handle": "6CAD",
+      "type": "LINE",
+      "length_added": 0.1392350334657599
+    },
+    {
+      "handle": "6CAE",
+      "type": "LINE",
+      "length_added": 0.14569270924255343
+    },
+    {
+      "handle": "6CAF",
+      "type": "LINE",
+      "length_added": 0.03278561534965456
+    },
+    {
+      "handle": "6D25",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "6D26",
+      "type": "LINE",
+      "length_added": 0.029999999800111254
+    },
+    {
+      "handle": "6D27",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6D28",
+      "type": "LINE",
+      "length_added": 0.029999999800111254
+    },
+    {
+      "handle": "6D29",
+      "type": "LINE",
+      "length_added": 0.014999999900055627
+    },
+    {
+      "handle": "6D2B",
+      "type": "LINE",
+      "length_added": 0.010225577824940046
+    },
+    {
+      "handle": "6D31",
+      "type": "LINE",
+      "length_added": 0.5851966280046099
+    },
+    {
+      "handle": "6D32",
+      "type": "LINE",
+      "length_added": 0.5873115682651928
+    },
+    {
+      "handle": "6D42",
+      "type": "LINE",
+      "length_added": 0.0028826594135011874
+    },
+    {
+      "handle": "6D43",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D44",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D45",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D46",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D47",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D48",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "6D49",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "6D4A",
+      "type": "LINE",
+      "length_added": 0.019999999899937393
+    },
+    {
+      "handle": "6D55",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D57",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D58",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D59",
+      "type": "LINE",
+      "length_added": 0.01999999989988055
+    },
+    {
+      "handle": "6D83",
+      "type": "LWPOLYLINE",
+      "length_added": 1.0
+    },
+    {
+      "handle": "6D84",
+      "type": "LWPOLYLINE",
+      "length_added": 1.0
+    },
+    {
+      "handle": "6D85",
+      "type": "LWPOLYLINE",
+      "length_added": 1.0
+    },
+    {
+      "handle": "6D87",
+      "type": "LWPOLYLINE",
+      "length_added": 1.0
+    },
+    {
+      "handle": "6D88",
+      "type": "LWPOLYLINE",
+      "length_added": 1.0
+    },
+    {
+      "handle": "6D89",
+      "type": "LWPOLYLINE",
+      "length_added": 1.0
+    },
+    {
+      "handle": "6DAB",
+      "type": "LWPOLYLINE",
+      "length_added": 1.1999999999999886
+    },
+    {
+      "handle": "6DAD",
+      "type": "LWPOLYLINE",
+      "length_added": 1.4558315353039006
+    },
+    {
+      "handle": "6DAF",
+      "type": "LWPOLYLINE",
+      "length_added": 1.1999999999999602
+    },
+    {
+      "handle": "6DB1",
+      "type": "LWPOLYLINE",
+      "length_added": 1.1999999999999886
+    }
+  ]
+}
