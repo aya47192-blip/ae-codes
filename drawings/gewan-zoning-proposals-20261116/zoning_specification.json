@@ -1,0 +1,161 @@
+{
+  "status": "2D proposals only; no source CAD or SKP altered",
+  "palette": {
+    "building": "#E7E5DF",
+    "pool": "#32B9E9",
+    "aqua": "#0088B7",
+    "kids": "#F6A000",
+    "spa": "#A78BF5",
+    "food": "#FA688A",
+    "deck": "#BF9A5D",
+    "path": "#DDD1BE",
+    "green": "#64A008",
+    "entry": "#E3E8F0",
+    "pier": "#A5ABB2",
+    "road": "#FAFAF8"
+  },
+  "assignments": {
+    "Turtle": {
+      "building": [
+        96,
+        95,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "pool": [
+        72,
+        76,
+        109,
+        111,
+        110,
+        11,
+        21,
+        27,
+        33,
+        34,
+        64,
+        82,
+        88,
+        92
+      ],
+      "aqua": [
+        75
+      ],
+      "kids": [
+        35,
+        36,
+        38,
+        39
+      ],
+      "spa": [
+        40,
+        41,
+        42,
+        44
+      ],
+      "food": [
+        43,
+        46,
+        47,
+        48,
+        52,
+        53
+      ],
+      "deck": [
+        71,
+        73,
+        74,
+        78
+      ],
+      "path": [
+        37,
+        68,
+        69,
+        1,
+        105,
+        18,
+        16,
+        28,
+        58,
+        87
+      ],
+      "entry": [
+        93,
+        94,
+        45
+      ],
+      "green": []
+    },
+    "Shell": {
+      "building": [
+        15,
+        13,
+        23,
+        24,
+        41,
+        38,
+        55,
+        62
+      ],
+      "pool": [
+        92,
+        101
+      ],
+      "aqua": [
+        97
+      ],
+      "kids": [
+        35,
+        105,
+        106,
+        104,
+        107
+      ],
+      "spa": [
+        14,
+        16,
+        22,
+        108
+      ],
+      "food": [
+        88,
+        109,
+        87,
+        110
+      ],
+      "deck": [
+        93,
+        94,
+        96,
+        98,
+        100,
+        91
+      ],
+      "path": [
+        12,
+        25,
+        26,
+        39,
+        32,
+        33,
+        34,
+        103,
+        90
+      ],
+      "road": [
+        5
+      ],
+      "entry": [
+        40
+      ],
+      "green": []
+    }
+  },
+  "source_omissions": "Chalet footprints absent in both CAD and root SKP plans; plot labels only. Shell private pool outlines absent. Turtle piers read from corresponding SKP road face.",
+  "hotel_floor_height_m": 5,
+  "blue_roof_height_m": 1.5,
+  "hotel_floor_count": "not yet supplied"
+}
