@@ -1,0 +1,26 @@
+{
+  "README.md": {
+    "bytes": 2859,
+    "sha256": "f10e30c66cb13a03218fc1920361b0cd504fa9d1e14fe67ab45166004d49b002"
+  },
+  "Top.png": {
+    "bytes": 173237,
+    "sha256": "be1756bcf306a29b2cccbd17812196b422ceedbd6b3b4fd126b9ef19e47b264a"
+  },
+  "Front.png": {
+    "bytes": 134712,
+    "sha256": "329997efec55b0c3a0917bb2823997c2bd182064d5a11f382698af0a5a45ecfa"
+  },
+  "Perspective.png": {
+    "bytes": 188717,
+    "sha256": "e27a4285a959046e4bb49dec77aec0caddaa8dcecbe67fec46108ce153f1e8af"
+  },
+  "verification.json": {
+    "bytes": 3196,
+    "sha256": "0f41ef455bf2c9cca6457c2b56ca4d0c43d4b944da36b4014286f3c0c295f5e2"
+  },
+  "GEWAN_PALACE_Standing_11_Letters.zip": {
+    "bytes": 43811,
+    "sha256": "148df1bca19b77d8e2a24e4f96cbdb9cf6af6184d15cd9a11b3ba9b656cfd453"
+  }
+}
