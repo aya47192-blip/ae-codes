@@ -1,0 +1,133 @@
+{
+  "source": "final exported SKP read back and baked into GLB",
+  "nominal_door_leaf_pair_width_m": 2.4,
+  "tested_clear_central_width_m": 1.7,
+  "tested_heights_m": [
+    0.2,
+    1.2,
+    2.35
+  ],
+  "head_to_body_passage_test": "PASS",
+  "rear_door_test": "PASS",
+  "checks": [
+    {
+      "route": "Shore through head into dining room",
+      "x_m": -0.85,
+      "height_m": 0.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": -0.85,
+      "height_m": 1.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": -0.85,
+      "height_m": 2.35,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": 0,
+      "height_m": 0.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": 0,
+      "height_m": 1.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": 0,
+      "height_m": 2.35,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": 0.85,
+      "height_m": 0.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": 0.85,
+      "height_m": 1.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Shore through head into dining room",
+      "x_m": 0.85,
+      "height_m": 2.35,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": -0.85,
+      "height_m": 0.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": -0.85,
+      "height_m": 1.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": -0.85,
+      "height_m": 2.35,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": 0,
+      "height_m": 0.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": 0,
+      "height_m": 1.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": 0,
+      "height_m": 2.35,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": 0.85,
+      "height_m": 0.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": 0.85,
+      "height_m": 1.2,
+      "obstructions_at_m_from_start": []
+    },
+    {
+      "route": "Rear dining door to sea terrace",
+      "x_m": 0.85,
+      "height_m": 2.35,
+      "obstructions_at_m_from_start": []
+    }
+  ],
+  "approved_geometry_preservation": {
+    "M01_Turtle_Skylight_Restaurant__ROOF_Carapace_Removable": {
+      "vertices_identical": true,
+      "face_count_identical": true
+    },
+    "M01_Turtle_Skylight_Restaurant__DECK_Promenades_Piles": {
+      "vertices_identical": true,
+      "face_count_identical": true
+    }
+  },
+  "note": "geometric route probes; not an evacuation-code certification"
+}
