@@ -1,0 +1,56 @@
+[
+  {
+    "family": "Turtle",
+    "name_ar": "السلحفاة",
+    "file": "01_Turtle_All_16.skp",
+    "native_file": "01_Turtle_All_16.skp",
+    "components": 16,
+    "bytes": 43416633,
+    "sha256": "fb050c4ecb4427cdc63c62b58cc2aa2d4bfb4342e583079d0fccd6258aa2401a"
+  },
+  {
+    "family": "Fish",
+    "name_ar": "قشور السمك",
+    "file": "02_Fish_All_16.skp",
+    "native_file": "02_Fish_All_16.skp",
+    "components": 16,
+    "bytes": 54175203,
+    "sha256": "a5f73a35a9b726008dcc28d135a8c561e98d443b0065735f1b91884e9d5377ae"
+  },
+  {
+    "family": "GeoShell",
+    "name_ar": "الصدفة الهندسية",
+    "file": "03_GeoShell_All_16.skp",
+    "native_file": "03_GeoShell_All_16.skp",
+    "components": 16,
+    "bytes": 65720890,
+    "sha256": "fb2b8c4a470153d7f20fb9bf00ef1bfcac7e1604af7c2946738b48b7461706f0"
+  },
+  {
+    "family": "Star",
+    "name_ar": "نجم البحر",
+    "file": "04_Star_All_16.skp",
+    "native_file": "04_Star_All_16.skp",
+    "components": 16,
+    "bytes": 49637375,
+    "sha256": "72fba038eacdb04e49d9354cad7b05b6a23e8879d66f5f40604c45ed6c568ccd"
+  },
+  {
+    "family": "Crab",
+    "name_ar": "السلطعون",
+    "file": "05_Crab_All_16.skp",
+    "native_file": "05_Crab_All_16.skp",
+    "components": 16,
+    "bytes": 39221827,
+    "sha256": "0cd55641ee400236a418d3c527eed01dbb21dd15b07e7920610f56d9275f784c"
+  },
+  {
+    "family": "NaturalShell",
+    "name_ar": "الصدفة الطبيعية",
+    "file": "06_NaturalShell_All_16.zip",
+    "native_file": "06_NaturalShell_All_16.skp",
+    "components": 16,
+    "bytes": 33716390,
+    "sha256": "81c70fdd14b2a299b1c05f89760d01d5e4d7a70fe108e1c2ce809901dab1e28b"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "README.md": {
+    "bytes": 2622,
+    "sha256": "4d7f2ee9c0f251803485c4564f8ad5655cb05fbf439605e98facd116db9f124e"
+  },
+  "downloads.json": {
+    "bytes": 1676,
+    "sha256": "34fa6157c3ff6ced9a2d3577cf747a82b95b616a9f61be2d1d728b2dbd52f0ac"
+  },
+  "layout_verification.json": {
+    "bytes": 1512,
+    "sha256": "f30154485ac02708f87b1f5cdba49460457d437683283e7d3f410b7e30713580"
+  },
+  "verification.json": {
+    "bytes": 53981,
+    "sha256": "f936b41531b0570dfcebd6cc31ebf50e4f982e7cc6d3ae86469b3504c238bb07"
+  },
+  "06_NaturalShell_All_16.zip": {
+    "bytes": 33716390,
+    "sha256": "81c70fdd14b2a299b1c05f89760d01d5e4d7a70fe108e1c2ce809901dab1e28b"
+  },
+  "05_Crab_All_16.skp": {
+    "bytes": 39221827,
+    "sha256": "0cd55641ee400236a418d3c527eed01dbb21dd15b07e7920610f56d9275f784c"
+  },
+  "04_Star_All_16.skp": {
+    "bytes": 49637375,
+    "sha256": "72fba038eacdb04e49d9354cad7b05b6a23e8879d66f5f40604c45ed6c568ccd"
+  },
+  "03_GeoShell_All_16.skp": {
+    "bytes": 65720890,
+    "sha256": "fb2b8c4a470153d7f20fb9bf00ef1bfcac7e1604af7c2946738b48b7461706f0"
+  },
+  "02_Fish_All_16.skp": {
+    "bytes": 54175203,
+    "sha256": "a5f73a35a9b726008dcc28d135a8c561e98d443b0065735f1b91884e9d5377ae"
+  },
+  "01_Turtle_All_16.skp": {
+    "bytes": 43416633,
+    "sha256": "fb050c4ecb4427cdc63c62b58cc2aa2d4bfb4342e583079d0fccd6258aa2401a"
+  }
+}

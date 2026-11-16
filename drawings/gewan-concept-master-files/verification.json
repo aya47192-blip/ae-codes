@@ -1,0 +1,2478 @@
+[
+  {
+    "nodes": 168,
+    "unique_faces": 164560,
+    "instances": 610,
+    "bounds_m": [
+      [
+        0.0,
+        -182.8091559574857,
+        -5.8
+      ],
+      [
+        171.47783172168533,
+        0.0,
+        12.17995692686415
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Plant_Stem",
+      "Rubber",
+      "Safety_EPDM",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "T2_Door_Frame",
+      "T2_Door_Glass",
+      "T2_Door_Hardware",
+      "Teak",
+      "Teal_Fabric",
+      "Turtle_accent",
+      "Turtle_fabric",
+      "Turtle_floor",
+      "Turtle_frame",
+      "Turtle_metal",
+      "Turtle_solid",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 43416633,
+    "sha256": "fb050c4ecb4427cdc63c62b58cc2aa2d4bfb4342e583079d0fccd6258aa2401a",
+    "family": "Turtle",
+    "file": "01_Turtle_All_16.skp",
+    "top_level_components": 16,
+    "component_names": [
+      "SP_Turtle_Compact",
+      "SP_Turtle_Freestanding",
+      "GY_Turtle_Compact",
+      "GY_Turtle_Freestanding",
+      "RE_Turtle_Compact",
+      "RE_Turtle_Freestanding",
+      "CA_Turtle_Compact",
+      "CA_Turtle_Freestanding",
+      "CH_Turtle_Compact",
+      "CH_Turtle_Freestanding",
+      "M01_Turtle_Shore_Entrance_VIP_v2",
+      "M02_Turtle_Hex_Skylight_Lounge",
+      "CP_Large_Turtle",
+      "CP_Small_Turtle",
+      "CP_Courtyard_Turtle",
+      "V3_Turtle_Kids_Area"
+    ],
+    "placements": [
+      {
+        "code": "SP_Turtle_Compact",
+        "label": "01 Spa Compact",
+        "translation_m": [
+          8.498907182964274,
+          -7.499409827815487,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -14.998819655630975,
+            -0.42
+          ],
+          [
+            16.997814365928548,
+            0.0,
+            8.044959670516088
+          ]
+        ]
+      },
+      {
+        "code": "SP_Turtle_Freestanding",
+        "label": "02 Spa Expanded",
+        "translation_m": [
+          37.496658283316094,
+          -8.999442141744947,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            26.997814365928548,
+            -17.998884283489893,
+            -0.42
+          ],
+          [
+            47.99550220070364,
+            0.0,
+            8.07995660478411
+          ]
+        ]
+      },
+      {
+        "code": "GY_Turtle_Compact",
+        "label": "03 Gym Compact",
+        "translation_m": [
+          68.49417529196074,
+          -8.499514008536023,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            57.99550220070364,
+            -16.99902801707205,
+            -0.42
+          ],
+          [
+            78.99284838321785,
+            0.0,
+            8.07995660478411
+          ]
+        ]
+      },
+      {
+        "code": "GY_Turtle_Freestanding",
+        "label": "04 Gym Expanded",
+        "translation_m": [
+          102.49142150756225,
+          -10.499548086919127,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            88.99284838321785,
+            -20.999096173838254,
+            -0.42
+          ],
+          [
+            115.98999463190665,
+            0.0,
+            8.07997558149988
+          ]
+        ]
+      },
+      {
+        "code": "RE_Turtle_Compact",
+        "label": "05 Restaurant Compact",
+        "translation_m": [
+          11.498745693406612,
+          -44.4985820291864,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -55.4785820291864,
+            -0.42
+          ],
+          [
+            22.997491386813223,
+            -34.999096173838254,
+            8.079964844441129
+          ]
+        ]
+      },
+      {
+        "code": "RE_Turtle_Freestanding",
+        "label": "06 Restaurant Expanded",
+        "translation_m": [
+          47.4961348676032,
+          -46.49862079976873,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            32.99749138681322,
+            -59.59862079976873,
+            -0.42
+          ],
+          [
+            61.99477834839318,
+            -34.999096173838254,
+            8.079979192294893
+          ]
+        ]
+      },
+      {
+        "code": "CA_Turtle_Compact",
+        "label": "07 Cafe Compact",
+        "translation_m": [
+          80.99370939182054,
+          -42.998492821811375,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            71.9947783483932,
+            -52.388492821811376,
+            -0.42
+          ],
+          [
+            89.99264043524789,
+            -34.999096173838254,
+            8.044964862451968
+          ]
+        ]
+      },
+      {
+        "code": "CA_Turtle_Freestanding",
+        "label": "08 Cafe Expanded",
+        "translation_m": [
+          110.99150828512789,
+          -44.498526516110985,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            99.99264043524789,
+            -55.47852651611099,
+            -0.42
+          ],
+          [
+            121.99037613500789,
+            -34.999096173838254,
+            8.079961049245496
+          ]
+        ]
+      },
+      {
+        "code": "CH_Turtle_Compact",
+        "label": "09 Chalet Compact",
+        "translation_m": [
+          7.499044368129102,
+          -80.59794587033743,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -92.09794587033743,
+            -0.75
+          ],
+          [
+            14.998088736258204,
+            -73.59862079976872,
+            6.6449676612670965
+          ]
+        ]
+      },
+      {
+        "code": "CH_Turtle_Freestanding",
+        "label": "10 Chalet Expanded",
+        "translation_m": [
+          33.99701977968556,
+          -81.59801744774184,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            24.998088736258204,
+            -94.09801744774184,
+            -0.75
+          ],
+          [
+            42.99595082311291,
+            -73.59862079976872,
+            6.644979295177707
+          ]
+        ]
+      },
+      {
+        "code": "M01_Turtle_Shore_Entrance_VIP_v2",
+        "label": "11 Marine restaurant ",
+        "translation_m": [
+          88.83214468827208,
+          -105.79862079976873,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            52.995950823112906,
+            -148.8091559574857,
+            -5.8
+          ],
+          [
+            124.66983608783869,
+            -73.59862079976872,
+            12.17995692686415
+          ]
+        ]
+      },
+      {
+        "code": "M02_Turtle_Hex_Skylight_Lounge",
+        "label": "12 Marine lounge and photo pavilion ",
+        "translation_m": [
+          153.07801011392945,
+          -86.6068874290383,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            134.6698360878387,
+            -105.6068874290383,
+            -5.8
+          ],
+          [
+            171.47783172168533,
+            -73.59862079976872,
+            8.543726367312031
+          ]
+        ]
+      },
+      {
+        "code": "CP_Large_Turtle",
+        "label": "13 centerpiece Large",
+        "translation_m": [
+          10.0,
+          -172.8091559574857,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -182.8091559574857,
+            -0.40000000000000013
+          ],
+          [
+            20.0,
+            -162.8091559574857,
+            4.394946728746968
+          ]
+        ]
+      },
+      {
+        "code": "CP_Small_Turtle",
+        "label": "14 centerpiece Small",
+        "translation_m": [
+          33.3,
+          -166.1091559574857,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            29.999999999999996,
+            -169.40915595748572,
+            -0.4
+          ],
+          [
+            36.599999999999994,
+            -162.8091559574857,
+            1.9829467287469675
+          ]
+        ]
+      },
+      {
+        "code": "CP_Courtyard_Turtle",
+        "label": "15 centerpiece Courtyard",
+        "translation_m": [
+          51.85,
+          -168.0591559574857,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            46.6,
+            -173.3091559574857,
+            -0.4
+          ],
+          [
+            57.1,
+            -162.8091559574857,
+            2.6849467287469673
+          ]
+        ]
+      },
+      {
+        "code": "V3_Turtle_Kids_Area",
+        "label": "16 Kids Area ",
+        "translation_m": [
+          78.6225,
+          -172.3316559574857,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            67.1,
+            -181.9016559574857,
+            -0.25
+          ],
+          [
+            90.14500000000001,
+            -162.8091559574857,
+            6.434949602034687
+          ]
+        ]
+      }
+    ],
+    "loose_edges": 0,
+    "native_readback": true,
+    "desktop_tested": false,
+    "format_version": "{17.0.1}"
+  },
+  {
+    "nodes": 362,
+    "unique_faces": 219363,
+    "instances": 834,
+    "bounds_m": [
+      [
+        0.0,
+        -146.12056985290667,
+        -5.0
+      ],
+      [
+        166.17081725679645,
+        0.0,
+        5.584750038523767
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Safety_EPDM",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 54175203,
+    "sha256": "a5f73a35a9b726008dcc28d135a8c561e98d443b0065735f1b91884e9d5377ae",
+    "family": "Fish",
+    "file": "02_Fish_All_16.skp",
+    "top_level_components": 16,
+    "component_names": [
+      "V3_Fish_Spa_Compact",
+      "V3_Fish_Spa_Expanded",
+      "V3_Fish_Gym_Compact",
+      "V3_Fish_Gym_Expanded",
+      "V3_Fish_Restaurant_Compact",
+      "V3_Fish_Restaurant_Expanded",
+      "V3_Fish_Cafe_Compact",
+      "V3_Fish_Cafe_Expanded",
+      "V3_Fish_Chalet_Compact",
+      "V3_Fish_Chalet_Expanded",
+      "V3_Fish_Marine_Restaurant",
+      "V3_Fish_Marine_Lounge_Photo",
+      "V3_Fish_Centerpiece_Large",
+      "V3_Fish_Centerpiece_Small",
+      "V3_Fish_Centerpiece_Courtyard",
+      "V3_Fish_Kids_Area"
+    ],
+    "placements": [
+      {
+        "code": "V3_Fish_Spa_Compact",
+        "label": "01 Spa Compact",
+        "translation_m": [
+          14.389119090371986,
+          -11.33274278690498,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -21.90274278690498,
+            -0.25
+          ],
+          [
+            28.531569775561127,
+            0.0,
+            5.323628178043381
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Spa_Expanded",
+        "label": "02 Spa Expanded",
+        "translation_m": [
+          55.08856285040653,
+          -13.139801556700892,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            38.531569775561124,
+            -25.08100155670089,
+            -0.25
+          ],
+          [
+            71.34500571153472,
+            0.0,
+            5.323815723517642
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Gym_Compact",
+        "label": "03 Gym Compact",
+        "translation_m": [
+          92.18902884578347,
+          -13.332964267858895,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            81.34500571153472,
+            -21.452964267858896,
+            -0.25
+          ],
+          [
+            106.25295456623161,
+            0.0,
+            5.323949379066361
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Gym_Expanded",
+        "label": "04 Gym Expanded",
+        "translation_m": [
+          128.7908506035571,
+          -15.460004364393257,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            116.25295456623161,
+            -24.559204364393256,
+            -0.25
+          ],
+          [
+            144.97070126416037,
+            0.0,
+            5.324057309766786
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Restaurant_Compact",
+        "label": "05 Restaurant Compact",
+        "translation_m": [
+          13.960031725194433,
+          -53.41412703456039,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -64.34084041268844,
+            -0.25
+          ],
+          [
+            29.483062250298453,
+            -39.08100155670089,
+            5.324011428311463
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Restaurant_Expanded",
+        "label": "06 Restaurant Expanded",
+        "translation_m": [
+          55.57294208329924,
+          -55.70115339195185,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            39.48306225029846,
+            -68.05437409960905,
+            -0.25
+          ],
+          [
+            73.4311044701628,
+            -39.08100155670089,
+            5.32410379688373
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Cafe_Compact",
+        "label": "07 Cafe Compact",
+        "translation_m": [
+          95.33550051962362,
+          -52.41374434360587,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            83.43110447016278,
+            -60.96105037344329,
+            -0.25
+          ],
+          [
+            108.88234656051971,
+            -39.08100155670089,
+            5.323949139897355
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Cafe_Expanded",
+        "label": "08 Cafe Expanded",
+        "translation_m": [
+          132.602917389758,
+          -54.54080311340178,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            118.88234656051971,
+            -64.1331188392099,
+            -0.25
+          ],
+          [
+            148.14061627801405,
+            -39.08100155670088,
+            5.324057130467972
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Chalet_Compact",
+        "label": "09 Chalet Compact",
+        "translation_m": [
+          10.555162361376075,
+          -93.38680169678825,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -110.14574934779448,
+            -0.55
+          ],
+          [
+            22.530531507002834,
+            -82.05437409960905,
+            5.3237666420698515
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Chalet_Expanded",
+        "label": "10 Chalet Expanded",
+        "translation_m": [
+          44.69503535472418,
+          -95.19388663847022,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            32.530531507002834,
+            -113.02806985290668,
+            -0.55
+          ],
+          [
+            58.47595415094702,
+            -82.05437409960905,
+            5.323920061048442
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Marine_Restaurant",
+        "label": "11 marine restaurant ",
+        "translation_m": [
+          105.52595415094702,
+          -97.12685571821346,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            68.47595415094702,
+            -112.19933733681788,
+            -5.0
+          ],
+          [
+            121.59838570387174,
+            -82.05437409960905,
+            5.3241334271732725
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Marine_Lounge_Photo",
+        "label": "12 marine lounge and photo point ",
+        "translation_m": [
+          155.69838570387174,
+          -91.87685571821346,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            131.59838570387174,
+            -101.69933733681788,
+            -5.0
+          ],
+          [
+            166.17081725679645,
+            -82.05437409960905,
+            5.323810657029332
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Centerpiece_Large",
+        "label": "13 centerpiece Large",
+        "translation_m": [
+          7.0,
+          -134.0280698529067,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -141.0280698529067,
+            -0.25
+          ],
+          [
+            14.0,
+            -127.0280698529067,
+            5.584750038523767
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Centerpiece_Small",
+        "label": "14 centerpiece Small",
+        "translation_m": [
+          26.3,
+          -129.32806985290668,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            24.0,
+            -131.6280698529067,
+            -0.25
+          ],
+          [
+            28.6,
+            -127.02806985290668,
+            1.8349892983720948
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Centerpiece_Courtyard",
+        "label": "15 centerpiece Courtyard",
+        "translation_m": [
+          42.6,
+          -131.0280698529067,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            38.6,
+            -135.0280698529067,
+            -0.25
+          ],
+          [
+            46.6,
+            -127.0280698529067,
+            3.191285736299296
+          ]
+        ]
+      },
+      {
+        "code": "V3_Fish_Kids_Area",
+        "label": "16 Kids Area ",
+        "translation_m": [
+          68.1225,
+          -136.55056985290668,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            56.6,
+            -146.12056985290667,
+            -0.25
+          ],
+          [
+            79.64500000000001,
+            -127.02806985290667,
+            5.423766642069851
+          ]
+        ]
+      }
+    ],
+    "loose_edges": 0,
+    "native_readback": true,
+    "desktop_tested": false,
+    "format_version": "{17.0.1}"
+  },
+  {
+    "nodes": 436,
+    "unique_faces": 247855,
+    "instances": 960,
+    "bounds_m": [
+      [
+        0.0,
+        -154.3694113394292,
+        -5.0
+      ],
+      [
+        176.59805991604685,
+        0.0,
+        6.944222717548629
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "GeoShell_accent",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Safety_EPDM",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 65720890,
+    "sha256": "fb2b8c4a470153d7f20fb9bf00ef1bfcac7e1604af7c2946738b48b7461706f0",
+    "family": "GeoShell",
+    "file": "03_GeoShell_All_16.skp",
+    "top_level_components": 16,
+    "component_names": [
+      "V3_GeoShell_Spa_Compact",
+      "V3_GeoShell_Spa_Expanded",
+      "V3_GeoShell_Gym_Compact",
+      "V3_GeoShell_Gym_Expanded",
+      "V3_GeoShell_Restaurant_Compact",
+      "V3_GeoShell_Restaurant_Expanded",
+      "V3_GeoShell_Cafe_Compact",
+      "V3_GeoShell_Cafe_Expanded",
+      "V3_GeoShell_Chalet_Compact",
+      "V3_GeoShell_Chalet_Expanded",
+      "V3_GeoShell_Marine_Restaurant",
+      "V3_GeoShell_Marine_Lounge_Photo",
+      "V3_GeoShell_Centerpiece_Large",
+      "V3_GeoShell_Centerpiece_Small",
+      "V3_GeoShell_Centerpiece_Courtyard",
+      "V3_GeoShell_Kids_Area"
+    ],
+    "placements": [
+      {
+        "code": "V3_GeoShell_Spa_Compact",
+        "label": "01 Spa Compact",
+        "translation_m": [
+          16.980297044444725,
+          -13.25024639958462,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -19.27970320815289,
+            -0.25
+          ],
+          [
+            33.95854203278563,
+            0.0,
+            6.843795251820278
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Spa_Expanded",
+        "label": "02 Spa Expanded",
+        "translation_m": [
+          63.62994500658328,
+          -15.345798947010707,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            43.95854203278563,
+            -22.077221219222515,
+            -0.25
+          ],
+          [
+            83.29902995802343,
+            0.0,
+            6.845848877214578
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Gym_Compact",
+        "label": "03 Gym Compact",
+        "translation_m": [
+          110.27932700246815,
+          -13.25024639958462,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            93.29902995802343,
+            -19.27970320815289,
+            -0.25
+          ],
+          [
+            127.25757199080905,
+            0.0,
+            6.843795251820278
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Gym_Expanded",
+        "label": "04 Gym Expanded",
+        "translation_m": [
+          156.9289749646067,
+          -15.345798947010707,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            137.25757199080905,
+            -22.077221219222515,
+            -0.25
+          ],
+          [
+            176.59805991604685,
+            0.0,
+            6.845848877214578
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Restaurant_Compact",
+        "label": "05 Restaurant Compact",
+        "translation_m": [
+          16.980297044444725,
+          -49.327467618807134,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -55.356924427375404,
+            -0.25
+          ],
+          [
+            33.95854203278563,
+            -36.077221219222515,
+            6.843795251820278
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Restaurant_Expanded",
+        "label": "06 Restaurant Expanded",
+        "translation_m": [
+          63.62994500658328,
+          -51.42302016623322,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            43.95854203278563,
+            -58.15444243844503,
+            -0.25
+          ],
+          [
+            83.29902995802343,
+            -36.077221219222515,
+            6.845848877214578
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Cafe_Compact",
+        "label": "07 Cafe Compact",
+        "translation_m": [
+          110.27932700246815,
+          -49.327467618807134,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            93.29902995802343,
+            -55.356924427375404,
+            -0.25
+          ],
+          [
+            127.25757199080905,
+            -36.077221219222515,
+            6.843795251820278
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Cafe_Expanded",
+        "label": "08 Cafe Expanded",
+        "translation_m": [
+          156.9289749646067,
+          -51.42302016623322,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            137.25757199080905,
+            -58.15444243844503,
+            -0.25
+          ],
+          [
+            176.59805991604685,
+            -36.077221219222515,
+            6.845848877214578
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Chalet_Compact",
+        "label": "09 Chalet Compact",
+        "translation_m": [
+          16.980297044444725,
+          -85.40468883802966,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -99.34860283112667,
+            -0.55
+          ],
+          [
+            33.95854203278563,
+            -72.15444243844503,
+            6.843795251820278
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Chalet_Expanded",
+        "label": "10 Chalet Expanded",
+        "translation_m": [
+          63.62994500658328,
+          -87.50024138545574,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            43.95854203278563,
+            -102.13372683740414,
+            -0.55
+          ],
+          [
+            83.29902995802343,
+            -72.15444243844503,
+            6.845848877214578
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Marine_Restaurant",
+        "label": "11 marine restaurant ",
+        "translation_m": [
+          114.37151015116297,
+          -87.22691133942922,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            93.29902995802343,
+            -121.27691133942922,
+            -5.0
+          ],
+          [
+            133.4439737802021,
+            -72.15444243844503,
+            6.8496706579705675
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Marine_Lounge_Photo",
+        "label": "12 marine lounge and photo point ",
+        "translation_m": [
+          157.16645397334165,
+          -81.97691133942922,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            143.4439737802021,
+            -104.12691133942923,
+            -5.0
+          ],
+          [
+            169.58891760238077,
+            -72.15444243844503,
+            6.84477037688153
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Centerpiece_Large",
+        "label": "13 centerpiece Large",
+        "translation_m": [
+          7.0,
+          -142.2769113394292,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -149.2769113394292,
+            -0.25
+          ],
+          [
+            14.0,
+            -135.2769113394292,
+            4.8999999999999995
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Centerpiece_Small",
+        "label": "14 centerpiece Small",
+        "translation_m": [
+          26.3,
+          -137.57691133942922,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            24.0,
+            -139.87691133942923,
+            -0.25
+          ],
+          [
+            28.6,
+            -135.2769113394292,
+            1.6099999999999999
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Centerpiece_Courtyard",
+        "label": "15 centerpiece Courtyard",
+        "translation_m": [
+          42.6,
+          -139.2769113394292,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            38.6,
+            -143.2769113394292,
+            -0.25
+          ],
+          [
+            46.6,
+            -135.2769113394292,
+            2.8000000000000003
+          ]
+        ]
+      },
+      {
+        "code": "V3_GeoShell_Kids_Area",
+        "label": "16 Kids Area ",
+        "translation_m": [
+          68.1225,
+          -144.7994113394292,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            56.6,
+            -154.3694113394292,
+            -0.25
+          ],
+          [
+            79.64500000000001,
+            -135.2769113394292,
+            6.944222717548629
+          ]
+        ]
+      }
+    ],
+    "loose_edges": 0,
+    "native_readback": true,
+    "desktop_tested": false,
+    "format_version": "{17.0.1}"
+  },
+  {
+    "nodes": 652,
+    "unique_faces": 208476,
+    "instances": 1234,
+    "bounds_m": [
+      [
+        0.0,
+        -164.31222274100415,
+        -5.0
+      ],
+      [
+        143.44353667038519,
+        0.0,
+        5.967097775824675
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Safety_EPDM",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 49637375,
+    "sha256": "72fba038eacdb04e49d9354cad7b05b6a23e8879d66f5f40604c45ed6c568ccd",
+    "family": "Star",
+    "file": "04_Star_All_16.skp",
+    "top_level_components": 16,
+    "component_names": [
+      "V3_Star_Spa_Compact",
+      "V3_Star_Spa_Expanded",
+      "V3_Star_Gym_Compact",
+      "V3_Star_Gym_Expanded",
+      "V3_Star_Restaurant_Compact",
+      "V3_Star_Restaurant_Expanded",
+      "V3_Star_Cafe_Compact",
+      "V3_Star_Cafe_Expanded",
+      "V3_Star_Chalet_Compact",
+      "V3_Star_Chalet_Expanded",
+      "V3_Star_Marine_Restaurant",
+      "V3_Star_Marine_Lounge_Photo",
+      "V3_Star_Centerpiece_Large",
+      "V3_Star_Centerpiece_Small",
+      "V3_Star_Centerpiece_Courtyard",
+      "V3_Star_Kids_Area"
+    ],
+    "placements": [
+      {
+        "code": "V3_Star_Spa_Compact",
+        "label": "01 Spa Compact",
+        "translation_m": [
+          12.638485977419037,
+          -11.952328889858597,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -24.039828889858597,
+            -0.25
+          ],
+          [
+            25.276971954838075,
+            0.0,
+            5.866911598359736
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Spa_Expanded",
+        "label": "02 Spa Expanded",
+        "translation_m": [
+          49.399671760337284,
+          -13.397871355400646,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            35.276971954838075,
+            -26.862971355400646,
+            -0.25
+          ],
+          [
+            63.522371565836494,
+            0.0,
+            5.867057040275321
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Gym_Compact",
+        "label": "03 Gym Compact",
+        "translation_m": [
+          86.16085754325553,
+          -11.952328889858597,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            73.5223715658365,
+            -24.039828889858597,
+            -0.25
+          ],
+          [
+            98.79934352067457,
+            0.0,
+            5.866911598359736
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Gym_Expanded",
+        "label": "04 Gym Expanded",
+        "translation_m": [
+          122.92204332617378,
+          -13.397871355400646,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            108.79934352067457,
+            -26.862971355400646,
+            -0.25
+          ],
+          [
+            137.044743131673,
+            0.0,
+            5.867057040275321
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Restaurant_Compact",
+        "label": "05 Restaurant Compact",
+        "translation_m": [
+          12.638485977419037,
+          -52.815300245259245,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -64.90280024525924,
+            -0.25
+          ],
+          [
+            25.276971954838075,
+            -40.862971355400646,
+            5.866911598359736
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Restaurant_Expanded",
+        "label": "06 Restaurant Expanded",
+        "translation_m": [
+          49.399671760337284,
+          -54.26084271080129,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            35.276971954838075,
+            -67.72594271080129,
+            -0.25
+          ],
+          [
+            63.522371565836494,
+            -40.862971355400646,
+            5.867057040275321
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Cafe_Compact",
+        "label": "07 Cafe Compact",
+        "translation_m": [
+          86.16085754325553,
+          -52.815300245259245,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            73.5223715658365,
+            -64.90280024525924,
+            -0.25
+          ],
+          [
+            98.79934352067457,
+            -40.862971355400646,
+            5.866911598359736
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Cafe_Expanded",
+        "label": "08 Cafe Expanded",
+        "translation_m": [
+          122.92204332617378,
+          -54.26084271080129,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            108.79934352067457,
+            -67.72594271080129,
+            -0.25
+          ],
+          [
+            137.044743131673,
+            -40.862971355400646,
+            5.867057040275321
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Chalet_Compact",
+        "label": "09 Chalet Compact",
+        "translation_m": [
+          12.638485977419037,
+          -93.67827160065988,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -113.60577160065988,
+            -0.55
+          ],
+          [
+            25.276971954838075,
+            -81.72594271080129,
+            5.866911598359736
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Chalet_Expanded",
+        "label": "10 Chalet Expanded",
+        "translation_m": [
+          49.399671760337284,
+          -95.12381406620193,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            35.276971954838075,
+            -116.42891406620194,
+            -0.55
+          ],
+          [
+            63.522371565836494,
+            -81.72594271080129,
+            5.867057040275321
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Marine_Restaurant",
+        "label": "11 marine restaurant ",
+        "translation_m": [
+          91.66492575865506,
+          -97.16972274100414,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            73.5223715658365,
+            -131.21972274100415,
+            -5.0
+          ],
+          [
+            109.80747995147362,
+            -81.72594271080129,
+            5.866883366871661
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Marine_Lounge_Photo",
+        "label": "12 marine lounge and photo point ",
+        "translation_m": [
+          131.6255083109294,
+          -91.78975972841074,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            119.80747995147361,
+            -113.93975972841075,
+            -5.0
+          ],
+          [
+            143.44353667038519,
+            -81.72594271080129,
+            5.8661371031466825
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Centerpiece_Large",
+        "label": "13 centerpiece Large",
+        "translation_m": [
+          7.0,
+          -152.21972274100415,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -159.21972274100415,
+            -0.25
+          ],
+          [
+            14.0,
+            -145.21972274100415,
+            4.5011646344072105
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Centerpiece_Small",
+        "label": "14 centerpiece Small",
+        "translation_m": [
+          26.3,
+          -147.51972274100416,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            24.0,
+            -149.81972274100417,
+            -0.25
+          ],
+          [
+            28.6,
+            -145.21972274100415,
+            1.4802897250234854
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Centerpiece_Courtyard",
+        "label": "15 centerpiece Courtyard",
+        "translation_m": [
+          42.6,
+          -149.21972274100415,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            38.6,
+            -153.21972274100415,
+            -0.25
+          ],
+          [
+            46.6,
+            -145.21972274100415,
+            2.572857786263073
+          ]
+        ]
+      },
+      {
+        "code": "V3_Star_Kids_Area",
+        "label": "16 Kids Area ",
+        "translation_m": [
+          68.1225,
+          -154.74222274100416,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            56.6,
+            -164.31222274100415,
+            -0.25
+          ],
+          [
+            79.64500000000001,
+            -145.21972274100415,
+            5.967097775824675
+          ]
+        ]
+      }
+    ],
+    "loose_edges": 0,
+    "native_readback": true,
+    "desktop_tested": false,
+    "format_version": "{17.0.1}"
+  },
+  {
+    "nodes": 446,
+    "unique_faces": 150556,
+    "instances": 979,
+    "bounds_m": [
+      [
+        0.0,
+        -163.9580204073238,
+        -5.0
+      ],
+      [
+        167.39102243417707,
+        0.0,
+        6.287495607471997
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_accent",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Safety_EPDM",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 39221827,
+    "sha256": "0cd55641ee400236a418d3c527eed01dbb21dd15b07e7920610f56d9275f784c",
+    "family": "Crab",
+    "file": "05_Crab_All_16.skp",
+    "top_level_components": 16,
+    "component_names": [
+      "V3_Crab_Spa_Compact",
+      "V3_Crab_Spa_Expanded",
+      "V3_Crab_Gym_Compact",
+      "V3_Crab_Gym_Expanded",
+      "V3_Crab_Restaurant_Compact",
+      "V3_Crab_Restaurant_Expanded",
+      "V3_Crab_Cafe_Compact",
+      "V3_Crab_Cafe_Expanded",
+      "V3_Crab_Chalet_Compact",
+      "V3_Crab_Chalet_Expanded",
+      "V3_Crab_Marine_Restaurant",
+      "V3_Crab_Marine_Lounge_Photo",
+      "V3_Crab_Centerpiece_Large",
+      "V3_Crab_Centerpiece_Small",
+      "V3_Crab_Centerpiece_Courtyard",
+      "V3_Crab_Kids_Area"
+    ],
+    "placements": [
+      {
+        "code": "V3_Crab_Spa_Compact",
+        "label": "01 Spa Compact",
+        "translation_m": [
+          15.972090278194994,
+          -12.3275,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -27.218258592791603,
+            -0.25
+          ],
+          [
+            31.944180556389988,
+            0.0,
+            5.987492192516143
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Spa_Expanded",
+        "label": "02 Spa Expanded",
+        "translation_m": [
+          60.31984588673926,
+          -14.295499999999999,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            41.94418055638998,
+            -31.28276020366191,
+            -0.25
+          ],
+          [
+            78.69551121708854,
+            0.0,
+            6.287492656363819
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Gym_Compact",
+        "label": "03 Gym Compact",
+        "translation_m": [
+          104.66760149528353,
+          -12.3275,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            88.69551121708854,
+            -27.218258592791603,
+            -0.25
+          ],
+          [
+            120.63969177347853,
+            0.0,
+            5.987492192516143
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Gym_Expanded",
+        "label": "04 Gym Expanded",
+        "translation_m": [
+          149.0153571038278,
+          -14.295499999999999,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            130.63969177347852,
+            -31.28276020366191,
+            -0.25
+          ],
+          [
+            167.39102243417707,
+            0.0,
+            6.287492656363819
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Restaurant_Compact",
+        "label": "05 Restaurant Compact",
+        "translation_m": [
+          15.972090278194994,
+          -57.61026020366191,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -72.50101879645351,
+            -0.25
+          ],
+          [
+            31.944180556389988,
+            -45.28276020366191,
+            5.987492192516143
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Restaurant_Expanded",
+        "label": "06 Restaurant Expanded",
+        "translation_m": [
+          60.31984588673926,
+          -59.578260203661905,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            41.94418055638998,
+            -76.56552040732382,
+            -0.25
+          ],
+          [
+            78.69551121708854,
+            -45.28276020366191,
+            6.287492656363819
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Cafe_Compact",
+        "label": "07 Cafe Compact",
+        "translation_m": [
+          104.66760149528353,
+          -57.61026020366191,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            88.69551121708854,
+            -72.50101879645351,
+            -0.25
+          ],
+          [
+            120.63969177347853,
+            -45.28276020366191,
+            5.987492192516143
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Cafe_Expanded",
+        "label": "08 Cafe Expanded",
+        "translation_m": [
+          149.0153571038278,
+          -59.578260203661905,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            130.63969177347852,
+            -76.56552040732382,
+            -0.25
+          ],
+          [
+            167.39102243417707,
+            -45.28276020366191,
+            6.287492656363819
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Chalet_Compact",
+        "label": "09 Chalet Compact",
+        "translation_m": [
+          15.972090278194994,
+          -102.89302040732382,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -125.78377900011542,
+            -0.55
+          ],
+          [
+            31.944180556389988,
+            -90.56552040732382,
+            5.987492192516143
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Chalet_Expanded",
+        "label": "10 Chalet Expanded",
+        "translation_m": [
+          60.31984588673926,
+          -104.86102040732382,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            41.94418055638998,
+            -129.84828061098574,
+            -0.55
+          ],
+          [
+            78.69551121708854,
+            -90.56552040732382,
+            6.287492656363819
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Marine_Restaurant",
+        "label": "11 marine restaurant ",
+        "translation_m": [
+          107.76799154468239,
+          -99.81552040732382,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            88.69551121708854,
+            -130.86552040732383,
+            -5.0
+          ],
+          [
+            126.84047187227624,
+            -90.56552040732382,
+            6.287495607471997
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Marine_Lounge_Photo",
+        "label": "12 marine lounge and photo point ",
+        "translation_m": [
+          149.26295219987009,
+          -96.48802040732382,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            136.84047187227623,
+            -116.68802040732382,
+            -5.0
+          ],
+          [
+            161.68543252746395,
+            -90.56552040732382,
+            5.9274921925161435
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Centerpiece_Large",
+        "label": "13 centerpiece Large",
+        "translation_m": [
+          7.0,
+          -151.8655204073238,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -158.8655204073238,
+            -0.25
+          ],
+          [
+            14.0,
+            -144.8655204073238,
+            3.080450786710308
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Centerpiece_Small",
+        "label": "14 centerpiece Small",
+        "translation_m": [
+          26.3,
+          -147.1655204073238,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            24.0,
+            -149.46552040732382,
+            -0.25
+          ],
+          [
+            28.6,
+            -144.8655204073238,
+            1.012148115633387
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Centerpiece_Courtyard",
+        "label": "15 centerpiece Courtyard",
+        "translation_m": [
+          42.6,
+          -148.8655204073238,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            38.6,
+            -152.8655204073238,
+            -0.25
+          ],
+          [
+            46.6,
+            -144.8655204073238,
+            1.7602575924058905
+          ]
+        ]
+      },
+      {
+        "code": "V3_Crab_Kids_Area",
+        "label": "16 Kids Area ",
+        "translation_m": [
+          68.1225,
+          -154.3880204073238,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            56.6,
+            -163.9580204073238,
+            -0.25
+          ],
+          [
+            79.64500000000001,
+            -144.8655204073238,
+            5.687492192516143
+          ]
+        ]
+      }
+    ],
+    "loose_edges": 0,
+    "native_readback": true,
+    "desktop_tested": false,
+    "format_version": "{17.0.1}"
+  },
+  {
+    "nodes": 500,
+    "unique_faces": 435801,
+    "instances": 1068,
+    "bounds_m": [
+      [
+        0.0,
+        -172.49928714582128,
+        -5.0
+      ],
+      [
+        163.84129392885092,
+        0.0,
+        6.307429135956249
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Rubber",
+      "Safety_EPDM",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 109502729,
+    "sha256": "26c9d0450e0c259c60a01388fa9dd83a66ad200d138d6031bce05bc5435c9767",
+    "family": "NaturalShell",
+    "file": "06_NaturalShell_All_16.skp",
+    "top_level_components": 16,
+    "component_names": [
+      "V3_NaturalShell_Spa_Compact",
+      "V3_NaturalShell_Spa_Expanded",
+      "V3_NaturalShell_Gym_Compact",
+      "V3_NaturalShell_Gym_Expanded",
+      "V3_NaturalShell_Restaurant_Compact",
+      "V3_NaturalShell_Restaurant_Expanded",
+      "V3_NaturalShell_Cafe_Compact",
+      "V3_NaturalShell_Cafe_Expanded",
+      "V3_NaturalShell_Chalet_Compact",
+      "V3_NaturalShell_Chalet_Expanded",
+      "V3_NaturalShell_Marine_Restaurant",
+      "V3_NaturalShell_Marine_Lounge_Photo",
+      "V3_NaturalShell_Centerpiece_Large",
+      "V3_NaturalShell_Centerpiece_Small",
+      "V3_NaturalShell_Centerpiece_Courtyard",
+      "V3_NaturalShell_Kids_Area"
+    ],
+    "placements": [
+      {
+        "code": "V3_NaturalShell_Spa_Compact",
+        "label": "01 Spa Compact",
+        "translation_m": [
+          14.425933514834298,
+          -14.080800501548733,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -27.170729451159765,
+            -0.25
+          ],
+          [
+            31.17817922848619,
+            0.0,
+            6.208288348158639
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Spa_Expanded",
+        "label": "02 Spa Expanded",
+        "translation_m": [
+          57.78971556967872,
+          -16.320896515901207,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            41.17817922848619,
+            -31.201473178525863,
+            -0.25
+          ],
+          [
+            76.92064696442544,
+            0.0,
+            6.209405079448904
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Gym_Compact",
+        "label": "03 Gym Compact",
+        "translation_m": [
+          101.34658047925974,
+          -14.080800501548733,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            86.92064696442544,
+            -27.170729451159765,
+            -0.25
+          ],
+          [
+            118.09882619291163,
+            0.0,
+            6.208288348158639
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Gym_Expanded",
+        "label": "04 Gym Expanded",
+        "translation_m": [
+          144.71036253410418,
+          -16.320896515901207,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            128.09882619291164,
+            -31.201473178525863,
+            -0.25
+          ],
+          [
+            163.84129392885092,
+            0.0,
+            6.209405079448904
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Restaurant_Compact",
+        "label": "05 Restaurant Compact",
+        "translation_m": [
+          14.425933514834298,
+          -59.282273680074596,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -72.37220262968563,
+            -0.25
+          ],
+          [
+            31.17817922848619,
+            -45.20147317852586,
+            6.208288348158639
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Restaurant_Expanded",
+        "label": "06 Restaurant Expanded",
+        "translation_m": [
+          57.78971556967872,
+          -61.52236969442707,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            41.17817922848619,
+            -76.40294635705172,
+            -0.25
+          ],
+          [
+            76.92064696442544,
+            -45.20147317852586,
+            6.209405079448904
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Cafe_Compact",
+        "label": "07 Cafe Compact",
+        "translation_m": [
+          101.34658047925974,
+          -59.282273680074596,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            86.92064696442544,
+            -72.37220262968563,
+            -0.25
+          ],
+          [
+            118.09882619291163,
+            -45.20147317852586,
+            6.208288348158639
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Cafe_Expanded",
+        "label": "08 Cafe Expanded",
+        "translation_m": [
+          144.71036253410418,
+          -61.52236969442707,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            128.09882619291164,
+            -76.40294635705172,
+            -0.25
+          ],
+          [
+            163.84129392885092,
+            -45.20147317852586,
+            6.209405079448904
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Chalet_Compact",
+        "label": "09 Chalet Compact",
+        "translation_m": [
+          14.425933514834298,
+          -104.48374685860045,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -125.63854243937915,
+            -0.55
+          ],
+          [
+            31.17817922848619,
+            -90.40294635705172,
+            6.208288348158639
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Chalet_Expanded",
+        "label": "10 Chalet Expanded",
+        "translation_m": [
+          57.78971556967872,
+          -106.72384287295293,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            41.17817922848619,
+            -129.66928616674525,
+            -0.55
+          ],
+          [
+            76.92064696442544,
+            -90.40294635705172,
+            6.209405079448904
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Marine_Restaurant",
+        "label": "11 marine restaurant ",
+        "translation_m": [
+          103.18011391729964,
+          -105.35678714582129,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            86.92064696442544,
+            -139.40678714582128,
+            -5.0
+          ],
+          [
+            121.18757563568013,
+            -90.40294635705172,
+            6.2106647071540175
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Marine_Lounge_Photo",
+        "label": "12 marine lounge and photo point ",
+        "translation_m": [
+          141.7815964221344,
+          -100.14831408309179,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            131.18757563568016,
+            -122.2983140830918,
+            -5.0
+          ],
+          [
+            153.51180814051492,
+            -90.40294635705172,
+            6.207794056729265
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Centerpiece_Large",
+        "label": "13 centerpiece Large",
+        "translation_m": [
+          7.0,
+          -160.40678714582128,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            0.0,
+            -167.40678714582128,
+            -0.25
+          ],
+          [
+            14.0,
+            -153.40678714582128,
+            5.216709975529214
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Centerpiece_Small",
+        "label": "14 centerpiece Small",
+        "translation_m": [
+          26.3,
+          -155.7067871458213,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            24.0,
+            -158.0067871458213,
+            -0.25
+          ],
+          [
+            28.6,
+            -153.40678714582128,
+            1.8617761348167416
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Centerpiece_Courtyard",
+        "label": "15 centerpiece Courtyard",
+        "translation_m": [
+          42.6,
+          -157.40678714582128,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            38.6,
+            -161.40678714582128,
+            -0.25
+          ],
+          [
+            46.6,
+            -153.40678714582128,
+            3.0752628431595515
+          ]
+        ]
+      },
+      {
+        "code": "V3_NaturalShell_Kids_Area",
+        "label": "16 Kids Area ",
+        "translation_m": [
+          68.1225,
+          -162.9292871458213,
+          0.0
+        ],
+        "bounds_m": [
+          [
+            56.6,
+            -172.49928714582128,
+            -0.25
+          ],
+          [
+            79.64500000000001,
+            -153.40678714582128,
+            6.307429135956249
+          ]
+        ]
+      }
+    ],
+    "loose_edges": 0,
+    "native_readback": true,
+    "desktop_tested": false,
+    "format_version": "{17.0.1}"
+  }
+]
