@@ -2,47 +2,57 @@
   {
     "family": "Turtle",
     "name_ar": "السلحفاة",
-    "file": "01_Turtle_All_16.skp",
+    "file": "01_Turtle_All_16.zip",
     "native_file": "01_Turtle_All_16.skp",
     "components": 16,
-    "bytes": 43416633,
-    "sha256": "fb050c4ecb4427cdc63c62b58cc2aa2d4bfb4342e583079d0fccd6258aa2401a"
+    "bytes": 13205123,
+    "sha256": "3d34c9e32e5e665d40d9a64a2b44821e8b73345898944a5fdc6bf110eff73b78",
+    "archive_files": 1,
+    "extracted_skp_sha256": "fb050c4ecb4427cdc63c62b58cc2aa2d4bfb4342e583079d0fccd6258aa2401a"
   },
   {
     "family": "Fish",
     "name_ar": "قشور السمك",
-    "file": "02_Fish_All_16.skp",
+    "file": "02_Fish_All_16.zip",
     "native_file": "02_Fish_All_16.skp",
     "components": 16,
-    "bytes": 54175203,
-    "sha256": "a5f73a35a9b726008dcc28d135a8c561e98d443b0065735f1b91884e9d5377ae"
+    "bytes": 18557426,
+    "sha256": "38fd70cc160615e9d4222230413dd1136aa5f0a7e8eecbe716683865f1473dd3",
+    "archive_files": 1,
+    "extracted_skp_sha256": "a5f73a35a9b726008dcc28d135a8c561e98d443b0065735f1b91884e9d5377ae"
   },
   {
     "family": "GeoShell",
     "name_ar": "الصدفة الهندسية",
-    "file": "03_GeoShell_All_16.skp",
+    "file": "03_GeoShell_All_16.zip",
     "native_file": "03_GeoShell_All_16.skp",
     "components": 16,
-    "bytes": 65720890,
-    "sha256": "fb2b8c4a470153d7f20fb9bf00ef1bfcac7e1604af7c2946738b48b7461706f0"
+    "bytes": 24128637,
+    "sha256": "b92342292be6939289420b998938412aa3e59f09d0e862fe326e538bc1f49757",
+    "archive_files": 1,
+    "extracted_skp_sha256": "fb2b8c4a470153d7f20fb9bf00ef1bfcac7e1604af7c2946738b48b7461706f0"
   },
   {
     "family": "Star",
     "name_ar": "نجم البحر",
-    "file": "04_Star_All_16.skp",
+    "file": "04_Star_All_16.zip",
     "native_file": "04_Star_All_16.skp",
     "components": 16,
-    "bytes": 49637375,
-    "sha256": "72fba038eacdb04e49d9354cad7b05b6a23e8879d66f5f40604c45ed6c568ccd"
+    "bytes": 13671376,
+    "sha256": "d0d0abc38d374da98ccfa063b75dae51c576941ec0430290cf9a94025d88f9fb",
+    "archive_files": 1,
+    "extracted_skp_sha256": "72fba038eacdb04e49d9354cad7b05b6a23e8879d66f5f40604c45ed6c568ccd"
   },
   {
     "family": "Crab",
     "name_ar": "السلطعون",
-    "file": "05_Crab_All_16.skp",
+    "file": "05_Crab_All_16.zip",
     "native_file": "05_Crab_All_16.skp",
     "components": 16,
-    "bytes": 39221827,
-    "sha256": "0cd55641ee400236a418d3c527eed01dbb21dd15b07e7920610f56d9275f784c"
+    "bytes": 9193883,
+    "sha256": "f06d604d31ce7c857909a8ff0da1ded60fec980c6f10aa1153b1a5f4d2b4be28",
+    "archive_files": 1,
+    "extracted_skp_sha256": "0cd55641ee400236a418d3c527eed01dbb21dd15b07e7920610f56d9275f784c"
   },
   {
     "family": "NaturalShell",
@@ -51,6 +61,8 @@
     "native_file": "06_NaturalShell_All_16.skp",
     "components": 16,
     "bytes": 33716390,
-    "sha256": "81c70fdd14b2a299b1c05f89760d01d5e4d7a70fe108e1c2ce809901dab1e28b"
+    "sha256": "81c70fdd14b2a299b1c05f89760d01d5e4d7a70fe108e1c2ce809901dab1e28b",
+    "archive_files": 1,
+    "extracted_skp_sha256": "26c9d0450e0c259c60a01388fa9dd83a66ad200d138d6031bce05bc5435c9767"
   }
 ]
