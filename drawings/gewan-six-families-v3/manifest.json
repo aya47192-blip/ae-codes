@@ -1,0 +1,5031 @@
+[
+  {
+    "nodes": 21,
+    "unique_faces": 14018,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -8.498907182964274,
+        -7.499409827815487,
+        -0.42
+      ],
+      [
+        8.498907182964274,
+        7.499409827815487,
+        8.044959670516088
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4302507,
+    "sha256": "fcec22632bb4867225942b6ff02f9223b49f86a9ba4e90fddcc5ff6e1722f169",
+    "code": "SP_Turtle_Compact",
+    "family": "Turtle",
+    "file": "SKP/Turtle/SP_Turtle_Compact.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "14 x 12",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 14074,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -10.498843917387548,
+        -8.999442141744947,
+        -0.42
+      ],
+      [
+        10.498843917387548,
+        8.999442141744947,
+        8.07995660478411
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4314822,
+    "sha256": "0b04891a7c14edb53d9e03fa3e8d492803284a902e8a9bdea2d4cba9b49d8162",
+    "code": "SP_Turtle_Freestanding",
+    "family": "Turtle",
+    "file": "SKP/Turtle/SP_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "18 x 15",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 11580,
+    "instances": 43,
+    "bounds_m": [
+      [
+        -10.498673091257105,
+        -8.499514008536025,
+        -0.42
+      ],
+      [
+        10.498673091257105,
+        8.499514008536023,
+        8.07995660478411
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3095483,
+    "sha256": "993f88c81b6bd6aed61a064dd55c56fc3d8813f53342c00bfc470d4b439d7cad",
+    "code": "GY_Turtle_Compact",
+    "family": "Turtle",
+    "file": "SKP/Turtle/GY_Turtle_Compact.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "18 x 14",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 11580,
+    "instances": 45,
+    "bounds_m": [
+      [
+        -13.498573124344398,
+        -10.499548086919127,
+        -0.42
+      ],
+      [
+        13.498573124344398,
+        10.499548086919127,
+        8.07997558149988
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3096067,
+    "sha256": "3faf14bfc0db4a139957b697dcb912ce3a6a5916ae59032b8861798c922ed71c",
+    "code": "GY_Turtle_Freestanding",
+    "family": "Turtle",
+    "file": "SKP/Turtle/GY_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "24 x 18",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 13412,
+    "instances": 84,
+    "bounds_m": [
+      [
+        -11.498745693406612,
+        -10.98,
+        -0.42
+      ],
+      [
+        11.49874569340661,
+        9.499485855348146,
+        8.079964844441129
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3838669,
+    "sha256": "c9afa6832e70637512bc03a69d2c882606204bd361cb50fc26c196520e4fd7ed",
+    "code": "RE_Turtle_Compact",
+    "family": "Turtle",
+    "file": "SKP/Turtle/RE_Turtle_Compact.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "20 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 6,
+      "seats": 36,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 30,
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 13572,
+    "instances": 94,
+    "bounds_m": [
+      [
+        -14.498643480789978,
+        -13.100000000000001,
+        -0.42
+      ],
+      [
+        14.498643480789978,
+        11.499524625930473,
+        8.079979192294893
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3884998,
+    "sha256": "4d96b5af5f7d22aa0da680a03ab4f10de3a57f5f58934887a721a22af9b0612c",
+    "code": "RE_Turtle_Freestanding",
+    "family": "Turtle",
+    "file": "SKP/Turtle/RE_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "26 x 20",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 12,
+      "seats": 72,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 54,
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 13258,
+    "instances": 56,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -9.39,
+        -0.42
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        8.044964862451968
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4080447,
+    "sha256": "82c5a93893f2164158f0f5bdace18b98877a595b5c9b6c13687772d9c0847c27",
+    "code": "CA_Turtle_Compact",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CA_Turtle_Compact.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 13326,
+    "instances": 63,
+    "bounds_m": [
+      [
+        -10.998867849880002,
+        -10.98,
+        -0.42
+      ],
+      [
+        10.998867849880002,
+        9.49943034227273,
+        8.079961049245496
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4105766,
+    "sha256": "56e50c5a43ca3dab3a31255bf0b5eca0049f5569bf9a1db465783d3469defa84",
+    "code": "CA_Turtle_Freestanding",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CA_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "19 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 13068,
+    "instances": 35,
+    "bounds_m": [
+      [
+        -7.499044368129102,
+        -11.5,
+        -0.75
+      ],
+      [
+        7.499044368129102,
+        6.999325070568696,
+        6.6449676612670965
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4165208,
+    "sha256": "a5d1999c8cb8156d44115ad4a20d744a57baae2778b84790e43d1ac613fc1a0e",
+    "code": "CH_Turtle_Compact",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CH_Turtle_Compact.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "12 x 11",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 1,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 13220,
+    "instances": 37,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -12.5,
+        -0.75
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        6.644979295177707
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4214054,
+    "sha256": "ab030d0c0cc017ac1e0e72e9b108e63e4150b2239735f98207f07cef667c5c38",
+    "code": "CH_Turtle_Freestanding",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CH_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 2,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool",
+      "family": "Turtle",
+      "units": "meters"
+    }
+  },
+  {
+    "nodes": 42,
+    "unique_faces": 29695,
+    "bounds_m": [
+      [
+        -35.836193865159174,
+        -43.010535157716966,
+        -5.8
+      ],
+      [
+        35.83769139956661,
+        32.2,
+        12.17995692686415
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "T2_Door_Frame",
+      "T2_Door_Glass",
+      "T2_Door_Hardware",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 9204870,
+    "sha256": "f3dda875256f5031375ce4c778f55512c58f93f7d860235a1fa403d5ea1ca429",
+    "code": "M01_Turtle_Shore_Entrance_VIP_v2",
+    "family": "Turtle",
+    "file": "SKP/Turtle/M01_Turtle_Shore_Entrance_VIP_v2.skp",
+    "description": {
+      "category": "Marine restaurant",
+      "concept": "Turtle",
+      "reference": "preferred blue-green glazed turtle with projecting sea promenades",
+      "dimensions_status": "designed proportions from a single image; proposed metres, not measured reference",
+      "indoor_seats": 114,
+      "marine_facilities": "4 viewing loops; head entrance; kitchen; beverage bar; toilets; host; outdoor dining; piles; glazing; planters; bollards",
+      "roof_hide_tag": "02_Roofs_Hide_For_Interiors",
+      "shore_direction": "negative Y; long approach enters head first",
+      "head_use": "private enclosed lounge; linked internally to main dining room",
+      "doors": "shore entrance in head; shared head/body door; rear dining-to-sea-terrace door"
+    }
+  },
+  {
+    "nodes": 14,
+    "unique_faces": 12491,
+    "instances": 33,
+    "bounds_m": [
+      [
+        -18.408174026090766,
+        -19.0,
+        -5.8
+      ],
+      [
+        18.39982160775587,
+        13.008266629269576,
+        8.543726367312031
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4076061,
+    "sha256": "51e62b738882b99f596228205b6cb35aa752f7bb6c1efcfacc14c0a4dcd5a926",
+    "code": "M02_Turtle_Hex_Skylight_Lounge",
+    "family": "Turtle",
+    "file": "SKP/Turtle/M02_Turtle_Hex_Skylight_Lounge.skp",
+    "description": {
+      "category": "Marine lounge and photo pavilion",
+      "concept": "Turtle",
+      "reference": "brown carapace, hexagonal shell plates and skylights"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 8930,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -10.0,
+        -10.0,
+        -0.40000000000000013
+      ],
+      [
+        10.0,
+        10.0,
+        4.394946728746968
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Sandstone",
+      "Steel",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2221640,
+    "sha256": "4b2f315483392214bd072b5d837f9a38d97196ef8126c7f0eec145b1eb2b9fc1",
+    "code": "CP_Large_Turtle",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CP_Large_Turtle.skp",
+    "description": {
+      "category": "centerpiece",
+      "concept": "Turtle",
+      "location": "Large",
+      "diameter_m": 20.0,
+      "installation": "independent fountain/sculpture component, proposed base size",
+      "family": "Turtle"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 8930,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -3.3,
+        -3.3,
+        -0.4
+      ],
+      [
+        3.3,
+        3.3,
+        1.9829467287469675
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Sandstone",
+      "Steel",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2221640,
+    "sha256": "907c69f7e6985c7b5c9ad1d62286367273a21d232b32752860ca03eebb2d0bac",
+    "code": "CP_Small_Turtle",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CP_Small_Turtle.skp",
+    "description": {
+      "category": "centerpiece",
+      "concept": "Turtle",
+      "location": "Small",
+      "diameter_m": 6.6,
+      "installation": "independent fountain/sculpture component, proposed base size",
+      "family": "Turtle"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 8930,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -5.25,
+        -5.25,
+        -0.4
+      ],
+      [
+        5.25,
+        5.25,
+        2.6849467287469673
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Sandstone",
+      "Steel",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2221712,
+    "sha256": "8db9949054dcd13e0c960e1e6c1a5c9fa2f39d943bef163f4c84bbb09db0d836",
+    "code": "CP_Courtyard_Turtle",
+    "family": "Turtle",
+    "file": "SKP/Turtle/CP_Courtyard_Turtle.skp",
+    "description": {
+      "category": "centerpiece",
+      "concept": "Turtle",
+      "location": "Courtyard",
+      "diameter_m": 10.5,
+      "installation": "independent fountain/sculpture component, proposed base size",
+      "family": "Turtle"
+    }
+  },
+  {
+    "nodes": 17,
+    "unique_faces": 14450,
+    "instances": 18,
+    "bounds_m": [
+      [
+        -11.5225,
+        -9.57,
+        -0.25
+      ],
+      [
+        11.5225,
+        9.5225,
+        6.434949602034687
+      ]
+    ],
+    "materials": [
+      "Ceramic",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Safety_EPDM",
+      "Soil",
+      "Steel",
+      "Turtle_accent",
+      "Turtle_fabric",
+      "Turtle_floor",
+      "Turtle_frame",
+      "Turtle_metal",
+      "Turtle_solid",
+      "White_Frame"
+    ],
+    "size_bytes": 3370353,
+    "sha256": "39d4906b414fdac87b5310389ddcfba6762b17f4a387e15beda3c20f4d29e2ec",
+    "code": "V3_Turtle_Kids_Area",
+    "family": "Turtle",
+    "file": "SKP/Turtle/V3_Turtle_Kids_Area.skp",
+    "description": {
+      "family": "Turtle",
+      "category": "Kids Area",
+      "units": "meters",
+      "supervision": "gated entry, guardians seating, soft fall zones and guest WC",
+      "slide_platform_m": 1.0,
+      "wood": "permitted in approved turtle family only",
+      "note": "concept equipment; final safety clearances and anchoring need supplier and site engineering"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 24094,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -14.389119090371986,
+        -10.57,
+        -0.25
+      ],
+      [
+        14.142450685189141,
+        11.33274278690498,
+        5.323628178043381
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 6456699,
+    "sha256": "aa8ed9191c3237707fa7aadbce38dd9c4c491a5a8841b8a065ed7f321fabfc86",
+    "code": "V3_Fish_Spa_Compact",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Spa_Compact.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Spa",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 24130,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -16.55699307484541,
+        -11.941199999999998,
+        -0.25
+      ],
+      [
+        16.25644286112819,
+        13.139801556700892,
+        5.323815723517642
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 6470836,
+    "sha256": "5765cc468402ffd0333f215e17fa45decece3ebca73e93936890c6d3ead56526",
+    "code": "V3_Fish_Spa_Expanded",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Spa_Expanded.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Spa",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 35,
+    "unique_faces": 18536,
+    "instances": 48,
+    "bounds_m": [
+      [
+        -10.84402313424875,
+        -8.120000000000001,
+        -0.25
+      ],
+      [
+        14.06392572044814,
+        13.332964267858895,
+        5.323949379066361
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 4662153,
+    "sha256": "09a0c6d23f403c5caa4a57622591ab03eb2c45c9c837bfdd0549a2cdc4ade41a",
+    "code": "V3_Fish_Gym_Compact",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Gym_Compact.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Gym",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 35,
+    "unique_faces": 18575,
+    "instances": 48,
+    "bounds_m": [
+      [
+        -12.537896037325474,
+        -9.0992,
+        -0.25
+      ],
+      [
+        16.17985066060328,
+        15.460004364393257,
+        5.324057309766786
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 4676103,
+    "sha256": "4436b04ad44a6ad728fe0530b8dbf31e1c3bb0689233b98629b33b66a890fe7f",
+    "code": "V3_Fish_Gym_Expanded",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Gym_Expanded.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Gym",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 37,
+    "unique_faces": 18195,
+    "instances": 91,
+    "bounds_m": [
+      [
+        -13.960031725194433,
+        -10.92671337812805,
+        -0.25
+      ],
+      [
+        15.52303052510402,
+        14.333125477859499,
+        5.324011428311463
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 4655323,
+    "sha256": "6dd40c1c7b4d799ecf40ce1838353bfdfcdeebd48856ff6f82718af76c702e2f",
+    "code": "V3_Fish_Restaurant_Compact",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Restaurant_Compact.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Restaurant",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 37,
+    "unique_faces": 18206,
+    "instances": 91,
+    "bounds_m": [
+      [
+        -16.089879833000783,
+        -12.353220707657204,
+        -0.25
+      ],
+      [
+        17.858162386863558,
+        16.620151835250958,
+        5.32410379688373
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 4659566,
+    "sha256": "aabd603f2582819dc82af2f6605aab975d1a6ec7af41e827fc1ddb11ce17d324",
+    "code": "V3_Fish_Restaurant_Expanded",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Restaurant_Expanded.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Restaurant",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 42,
+    "unique_faces": 22319,
+    "instances": 95,
+    "bounds_m": [
+      [
+        -11.904396049460836,
+        -8.547306029837424,
+        -0.25
+      ],
+      [
+        13.546846040896082,
+        13.33274278690498,
+        5.323949139897355
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Marine_Finish_0",
+      "Marine_Finish_1",
+      "Marine_Finish_2",
+      "Marine_Finish_3",
+      "Marine_Finish_4",
+      "Marine_Finish_5",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 5950746,
+    "sha256": "d3ccd363eaa80af501cd8cc685bb57cca0606021d622fa1b41d7e6a2123eb83d",
+    "code": "V3_Fish_Cafe_Compact",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Cafe_Compact.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Cafe",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 42,
+    "unique_faces": 22338,
+    "instances": 98,
+    "bounds_m": [
+      [
+        -13.720570829238298,
+        -9.592315725808115,
+        -0.25
+      ],
+      [
+        15.537698888256049,
+        15.459801556700892,
+        5.324057130467972
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Marine_Finish_0",
+      "Marine_Finish_1",
+      "Marine_Finish_2",
+      "Marine_Finish_3",
+      "Marine_Finish_4",
+      "Marine_Finish_5",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 5958074,
+    "sha256": "be08d269ad1637ed60261397cede8e0e5fe3819cec011e0ce9537a0250895b8c",
+    "code": "V3_Fish_Cafe_Expanded",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Cafe_Expanded.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Cafe",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 37,
+    "unique_faces": 19037,
+    "instances": 76,
+    "bounds_m": [
+      [
+        -10.555162361376075,
+        -16.758947651006228,
+        -0.55
+      ],
+      [
+        11.97536914562676,
+        11.332427597179201,
+        5.3237666420698515
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 5271313,
+    "sha256": "348ea906af2989d06a8d8e6a51067d8e8ab1c36dfe7c6da9c61905f363ea2615",
+    "code": "V3_Fish_Chalet_Compact",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Chalet_Compact.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Chalet",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 37,
+    "unique_faces": 19069,
+    "instances": 76,
+    "bounds_m": [
+      [
+        -12.164503847721345,
+        -17.83418321443646,
+        -0.55
+      ],
+      [
+        13.780918796222839,
+        13.13951253886117,
+        5.323920061048442
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Frosted_Glass",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 5283294,
+    "sha256": "3822af3f4470d30e6c4f8a647810b1160d028fefcd3b18494855da9243e9c455",
+    "code": "V3_Fish_Chalet_Expanded",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Chalet_Expanded.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Chalet",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 16940,
+    "instances": 85,
+    "bounds_m": [
+      [
+        -37.05,
+        -15.072481618604408,
+        -5.0
+      ],
+      [
+        16.07243155292472,
+        15.072481618604408,
+        5.3241334271732725
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Ceramic",
+      "Coffee",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 4355238,
+    "sha256": "c9252de32b679a610baa93a24b091300afa21abffca2b6e5f2ffd0b0f46cde29",
+    "code": "V3_Fish_Marine_Restaurant",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Marine_Restaurant.skp",
+    "description": {
+      "family": "Fish",
+      "category": "marine restaurant",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design",
+      "terrace_table_sets": 11,
+      "dining_note": "family-specific complete place settings, individual editable chairs, drinks, menus and lights"
+    }
+  },
+  {
+    "nodes": 16,
+    "unique_faces": 15290,
+    "instances": 22,
+    "bounds_m": [
+      [
+        -24.1,
+        -9.822481618604408,
+        -5.0
+      ],
+      [
+        10.47243155292472,
+        9.822481618604408,
+        5.323810657029332
+      ]
+    ],
+    "materials": [
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Plant_Stem",
+      "Soil"
+    ],
+    "size_bytes": 4011225,
+    "sha256": "6ef2911491dc4fdb11443aade8c4a01f1d631c6929c6f67597af1b17cb1c5a06",
+    "code": "V3_Fish_Marine_Lounge_Photo",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Marine_Lounge_Photo.skp",
+    "description": {
+      "family": "Fish",
+      "category": "marine lounge and photo point",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 7316,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -7.0,
+        -7.0,
+        -0.25
+      ],
+      [
+        7.0,
+        7.0,
+        5.584750038523767
+      ]
+    ],
+    "materials": [
+      "Fish_accent",
+      "Fish_floor",
+      "Fish_metal",
+      "Fish_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 2281606,
+    "sha256": "01901e86742a869c5b7254e77e3629a3bba94b1678620547ad0a6ec408ae4277",
+    "code": "V3_Fish_Centerpiece_Large",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Centerpiece_Large.skp",
+    "description": {
+      "family": "Fish",
+      "category": "centerpiece",
+      "location": "Large",
+      "overall_diameter_m": 14.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 7316,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -2.3,
+        -2.3,
+        -0.25
+      ],
+      [
+        2.3,
+        2.3,
+        1.8349892983720948
+      ]
+    ],
+    "materials": [
+      "Fish_accent",
+      "Fish_floor",
+      "Fish_metal",
+      "Fish_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 2281606,
+    "sha256": "a2ff18e08902f06d5cd1b35846544b64389501901898b024318141165b6f3637",
+    "code": "V3_Fish_Centerpiece_Small",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Centerpiece_Small.skp",
+    "description": {
+      "family": "Fish",
+      "category": "centerpiece",
+      "location": "Small",
+      "overall_diameter_m": 4.6,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 7316,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -4.0,
+        -4.0,
+        -0.25
+      ],
+      [
+        4.0,
+        4.0,
+        3.191285736299296
+      ]
+    ],
+    "materials": [
+      "Fish_accent",
+      "Fish_floor",
+      "Fish_metal",
+      "Fish_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 2281646,
+    "sha256": "2cdea36b6b67d2ecb534aab436cf5e0f8a4ea82c6a09c1fc7e959eda080492d9",
+    "code": "V3_Fish_Centerpiece_Courtyard",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Centerpiece_Courtyard.skp",
+    "description": {
+      "family": "Fish",
+      "category": "centerpiece",
+      "location": "Courtyard",
+      "overall_diameter_m": 8.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 17,
+    "unique_faces": 13044,
+    "instances": 18,
+    "bounds_m": [
+      [
+        -11.5225,
+        -9.57,
+        -0.25
+      ],
+      [
+        11.5225,
+        9.5225,
+        5.423766642069851
+      ]
+    ],
+    "materials": [
+      "Ceramic",
+      "Fish_accent",
+      "Fish_fabric",
+      "Fish_floor",
+      "Fish_frame",
+      "Fish_metal",
+      "Fish_roof",
+      "Fish_solid",
+      "Glass_Blue",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Safety_EPDM",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3419254,
+    "sha256": "ca3a2657afcc8791393c2b60b4dba2b32bccb6c2c24c94f40d1e6f22d6f58e36",
+    "code": "V3_Fish_Kids_Area",
+    "family": "Fish",
+    "file": "SKP/Fish/V3_Fish_Kids_Area.skp",
+    "description": {
+      "family": "Fish",
+      "category": "Kids Area",
+      "units": "meters",
+      "supervision": "gated entry, guardians seating, soft fall zones and guest WC",
+      "slide_platform_m": 1.0,
+      "wood": "none",
+      "note": "concept equipment; final safety clearances and anchoring need supplier and site engineering"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 23059,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -16.980297044444725,
+        -6.02945680856827,
+        -0.25
+      ],
+      [
+        16.978244988340904,
+        13.25024639958462,
+        6.843795251820278
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 6489673,
+    "sha256": "35456814622b338f2d26ec23d8648195fd8af4a8218505d17e2043ff0ee7a031",
+    "code": "V3_GeoShell_Spa_Compact",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Spa_Compact.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Spa",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 23091,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -19.671402973797647,
+        -6.731422272211811,
+        -0.25
+      ],
+      [
+        19.669084951440155,
+        15.345798947010707,
+        6.845848877214578
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 6499934,
+    "sha256": "d9a87154d135841af965f7e2f5074c98cb6dc502d13c2c88f9c3358a99cb344a",
+    "code": "V3_GeoShell_Spa_Expanded",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Spa_Expanded.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Spa",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 46,
+    "unique_faces": 24026,
+    "instances": 66,
+    "bounds_m": [
+      [
+        -16.980297044444725,
+        -6.02945680856827,
+        -0.25
+      ],
+      [
+        16.978244988340904,
+        13.25024639958462,
+        6.843795251820278
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "GeoShell_accent",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 6445148,
+    "sha256": "95d09bde98709de7551bcbec4db608e3f8acc1381ce7c9f7f39878eac2a8ec5f",
+    "code": "V3_GeoShell_Gym_Compact",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Gym_Compact.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Gym",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 46,
+    "unique_faces": 24058,
+    "instances": 66,
+    "bounds_m": [
+      [
+        -19.671402973797647,
+        -6.731422272211811,
+        -0.25
+      ],
+      [
+        19.669084951440155,
+        15.345798947010707,
+        6.845848877214578
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "GeoShell_accent",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 6455314,
+    "sha256": "ef74085eaa6646ca6ae323767457f2becdb2374532185e0125d1d61b7a985764",
+    "code": "V3_GeoShell_Gym_Expanded",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Gym_Expanded.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Gym",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 48,
+    "unique_faces": 23203,
+    "instances": 105,
+    "bounds_m": [
+      [
+        -16.980297044444725,
+        -6.02945680856827,
+        -0.25
+      ],
+      [
+        16.978244988340904,
+        13.25024639958462,
+        6.843795251820278
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 6274987,
+    "sha256": "6d9bae984caa50ac5993cfee86260000becc9d7818b647945abf17675c7b6ee1",
+    "code": "V3_GeoShell_Restaurant_Compact",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Restaurant_Compact.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Restaurant",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 48,
+    "unique_faces": 23247,
+    "instances": 111,
+    "bounds_m": [
+      [
+        -19.671402973797647,
+        -6.731422272211811,
+        -0.25
+      ],
+      [
+        19.669084951440155,
+        15.345798947010707,
+        6.845848877214578
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 6289126,
+    "sha256": "7309ba2891e0306beef572fa1cb2d9590656383e0ec19f15f8fa82e5a6225362",
+    "code": "V3_GeoShell_Restaurant_Expanded",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Restaurant_Expanded.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Restaurant",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 52,
+    "unique_faces": 24671,
+    "instances": 111,
+    "bounds_m": [
+      [
+        -16.980297044444725,
+        -6.02945680856827,
+        -0.25
+      ],
+      [
+        16.978244988340904,
+        13.25024639958462,
+        6.843795251820278
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 6640902,
+    "sha256": "467c34f4b2c6bd21762bb5efdae6aa2d4a7a3ba1abffa29045d5aa708997a6fe",
+    "code": "V3_GeoShell_Cafe_Compact",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Cafe_Compact.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Cafe",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 52,
+    "unique_faces": 24715,
+    "instances": 117,
+    "bounds_m": [
+      [
+        -19.671402973797647,
+        -6.731422272211811,
+        -0.25
+      ],
+      [
+        19.669084951440155,
+        15.345798947010707,
+        6.845848877214578
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 6655041,
+    "sha256": "c62637d3969c371098185068e8fa9376d428d8b495ebd572f5fe5082e27776af",
+    "code": "V3_GeoShell_Cafe_Expanded",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Cafe_Expanded.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Cafe",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 45,
+    "unique_faces": 24629,
+    "instances": 89,
+    "bounds_m": [
+      [
+        -16.980297044444725,
+        -13.94391399309702,
+        -0.55
+      ],
+      [
+        16.978244988340904,
+        13.25024639958462,
+        6.843795251820278
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Frosted_Glass",
+      "GeoShell_accent",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 6904209,
+    "sha256": "c65603d789dd685cb68b11ab7122c14f85f9e8dec30cbcc326c33337f1243855",
+    "code": "V3_GeoShell_Chalet_Compact",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Chalet_Compact.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Chalet",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 45,
+    "unique_faces": 24661,
+    "instances": 89,
+    "bounds_m": [
+      [
+        -19.671402973797647,
+        -14.6334854519484,
+        -0.55
+      ],
+      [
+        19.669084951440155,
+        15.345798947010707,
+        6.845848877214578
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Frosted_Glass",
+      "GeoShell_accent",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 6914391,
+    "sha256": "62af718fe9f54d0915228e99a911a75d3f0d22f46b237957e6736be71f362db0",
+    "code": "V3_GeoShell_Chalet_Expanded",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Chalet_Expanded.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Chalet",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 14528,
+    "instances": 78,
+    "bounds_m": [
+      [
+        -21.072480193139548,
+        -34.05,
+        -5.0
+      ],
+      [
+        19.07246362903912,
+        15.072468900984186,
+        6.8496706579705675
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Ceramic",
+      "Coffee",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3824341,
+    "sha256": "700dbb96c86ce41c24d42d05db0b89db4e76c5d0610d90da4161061786e83368",
+    "code": "V3_GeoShell_Marine_Restaurant",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Marine_Restaurant.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "marine restaurant",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design",
+      "terrace_table_sets": 8,
+      "dining_note": "family-specific complete place settings, individual editable chairs, drinks, menus and lights"
+    }
+  },
+  {
+    "nodes": 16,
+    "unique_faces": 11723,
+    "instances": 24,
+    "bounds_m": [
+      [
+        -13.72248019313955,
+        -22.150000000000002,
+        -5.0
+      ],
+      [
+        12.42246362903912,
+        9.822468900984186,
+        6.84477037688153
+      ]
+    ],
+    "materials": [
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Plant_Stem",
+      "Soil"
+    ],
+    "size_bytes": 3109942,
+    "sha256": "8371a0502b6873d61ffc61e11932e2cf2899a6b5c4bd2132265b79402baa2d90",
+    "code": "V3_GeoShell_Marine_Lounge_Photo",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Marine_Lounge_Photo.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "marine lounge and photo point",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 908,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -7.0,
+        -7.0,
+        -0.25
+      ],
+      [
+        7.0,
+        7.0,
+        4.8999999999999995
+      ]
+    ],
+    "materials": [
+      "GeoShell_floor",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 555746,
+    "sha256": "ca9490081ceb2fb3fc6414f4b64d36bd2ea1b4a11533f00f68e628391dcaad4b",
+    "code": "V3_GeoShell_Centerpiece_Large",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Centerpiece_Large.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "centerpiece",
+      "location": "Large",
+      "overall_diameter_m": 14.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 908,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -2.3,
+        -2.3,
+        -0.25
+      ],
+      [
+        2.3,
+        2.3,
+        1.6099999999999999
+      ]
+    ],
+    "materials": [
+      "GeoShell_floor",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 555746,
+    "sha256": "3787d3af5a4c98987a7b0f77d3f1f8390e3af975dc3178bbbf5b084d88cb8bca",
+    "code": "V3_GeoShell_Centerpiece_Small",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Centerpiece_Small.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "centerpiece",
+      "location": "Small",
+      "overall_diameter_m": 4.6,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 908,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -4.0,
+        -4.0,
+        -0.25
+      ],
+      [
+        4.0,
+        4.0,
+        2.8000000000000003
+      ]
+    ],
+    "materials": [
+      "GeoShell_floor",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 555786,
+    "sha256": "48ea4e40ecc7d2371791f15ed0c5ffdc5798f0dbfe76842c52221a8d5521c280",
+    "code": "V3_GeoShell_Centerpiece_Courtyard",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Centerpiece_Courtyard.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "centerpiece",
+      "location": "Courtyard",
+      "overall_diameter_m": 8.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 17,
+    "unique_faces": 12363,
+    "instances": 18,
+    "bounds_m": [
+      [
+        -11.5225,
+        -9.57,
+        -0.25
+      ],
+      [
+        11.5225,
+        9.5225,
+        6.944222717548629
+      ]
+    ],
+    "materials": [
+      "Ceramic",
+      "GeoShell_accent",
+      "GeoShell_fabric",
+      "GeoShell_floor",
+      "GeoShell_frame",
+      "GeoShell_metal",
+      "GeoShell_roof",
+      "GeoShell_solid",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Safety_EPDM",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3277011,
+    "sha256": "af9146e5cda1c39e8059b6a648c6f42ce6c66bf165be280dc9437693d1e4c92f",
+    "code": "V3_GeoShell_Kids_Area",
+    "family": "GeoShell",
+    "file": "SKP/GeoShell/V3_GeoShell_Kids_Area.skp",
+    "description": {
+      "family": "GeoShell",
+      "category": "Kids Area",
+      "units": "meters",
+      "supervision": "gated entry, guardians seating, soft fall zones and guest WC",
+      "slide_platform_m": 1.0,
+      "wood": "none",
+      "note": "concept equipment; final safety clearances and anchoring need supplier and site engineering"
+    }
+  },
+  {
+    "nodes": 66,
+    "unique_faces": 20571,
+    "instances": 97,
+    "bounds_m": [
+      [
+        -12.638485977419037,
+        -12.0875,
+        -0.25
+      ],
+      [
+        12.638485977419037,
+        11.952328889858597,
+        5.866911598359736
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 5532167,
+    "sha256": "4e1ebe4f6a1878ac56870f5e5646fb6d06371ba39c33c8944b29fe4a38003842",
+    "code": "V3_Star_Spa_Compact",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Spa_Compact.skp",
+    "description": {
+      "family": "Star",
+      "category": "Spa",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 66,
+    "unique_faces": 20571,
+    "instances": 97,
+    "bounds_m": [
+      [
+        -14.122699805499211,
+        -13.465100000000001,
+        -0.25
+      ],
+      [
+        14.122699805499211,
+        13.397871355400646,
+        5.867057040275321
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 5528690,
+    "sha256": "7d26eeaf9af057756dcd2e360d974a69804c1e9c3c082bd0046615649f1febe7",
+    "code": "V3_Star_Spa_Expanded",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Spa_Expanded.skp",
+    "description": {
+      "family": "Star",
+      "category": "Spa",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 64,
+    "unique_faces": 22659,
+    "instances": 91,
+    "bounds_m": [
+      [
+        -12.638485977419037,
+        -12.0875,
+        -0.25
+      ],
+      [
+        12.638485977419037,
+        11.952328889858597,
+        5.866911598359736
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5770187,
+    "sha256": "a7a00b4adf997b77280d125819632a04bdcfa6c34cf3f8ce1164fc35e356fd52",
+    "code": "V3_Star_Gym_Compact",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Gym_Compact.skp",
+    "description": {
+      "family": "Star",
+      "category": "Gym",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 64,
+    "unique_faces": 22659,
+    "instances": 91,
+    "bounds_m": [
+      [
+        -14.122699805499211,
+        -13.465100000000001,
+        -0.25
+      ],
+      [
+        14.122699805499211,
+        13.397871355400646,
+        5.867057040275321
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5766705,
+    "sha256": "94f87000215e575d1ac238d2e390f8b3bbeeb93b3cee19fc4b5a151ae28c49d8",
+    "code": "V3_Star_Gym_Expanded",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Gym_Expanded.skp",
+    "description": {
+      "family": "Star",
+      "category": "Gym",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 65,
+    "unique_faces": 20999,
+    "instances": 125,
+    "bounds_m": [
+      [
+        -12.638485977419037,
+        -12.0875,
+        -0.25
+      ],
+      [
+        12.638485977419037,
+        11.952328889858597,
+        5.866911598359736
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5451738,
+    "sha256": "9182011638ccbba7a93c7ba929bed43908aa51e68f3467dec3bd8811022485e1",
+    "code": "V3_Star_Restaurant_Compact",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Restaurant_Compact.skp",
+    "description": {
+      "family": "Star",
+      "category": "Restaurant",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 65,
+    "unique_faces": 21011,
+    "instances": 128,
+    "bounds_m": [
+      [
+        -14.122699805499211,
+        -13.465100000000001,
+        -0.25
+      ],
+      [
+        14.122699805499211,
+        13.397871355400646,
+        5.867057040275321
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5451625,
+    "sha256": "e0fba9e2652f612c6ca8f55036d5a18b312fae4bb555c31de6e5a1ff1eae73ca",
+    "code": "V3_Star_Restaurant_Expanded",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Restaurant_Expanded.skp",
+    "description": {
+      "family": "Star",
+      "category": "Restaurant",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 67,
+    "unique_faces": 23153,
+    "instances": 128,
+    "bounds_m": [
+      [
+        -12.638485977419037,
+        -12.0875,
+        -0.25
+      ],
+      [
+        12.638485977419037,
+        11.952328889858597,
+        5.866911598359736
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5966941,
+    "sha256": "97aa0af6beb31574f951b9260385769aa609b9836caac396c44ce523ebd007e0",
+    "code": "V3_Star_Cafe_Compact",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Cafe_Compact.skp",
+    "description": {
+      "family": "Star",
+      "category": "Cafe",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 67,
+    "unique_faces": 23165,
+    "instances": 131,
+    "bounds_m": [
+      [
+        -14.122699805499211,
+        -13.465100000000001,
+        -0.25
+      ],
+      [
+        14.122699805499211,
+        13.397871355400646,
+        5.867057040275321
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5966829,
+    "sha256": "c6e2511c73512fc9130406801e4a2758f5148c63238ac48902b8c63541308a4e",
+    "code": "V3_Star_Cafe_Expanded",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Cafe_Expanded.skp",
+    "description": {
+      "family": "Star",
+      "category": "Cafe",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 60,
+    "unique_faces": 21085,
+    "instances": 108,
+    "bounds_m": [
+      [
+        -12.638485977419037,
+        -19.9275,
+        -0.55
+      ],
+      [
+        12.638485977419037,
+        11.952328889858597,
+        5.866911598359736
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 5709861,
+    "sha256": "c12ad7791a8838af13b01b814edfaa6dc3a30aec5f68ae768a0816e9c946efd2",
+    "code": "V3_Star_Chalet_Compact",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Chalet_Compact.skp",
+    "description": {
+      "family": "Star",
+      "category": "Chalet",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 60,
+    "unique_faces": 21097,
+    "instances": 111,
+    "bounds_m": [
+      [
+        -14.122699805499211,
+        -21.305100000000003,
+        -0.55
+      ],
+      [
+        14.122699805499211,
+        13.397871355400646,
+        5.867057040275321
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 5709708,
+    "sha256": "1a9de8d99d20442b04811f08823e4bd823374358f642541149be7d7201cc120d",
+    "code": "V3_Star_Chalet_Expanded",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Chalet_Expanded.skp",
+    "description": {
+      "family": "Star",
+      "category": "Chalet",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 56,
+    "unique_faces": 23185,
+    "instances": 111,
+    "bounds_m": [
+      [
+        -18.14255419281856,
+        -34.05,
+        -5.0
+      ],
+      [
+        18.142554192818558,
+        15.44378003020285,
+        5.866883366871661
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5768612,
+    "sha256": "c9c46f94dacb9d4d972dc34d79fc69b2a8f0c75e53b2ef92eee2b3b38e0ae2da",
+    "code": "V3_Star_Marine_Restaurant",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Marine_Restaurant.skp",
+    "description": {
+      "family": "Star",
+      "category": "marine restaurant",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design",
+      "terrace_table_sets": 3,
+      "dining_note": "family-specific complete place settings, individual editable chairs, drinks, menus and lights"
+    }
+  },
+  {
+    "nodes": 50,
+    "unique_faces": 22057,
+    "instances": 78,
+    "bounds_m": [
+      [
+        -11.81802835945579,
+        -22.150000000000002,
+        -5.0
+      ],
+      [
+        11.818028359455788,
+        10.063817017609448,
+        5.8661371031466825
+      ]
+    ],
+    "materials": [
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Plant_Stem",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 5570801,
+    "sha256": "d7932ec5073337aa6210cb9372f269ca1a38accae2b38229e31fd637ea775e68",
+    "code": "V3_Star_Marine_Lounge_Photo",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Marine_Lounge_Photo.skp",
+    "description": {
+      "family": "Star",
+      "category": "marine lounge and photo point",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 904,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -7.0,
+        -7.0,
+        -0.25
+      ],
+      [
+        7.0,
+        7.0,
+        4.5011646344072105
+      ]
+    ],
+    "materials": [
+      "LED",
+      "Star_accent",
+      "Star_floor",
+      "Star_metal",
+      "Star_solid",
+      "Water"
+    ],
+    "size_bytes": 587493,
+    "sha256": "0a3b1d70f91b542e0dffaddc8278b17de3a6b11c20075da80034b95829a2e0c6",
+    "code": "V3_Star_Centerpiece_Large",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Centerpiece_Large.skp",
+    "description": {
+      "family": "Star",
+      "category": "centerpiece",
+      "location": "Large",
+      "overall_diameter_m": 14.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 904,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -2.3,
+        -2.3,
+        -0.25
+      ],
+      [
+        2.3,
+        2.3,
+        1.4802897250234854
+      ]
+    ],
+    "materials": [
+      "LED",
+      "Star_accent",
+      "Star_floor",
+      "Star_metal",
+      "Star_solid",
+      "Water"
+    ],
+    "size_bytes": 587493,
+    "sha256": "fc91b61d650807413123260a11544e2baf1b6dbeec08f80172bc9ca676c77c8e",
+    "code": "V3_Star_Centerpiece_Small",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Centerpiece_Small.skp",
+    "description": {
+      "family": "Star",
+      "category": "centerpiece",
+      "location": "Small",
+      "overall_diameter_m": 4.6,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 904,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -4.0,
+        -4.0,
+        -0.25
+      ],
+      [
+        4.0,
+        4.0,
+        2.572857786263073
+      ]
+    ],
+    "materials": [
+      "LED",
+      "Star_accent",
+      "Star_floor",
+      "Star_metal",
+      "Star_solid",
+      "Water"
+    ],
+    "size_bytes": 587533,
+    "sha256": "5dfafce95bd888a6d366e389718a9380bfb6fee66c99546ac82dfa5f64d0c603",
+    "code": "V3_Star_Centerpiece_Courtyard",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Centerpiece_Courtyard.skp",
+    "description": {
+      "family": "Star",
+      "category": "centerpiece",
+      "location": "Courtyard",
+      "overall_diameter_m": 8.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 11526,
+    "instances": 19,
+    "bounds_m": [
+      [
+        -11.5225,
+        -9.57,
+        -0.25
+      ],
+      [
+        11.5225,
+        9.5225,
+        5.967097775824675
+      ]
+    ],
+    "materials": [
+      "Ceramic",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Safety_EPDM",
+      "Soil",
+      "Star_accent",
+      "Star_fabric",
+      "Star_floor",
+      "Star_frame",
+      "Star_metal",
+      "Star_roof",
+      "Star_solid",
+      "Steel"
+    ],
+    "size_bytes": 3157286,
+    "sha256": "1266448b8c9efe8a229d8a9e3cf496b8473c79235ba53ff6053634cf5143fda6",
+    "code": "V3_Star_Kids_Area",
+    "family": "Star",
+    "file": "SKP/Star/V3_Star_Kids_Area.skp",
+    "description": {
+      "family": "Star",
+      "category": "Kids Area",
+      "units": "meters",
+      "supervision": "gated entry, guardians seating, soft fall zones and guest WC",
+      "slide_platform_m": 1.0,
+      "wood": "none",
+      "note": "concept equipment; final safety clearances and anchoring need supplier and site engineering"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 12054,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -15.972090278194994,
+        -14.890758592791602,
+        -0.25
+      ],
+      [
+        15.972090278194994,
+        12.3275,
+        5.987492192516143
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 3577931,
+    "sha256": "7fdfe00b317f5b2cac53ee4facfc20c1068bb2514037ff3481e6d728eebf26e1",
+    "code": "V3_Crab_Spa_Compact",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Spa_Compact.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Spa",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 13066,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -18.375665330349275,
+        -16.98726020366191,
+        -0.25
+      ],
+      [
+        18.375665330349275,
+        14.295499999999999,
+        6.287492656363819
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 3814012,
+    "sha256": "4bc0a0dcee037da759f507dd24172f1bf3ee09b848cd0ebde3b74abe899e5741",
+    "code": "V3_Crab_Spa_Expanded",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Spa_Expanded.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Spa",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 42,
+    "unique_faces": 13762,
+    "instances": 59,
+    "bounds_m": [
+      [
+        -15.972090278194994,
+        -14.890758592791602,
+        -0.25
+      ],
+      [
+        15.972090278194994,
+        12.3275,
+        5.987492192516143
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Crab_accent",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Marine_Finish_0",
+      "Marine_Finish_1",
+      "Marine_Finish_2",
+      "Marine_Finish_3",
+      "Marine_Finish_4",
+      "Marine_Finish_5",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3665762,
+    "sha256": "ec746b03d88fc5e7e878c42ed5bd17a0ac687a0582bb0a73d329dfe20706f2d3",
+    "code": "V3_Crab_Gym_Compact",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Gym_Compact.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Gym",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 42,
+    "unique_faces": 14774,
+    "instances": 59,
+    "bounds_m": [
+      [
+        -18.375665330349275,
+        -16.98726020366191,
+        -0.25
+      ],
+      [
+        18.375665330349275,
+        14.295499999999999,
+        6.287492656363819
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Crab_accent",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Marine_Finish_0",
+      "Marine_Finish_1",
+      "Marine_Finish_2",
+      "Marine_Finish_3",
+      "Marine_Finish_4",
+      "Marine_Finish_5",
+      "Mirror",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3901632,
+    "sha256": "069539fca53f1146a76abe0f6141446c06e81cc951a04837bdeba0de1b0bb5fe",
+    "code": "V3_Crab_Gym_Expanded",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Gym_Expanded.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Gym",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 44,
+    "unique_faces": 12068,
+    "instances": 105,
+    "bounds_m": [
+      [
+        -15.972090278194994,
+        -14.890758592791602,
+        -0.25
+      ],
+      [
+        15.972090278194994,
+        12.3275,
+        5.987492192516143
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3291071,
+    "sha256": "fe2728e221f362d8836fb8bfcc333052bbd260b30c3d992f58a4a31416524207",
+    "code": "V3_Crab_Restaurant_Compact",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Restaurant_Compact.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Restaurant",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 44,
+    "unique_faces": 13080,
+    "instances": 105,
+    "bounds_m": [
+      [
+        -18.375665330349275,
+        -16.98726020366191,
+        -0.25
+      ],
+      [
+        18.375665330349275,
+        14.295499999999999,
+        6.287492656363819
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3527072,
+    "sha256": "af3de68066fe4e1b04613eb3bb6697a14004297b2b6ef6c7bc534d1516310623",
+    "code": "V3_Crab_Restaurant_Expanded",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Restaurant_Expanded.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Restaurant",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 13882,
+    "instances": 111,
+    "bounds_m": [
+      [
+        -15.972090278194994,
+        -14.890758592791602,
+        -0.25
+      ],
+      [
+        15.972090278194994,
+        12.3275,
+        5.987492192516143
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3783073,
+    "sha256": "36bc2163a6ca60b1098c1b10d670494253e6e9893acdcaac9f05ba960c7134c9",
+    "code": "V3_Crab_Cafe_Compact",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Cafe_Compact.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Cafe",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 49,
+    "unique_faces": 14894,
+    "instances": 111,
+    "bounds_m": [
+      [
+        -18.375665330349275,
+        -16.98726020366191,
+        -0.25
+      ],
+      [
+        18.375665330349275,
+        14.295499999999999,
+        6.287492656363819
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 4019090,
+    "sha256": "584da5eff040a0942fd77933b7fcb9c090500c07f8987c9d3ac290a5076bd1cb",
+    "code": "V3_Crab_Cafe_Expanded",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Cafe_Expanded.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Cafe",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 44,
+    "unique_faces": 12384,
+    "instances": 89,
+    "bounds_m": [
+      [
+        -15.972090278194994,
+        -22.890758592791602,
+        -0.55
+      ],
+      [
+        15.972090278194994,
+        12.3275,
+        5.987492192516143
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_accent",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Marine_Surface_Primer_0",
+      "Marine_Surface_Primer_1",
+      "Marine_Surface_Primer_2",
+      "Marine_Surface_Primer_3",
+      "Marine_Surface_Primer_4",
+      "Marine_Surface_Primer_5",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 3722260,
+    "sha256": "5eac9d52a9a224a1e5fb741d57d8505b34da0b1f35dbef5dd35bd6783be79682",
+    "code": "V3_Crab_Chalet_Compact",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Chalet_Compact.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Chalet",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 44,
+    "unique_faces": 13396,
+    "instances": 89,
+    "bounds_m": [
+      [
+        -18.375665330349275,
+        -24.98726020366191,
+        -0.55
+      ],
+      [
+        18.375665330349275,
+        14.295499999999999,
+        6.287492656363819
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_accent",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Marine_Surface_Primer_0",
+      "Marine_Surface_Primer_1",
+      "Marine_Surface_Primer_2",
+      "Marine_Surface_Primer_3",
+      "Marine_Surface_Primer_4",
+      "Marine_Surface_Primer_5",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 3957969,
+    "sha256": "7fd59ce659fe97d3075f31bd95059360fe3f29ed37fac907bad96ab644518e4f",
+    "code": "V3_Crab_Chalet_Expanded",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Chalet_Expanded.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Chalet",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 39,
+    "unique_faces": 21654,
+    "instances": 99,
+    "bounds_m": [
+      [
+        -19.07248032759385,
+        -31.05,
+        -5.0
+      ],
+      [
+        19.07248032759385,
+        9.25,
+        6.287495607471997
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Ceramic",
+      "Coffee",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Marine_Surface_Primer_0",
+      "Marine_Surface_Primer_1",
+      "Marine_Surface_Primer_2",
+      "Marine_Surface_Primer_3",
+      "Marine_Surface_Primer_4",
+      "Marine_Surface_Primer_5",
+      "Menu",
+      "Mirror",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 5521702,
+    "sha256": "d5cb785889f58017d03861c4adb67087a20882b7ef9b622863c86fb0f7aec9c2",
+    "code": "V3_Crab_Marine_Restaurant",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Marine_Restaurant.skp",
+    "description": {
+      "family": "Crab",
+      "category": "marine restaurant",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design",
+      "terrace_table_sets": 6,
+      "dining_note": "family-specific complete place settings, individual editable chairs, drinks, menus and lights"
+    }
+  },
+  {
+    "nodes": 30,
+    "unique_faces": 15782,
+    "instances": 48,
+    "bounds_m": [
+      [
+        -12.422480327593853,
+        -20.200000000000003,
+        -5.0
+      ],
+      [
+        12.422480327593853,
+        5.9225,
+        5.9274921925161435
+      ]
+    ],
+    "materials": [
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Plant_Stem",
+      "Soil"
+    ],
+    "size_bytes": 4087459,
+    "sha256": "755acdd90cb487b8abbbcd17dd7a0ace5f6fc642a0ff538c731e17072b60bd40",
+    "code": "V3_Crab_Marine_Lounge_Photo",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Marine_Lounge_Photo.skp",
+    "description": {
+      "family": "Crab",
+      "category": "marine lounge and photo point",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 1486,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -7.0,
+        -7.0,
+        -0.25
+      ],
+      [
+        7.0,
+        7.0,
+        3.080450786710308
+      ]
+    ],
+    "materials": [
+      "Crab_floor",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 656700,
+    "sha256": "9352e0f6f3ef8107ffd9fcb47644aad989312931f6ea096986b9535bf6a7c15c",
+    "code": "V3_Crab_Centerpiece_Large",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Centerpiece_Large.skp",
+    "description": {
+      "family": "Crab",
+      "category": "centerpiece",
+      "location": "Large",
+      "overall_diameter_m": 14.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 1486,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -2.3,
+        -2.3,
+        -0.25
+      ],
+      [
+        2.3,
+        2.3,
+        1.012148115633387
+      ]
+    ],
+    "materials": [
+      "Crab_floor",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 656700,
+    "sha256": "0fad0f810beaf8408d202081aafb1ffce1b5b753aac9d7723b46fb650eaea642",
+    "code": "V3_Crab_Centerpiece_Small",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Centerpiece_Small.skp",
+    "description": {
+      "family": "Crab",
+      "category": "centerpiece",
+      "location": "Small",
+      "overall_diameter_m": 4.6,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 1486,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -4.0,
+        -4.0,
+        -0.25
+      ],
+      [
+        4.0,
+        4.0,
+        1.7602575924058905
+      ]
+    ],
+    "materials": [
+      "Crab_floor",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "LED",
+      "Water"
+    ],
+    "size_bytes": 656740,
+    "sha256": "d3d48568d817d7437cc6f9771eda8d34499e654edac2190fc71d23871200d315",
+    "code": "V3_Crab_Centerpiece_Courtyard",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Centerpiece_Courtyard.skp",
+    "description": {
+      "family": "Crab",
+      "category": "centerpiece",
+      "location": "Courtyard",
+      "overall_diameter_m": 8.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 17,
+    "unique_faces": 9746,
+    "instances": 18,
+    "bounds_m": [
+      [
+        -11.5225,
+        -9.57,
+        -0.25
+      ],
+      [
+        11.5225,
+        9.5225,
+        5.687492192516143
+      ]
+    ],
+    "materials": [
+      "Ceramic",
+      "Crab_accent",
+      "Crab_fabric",
+      "Crab_floor",
+      "Crab_frame",
+      "Crab_metal",
+      "Crab_roof",
+      "Crab_solid",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Plant_Stem",
+      "Safety_EPDM",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 2567752,
+    "sha256": "7bab46a804f878a82327ae9a1e264d5d14bad74a48e74d16b016ba5184590a48",
+    "code": "V3_Crab_Kids_Area",
+    "family": "Crab",
+    "file": "SKP/Crab/V3_Crab_Kids_Area.skp",
+    "description": {
+      "family": "Crab",
+      "category": "Kids Area",
+      "units": "meters",
+      "supervision": "gated entry, guardians seating, soft fall zones and guest WC",
+      "slide_platform_m": 1.0,
+      "wood": "none",
+      "note": "concept equipment; final safety clearances and anchoring need supplier and site engineering"
+    }
+  },
+  {
+    "nodes": 56,
+    "unique_faces": 43585,
+    "instances": 79,
+    "bounds_m": [
+      [
+        -14.425933514834298,
+        -13.089928949611034,
+        -0.25
+      ],
+      [
+        16.75224571365189,
+        14.080800501548733,
+        6.208288348158639
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 16984332,
+    "sha256": "d1d98532cd63a87dd4545d70903018db220d52cc33aa9a1daae0b2d9d3d58b20",
+    "code": "V3_NaturalShell_Spa_Compact",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Spa_Compact.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Spa",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 56,
+    "unique_faces": 44323,
+    "instances": 79,
+    "bounds_m": [
+      [
+        -16.611536341192533,
+        -14.880576662624655,
+        -0.25
+      ],
+      [
+        19.130931394746725,
+        16.320896515901207,
+        6.209405079448904
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Water"
+    ],
+    "size_bytes": 17341673,
+    "sha256": "4c82c3d7ee01d3d802a6eb8738c61d4a2cd70fa9f0da757a220e24528407b74a",
+    "code": "V3_NaturalShell_Spa_Expanded",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Spa_Expanded.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Spa",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 53,
+    "unique_faces": 44032,
+    "instances": 77,
+    "bounds_m": [
+      [
+        -14.425933514834298,
+        -13.089928949611034,
+        -0.25
+      ],
+      [
+        16.75224571365189,
+        14.080800501548733,
+        6.208288348158639
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 16692703,
+    "sha256": "950f1a9243087760162c9204fb5dbf21f2127ec6cc1fc02c4b49f5e8673330e7",
+    "code": "V3_NaturalShell_Gym_Compact",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Gym_Compact.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Gym",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 53,
+    "unique_faces": 44770,
+    "instances": 77,
+    "bounds_m": [
+      [
+        -16.611536341192533,
+        -14.880576662624655,
+        -0.25
+      ],
+      [
+        19.130931394746725,
+        16.320896515901207,
+        6.209405079448904
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Rubber",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 17050199,
+    "sha256": "9e8616777935601e6f5a3545eae350bcff4732ddecb964ad4abefc27278728f3",
+    "code": "V3_NaturalShell_Gym_Expanded",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Gym_Expanded.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Gym",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 55,
+    "unique_faces": 43828,
+    "instances": 115,
+    "bounds_m": [
+      [
+        -14.425933514834298,
+        -13.089928949611034,
+        -0.25
+      ],
+      [
+        16.75224571365189,
+        14.080800501548733,
+        6.208288348158639
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 16812843,
+    "sha256": "0496e5007230ed8e7c0b32a65ba5538a4349c115dd01d24f7a46bc56eeb24a54",
+    "code": "V3_NaturalShell_Restaurant_Compact",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Restaurant_Compact.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Restaurant",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 55,
+    "unique_faces": 44566,
+    "instances": 118,
+    "bounds_m": [
+      [
+        -16.611536341192533,
+        -14.880576662624655,
+        -0.25
+      ],
+      [
+        19.130931394746725,
+        16.320896515901207,
+        6.209405079448904
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 17170948,
+    "sha256": "ac2963e115df1e72817efeb33d612afbfbddb7b335ca613cf76432ab5bee5bee",
+    "code": "V3_NaturalShell_Restaurant_Expanded",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Restaurant_Expanded.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Restaurant",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 58,
+    "unique_faces": 44932,
+    "instances": 123,
+    "bounds_m": [
+      [
+        -14.425933514834298,
+        -13.089928949611034,
+        -0.25
+      ],
+      [
+        16.75224571365189,
+        14.080800501548733,
+        6.208288348158639
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 17341143,
+    "sha256": "20c7e2a8a227ff7708f06a39515819aa49a467260a7ec97723181e24d2ed3d04",
+    "code": "V3_NaturalShell_Cafe_Compact",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Cafe_Compact.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Cafe",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 58,
+    "unique_faces": 45670,
+    "instances": 126,
+    "bounds_m": [
+      [
+        -16.611536341192533,
+        -14.880576662624655,
+        -0.25
+      ],
+      [
+        19.130931394746725,
+        16.320896515901207,
+        6.209405079448904
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 11882467,
+    "sha256": "d103c7abe2901807e728f8c01bd34c8fb18fc5e95ee57b1d7fe606ad637c1aed",
+    "code": "V3_NaturalShell_Cafe_Expanded",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Cafe_Expanded.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Cafe",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 51,
+    "unique_faces": 43691,
+    "instances": 100,
+    "bounds_m": [
+      [
+        -14.425933514834298,
+        -21.154795580778693,
+        -0.55
+      ],
+      [
+        16.75224571365189,
+        14.080800501548733,
+        6.208288348158639
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 11564794,
+    "sha256": "a7d832ed08ab7e2eefc205743404685e64808b520879eea335897d1295bac6a5",
+    "code": "V3_NaturalShell_Chalet_Compact",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Chalet_Compact.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Chalet",
+      "size_option": "compact",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 51,
+    "unique_faces": 44429,
+    "instances": 100,
+    "bounds_m": [
+      [
+        -16.611536341192533,
+        -22.945443293792312,
+        -0.55
+      ],
+      [
+        19.130931394746725,
+        16.320896515901207,
+        6.209405079448904
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Frosted_Glass",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 11762154,
+    "sha256": "f638f6e0739592daad7c08e80784923407a23d3df1ee2578b3cf2f8711668303",
+    "code": "V3_NaturalShell_Chalet_Expanded",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Chalet_Expanded.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Chalet",
+      "size_option": "expanded",
+      "units": "meters",
+      "design": "different pavilion plan, bespoke family furniture, detailed fittings",
+      "wood": "none",
+      "jacuzzi": "inside spa only",
+      "proposed_dimensions": "concept design, not surveyed building dimensions"
+    }
+  },
+  {
+    "nodes": 26,
+    "unique_faces": 20506,
+    "instances": 80,
+    "bounds_m": [
+      [
+        -16.259466952874195,
+        -34.05,
+        -5.0
+      ],
+      [
+        18.007461718380505,
+        14.953840788769567,
+        6.2106647071540175
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 5272536,
+    "sha256": "8d0ef2b628b2c6da52d8b9f8578f6f7482a80ba11b01d46875a2a8284609ea0f",
+    "code": "V3_NaturalShell_Marine_Restaurant",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Marine_Restaurant.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "marine restaurant",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design",
+      "terrace_table_sets": 9,
+      "dining_note": "family-specific complete place settings, individual editable chairs, drinks, menus and lights"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 18454,
+    "instances": 26,
+    "bounds_m": [
+      [
+        -10.59402078645424,
+        -22.150000000000002,
+        -5.0
+      ],
+      [
+        11.730211718380508,
+        9.745367726040067,
+        6.207794056729265
+      ]
+    ],
+    "materials": [
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Smoke",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Soil"
+    ],
+    "size_bytes": 4862158,
+    "sha256": "cf02a7e99abe0e94402c091c7f3e429d9497223d43427c8c474c4875f7a53cf0",
+    "code": "V3_NaturalShell_Marine_Lounge_Photo",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Marine_Lounge_Photo.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "marine lounge and photo point",
+      "units": "meters",
+      "wood": "none",
+      "materials": "marine-grade metal, GFRC/mineral composite, porcelain, glazing",
+      "shore_entry": "negative X for fish; negative Y for other families",
+      "marine_engineering": "piles and decks are concept geometry; foundations depend on bathymetry and wave design"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 2636,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -7.0,
+        -7.0,
+        -0.25
+      ],
+      [
+        7.0,
+        7.0,
+        5.216709975529214
+      ]
+    ],
+    "materials": [
+      "LED",
+      "NaturalShell_floor",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Water"
+    ],
+    "size_bytes": 880878,
+    "sha256": "d67db03f52aacc4a38debd433086aaabc0c351311c7cea5400e6951effa746ae",
+    "code": "V3_NaturalShell_Centerpiece_Large",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Centerpiece_Large.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "centerpiece",
+      "location": "Large",
+      "overall_diameter_m": 14.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 2636,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -2.3,
+        -2.3,
+        -0.25
+      ],
+      [
+        2.3,
+        2.3,
+        1.8617761348167416
+      ]
+    ],
+    "materials": [
+      "LED",
+      "NaturalShell_floor",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Water"
+    ],
+    "size_bytes": 880878,
+    "sha256": "83c5d94b4a4ff912ca6b264f7c82d9f1fcf6ef75bda96979ed78e0f6de5be9f5",
+    "code": "V3_NaturalShell_Centerpiece_Small",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Centerpiece_Small.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "centerpiece",
+      "location": "Small",
+      "overall_diameter_m": 4.6,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 2,
+    "unique_faces": 2636,
+    "instances": 1,
+    "bounds_m": [
+      [
+        -4.0,
+        -4.0,
+        -0.25
+      ],
+      [
+        4.0,
+        4.0,
+        3.0752628431595515
+      ]
+    ],
+    "materials": [
+      "LED",
+      "NaturalShell_floor",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Water"
+    ],
+    "size_bytes": 880918,
+    "sha256": "5fd963eddde1127bb08f3513925422b638486a54b475ee1106d4b34b01c9d1ec",
+    "code": "V3_NaturalShell_Centerpiece_Courtyard",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Centerpiece_Courtyard.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "centerpiece",
+      "location": "Courtyard",
+      "overall_diameter_m": 8.0,
+      "wood": "none"
+    }
+  },
+  {
+    "nodes": 17,
+    "unique_faces": 13128,
+    "instances": 18,
+    "bounds_m": [
+      [
+        -11.5225,
+        -9.57,
+        -0.25
+      ],
+      [
+        11.5225,
+        9.5225,
+        6.307429135956249
+      ]
+    ],
+    "materials": [
+      "Ceramic",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "NaturalShell_accent",
+      "NaturalShell_fabric",
+      "NaturalShell_floor",
+      "NaturalShell_frame",
+      "NaturalShell_metal",
+      "NaturalShell_roof",
+      "NaturalShell_solid",
+      "Plant_Stem",
+      "Safety_EPDM",
+      "Soil",
+      "Steel"
+    ],
+    "size_bytes": 3787362,
+    "sha256": "a80a8172aa25b613f223faced003a087caf576aad8d9146b90841ba6634bd239",
+    "code": "V3_NaturalShell_Kids_Area",
+    "family": "NaturalShell",
+    "file": "SKP/NaturalShell/V3_NaturalShell_Kids_Area.skp",
+    "description": {
+      "family": "NaturalShell",
+      "category": "Kids Area",
+      "units": "meters",
+      "supervision": "gated entry, guardians seating, soft fall zones and guest WC",
+      "slide_platform_m": 1.0,
+      "wood": "none",
+      "note": "concept equipment; final safety clearances and anchoring need supplier and site engineering"
+    }
+  }
+]

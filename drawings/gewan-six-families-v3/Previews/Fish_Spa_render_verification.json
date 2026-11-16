@@ -1,0 +1,7 @@
+{
+  "source_glb": "Fish_Spa.glb",
+  "source_glb_sha256": "f69aa4e8dd49a170543ba1d008840798e1324418bf3c4544381c0f54c0c5c860",
+  "source": "geometry read back from exported SKP",
+  "render_only_context": "ocean or ground plane",
+  "roof_hidden_views": "same geometry with roof visibility disabled"
+}

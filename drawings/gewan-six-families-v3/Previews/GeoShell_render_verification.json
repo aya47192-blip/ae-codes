@@ -1,0 +1,7 @@
+{
+  "source_glb": "GeoShell.glb",
+  "source_glb_sha256": "1db6f3fbd268aad72957ee0b86e4b7e4cdb6a2f42776c7b5e50a8f4a2f663167",
+  "source": "geometry read back from exported SKP",
+  "render_only_context": "ocean or ground plane",
+  "roof_hidden_views": "same geometry with roof visibility disabled"
+}

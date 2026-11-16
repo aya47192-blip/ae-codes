@@ -1,0 +1,57 @@
+{
+  "models": 96,
+  "families": {
+    "Turtle": 16,
+    "Fish": 16,
+    "GeoShell": 16,
+    "Star": 16,
+    "Crab": 16,
+    "NaturalShell": 16
+  },
+  "archives": {
+    "Gewan_V3_Turtle.zip": {
+      "bytes": 28348137,
+      "sha256": "aab555495996f615e99e90bd46f2dc11efb76cbd8da6a691afe68c61ec9c5be6",
+      "skp_files": 16,
+      "crc_valid": true
+    },
+    "Gewan_V3_Fish.zip": {
+      "bytes": 32622491,
+      "sha256": "6ed8650b238d6b905285883605b6a875cca6b14c2d032da69ab01a91e9751a87",
+      "skp_files": 16,
+      "crc_valid": true
+    },
+    "Gewan_V3_GeoShell.zip": {
+      "bytes": 34048057,
+      "sha256": "5f4c446b72c2d6904f521579a0741b560af95ee99d4d4be6836f72eda3bcb525",
+      "skp_files": 16,
+      "crc_valid": true
+    },
+    "Gewan_V3_Star.zip": {
+      "bytes": 26346401,
+      "sha256": "f978c037261c813f1969b1796d3ba77aaebecf20846087f54a4b2d42a949eb51",
+      "skp_files": 16,
+      "crc_valid": true
+    },
+    "Gewan_V3_Crab.zip": {
+      "bytes": 19448282,
+      "sha256": "5f453101f7d0291301a0bafb80e7cbbcf5842884ba90fe8932501dad1c671e91",
+      "skp_files": 16,
+      "crc_valid": true
+    },
+    "Gewan_V3_NaturalShell.zip": {
+      "bytes": 53600826,
+      "sha256": "3f4fbaec4df55c854d21db61f7d5ef25bf2acbff0a842f7fe30a60a56537f4e9",
+      "skp_files": 16,
+      "crc_valid": true
+    }
+  },
+  "extension": {
+    "gewan_six_families.rb": "Ruby syntax valid",
+    "gewan_six_families/main.rb": "Ruby syntax valid",
+    "gewan_six_families/index.html": "JavaScript syntax valid"
+  },
+  "desktop_tested": false,
+  "unique_faces_across_files": 1732225,
+  "renders_match_final_geometry": true
+}

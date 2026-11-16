@@ -1,0 +1,7 @@
+{
+  "source_glb": "Fish_Gym.glb",
+  "source_glb_sha256": "fd4655c6380cb222e2bf56aca2728a96ef4c3e9d2daeca54ee78413fbff319ac",
+  "source": "geometry read back from exported SKP",
+  "render_only_context": "ocean or ground plane",
+  "roof_hidden_views": "same geometry with roof visibility disabled"
+}

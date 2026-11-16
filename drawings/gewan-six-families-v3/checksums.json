@@ -1,0 +1,170 @@
+{
+  "release_verification.json": {
+    "bytes": 1619,
+    "sha256": "7f7ad43e38fba9f0746b3ad071441581145834c2ced8e283eda411c84173b51a"
+  },
+  "verification.json": {
+    "bytes": 35195,
+    "sha256": "2ea0f275b468c5e627721a29921269dbd30a2f1468809fa353c0b60da25d6930"
+  },
+  "manifest.json": {
+    "bytes": 118393,
+    "sha256": "b86316b97824ca3d6ba4426e2f4d8ee7decf5a3d18281b99dfd5ea3421318cb9"
+  },
+  "Preview_Catalog_V3.pdf": {
+    "bytes": 2913666,
+    "sha256": "e3fb193a65f1b4da39b1d5cab8ac9807717257198fe342b1c35816d7f9469097"
+  },
+  "Gewan_Six_Families_Loader.rbz": {
+    "bytes": 4929,
+    "sha256": "cd1c1795d232a92a724608d8f277357632d39bbba15d7d8a9c983089c820de5f"
+  },
+  "Gewan_V3_Turtle.zip": {
+    "bytes": 28348137,
+    "sha256": "aab555495996f615e99e90bd46f2dc11efb76cbd8da6a691afe68c61ec9c5be6"
+  },
+  "Gewan_V3_Fish.zip": {
+    "bytes": 32622491,
+    "sha256": "6ed8650b238d6b905285883605b6a875cca6b14c2d032da69ab01a91e9751a87"
+  },
+  "Gewan_V3_GeoShell.zip": {
+    "bytes": 34048057,
+    "sha256": "5f4c446b72c2d6904f521579a0741b560af95ee99d4d4be6836f72eda3bcb525"
+  },
+  "Gewan_V3_Star.zip": {
+    "bytes": 26346401,
+    "sha256": "f978c037261c813f1969b1796d3ba77aaebecf20846087f54a4b2d42a949eb51"
+  },
+  "Gewan_V3_Crab.zip": {
+    "bytes": 19448282,
+    "sha256": "5f453101f7d0291301a0bafb80e7cbbcf5842884ba90fe8932501dad1c671e91"
+  },
+  "Gewan_V3_NaturalShell.zip": {
+    "bytes": 53600826,
+    "sha256": "3f4fbaec4df55c854d21db61f7d5ef25bf2acbff0a842f7fe30a60a56537f4e9"
+  },
+  "README.md": {
+    "bytes": 1684,
+    "sha256": "1d25d5851f0105361052a1825bbf6b3fcc528815dba99fa07c747ff518bc09e0"
+  },
+  "README_AR.md": {
+    "bytes": 6184,
+    "sha256": "38814a9893a628599df89e1c62a5f3322080d3aa2913a74fcc9ae7348c492a2d"
+  },
+  "SKP/V3_Fish_Marine_Restaurant.skp": {
+    "bytes": 4355238,
+    "sha256": "c9252de32b679a610baa93a24b091300afa21abffca2b6e5f2ffd0b0f46cde29"
+  },
+  "SKP/M01_Turtle_Shore_Entrance_VIP_v2.skp": {
+    "bytes": 9204870,
+    "sha256": "f3dda875256f5031375ce4c778f55512c58f93f7d860235a1fa403d5ea1ca429"
+  },
+  "Previews/Fish_render_verification.json": {
+    "bytes": 293,
+    "sha256": "8cf4cc395aa6e7fbf9f123dc8b9b557ba62deb451476ee795a22fc424305aca1"
+  },
+  "Previews/GeoShell_render_verification.json": {
+    "bytes": 297,
+    "sha256": "4edfafb77dae4a9d9c38a22b255240538358cea25723c961f6b2d2ef6d41da09"
+  },
+  "Previews/Fish_Exterior.png": {
+    "bytes": 454432,
+    "sha256": "dc7757e4ffd78de350d8b45de8d4a44252375584565ba81cf5ecf3afb913fbc0"
+  },
+  "Previews/Fish_Interior.png": {
+    "bytes": 691652,
+    "sha256": "868b2a1d601655732456298fbb3f09625f066d690795698121a4cb4490bd11fc"
+  },
+  "Previews/Fish_Furniture_Detail.png": {
+    "bytes": 838364,
+    "sha256": "88d4ee5a1098607e062d61d3a82a4b95698ee3869255c201ba2d59cee705ac57"
+  },
+  "Previews/GeoShell_Exterior.png": {
+    "bytes": 533874,
+    "sha256": "da30f6ec7df4094bad4ca57087b79becae85bfcae8059c7362412fb0372ccecd"
+  },
+  "Previews/Star_Exterior.png": {
+    "bytes": 517260,
+    "sha256": "4aa39d5a3e81bb0539cd5407c4026bc427215614440a9cf5afeb3a5d02652d5c"
+  },
+  "Previews/Star_render_verification.json": {
+    "bytes": 293,
+    "sha256": "d7d4db7aa9f93bf867d71c95412bc3559aad721dadf8c0bc27b63fa4765423ec"
+  },
+  "Previews/Crab_Exterior.png": {
+    "bytes": 802795,
+    "sha256": "857df12d23ce363bcf87e0351cd37d778bb88d89e2b2705f232c9a810048f3d3"
+  },
+  "Previews/Crab_render_verification.json": {
+    "bytes": 293,
+    "sha256": "baa7de3b23a451c805f9198bda0d5bb14a21857505573046f036c42f8fc82cd7"
+  },
+  "Previews/Fish_Spa_Interior.png": {
+    "bytes": 722914,
+    "sha256": "8f9c37a575a13ab3cacf0afb09d54fcb0777c1b02dbab4b86af6ac17c6ba1fd7"
+  },
+  "Previews/Fish_Spa_render_verification.json": {
+    "bytes": 297,
+    "sha256": "0725f08557b73ebc02c4be847b9526a65abbcbc8dfe8685598806db687148ef0"
+  },
+  "Previews/Fish_Gym_Interior.png": {
+    "bytes": 689457,
+    "sha256": "442b3d6ab62cd1180df1f7bbf217b8be15ae3bde8f5c7a4e9ca5ef55ae18d7c0"
+  },
+  "Previews/Fish_Gym_render_verification.json": {
+    "bytes": 297,
+    "sha256": "21b937e1c126fb48d9fd62d0ddd97eb3885dce7eb6e83812f56f045fd8f89934"
+  },
+  "Previews/NaturalShell_Exterior.png": {
+    "bytes": 495491,
+    "sha256": "6d8619e3e3c7f6c28357b5e3d6a2a627578e1955ef43db97a227f75538b1cf3b"
+  },
+  "Previews/NaturalShell_render_verification.json": {
+    "bytes": 301,
+    "sha256": "6402617be674e910d2989074f057423b0048b52bfc367e52e58f8274a8b9959f"
+  },
+  "Previews/TURTLE_VIP_Head_Doors.jpg": {
+    "bytes": 801835,
+    "sha256": "01d8a103b77e0a723da562fd6fa23beddc3550f62cd0b2513b1e39e9f503d777"
+  },
+  "Previews/TURTLE_Access_Top.jpg": {
+    "bytes": 542055,
+    "sha256": "0cd6210faee788161c39fbfa6bd2e0b21361b157406ae55bc8d96bf576efa37a"
+  },
+  "Previews/Turtle_Access_Verification.json": {
+    "bytes": 3340,
+    "sha256": "8fdcf0f1dabb9278baa5ecdd403a2c2cd522ca15c02d12024cafdeaf1566217c"
+  },
+  "Previews/Six_Families_Comparison.jpg": {
+    "bytes": 1228955,
+    "sha256": "3db2752f47d78b09e09a200daee5743472e857edc419eaa681ebd4f6d12683a5"
+  },
+  "Previews/Six_Families_Interiors.jpg": {
+    "bytes": 1108490,
+    "sha256": "82c965df3711beb36209756d513eec085bf5a63aebef5b9985b8429702db9ce9"
+  },
+  "Previews/Turtle_16_Blocks.jpg": {
+    "bytes": 629019,
+    "sha256": "eeee9c7e3bafe14dbbf0010fd511840223585e64ac08292f8e3044fb51aa7cc8"
+  },
+  "Previews/Fish_16_Blocks.jpg": {
+    "bytes": 440665,
+    "sha256": "0c587cf9dc92be861b542e16488e0faa59365960f69fdb11c2b914fe08f19db5"
+  },
+  "Previews/GeoShell_16_Blocks.jpg": {
+    "bytes": 468955,
+    "sha256": "55d038a2d994d0205a60f89ab2d05d6fbcba9ac5a620e29c5884269f559bab8a"
+  },
+  "Previews/Star_16_Blocks.jpg": {
+    "bytes": 421021,
+    "sha256": "4d68a9cc08e80136bfdb25747f4527516f1b35f80c6b5739181b22449dce5973"
+  },
+  "Previews/Crab_16_Blocks.jpg": {
+    "bytes": 554790,
+    "sha256": "c25b83136eb8a44d473a8dfe3718b2c0addb5a03518910c759f9e48e40627446"
+  },
+  "Previews/NaturalShell_16_Blocks.jpg": {
+    "bytes": 455413,
+    "sha256": "2b6ef5d6a200e9b368643f82316fd14204e206a8fb637bfe773d69b289ee26b5"
+  }
+}
