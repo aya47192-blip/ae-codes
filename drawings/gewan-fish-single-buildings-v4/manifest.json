@@ -1,0 +1,1048 @@
+[
+  {
+    "nodes": 38,
+    "unique_faces": 6847,
+    "instances": 85,
+    "bounds_m": [
+      [
+        -11.65,
+        -9.125,
+        -0.28
+      ],
+      [
+        11.65,
+        8.65,
+        4.566910736322501
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_0_accent",
+      "V4_0_fabric",
+      "V4_0_floor",
+      "V4_0_roof",
+      "V4_0_wall",
+      "V4_Brass",
+      "V4_Frosted",
+      "V4_Metal",
+      "V4_Plant_Stem",
+      "Water"
+    ],
+    "size_bytes": 2342329,
+    "sha256": "9977b2a9d07177dd3cf14a050d7268a766af34d2fc0ffb3bd3fa4277c114243b",
+    "code": "F4_Fish_Spa_Compact",
+    "index": 1,
+    "description": {
+      "category": "Spa",
+      "variant": "Compact",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "butterfly",
+      "external_footprint_area_m2": 352,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 0,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "butterfly",
+      "furniture_variant": "V4 distinct design 0",
+      "facade_design": "privacy",
+      "roof_color_rgb": [
+        224,
+        216,
+        196
+      ],
+      "furniture_structural_type": 0
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 38,
+    "unique_faces": 8707,
+    "instances": 85,
+    "bounds_m": [
+      [
+        -13.65,
+        -10.125,
+        -0.28
+      ],
+      [
+        13.65,
+        9.65,
+        5.199999637107418
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_1_accent",
+      "V4_1_fabric",
+      "V4_1_floor",
+      "V4_1_roof",
+      "V4_1_wall",
+      "V4_Brass",
+      "V4_Frosted",
+      "V4_Metal",
+      "V4_Plant_Stem",
+      "Water"
+    ],
+    "size_bytes": 2952377,
+    "sha256": "43249a5a0fbcd97de024a7c86644342a0ef06837a6c5a2656fbe1e7853920d92",
+    "code": "F4_Fish_Spa_Expanded",
+    "index": 2,
+    "description": {
+      "category": "Spa",
+      "variant": "Expanded",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "barrel",
+      "external_footprint_area_m2": 468,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 1,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "barrel",
+      "furniture_variant": "V4 distinct design 1",
+      "facade_design": "privacy",
+      "roof_color_rgb": [
+        183,
+        198,
+        186
+      ],
+      "furniture_structural_type": 1
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 6497,
+    "instances": 68,
+    "bounds_m": [
+      [
+        -13.65,
+        -10.125,
+        -0.28
+      ],
+      [
+        13.65,
+        9.65,
+        3.72
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Soil",
+      "Steel",
+      "V4_2_accent",
+      "V4_2_fabric",
+      "V4_2_floor",
+      "V4_2_roof",
+      "V4_2_wall",
+      "V4_Brass",
+      "V4_Frosted",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 1859774,
+    "sha256": "bee47827e2f8d73aac4edb17da20fb3200fe21271d3264ab628c82d82ac4d617",
+    "code": "F4_Fish_Gym_Compact",
+    "index": 3,
+    "description": {
+      "category": "Gym",
+      "variant": "Compact",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "flat",
+      "external_footprint_area_m2": 468,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 2,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "flat",
+      "furniture_variant": "V4 distinct design 2",
+      "facade_design": "sports",
+      "roof_color_rgb": [
+        66,
+        77,
+        83
+      ],
+      "furniture_structural_type": 2
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 6817,
+    "instances": 69,
+    "bounds_m": [
+      [
+        -15.65,
+        -11.125,
+        -0.28
+      ],
+      [
+        15.65,
+        10.65,
+        4.807425800543061
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Soil",
+      "Steel",
+      "V4_3_accent",
+      "V4_3_fabric",
+      "V4_3_floor",
+      "V4_3_roof",
+      "V4_3_wall",
+      "V4_Brass",
+      "V4_Frosted",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 1952954,
+    "sha256": "a2a816b7e3b7be2b48973696e4b565aad75d34ee765772f38af750fa6b967bb1",
+    "code": "F4_Fish_Gym_Expanded",
+    "index": 4,
+    "description": {
+      "category": "Gym",
+      "variant": "Expanded",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "sawtooth",
+      "external_footprint_area_m2": 600,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 3,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "sawtooth",
+      "furniture_variant": "V4 distinct design 3",
+      "facade_design": "sports",
+      "roof_color_rgb": [
+        92,
+        103,
+        112
+      ],
+      "furniture_structural_type": 3
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 29,
+    "unique_faces": 10423,
+    "instances": 164,
+    "bounds_m": [
+      [
+        -12.65,
+        -10.125,
+        -0.28
+      ],
+      [
+        12.65,
+        9.65,
+        5.081371701122928
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_4_accent",
+      "V4_4_fabric",
+      "V4_4_floor",
+      "V4_4_roof",
+      "V4_4_wall",
+      "V4_Brass",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 2458439,
+    "sha256": "e6f7e69f5946e57b4ce2b53e5375c9ad441e4e3bc172a13e6012c415fa743d88",
+    "code": "F4_Fish_Restaurant_Compact",
+    "index": 5,
+    "description": {
+      "category": "Restaurant",
+      "variant": "Compact",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "mono",
+      "external_footprint_area_m2": 432,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 4,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "mono",
+      "furniture_variant": "V4 distinct design 4",
+      "facade_design": "full_glass",
+      "roof_color_rgb": [
+        68,
+        81,
+        107
+      ],
+      "furniture_structural_type": 4
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 29,
+    "unique_faces": 6105,
+    "instances": 179,
+    "bounds_m": [
+      [
+        -14.65,
+        -11.125,
+        -0.28
+      ],
+      [
+        14.65,
+        10.65,
+        5.566368666369327
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_5_accent",
+      "V4_5_fabric",
+      "V4_5_floor",
+      "V4_5_roof",
+      "V4_5_wall",
+      "V4_Brass",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 1846027,
+    "sha256": "f83debf5661230b67e3d9654f394c0e3c521f32a7e2befb783e4dbd2101fac5c",
+    "code": "F4_Fish_Restaurant_Expanded",
+    "index": 6,
+    "description": {
+      "category": "Restaurant",
+      "variant": "Expanded",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "asymmetric",
+      "external_footprint_area_m2": 560,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 5,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "asymmetric",
+      "furniture_variant": "V4 distinct design 5",
+      "facade_design": "full_glass",
+      "roof_color_rgb": [
+        151,
+        112,
+        78
+      ],
+      "furniture_structural_type": 5
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 29,
+    "unique_faces": 8851,
+    "instances": 132,
+    "bounds_m": [
+      [
+        -9.65,
+        -7.125,
+        -0.28
+      ],
+      [
+        9.65,
+        6.65,
+        5.199999212836314
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_6_accent",
+      "V4_6_fabric",
+      "V4_6_floor",
+      "V4_6_roof",
+      "V4_6_wall",
+      "V4_Brass",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 2695219,
+    "sha256": "cd2b9d4d689c85c3b53f5e7afe84197d524f2a2171332ee31019eb9898a221aa",
+    "code": "F4_Fish_Cafe_Compact",
+    "index": 7,
+    "description": {
+      "category": "Cafe",
+      "variant": "Compact",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "barrel",
+      "external_footprint_area_m2": 216,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 6,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "barrel",
+      "furniture_variant": "V4 distinct design 6",
+      "facade_design": "arch",
+      "roof_color_rgb": [
+        238,
+        210,
+        184
+      ],
+      "furniture_structural_type": 0
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 29,
+    "unique_faces": 10602,
+    "instances": 141,
+    "bounds_m": [
+      [
+        -11.15,
+        -8.125,
+        -0.28
+      ],
+      [
+        11.15,
+        7.65,
+        4.877383281718411
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_7_accent",
+      "V4_7_fabric",
+      "V4_7_floor",
+      "V4_7_roof",
+      "V4_7_wall",
+      "V4_Brass",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 3346144,
+    "sha256": "7705b788edeb6d57e03e85fc10c353811d8898ff8b7644377ca4143b981753b7",
+    "code": "F4_Fish_Cafe_Expanded",
+    "index": 8,
+    "description": {
+      "category": "Cafe",
+      "variant": "Expanded",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "wave",
+      "external_footprint_area_m2": 294,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 7,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "wave",
+      "furniture_variant": "V4 distinct design 7",
+      "facade_design": "arch",
+      "roof_color_rgb": [
+        171,
+        209,
+        207
+      ],
+      "furniture_structural_type": 1
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 29,
+    "unique_faces": 6376,
+    "instances": 90,
+    "bounds_m": [
+      [
+        -7.65,
+        -12.5,
+        -0.6
+      ],
+      [
+        7.65,
+        6.15,
+        4.998426805807644
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_8_accent",
+      "V4_8_fabric",
+      "V4_8_floor",
+      "V4_8_roof",
+      "V4_8_wall",
+      "V4_Brass",
+      "V4_Frosted",
+      "V4_Metal",
+      "V4_Plant_Stem",
+      "Water"
+    ],
+    "size_bytes": 2093819,
+    "sha256": "c187eb164d4e99bbd219d676d41bde1d9cee47c8207554332dfda55e12a7b4cf",
+    "code": "F4_Fish_Chalet_Compact",
+    "index": 9,
+    "description": {
+      "category": "Chalet",
+      "variant": "Compact",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "gable",
+      "external_footprint_area_m2": 154,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 8,
+      "wood": "none",
+      "pool_opening_m2": 19.4121,
+      "programme_in_one_building": true,
+      "roof_shape": "gable",
+      "furniture_variant": "V4 distinct design 8",
+      "facade_design": "home",
+      "roof_color_rgb": [
+        93,
+        118,
+        78
+      ],
+      "furniture_structural_type": 2
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 32,
+    "unique_faces": 6957,
+    "instances": 107,
+    "bounds_m": [
+      [
+        -9.65,
+        -13.0,
+        -0.6
+      ],
+      [
+        9.65,
+        6.65,
+        3.72
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_9_accent",
+      "V4_9_fabric",
+      "V4_9_floor",
+      "V4_9_roof",
+      "V4_9_wall",
+      "V4_Brass",
+      "V4_Frosted",
+      "V4_Metal",
+      "V4_Plant_Stem",
+      "Water"
+    ],
+    "size_bytes": 2284111,
+    "sha256": "d40c46d0fd376015ddad384b34ecba03c4c84fd861ea9da6a0e5c43e9d2334cd",
+    "code": "F4_Fish_Chalet_Expanded",
+    "index": 10,
+    "description": {
+      "category": "Chalet",
+      "variant": "Expanded",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "terrace",
+      "external_footprint_area_m2": 216,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 9,
+      "wood": "none",
+      "pool_opening_m2": 19.4121,
+      "programme_in_one_building": true,
+      "roof_shape": "terrace",
+      "furniture_variant": "V4 distinct design 9",
+      "facade_design": "home",
+      "roof_color_rgb": [
+        231,
+        226,
+        228
+      ],
+      "furniture_structural_type": 3
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 30,
+    "unique_faces": 14987,
+    "instances": 185,
+    "bounds_m": [
+      [
+        -18.0225,
+        -28.01,
+        -4.8
+      ],
+      [
+        18.0225,
+        12.0225,
+        5.128054042383941
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_10_accent",
+      "V4_10_fabric",
+      "V4_10_floor",
+      "V4_10_roof",
+      "V4_10_wall",
+      "V4_Brass",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 3947550,
+    "sha256": "4274a095f9b79a8d2388a99510d87889492d63f05c3bdd0513432dad10c6f077",
+    "code": "F4_Fish_Marine_Restaurant_Single",
+    "index": 11,
+    "description": {
+      "category": "Marine_Restaurant",
+      "variant": "Single",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "gullwing",
+      "external_footprint_area_m2": 448,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 10,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "gullwing",
+      "furniture_variant": "V4 distinct design 10",
+      "facade_design": "full_glass",
+      "roof_color_rgb": [
+        224,
+        231,
+        225
+      ],
+      "furniture_structural_type": 4
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 20,
+    "unique_faces": 9909,
+    "instances": 63,
+    "bounds_m": [
+      [
+        -10.0225,
+        -24.01,
+        -4.8
+      ],
+      [
+        10.0225,
+        8.0225,
+        4.508176047200157
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Soil",
+      "Steel",
+      "V4_11_accent",
+      "V4_11_fabric",
+      "V4_11_floor",
+      "V4_11_roof",
+      "V4_11_wall",
+      "V4_Brass",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 2536982,
+    "sha256": "d040c50554900d77049490f5e1939a2fe953b3bda6da8587484b32bd302dd468",
+    "code": "F4_Fish_Marine_Lounge_Single",
+    "index": 12,
+    "description": {
+      "category": "Marine_Lounge",
+      "variant": "Single",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "inverted",
+      "external_footprint_area_m2": 96,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 11,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "inverted",
+      "furniture_variant": "V4 distinct design 11",
+      "facade_design": "full_glass",
+      "roof_color_rgb": [
+        163,
+        95,
+        73
+      ],
+      "furniture_structural_type": 5
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 3,
+    "unique_faces": 6310,
+    "instances": 2,
+    "bounds_m": [
+      [
+        -6.0,
+        -6.0,
+        -0.25
+      ],
+      [
+        6.0,
+        6.0,
+        4.829999999999999
+      ]
+    ],
+    "materials": [
+      "LED",
+      "V4_12_accent",
+      "V4_12_fabric",
+      "V4_12_floor",
+      "V4_12_wall",
+      "Water"
+    ],
+    "size_bytes": 2709780,
+    "sha256": "6aaa99c86a87cb1cec98397639e2eb9fca40313994d9a4c7bdf4af24a5b3d49b",
+    "code": "F4_Fish_Centerpiece_Large",
+    "index": 13,
+    "description": {
+      "category": "Centerpiece",
+      "variant": "Large",
+      "palette_id": 12,
+      "main_building_count": 0,
+      "wood": "none",
+      "units": "meters"
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 681,
+    "instances": 10,
+    "bounds_m": [
+      [
+        -2.25,
+        -2.25,
+        -0.25
+      ],
+      [
+        2.25,
+        2.25,
+        2.05
+      ]
+    ],
+    "materials": [
+      "LED",
+      "V4_13_accent",
+      "V4_13_floor",
+      "V4_13_wall",
+      "Water"
+    ],
+    "size_bytes": 367656,
+    "sha256": "adfaf1d744b6bb93ad6bb31dc834601b9f61e29b86475e1969649fc2d2a1cbd4",
+    "code": "F4_Fish_Centerpiece_Small",
+    "index": 14,
+    "description": {
+      "category": "Centerpiece",
+      "variant": "Small",
+      "palette_id": 13,
+      "main_building_count": 0,
+      "wood": "none",
+      "units": "meters"
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 3,
+    "unique_faces": 703,
+    "instances": 2,
+    "bounds_m": [
+      [
+        -3.75,
+        -3.75,
+        -0.25
+      ],
+      [
+        3.75,
+        3.75,
+        2.4166666666666665
+      ]
+    ],
+    "materials": [
+      "LED",
+      "V4_14_accent",
+      "V4_14_floor",
+      "V4_14_wall",
+      "Water"
+    ],
+    "size_bytes": 371946,
+    "sha256": "baf60d03ab80bcabfa85283d67b3cd21039e995ba28db9279205b32422a9772b",
+    "code": "F4_Fish_Centerpiece_Courtyard",
+    "index": 15,
+    "description": {
+      "category": "Centerpiece",
+      "variant": "Courtyard",
+      "palette_id": 14,
+      "main_building_count": 0,
+      "wood": "none",
+      "units": "meters"
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  },
+  {
+    "nodes": 26,
+    "unique_faces": 15543,
+    "instances": 69,
+    "bounds_m": [
+      [
+        -10.0225,
+        -13.09,
+        -0.28
+      ],
+      [
+        10.0225,
+        5.65,
+        5.276031770323575
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Soil",
+      "Steel",
+      "V4_15_accent",
+      "V4_15_fabric",
+      "V4_15_floor",
+      "V4_15_roof",
+      "V4_15_wall",
+      "V4_Brass",
+      "V4_EPDM",
+      "V4_Metal",
+      "V4_Plant_Stem"
+    ],
+    "size_bytes": 3885175,
+    "sha256": "bd296fb98fa928c167449df078754be8197f72117fc17b986664f18a9692af1b",
+    "code": "F4_Fish_Kids_Area_Single",
+    "index": 16,
+    "description": {
+      "category": "Kids_Area",
+      "variant": "Single",
+      "units": "meters",
+      "family": "Fish revised single-building collection",
+      "status": "proposed editable design; not construction drawings",
+      "main_building_count": 1,
+      "main_roof_groups": 1,
+      "roof_profile": "tent",
+      "external_footprint_area_m2": 140,
+      "footprint": "one rectangle; all functional rooms inside the same envelope",
+      "palette_id": 15,
+      "wood": "none",
+      "programme_in_one_building": true,
+      "roof_shape": "tent",
+      "furniture_variant": "V4 distinct design 15",
+      "facade_design": "porthole",
+      "roof_color_rgb": [
+        117,
+        98,
+        148
+      ],
+      "furniture_structural_type": 3
+    },
+    "native_readback": true,
+    "loose_edges": 0,
+    "desktop_tested": false
+  }
+]

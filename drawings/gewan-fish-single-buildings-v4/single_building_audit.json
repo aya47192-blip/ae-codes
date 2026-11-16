@@ -1,0 +1,126 @@
+{
+  "buildings": [
+    {
+      "code": "F4_Fish_Spa_Compact",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 5,
+      "no_separate_pavilions": true,
+      "roof": "butterfly",
+      "facade": "privacy"
+    },
+    {
+      "code": "F4_Fish_Spa_Expanded",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 5,
+      "no_separate_pavilions": true,
+      "roof": "barrel",
+      "facade": "privacy"
+    },
+    {
+      "code": "F4_Fish_Gym_Compact",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 1,
+      "no_separate_pavilions": true,
+      "roof": "flat",
+      "facade": "sports"
+    },
+    {
+      "code": "F4_Fish_Gym_Expanded",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 1,
+      "no_separate_pavilions": true,
+      "roof": "sawtooth",
+      "facade": "sports"
+    },
+    {
+      "code": "F4_Fish_Restaurant_Compact",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 2,
+      "no_separate_pavilions": true,
+      "roof": "mono",
+      "facade": "full_glass"
+    },
+    {
+      "code": "F4_Fish_Restaurant_Expanded",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 2,
+      "no_separate_pavilions": true,
+      "roof": "asymmetric",
+      "facade": "full_glass"
+    },
+    {
+      "code": "F4_Fish_Cafe_Compact",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 1,
+      "no_separate_pavilions": true,
+      "roof": "barrel",
+      "facade": "arch"
+    },
+    {
+      "code": "F4_Fish_Cafe_Expanded",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 1,
+      "no_separate_pavilions": true,
+      "roof": "wave",
+      "facade": "arch"
+    },
+    {
+      "code": "F4_Fish_Chalet_Compact",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 2,
+      "no_separate_pavilions": true,
+      "roof": "gable",
+      "facade": "home"
+    },
+    {
+      "code": "F4_Fish_Chalet_Expanded",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 3,
+      "no_separate_pavilions": true,
+      "roof": "terrace",
+      "facade": "home"
+    },
+    {
+      "code": "F4_Fish_Marine_Restaurant_Single",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 2,
+      "no_separate_pavilions": true,
+      "roof": "gullwing",
+      "facade": "full_glass"
+    },
+    {
+      "code": "F4_Fish_Marine_Lounge_Single",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 0,
+      "no_separate_pavilions": true,
+      "roof": "inverted",
+      "facade": "full_glass"
+    },
+    {
+      "code": "F4_Fish_Kids_Area_Single",
+      "connected_roof_coverage": true,
+      "continuous_floor_under_building": true,
+      "functional_rooms_inside_main_envelope": 1,
+      "no_separate_pavilions": true,
+      "roof": "tent",
+      "facade": "porthole"
+    }
+  ],
+  "building_count": 13,
+  "independent_components": 16,
+  "sculptures": 3,
+  "timber_materials": 0,
+  "desktop_tested": false
+}
