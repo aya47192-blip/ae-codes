@@ -1,0 +1,38 @@
+{
+  "README.md": {
+    "bytes": 4339,
+    "sha256": "761682ca6435f34a9151a099e558684a2c6b5f9a4a431cabd9092cb08fecf33f"
+  },
+  "verification.json": {
+    "bytes": 2356,
+    "sha256": "9b3be784f7d659ab7c33023dcf64a7a47b2fdee1a5404ec6e85e28ef03ffc4ce"
+  },
+  "Fish_V5_Cafe_Prototype_Preview.pdf": {
+    "bytes": 399629,
+    "sha256": "ceb9f744deb19cd68e29ccc81a149550810e6d95b6311bfe1c6b7dc39776fb29"
+  },
+  "Fish_V5_Cafe_Prototype_One_SKP.zip": {
+    "bytes": 7792681,
+    "sha256": "7e4823267a90a4c47bfa129241cac282ee3e852adbd5d945ee57a6b0a9e95139"
+  },
+  "Previews/PROTOTYPE_Exterior_Curved_Scales.png": {
+    "bytes": 545503,
+    "sha256": "0653800aa54a5c1da5590a25aae9421c234b2b021f1b6e3616364251f23844eb"
+  },
+  "Previews/PROTOTYPE_Scale_Closeup.png": {
+    "bytes": 646532,
+    "sha256": "7e221ba7e5504ac826062b40e9cc6d3d9087ca50a37d7e434b474f64242b9287"
+  },
+  "Previews/PROTOTYPE_Top.png": {
+    "bytes": 632144,
+    "sha256": "f2591ea68f0fafe43f5c4ce02c06837473de102087b50e3e9cc50fb1f4cde455"
+  },
+  "Previews/PROTOTYPE_Interior_Roof_Hidden.png": {
+    "bytes": 897933,
+    "sha256": "544ee0ce77173ee7fdbd771178688ce740a032814a884897c7f294be4d28053b"
+  },
+  "Previews/PROTOTYPE_render_verification.json": {
+    "bytes": 298,
+    "sha256": "2914fd63bca840cda53cee59ef1efa6cebeb5078c3881e1d72071073a6bc76d7"
+  }
+}
