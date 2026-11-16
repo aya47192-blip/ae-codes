@@ -1,0 +1,12 @@
+{
+  "Gewan_Blocks_2023.zip": {
+    "models": 60,
+    "catalog_file_and_image_paths_valid": true,
+    "priority_model_payload_hash_matches": true
+  },
+  "Gewan_Detailed_Library_2023.rbz": {
+    "models": 60,
+    "catalog_file_and_image_paths_valid": true,
+    "priority_model_payload_hash_matches": true
+  }
+}

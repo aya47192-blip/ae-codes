@@ -1,0 +1,7 @@
+{
+  "source_glb": "SPA_readback.glb",
+  "source_glb_sha256": "da7969d9bc9fff757de4eedc3d0f3edfc12bc54b0db604e09e914b3ec9ebf721",
+  "source": "geometry read back from exported SKP",
+  "render_only_context": "ocean or ground plane",
+  "roof_hidden_views": "same geometry with roof visibility disabled"
+}

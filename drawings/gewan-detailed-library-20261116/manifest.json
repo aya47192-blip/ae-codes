@@ -1,0 +1,3060 @@
+[
+  {
+    "nodes": 26,
+    "unique_faces": 26166,
+    "instances": 120,
+    "bounds_m": [
+      [
+        -35.836193865159174,
+        -43.010535157716966,
+        -5.8
+      ],
+      [
+        35.83769139956661,
+        32.2,
+        12.17995692686415
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 8056034,
+    "sha256": "9d8c4b641f7ca4e4709c4dc6e6c676d8c606b86d119c1b6d0bb1ece4479f2f21",
+    "code": "M01_Turtle_Skylight_Restaurant",
+    "file": "SKP/M01_Turtle_Skylight_Restaurant.skp",
+    "description": {
+      "category": "Marine restaurant",
+      "concept": "Turtle",
+      "reference": "preferred blue-green glazed turtle with projecting sea promenades",
+      "dimensions_status": "designed proportions from a single image; proposed metres, not measured reference",
+      "indoor_seats": 114,
+      "marine_facilities": "4 viewing loops; head entrance; kitchen; beverage bar; toilets; host; outdoor dining; piles; glazing; planters; bollards",
+      "roof_hide_tag": "02_Roofs_Hide_For_Interiors"
+    }
+  },
+  {
+    "nodes": 14,
+    "unique_faces": 12491,
+    "instances": 33,
+    "bounds_m": [
+      [
+        -18.408174026090766,
+        -19.0,
+        -5.8
+      ],
+      [
+        18.39982160775587,
+        13.008266629269576,
+        8.543726367312031
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Pearl",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4417321,
+    "sha256": "7f35d6d1aa781d0eb3e5c3276d4be8fbb3e7386249a8b163bb57b3c9a9f66e0f",
+    "code": "M02_Turtle_Hex_Skylight_Lounge",
+    "file": "SKP/M02_Turtle_Hex_Skylight_Lounge.skp",
+    "description": {
+      "category": "Marine lounge and photo pavilion",
+      "concept": "Turtle",
+      "reference": "brown carapace, hexagonal shell plates and skylights"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 23801,
+    "instances": 105,
+    "bounds_m": [
+      [
+        -26.031379120422343,
+        -30.2,
+        -5.8
+      ],
+      [
+        26.033715733127572,
+        16.50761903247435,
+        12.28996404128379
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 6632273,
+    "sha256": "70e45b9a998a855c2ca457f1689e683676778f23ebc5ce28629d8316cbd80ebe",
+    "code": "M03_Shell_Spiral_Restaurant",
+    "file": "SKP/M03_Shell_Spiral_Restaurant.skp",
+    "description": {
+      "category": "Marine restaurant",
+      "concept": "Shell",
+      "dimensions_status": "proposed standalone architectural component",
+      "dining_sets": 12,
+      "seats": 72,
+      "contents": "sculptural roof; complete dining sets; kitchen; coffee bar; toilets; host; terrace; rails; piles; plants; lighting",
+      "indoor_seats": 78
+    }
+  },
+  {
+    "nodes": 9,
+    "unique_faces": 13215,
+    "instances": 21,
+    "bounds_m": [
+      [
+        -9.01978932142526,
+        -22.0,
+        -5.8
+      ],
+      [
+        9.019269691124428,
+        10.02700353127452,
+        7.887494068510288
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Ochre_Fabric",
+      "Pearl",
+      "Soil",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3815611,
+    "sha256": "419ad6c2fb617a33736d6241b19b855ecdf9f7b6d9a47a37f31722aef62d61b4",
+    "code": "M04_Shell_Spiral_Photo_Pavilion",
+    "file": "SKP/M04_Shell_Spiral_Photo_Pavilion.skp",
+    "description": {
+      "category": "Marine lounge and photo pavilion",
+      "concept": "Shell"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 26236,
+    "instances": 96,
+    "bounds_m": [
+      [
+        -20.499404635904096,
+        -31.2,
+        -5.8
+      ],
+      [
+        20.519652185518833,
+        27.34963701667467,
+        11.2
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 7650587,
+    "sha256": "9a3259bcca64f5d7ba96a8d960027b530a28c01aacd54b8ef338c2686d93500e",
+    "code": "M05_Fish_Scale_Restaurant",
+    "file": "SKP/M05_Fish_Scale_Restaurant.skp",
+    "description": {
+      "category": "Marine restaurant",
+      "concept": "Fish",
+      "dimensions_status": "proposed standalone architectural component",
+      "dining_sets": 19,
+      "seats": 114,
+      "contents": "sculptural roof; complete dining sets; kitchen; coffee bar; toilets; host; terrace; rails; piles; plants; lighting",
+      "indoor_seats": 78
+    }
+  },
+  {
+    "nodes": 9,
+    "unique_faces": 14415,
+    "instances": 21,
+    "bounds_m": [
+      [
+        -9.020788704195999,
+        -22.0,
+        -5.8
+      ],
+      [
+        9.020788704195999,
+        10.02700353127452,
+        7.7
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Roof_Scale",
+      "Soil",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4452860,
+    "sha256": "aae22c850656a15ae3043a5cb8c0323c805796e62ba0e5d0d2b60e946f705c28",
+    "code": "M06_Fish_Scale_Photo_Pavilion",
+    "file": "SKP/M06_Fish_Scale_Photo_Pavilion.skp",
+    "description": {
+      "category": "Marine lounge and photo pavilion",
+      "concept": "Fish"
+    }
+  },
+  {
+    "nodes": 20,
+    "unique_faces": 8489,
+    "instances": 76,
+    "bounds_m": [
+      [
+        -11.0275,
+        -29.2,
+        -5.8
+      ],
+      [
+        11.0275,
+        14.0275,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3039081,
+    "sha256": "1e539627fc85b45d5d1d539ad98c10c61a1147cdb62a97c540f4d1d28bf29d75",
+    "code": "M07_Coastal_Seafood_Grill",
+    "file": "SKP/M07_Coastal_Seafood_Grill.skp",
+    "description": {
+      "category": "Marine restaurant",
+      "concept": "Neutral coast",
+      "contents": "timber pavilion; fully set indoor/outdoor dining; grill; kitchen; coffee; display; planters; lanterns",
+      "indoor_seats": 6
+    }
+  },
+  {
+    "nodes": 10,
+    "unique_faces": 5407,
+    "instances": 15,
+    "bounds_m": [
+      [
+        -9.0275,
+        -23.0,
+        -5.8
+      ],
+      [
+        9.0275,
+        7.5275,
+        3.075
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Soil",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 2141922,
+    "sha256": "dea0c8559184a400f4a2f8964fd4c2829525b839f065f638c3fa239e60abfc21",
+    "code": "M08_Coastal_Cabana_Photo_Deck",
+    "file": "SKP/M08_Coastal_Cabana_Photo_Deck.skp",
+    "description": {
+      "category": "Marine lounge and photo pavilion",
+      "concept": "Neutral coast",
+      "contents": "three editable lattice cabanas; sofas; chairs; lanterns; rugs; plants; teak deck; marine piles"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 14018,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -8.498907182964274,
+        -7.499409827815487,
+        -0.42
+      ],
+      [
+        8.498907182964274,
+        7.499409827815487,
+        8.044959670516088
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4302365,
+    "sha256": "67c757d51f7938a83259ba25f019d525d5dbf77e69c2c6bcaea60c8729341d82",
+    "code": "SP_Turtle_Compact",
+    "file": "SKP/SP_Turtle_Compact.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "14 x 12",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 14074,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -10.498843917387548,
+        -8.999442141744947,
+        -0.42
+      ],
+      [
+        10.498843917387548,
+        8.999442141744947,
+        8.07995660478411
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4314680,
+    "sha256": "1489db3126a212a8587e05f1e258e1a057fcf5d58da7d1d88811d411ccffd784",
+    "code": "SP_Turtle_Freestanding",
+    "file": "SKP/SP_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "18 x 15",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 21358,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -8.498907182964274,
+        -7.499409827815487,
+        -0.42
+      ],
+      [
+        8.498907182964274,
+        7.499409827815487,
+        8.787492686905146
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 5919509,
+    "sha256": "2fcae55316e57755cf359e5b9ad2a982b805d4d4fc40614d0b5d167bc772aed5",
+    "code": "SP_Shell_Compact",
+    "file": "SKP/SP_Shell_Compact.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Shell",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "14 x 12",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 21414,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -10.498843917387548,
+        -8.999442141744947,
+        -0.42
+      ],
+      [
+        10.498843917387548,
+        8.999442141744947,
+        8.789966615561424
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 5932104,
+    "sha256": "67e16cdda34e77ef59f2a5fec8363e2187469244617fbce7e7e5ba23319bcfb9",
+    "code": "SP_Shell_Freestanding",
+    "file": "SKP/SP_Shell_Freestanding.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Shell",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "18 x 15",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 19820,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -8.498907182964274,
+        -7.499409827815487,
+        -0.42
+      ],
+      [
+        8.498907182964274,
+        7.499409827815487,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 6055385,
+    "sha256": "075a6127d305e7fcf2b566f4a375b48d20b0c4a3d6f462a0baa5a26466c3f27f",
+    "code": "SP_Fish_Compact",
+    "file": "SKP/SP_Fish_Compact.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Fish",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "14 x 12",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 22868,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -10.498843917387548,
+        -8.999442141744947,
+        -0.42
+      ],
+      [
+        10.498843917387548,
+        8.999442141744947,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 6749776,
+    "sha256": "e564512cdf5894a552b85a469803fb0a7c682681f6a0cdd1b030137bf963ef33",
+    "code": "SP_Fish_Freestanding",
+    "file": "SKP/SP_Fish_Freestanding.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Fish",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "18 x 15",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 7644,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -8.5,
+        -7.5,
+        -0.42
+      ],
+      [
+        8.5,
+        7.5,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2976731,
+    "sha256": "57458db9431611bba14de7a9ea8121df4ec6400849765d6891e9d4eb646170a1",
+    "code": "SP_Coast_Compact",
+    "file": "SKP/SP_Coast_Compact.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Coast",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "14 x 12",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 7916,
+    "instances": 27,
+    "bounds_m": [
+      [
+        -10.5,
+        -9.0,
+        -0.42
+      ],
+      [
+        10.5,
+        9.0,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Gravel",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 3042499,
+    "sha256": "0143e8df148dd362b0f34d45eefd14e19491e0442c0549529cb910badec3f1be",
+    "code": "SP_Coast_Freestanding",
+    "file": "SKP/SP_Coast_Freestanding.skp",
+    "description": {
+      "category": "Spa",
+      "concept": "Coast",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "18 x 15",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "two private treatment rooms; reception; relaxation; sauna; jacuzzi; shower; towel/robe lockers; accessories"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 11580,
+    "instances": 43,
+    "bounds_m": [
+      [
+        -10.498673091257105,
+        -8.499514008536025,
+        -0.42
+      ],
+      [
+        10.498673091257105,
+        8.499514008536023,
+        8.07995660478411
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3095381,
+    "sha256": "666221aaf0a36393dca0016db5a592699b53295f08d58ec74122b7f4e23c94ea",
+    "code": "GY_Turtle_Compact",
+    "file": "SKP/GY_Turtle_Compact.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "18 x 14",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 11580,
+    "instances": 45,
+    "bounds_m": [
+      [
+        -13.498573124344398,
+        -10.499548086919127,
+        -0.42
+      ],
+      [
+        13.498573124344398,
+        10.499548086919127,
+        8.07997558149988
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3095965,
+    "sha256": "88ff850cb9b3d499fd31cad2f86c13c53ed2a9daeca6896cc85ccf485543a19c",
+    "code": "GY_Turtle_Freestanding",
+    "file": "SKP/GY_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "24 x 18",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 18920,
+    "instances": 43,
+    "bounds_m": [
+      [
+        -10.498673091257105,
+        -8.499514008536025,
+        -0.42
+      ],
+      [
+        10.498673091257105,
+        8.499514008536023,
+        8.78996265146451
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Pearl",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4702159,
+    "sha256": "9e7bfbe815f7a7f1c0490d4983c170b6045441fc6286f14343cbe3ecf534ce84",
+    "code": "GY_Shell_Compact",
+    "file": "SKP/GY_Shell_Compact.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Shell",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "18 x 14",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 18920,
+    "instances": 45,
+    "bounds_m": [
+      [
+        -13.498573124344398,
+        -10.611821196784227,
+        -0.42
+      ],
+      [
+        13.498573124344398,
+        10.499548086919127,
+        8.78997773168931
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Pearl",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4702745,
+    "sha256": "715d1c3247e71472d7170f0eb27103cf7614b4e0ef8cd14d51ce521198d153ca",
+    "code": "GY_Shell_Freestanding",
+    "file": "SKP/GY_Shell_Freestanding.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Shell",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "24 x 18",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 20374,
+    "instances": 43,
+    "bounds_m": [
+      [
+        -10.498673091257105,
+        -8.499514008536025,
+        -0.42
+      ],
+      [
+        10.498673091257105,
+        8.499514008536023,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Roof_Scale",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 5641996,
+    "sha256": "906710c08866d8190c36ed48d48b4e03cd90e534ad68f3eefa78df1b44bfb7b4",
+    "code": "GY_Fish_Compact",
+    "file": "SKP/GY_Fish_Compact.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Fish",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "18 x 14",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 25247,
+    "instances": 45,
+    "bounds_m": [
+      [
+        -13.498573124344398,
+        -10.499548086919127,
+        -0.42
+      ],
+      [
+        13.498573124344398,
+        10.499548086919127,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Roof_Scale",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 6753103,
+    "sha256": "09b065ac1202ef726a22f4e0e71c893d7e49148f431c7b6484eacc774f2d3366",
+    "code": "GY_Fish_Freestanding",
+    "file": "SKP/GY_Fish_Freestanding.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Fish",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "24 x 18",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 5370,
+    "instances": 43,
+    "bounds_m": [
+      [
+        -10.5,
+        -8.5,
+        -0.42
+      ],
+      [
+        10.5,
+        8.5,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 1926953,
+    "sha256": "38a1e07f5a18a586a07e0f7c9193762498adde6f84288802f4a1a580025eab15",
+    "code": "GY_Coast_Compact",
+    "file": "SKP/GY_Coast_Compact.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Coast",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "18 x 14",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 18,
+    "unique_faces": 5750,
+    "instances": 45,
+    "bounds_m": [
+      [
+        -13.5,
+        -10.5,
+        -0.42
+      ],
+      [
+        13.5,
+        10.5,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Display",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Mirror",
+      "Rubber",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 2018606,
+    "sha256": "a01b55ef6d096217a2b726ad390dde19f0be506bcfc88fdfd24dbc269c6b25d2",
+    "code": "GY_Coast_Freestanding",
+    "file": "SKP/GY_Coast_Freestanding.skp",
+    "description": {
+      "category": "Gym",
+      "concept": "Coast",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "24 x 18",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "4\u20136 treadmills; exercise bikes; weight benches; fifteen dumbbells; stretching mats; mirrors; lockers; reception; basin"
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 13412,
+    "instances": 84,
+    "bounds_m": [
+      [
+        -11.498745693406612,
+        -10.98,
+        -0.42
+      ],
+      [
+        11.49874569340661,
+        9.499485855348146,
+        8.079964844441129
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3838589,
+    "sha256": "3855c47e3b5a7d06ab51c5b09c773e199aed73556a1b2941791792839df52c2f",
+    "code": "RE_Turtle_Compact",
+    "file": "SKP/RE_Turtle_Compact.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "20 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 6,
+      "seats": 36,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 30
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 13572,
+    "instances": 94,
+    "bounds_m": [
+      [
+        -14.498643480789978,
+        -13.100000000000001,
+        -0.42
+      ],
+      [
+        14.498643480789978,
+        11.499524625930473,
+        8.079979192294893
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 3884918,
+    "sha256": "3ddf55fa49c0ccd5d748cd1eea8b62e4e273fc608e746a4b4f6c96e7d1fb4f34",
+    "code": "RE_Turtle_Freestanding",
+    "file": "SKP/RE_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "26 x 20",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 12,
+      "seats": 72,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 54
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 21004,
+    "instances": 84,
+    "bounds_m": [
+      [
+        -11.498745693406612,
+        -10.98,
+        -0.42
+      ],
+      [
+        11.49874569340661,
+        9.499485855348146,
+        8.789971089022739
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 5327334,
+    "sha256": "74b299f7d1bb16b8fd1d48144de2fafa2d78f83bda0467e02d372640f0ae438e",
+    "code": "RE_Shell_Compact",
+    "file": "SKP/RE_Shell_Compact.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Shell",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "20 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 6,
+      "seats": 36,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 30
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 21164,
+    "instances": 94,
+    "bounds_m": [
+      [
+        -14.561848982752668,
+        -13.100000000000001,
+        -0.42
+      ],
+      [
+        14.574057051149172,
+        11.499524625930473,
+        8.789981773606593
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 5375917,
+    "sha256": "0e5f08e69ee5c10ea3bf6ad5d10b16cf1407e45f82bd98db82cd37ac6497d20b",
+    "code": "RE_Shell_Freestanding",
+    "file": "SKP/RE_Shell_Freestanding.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Shell",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "26 x 20",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 12,
+      "seats": 72,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 54
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 24163,
+    "instances": 84,
+    "bounds_m": [
+      [
+        -11.498745693406612,
+        -10.98,
+        -0.42
+      ],
+      [
+        11.49874569340661,
+        9.499485855348146,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 6808014,
+    "sha256": "7721d581e06baf23eeda6dc5396f25d985423a095ad92a78b37a42731334c663",
+    "code": "RE_Fish_Compact",
+    "file": "SKP/RE_Fish_Compact.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Fish",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "20 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 6,
+      "seats": 36,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 30
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 28954,
+    "instances": 94,
+    "bounds_m": [
+      [
+        -14.498643480789978,
+        -13.100000000000001,
+        -0.42
+      ],
+      [
+        14.498643480789978,
+        11.499524625930473,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 7910280,
+    "sha256": "4e28ce901cdd0d092756e67936dbaab132d38f933f27eb4bf176f5fa4bdeb812",
+    "code": "RE_Fish_Freestanding",
+    "file": "SKP/RE_Fish_Freestanding.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Fish",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "26 x 20",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 12,
+      "seats": 72,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 54
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 7670,
+    "instances": 84,
+    "bounds_m": [
+      [
+        -11.5,
+        -10.98,
+        -0.42
+      ],
+      [
+        11.5,
+        9.5,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 2761153,
+    "sha256": "91582ab982f27ceda1d02e6a6f715d7de4191e693f572976a76d6e6e76723253",
+    "code": "RE_Coast_Compact",
+    "file": "SKP/RE_Coast_Compact.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Coast",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "20 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 6,
+      "seats": 36,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 30
+    }
+  },
+  {
+    "nodes": 25,
+    "unique_faces": 8130,
+    "instances": 94,
+    "bounds_m": [
+      [
+        -14.5,
+        -13.100000000000001,
+        -0.42
+      ],
+      [
+        14.5,
+        11.5,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 2876549,
+    "sha256": "ecf923a84665d820c09389290b5ede2af34387b81b3891bf13648cf83149f043",
+    "code": "RE_Coast_Freestanding",
+    "file": "SKP/RE_Coast_Freestanding.skp",
+    "description": {
+      "category": "Restaurant",
+      "concept": "Coast",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "26 x 20",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "dining_sets": 12,
+      "seats": 72,
+      "contents": "full dining sets; host desk; cooking counter; burners; extraction hood; refrigeration; coffee station; storage shelves",
+      "indoor_seats": 54
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 13258,
+    "instances": 56,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -9.39,
+        -0.42
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        8.044964862451968
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4080381,
+    "sha256": "802b7ff9f3e9261ce04e40498ac59040a8eb2ce6e606a7749d5ae1d4b1c23c25",
+    "code": "CA_Turtle_Compact",
+    "file": "SKP/CA_Turtle_Compact.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 13326,
+    "instances": 63,
+    "bounds_m": [
+      [
+        -10.998867849880002,
+        -10.98,
+        -0.42
+      ],
+      [
+        10.998867849880002,
+        9.49943034227273,
+        8.079961049245496
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 4105700,
+    "sha256": "7f689d642b980a72350d1f17176e6c024e27a8bafbd84cd744ac55b6cbd8a59a",
+    "code": "CA_Turtle_Freestanding",
+    "file": "SKP/CA_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "19 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 20724,
+    "instances": 56,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -9.39,
+        -0.42
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        8.787493744959033
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 5729749,
+    "sha256": "1cdcbaee9f6bee8e934e3e7ae32f386d8328628c877b2db61435ea2656c9d780",
+    "code": "CA_Shell_Compact",
+    "file": "SKP/CA_Shell_Compact.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Shell",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 20792,
+    "instances": 63,
+    "bounds_m": [
+      [
+        -10.998867849880002,
+        -10.98,
+        -0.42
+      ],
+      [
+        10.998867849880002,
+        9.49943034227273,
+        8.789970548823625
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 5756315,
+    "sha256": "1771e5691020abd8fda894babf3271f07378b8f162da16ffdd6f5dc2c028c3bd",
+    "code": "CA_Shell_Freestanding",
+    "file": "SKP/CA_Shell_Freestanding.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Shell",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "19 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 19681,
+    "instances": 56,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -9.39,
+        -0.42
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 6019934,
+    "sha256": "27138fc29acf810e934fe4b97fed2a5a960610a42cb111cd2cbe98bdad46dbfa",
+    "code": "CA_Fish_Compact",
+    "file": "SKP/CA_Fish_Compact.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Fish",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 23082,
+    "instances": 63,
+    "bounds_m": [
+      [
+        -10.998867849880002,
+        -10.98,
+        -0.42
+      ],
+      [
+        10.998867849880002,
+        9.49943034227273,
+        8.9
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 6806687,
+    "sha256": "d4961754c73f15d10533ab1b8b780cad5356b793b8e9bb7fe03637457ecee97d",
+    "code": "CA_Fish_Freestanding",
+    "file": "SKP/CA_Fish_Freestanding.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Fish",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "19 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 7074,
+    "instances": 56,
+    "bounds_m": [
+      [
+        -9.0,
+        -9.39,
+        -0.42
+      ],
+      [
+        9.0,
+        8.0,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 2853865,
+    "sha256": "03c5956316b62016ea9a404847209512c676bcdf7a05e113af924efaf664dfc7",
+    "code": "CA_Coast_Compact",
+    "file": "SKP/CA_Coast_Compact.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Coast",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 24,
+    "unique_faces": 7362,
+    "instances": 63,
+    "bounds_m": [
+      [
+        -11.0,
+        -10.98,
+        -0.42
+      ],
+      [
+        11.0,
+        9.5,
+        6.55
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Menu",
+      "Mirror",
+      "Napkin",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "White_Frame"
+    ],
+    "size_bytes": 2926523,
+    "sha256": "a638da6580c596be20f9ca897c1da734a45623bb0faa50ac35cbdcac27a27fe8",
+    "code": "CA_Coast_Freestanding",
+    "file": "SKP/CA_Coast_Freestanding.skp",
+    "description": {
+      "category": "Cafe",
+      "concept": "Coast",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "19 x 16",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "contents": "espresso machine; cups/saucers; display; refrigerator; bar cabinetry; library; two lounge clusters; upholstered chairs; dining tables; lighting"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 13068,
+    "instances": 35,
+    "bounds_m": [
+      [
+        -7.499044368129102,
+        -11.5,
+        -0.75
+      ],
+      [
+        7.499044368129102,
+        6.999325070568696,
+        6.6449676612670965
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4165142,
+    "sha256": "48900c4e29380836e6ba416c6d8c8f186d4c1601a6af0c8083510dfb99c0f300",
+    "code": "CH_Turtle_Compact",
+    "file": "SKP/CH_Turtle_Compact.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Turtle",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "12 x 11",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 1,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 13220,
+    "instances": 37,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -12.5,
+        -0.75
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        6.644979295177707
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sage_Fabric",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 4213976,
+    "sha256": "c12e88f4d7ddd8b143ef538c3ec7b2a6f6fbc4aff3e22149aca40b604cc00fa7",
+    "code": "CH_Turtle_Freestanding",
+    "file": "SKP/CH_Turtle_Freestanding.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Turtle",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 2,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 20408,
+    "instances": 35,
+    "bounds_m": [
+      [
+        -7.499044368129102,
+        -11.5,
+        -0.75
+      ],
+      [
+        7.499044368129102,
+        6.999325070568696,
+        7.187494863268503
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 5778757,
+    "sha256": "1e711ed67f80ed3fbe4fc341f9af4dfe276b92858922e09a6171a320314b9b8d",
+    "code": "CH_Shell_Compact",
+    "file": "SKP/CH_Shell_Compact.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Shell",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "12 x 11",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 1,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 20560,
+    "instances": 37,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -12.5,
+        -0.75
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        7.187496385942632
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Ochre_Fabric",
+      "Pearl",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 5828241,
+    "sha256": "eace3f4db0989c8bd39c57a738542ddeb25eb8b1dd0e935480b4e900fd4a3ab0",
+    "code": "CH_Shell_Freestanding",
+    "file": "SKP/CH_Shell_Freestanding.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Shell",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 2,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 16945,
+    "instances": 35,
+    "bounds_m": [
+      [
+        -7.499044368129102,
+        -11.5,
+        -0.75
+      ],
+      [
+        7.499044368129102,
+        6.999325070568696,
+        7.5
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 5408344,
+    "sha256": "ae3aeb064d0badad377f7efceab0a9b2a6a286ee0edfd25f3cd0d79371784ff7",
+    "code": "CH_Fish_Compact",
+    "file": "SKP/CH_Fish_Compact.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Fish",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "12 x 11",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 1,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 19517,
+    "instances": 37,
+    "bounds_m": [
+      [
+        -8.998931043427355,
+        -12.5,
+        -0.75
+      ],
+      [
+        8.998931043427355,
+        7.99939664797312,
+        7.5
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Blue",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Roof_Scale",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Teal_Fabric",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 6009307,
+    "sha256": "b1e45b74f8f5d35a45158845a737f7f84b4d64f450fc26e7e81bbe63545a5cc4",
+    "code": "CH_Fish_Freestanding",
+    "file": "SKP/CH_Fish_Freestanding.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Fish",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 2,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 21,
+    "unique_faces": 6586,
+    "instances": 35,
+    "bounds_m": [
+      [
+        -7.5,
+        -11.5,
+        -0.75
+      ],
+      [
+        7.5,
+        7.0,
+        6.1499999999999995
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2744703,
+    "sha256": "1b03e05b42df0230dfc6c9d069645546c4017f5fee697ad6ddab0b0e68cf5679",
+    "code": "CH_Coast_Compact",
+    "file": "SKP/CH_Coast_Compact.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Coast",
+      "variant": "compact service module",
+      "proposed_floor_dimensions_m": "12 x 11",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 1,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 22,
+    "unique_faces": 6886,
+    "instances": 37,
+    "bounds_m": [
+      [
+        -9.0,
+        -12.5,
+        -0.75
+      ],
+      [
+        9.0,
+        8.0,
+        6.1499999999999995
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Blue_Fabric",
+      "Book",
+      "Bronze",
+      "Ceramic",
+      "Coffee",
+      "Display",
+      "Glass_Clear",
+      "Glass_Green",
+      "Ivory",
+      "LED",
+      "Leaf",
+      "Leaf_Light",
+      "Linen",
+      "Mirror",
+      "Sandstone",
+      "Soil",
+      "Steel",
+      "Teak",
+      "Walnut",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2829005,
+    "sha256": "34bac954dd0b12afb0cc2e28e2cba12e1a650636b02fa54e1a171492ec6fc839",
+    "code": "CH_Coast_Freestanding",
+    "file": "SKP/CH_Coast_Freestanding.skp",
+    "description": {
+      "category": "Chalet",
+      "concept": "Coast",
+      "variant": "freestanding expanded module",
+      "proposed_floor_dimensions_m": "15 x 13",
+      "storeys": 1,
+      "placement_status": "independent component; not inserted into or verified against a specific site parcel",
+      "bedrooms": 2,
+      "contents": "king beds; bedside lamps; wardrobes; kitchenette; television; lounge; shower; WC; vanity; private deck/pool"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 8930,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -10.0,
+        -10.0,
+        -0.40000000000000013
+      ],
+      [
+        10.0,
+        10.0,
+        4.394946728746968
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Sage_Fabric",
+      "Sandstone",
+      "Steel",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2222931,
+    "sha256": "d55be3991c27078a9cfb6ed7e455464ebe7497b8a40879e1b8d92ddb4a93e208",
+    "code": "CP_Large_Turtle",
+    "file": "SKP/CP_Large_Turtle.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Turtle",
+      "location": "Large",
+      "diameter_m": 20.0,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 11382,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -10.0,
+        -10.0,
+        -0.4
+      ],
+      [
+        10.0,
+        10.0,
+        6.837486364715307
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 2767950,
+    "sha256": "058f522cc0985720d55d2d4a89e5acb5f83192874245c54ea01f8edc2774aa6a",
+    "code": "CP_Large_Shell",
+    "file": "SKP/CP_Large_Shell.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Shell",
+      "location": "Large",
+      "diameter_m": 20.0,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 7,
+    "unique_faces": 4191,
+    "instances": 6,
+    "bounds_m": [
+      [
+        -10.0,
+        -10.0,
+        -0.4
+      ],
+      [
+        10.0,
+        10.0,
+        5.1
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Bronze",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 1138065,
+    "sha256": "538af11e092f46cf1a389929cadf4834866bfdcdc1dcfca66e159e006212532f",
+    "code": "CP_Large_Fish",
+    "file": "SKP/CP_Large_Fish.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Fish",
+      "location": "Large",
+      "diameter_m": 20.0,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 3190,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -10.0,
+        -10.0,
+        -0.4
+      ],
+      [
+        10.0,
+        10.0,
+        5.45
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 996734,
+    "sha256": "4c871b29d0ccb3270ad1cef7662376a5ed93df918f771227ee6fe221b0b69036",
+    "code": "CP_Large_Coast",
+    "file": "SKP/CP_Large_Coast.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Coast",
+      "location": "Large",
+      "diameter_m": 20.0,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 8930,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -3.3,
+        -3.3,
+        -0.4
+      ],
+      [
+        3.3,
+        3.3,
+        1.9829467287469675
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Sage_Fabric",
+      "Sandstone",
+      "Steel",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2222931,
+    "sha256": "245160cf2cd75b96de4c092ee45c64acff161ab7746e967c5e975ee91b1db4e1",
+    "code": "CP_Small_Turtle",
+    "file": "SKP/CP_Small_Turtle.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Turtle",
+      "location": "Small",
+      "diameter_m": 6.6,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 11382,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -3.3,
+        -3.3,
+        -0.4
+      ],
+      [
+        3.3,
+        3.3,
+        2.683486364715307
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 2767950,
+    "sha256": "8c105ee7f7de57f734657d9648452d9879601523635f4c5b8b5a01ff6f3df521",
+    "code": "CP_Small_Shell",
+    "file": "SKP/CP_Small_Shell.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Shell",
+      "location": "Small",
+      "diameter_m": 6.6,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 7,
+    "unique_faces": 4191,
+    "instances": 6,
+    "bounds_m": [
+      [
+        -3.3,
+        -3.3,
+        -0.4
+      ],
+      [
+        3.3,
+        3.3,
+        1.6829999999999998
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Bronze",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 1138065,
+    "sha256": "1155ab108c1d62fe231165fa891abac01d552584fc6fc9110614d6e4a5e7d10a",
+    "code": "CP_Small_Fish",
+    "file": "SKP/CP_Small_Fish.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Fish",
+      "location": "Small",
+      "diameter_m": 6.6,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 3190,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -3.3,
+        -3.3,
+        -0.4
+      ],
+      [
+        3.3,
+        3.3,
+        2.1
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 996734,
+    "sha256": "a7842ddcdda84a2dfb47a599b2aa6113b0c481a2a5be3f7542e8d19e6f01c9f0",
+    "code": "CP_Small_Coast",
+    "file": "SKP/CP_Small_Coast.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Coast",
+      "location": "Small",
+      "diameter_m": 6.6,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 8930,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -5.25,
+        -5.25,
+        -0.4
+      ],
+      [
+        5.25,
+        5.25,
+        2.6849467287469673
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Sage_Fabric",
+      "Sandstone",
+      "Steel",
+      "Water",
+      "White_Frame"
+    ],
+    "size_bytes": 2223003,
+    "sha256": "6426ec4b594c96518be47b0bf7780c556b3de2ca9cd1441594fd9111254b54dc",
+    "code": "CP_Courtyard_Turtle",
+    "file": "SKP/CP_Courtyard_Turtle.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Turtle",
+      "location": "Courtyard",
+      "diameter_m": 10.5,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 11382,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -5.25,
+        -5.25,
+        -0.4
+      ],
+      [
+        5.25,
+        5.25,
+        3.8924863647153067
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Glass_Clear",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 2768022,
+    "sha256": "b7404bf9d601647edd3ac5357ae5f7c80fb07f774cd696aefca2af7ea1c4a705",
+    "code": "CP_Courtyard_Shell",
+    "file": "SKP/CP_Courtyard_Shell.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Shell",
+      "location": "Courtyard",
+      "diameter_m": 10.5,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 7,
+    "unique_faces": 4191,
+    "instances": 6,
+    "bounds_m": [
+      [
+        -5.25,
+        -5.25,
+        -0.4
+      ],
+      [
+        5.25,
+        5.25,
+        2.6774999999999998
+      ]
+    ],
+    "materials": [
+      "Black",
+      "Bronze",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 1138185,
+    "sha256": "816c50c7ed819edf4239aaf1bdc0afea3bb411836ac6b059cca00781b0d94dd9",
+    "code": "CP_Courtyard_Fish",
+    "file": "SKP/CP_Courtyard_Fish.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Fish",
+      "location": "Courtyard",
+      "diameter_m": 10.5,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  },
+  {
+    "nodes": 4,
+    "unique_faces": 3190,
+    "instances": 3,
+    "bounds_m": [
+      [
+        -5.25,
+        -5.25,
+        -0.4
+      ],
+      [
+        5.25,
+        5.25,
+        3.075
+      ]
+    ],
+    "materials": [
+      "Bronze",
+      "Ivory",
+      "LED",
+      "Pearl",
+      "Sandstone",
+      "Steel",
+      "Water"
+    ],
+    "size_bytes": 996806,
+    "sha256": "fd4aa1196c49bcd7de684b3b77c139d1c2c36d122725dc3962847080303d905e",
+    "code": "CP_Courtyard_Coast",
+    "file": "SKP/CP_Courtyard_Coast.skp",
+    "description": {
+      "category": "Centerpiece",
+      "concept": "Coast",
+      "location": "Courtyard",
+      "diameter_m": 10.5,
+      "installation": "independent fountain/sculpture component, proposed base size"
+    }
+  }
+]

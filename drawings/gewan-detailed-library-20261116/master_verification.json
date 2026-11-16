@@ -1,0 +1,9 @@
+{
+  "version": "{17.0.1}",
+  "definitions": 493,
+  "unique_faces": 637704,
+  "independent_top_level_blocks": 60,
+  "sha256": "60ae6cef53d57e38dfee263218bd33cfcd2e288960b7c2766565e355e22420ca",
+  "size_bytes": 166175544,
+  "desktop_tested": false
+}

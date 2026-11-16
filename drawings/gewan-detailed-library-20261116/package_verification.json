@@ -1,0 +1,23 @@
+{
+  "archives": {
+    "Gewan_Master_60_Components.zip": {
+      "bytes": 53329568,
+      "sha256": "becc34677f3d99a95c4c46dae2acb892dcc542189816de049700876a9b20d137"
+    },
+    "Gewan_Blocks_2023.zip": {
+      "bytes": 103085113,
+      "sha256": "03b5ca467727542790549633ef306d30666362eba097ab93f6e241484a507ba4"
+    },
+    "Gewan_Detailed_Library_2023.rbz": {
+      "bytes": 103078675,
+      "sha256": "504fc196ba663d820f6b5880421a4c7307df908018de195113a5207f46228088"
+    }
+  },
+  "native_files_verified": 60,
+  "extension_syntax_verified": {
+    "gewan_detailed_library.rb": "Ruby syntax valid",
+    "gewan_detailed_library/main.rb": "Ruby syntax valid"
+  },
+  "extension_desktop_tested": false,
+  "original_site_files_changed": false
+}

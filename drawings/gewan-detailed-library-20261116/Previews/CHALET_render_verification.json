@@ -1,0 +1,7 @@
+{
+  "source_glb": "CHALET_readback.glb",
+  "source_glb_sha256": "063f7eb164daf9733eb758715782f3b561c799351ba11094d4b885d13d91f97e",
+  "source": "geometry read back from exported SKP",
+  "render_only_context": "ocean or ground plane",
+  "roof_hidden_views": "same geometry with roof visibility disabled"
+}

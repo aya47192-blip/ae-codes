@@ -1,0 +1,61 @@
+﻿Code,Category,Concept,Variant,SKP file,Unique faces,Component definitions,Width m,Depth m,Height m
+M01_Turtle_Skylight_Restaurant,Marine restaurant,Turtle,,SKP/M01_Turtle_Skylight_Restaurant.skp,26166,26,71.674,75.211,17.98
+M02_Turtle_Hex_Skylight_Lounge,Marine lounge and photo pavilion,Turtle,,SKP/M02_Turtle_Hex_Skylight_Lounge.skp,12491,14,36.808,32.008,14.344
+M03_Shell_Spiral_Restaurant,Marine restaurant,Shell,,SKP/M03_Shell_Spiral_Restaurant.skp,23801,22,52.065,46.708,18.09
+M04_Shell_Spiral_Photo_Pavilion,Marine lounge and photo pavilion,Shell,,SKP/M04_Shell_Spiral_Photo_Pavilion.skp,13215,9,18.039,32.027,13.687
+M05_Fish_Scale_Restaurant,Marine restaurant,Fish,,SKP/M05_Fish_Scale_Restaurant.skp,26236,22,41.019,58.55,17.0
+M06_Fish_Scale_Photo_Pavilion,Marine lounge and photo pavilion,Fish,,SKP/M06_Fish_Scale_Photo_Pavilion.skp,14415,9,18.042,32.027,13.5
+M07_Coastal_Seafood_Grill,Marine restaurant,Neutral coast,,SKP/M07_Coastal_Seafood_Grill.skp,8489,20,22.055,43.227,12.35
+M08_Coastal_Cabana_Photo_Deck,Marine lounge and photo pavilion,Neutral coast,,SKP/M08_Coastal_Cabana_Photo_Deck.skp,5407,10,18.055,30.527,8.875
+SP_Turtle_Compact,Spa,Turtle,compact service module,SKP/SP_Turtle_Compact.skp,14018,21,16.998,14.999,8.465
+SP_Turtle_Freestanding,Spa,Turtle,freestanding expanded module,SKP/SP_Turtle_Freestanding.skp,14074,21,20.998,17.999,8.5
+SP_Shell_Compact,Spa,Shell,compact service module,SKP/SP_Shell_Compact.skp,21358,21,16.998,14.999,9.207
+SP_Shell_Freestanding,Spa,Shell,freestanding expanded module,SKP/SP_Shell_Freestanding.skp,21414,21,20.998,17.999,9.21
+SP_Fish_Compact,Spa,Fish,compact service module,SKP/SP_Fish_Compact.skp,19820,21,16.998,14.999,9.32
+SP_Fish_Freestanding,Spa,Fish,freestanding expanded module,SKP/SP_Fish_Freestanding.skp,22868,21,20.998,17.999,9.32
+SP_Coast_Compact,Spa,Coast,compact service module,SKP/SP_Coast_Compact.skp,7644,21,17.0,15.0,6.97
+SP_Coast_Freestanding,Spa,Coast,freestanding expanded module,SKP/SP_Coast_Freestanding.skp,7916,21,21.0,18.0,6.97
+GY_Turtle_Compact,Gym,Turtle,compact service module,SKP/GY_Turtle_Compact.skp,11580,18,20.997,16.999,8.5
+GY_Turtle_Freestanding,Gym,Turtle,freestanding expanded module,SKP/GY_Turtle_Freestanding.skp,11580,18,26.997,20.999,8.5
+GY_Shell_Compact,Gym,Shell,compact service module,SKP/GY_Shell_Compact.skp,18920,18,20.997,16.999,9.21
+GY_Shell_Freestanding,Gym,Shell,freestanding expanded module,SKP/GY_Shell_Freestanding.skp,18920,18,26.997,21.111,9.21
+GY_Fish_Compact,Gym,Fish,compact service module,SKP/GY_Fish_Compact.skp,20374,18,20.997,16.999,9.32
+GY_Fish_Freestanding,Gym,Fish,freestanding expanded module,SKP/GY_Fish_Freestanding.skp,25247,18,26.997,20.999,9.32
+GY_Coast_Compact,Gym,Coast,compact service module,SKP/GY_Coast_Compact.skp,5370,18,21.0,17.0,6.97
+GY_Coast_Freestanding,Gym,Coast,freestanding expanded module,SKP/GY_Coast_Freestanding.skp,5750,18,27.0,21.0,6.97
+RE_Turtle_Compact,Restaurant,Turtle,compact service module,SKP/RE_Turtle_Compact.skp,13412,25,22.997,20.479,8.5
+RE_Turtle_Freestanding,Restaurant,Turtle,freestanding expanded module,SKP/RE_Turtle_Freestanding.skp,13572,25,28.997,24.6,8.5
+RE_Shell_Compact,Restaurant,Shell,compact service module,SKP/RE_Shell_Compact.skp,21004,25,22.997,20.479,9.21
+RE_Shell_Freestanding,Restaurant,Shell,freestanding expanded module,SKP/RE_Shell_Freestanding.skp,21164,25,29.136,24.6,9.21
+RE_Fish_Compact,Restaurant,Fish,compact service module,SKP/RE_Fish_Compact.skp,24163,25,22.997,20.479,9.32
+RE_Fish_Freestanding,Restaurant,Fish,freestanding expanded module,SKP/RE_Fish_Freestanding.skp,28954,25,28.997,24.6,9.32
+RE_Coast_Compact,Restaurant,Coast,compact service module,SKP/RE_Coast_Compact.skp,7670,25,23.0,20.48,6.97
+RE_Coast_Freestanding,Restaurant,Coast,freestanding expanded module,SKP/RE_Coast_Freestanding.skp,8130,25,29.0,24.6,6.97
+CA_Turtle_Compact,Cafe,Turtle,compact service module,SKP/CA_Turtle_Compact.skp,13258,24,17.998,17.389,8.465
+CA_Turtle_Freestanding,Cafe,Turtle,freestanding expanded module,SKP/CA_Turtle_Freestanding.skp,13326,24,21.998,20.479,8.5
+CA_Shell_Compact,Cafe,Shell,compact service module,SKP/CA_Shell_Compact.skp,20724,24,17.998,17.389,9.207
+CA_Shell_Freestanding,Cafe,Shell,freestanding expanded module,SKP/CA_Shell_Freestanding.skp,20792,24,21.998,20.479,9.21
+CA_Fish_Compact,Cafe,Fish,compact service module,SKP/CA_Fish_Compact.skp,19681,24,17.998,17.389,9.32
+CA_Fish_Freestanding,Cafe,Fish,freestanding expanded module,SKP/CA_Fish_Freestanding.skp,23082,24,21.998,20.479,9.32
+CA_Coast_Compact,Cafe,Coast,compact service module,SKP/CA_Coast_Compact.skp,7074,24,18.0,17.39,6.97
+CA_Coast_Freestanding,Cafe,Coast,freestanding expanded module,SKP/CA_Coast_Freestanding.skp,7362,24,22.0,20.48,6.97
+CH_Turtle_Compact,Chalet,Turtle,compact service module,SKP/CH_Turtle_Compact.skp,13068,21,14.998,18.499,7.395
+CH_Turtle_Freestanding,Chalet,Turtle,freestanding expanded module,SKP/CH_Turtle_Freestanding.skp,13220,22,17.998,20.499,7.395
+CH_Shell_Compact,Chalet,Shell,compact service module,SKP/CH_Shell_Compact.skp,20408,21,14.998,18.499,7.937
+CH_Shell_Freestanding,Chalet,Shell,freestanding expanded module,SKP/CH_Shell_Freestanding.skp,20560,22,17.998,20.499,7.937
+CH_Fish_Compact,Chalet,Fish,compact service module,SKP/CH_Fish_Compact.skp,16945,21,14.998,18.499,8.25
+CH_Fish_Freestanding,Chalet,Fish,freestanding expanded module,SKP/CH_Fish_Freestanding.skp,19517,22,17.998,20.499,8.25
+CH_Coast_Compact,Chalet,Coast,compact service module,SKP/CH_Coast_Compact.skp,6586,21,15.0,18.5,6.9
+CH_Coast_Freestanding,Chalet,Coast,freestanding expanded module,SKP/CH_Coast_Freestanding.skp,6886,22,18.0,20.5,6.9
+CP_Large_Turtle,Centerpiece,Turtle,Large,SKP/CP_Large_Turtle.skp,8930,4,20.0,20.0,4.795
+CP_Large_Shell,Centerpiece,Shell,Large,SKP/CP_Large_Shell.skp,11382,4,20.0,20.0,7.237
+CP_Large_Fish,Centerpiece,Fish,Large,SKP/CP_Large_Fish.skp,4191,7,20.0,20.0,5.5
+CP_Large_Coast,Centerpiece,Coast,Large,SKP/CP_Large_Coast.skp,3190,4,20.0,20.0,5.85
+CP_Small_Turtle,Centerpiece,Turtle,Small,SKP/CP_Small_Turtle.skp,8930,4,6.6,6.6,2.383
+CP_Small_Shell,Centerpiece,Shell,Small,SKP/CP_Small_Shell.skp,11382,4,6.6,6.6,3.083
+CP_Small_Fish,Centerpiece,Fish,Small,SKP/CP_Small_Fish.skp,4191,7,6.6,6.6,2.083
+CP_Small_Coast,Centerpiece,Coast,Small,SKP/CP_Small_Coast.skp,3190,4,6.6,6.6,2.5
+CP_Courtyard_Turtle,Centerpiece,Turtle,Courtyard,SKP/CP_Courtyard_Turtle.skp,8930,4,10.5,10.5,3.085
+CP_Courtyard_Shell,Centerpiece,Shell,Courtyard,SKP/CP_Courtyard_Shell.skp,11382,4,10.5,10.5,4.292
+CP_Courtyard_Fish,Centerpiece,Fish,Courtyard,SKP/CP_Courtyard_Fish.skp,4191,7,10.5,10.5,3.077
+CP_Courtyard_Coast,Centerpiece,Coast,Courtyard,SKP/CP_Courtyard_Coast.skp,3190,4,10.5,10.5,3.475
