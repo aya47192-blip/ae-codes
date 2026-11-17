@@ -1,0 +1,27 @@
+{
+  "task": "side star anatomy for professor presentation; approved courtyard fixed",
+  "baseline_file": "/tmp/Gewan_Starfish_Plan_V2/Starfish_V2_Offset_Connected_Plan.dxf",
+  "baseline_sha256": "8efead0f31e9e6c8f5ff9dffd9ef34d761f74992d76dc7e0e429808d7345f0ef",
+  "baseline_modelspace_entities_preserved_exactly": 292,
+  "baseline_changed_entities": 0,
+  "approved_courtyard_changed": false,
+  "other_concepts_changed": false,
+  "guides_only": true,
+  "construction_may_extend_over_building_or_outside_site": "ideal concept diagram only, not building or pool footprint; removable layer",
+  "guide_layer": "CONCEPT_STAR_ANATOMY_DELETE",
+  "independent_blocks": [
+    "LEFT_STAR_ANATOMY_DELETE",
+    "RIGHT_STAR_ANATOMY_DELETE"
+  ],
+  "new_modelspace_inserts": 2,
+  "arms_per_side": 5,
+  "core": "five-sided diagram of radial composition, not biological organ anatomy",
+  "all_guide_Z_zero": true,
+  "source_plan_units": "mm, INSUNITS=4",
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "AutoCAD_Desktop_tested": false,
+  "SketchUp_Desktop_tested": false,
+  "output_file": "Starfish_V3_Anatomy_Presentation.dxf",
+  "sha256": "f72e9832cb04d13fe31c2386e2840f088f0a7029ed17790cfedfc38a84a0bc84"
+}
