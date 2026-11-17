@@ -1,0 +1,38 @@
+{
+  "Gewan_Beach_Furniture_4_Concepts_One_SKP.zip": {
+    "bytes": 10404460,
+    "sha256": "7dc4de7c0fcb60dd3108eaf11ed4e230cc2a53254445ed1122787de58ab556d5"
+  },
+  "Gewan_Beach_Furniture_Preview.pdf": {
+    "bytes": 839137,
+    "sha256": "1055866a5514319e7733dc079ed729c3eaa19cf031c0184cf9ed1b33aca1e44b"
+  },
+  "README_AR.md": {
+    "bytes": 2580,
+    "sha256": "f004c6114ea544d380c83cb161344cb1563256c1a2cf106bef1d5bcace8cdaa8"
+  },
+  "verification.json": {
+    "bytes": 2045,
+    "sha256": "5e8ff766ac16cf36494b02a488e5a2fc0ab99fe627f2184a7ad8f8762427f860"
+  },
+  "TEXTURE_CREDITS.md": {
+    "bytes": 350,
+    "sha256": "b1e579852f4d07721a15f728603605b2993a3f664e9cd1eb132d0ffa1eba804d"
+  },
+  "Turtle_Sheet.jpg": {
+    "bytes": 260174,
+    "sha256": "f3baa582bcc258d7b403a65b65d902ee18a50bcb30200d2ec93444de3612977c"
+  },
+  "Star_Sheet.jpg": {
+    "bytes": 230810,
+    "sha256": "e8cca3f08334c367423bf7c80e6d2609f2730bf3da29fd25daeefa02f9e8a151"
+  },
+  "GeoShell_Sheet.jpg": {
+    "bytes": 243402,
+    "sha256": "faca00156a88c45433e98819a71f68904615509f1f4bc982cecfc9fa058aeac2"
+  },
+  "Fish_Sheet.jpg": {
+    "bytes": 230766,
+    "sha256": "5077dd6fcd1cbb9019f2caeed301d73100fd95072e70d278df09e932b22ce09e"
+  }
+}

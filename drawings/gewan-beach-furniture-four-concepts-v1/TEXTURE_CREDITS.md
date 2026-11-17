@@ -1,0 +1,1 @@
+Embedded textures: woven fabrics generated for this library; stone image from previous project material pack (CC0 ambientCG); Turtle teak: ambientCG Planks039 CC0, sourced through https://github.com/zees-games/game-zombie-zone/tree/main/assets/surfaces/wood_planks. All geometric design is procedural editable 3D. No external texture paths required.

@@ -1,0 +1,90 @@
+{
+  "native_file": "Gewan_Beach_Accessories_4_Concepts_60_Units.skp",
+  "sha256": "036e418f442435ac7848dcff775ea93ce32a7ca13f9efaa157af4a197e21b948",
+  "root_independent_units": 60,
+  "units_per_concept": 15,
+  "concepts": [
+    "Fish",
+    "GeoShell",
+    "Star",
+    "Turtle"
+  ],
+  "counts": {
+    "vertices": 66446,
+    "faces": 78276,
+    "loose_edges": 0,
+    "textures": 8,
+    "uv_faces": 37913
+  },
+  "native_readback": "passed",
+  "wood_outside_turtle": false,
+  "max_unit_width_under_m": 6.6,
+  "desktop_tested": false,
+  "build_seconds": 21.1,
+  "all_saved_dimensions_and_placements_match": true,
+  "maximum_native_bounds_error_m": 4.440892098500626e-16,
+  "sample_dimensions_m": {
+    "Fish_01_Chaise_Longue": [
+      0.789,
+      2.1045980762113534,
+      1.0026917316270818
+    ],
+    "Fish_07_Pergola_Lounge": [
+      4.3636927374490355,
+      3.903093306706764,
+      2.840775051762223
+    ],
+    "Fish_08_Cabana": [
+      4.421278224527148,
+      3.903093306706764,
+      2.840775051762223
+    ],
+    "GeoShell_01_Chaise_Longue": [
+      0.768,
+      2.1045980762113534,
+      0.9900000000000002
+    ],
+    "GeoShell_07_Pergola_Lounge": [
+      4.3825290885540795,
+      3.73121249077047,
+      3.210014107552724
+    ],
+    "GeoShell_08_Cabana": [
+      4.804529088554078,
+      3.73121249077047,
+      3.210014107552724
+    ],
+    "Star_01_Chaise_Longue": [
+      0.768,
+      2.1045980762113534,
+      1.0147952532552589
+    ],
+    "Star_07_Pergola_Lounge": [
+      5.0834938847348,
+      4.471640786499874,
+      3.2902899787710096
+    ],
+    "Star_08_Cabana": [
+      5.294493884734799,
+      4.631640786499874,
+      3.2902899787710096
+    ],
+    "Turtle_01_Chaise_Longue": [
+      0.768,
+      2.1045980762113534,
+      0.9900000000000002
+    ],
+    "Turtle_07_Pergola_Lounge": [
+      4.3899268366370485,
+      3.79,
+      3.3856026216175317
+    ],
+    "Turtle_08_Cabana": [
+      4.3899268366370485,
+      3.79,
+      3.3856026216175317
+    ]
+  },
+  "native_format_version": "{17.0.1}",
+  "native_tags_verified": true
+}
