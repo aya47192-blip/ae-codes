@@ -1,0 +1,70 @@
+{
+  "README_AR.md": {
+    "bytes": 6812,
+    "sha256": "7334b7d55632e14b98922b5abc361b426307dde25e19f650f09ae8c209b5c817"
+  },
+  "Option_04_Pool_Edge_Closeup.jpg": {
+    "bytes": 592722,
+    "sha256": "029cd963e81ed102997a739f0866de1162aecb3ef63e5b298287dd685cf8498d"
+  },
+  "Option_03_Pool_Edge_Closeup.jpg": {
+    "bytes": 658730,
+    "sha256": "0efa33373cb28fbb32718862f4c5c7bedfa4dcfed3da0a1edc35f435e2ea6d17"
+  },
+  "Option_02_Pool_Edge_Closeup.jpg": {
+    "bytes": 662228,
+    "sha256": "07c38cfcabc8872eb660e0b6b7c27a57d99d332d7c661f9fd4ed421f59763c40"
+  },
+  "Option_01_Pool_Edge_Closeup.jpg": {
+    "bytes": 626649,
+    "sha256": "05b614532a047774f5dc72b91b866b907734c79efb0338d61b188e6d89f16357"
+  },
+  "Option_04_Masterplan.jpg": {
+    "bytes": 554334,
+    "sha256": "95708fad41a516417289ac038685540cfdce26df2ee26fe48fd5c1d2eead24d3"
+  },
+  "Option_03_Masterplan.jpg": {
+    "bytes": 588546,
+    "sha256": "bbd80596f6586fd1cc6c104a4d2f5d564b211e827c531f0a68fe0aa83450579d"
+  },
+  "Option_02_Masterplan.jpg": {
+    "bytes": 623060,
+    "sha256": "2783ab7b184bfe87ae6492796cae512625dccff917bb4eb6df906811a1a49427"
+  },
+  "Option_01_Masterplan.jpg": {
+    "bytes": 573495,
+    "sha256": "6cbab4d1ebbad78492006c216590631e343bc597cb180659f09f9809267a432d"
+  },
+  "options.json": {
+    "bytes": 4232,
+    "sha256": "4eb02b9d098ecc0f4707ccc1af17d63ecb036311e7bd1e9e30b43614980e9cfe"
+  },
+  "TEXTURE_CREDITS.md": {
+    "bytes": 1521,
+    "sha256": "01449bbb950234b5693f3e713aaa8c574c323b536228447089852e1ec4740b4d"
+  },
+  "verification.json": {
+    "bytes": 1330,
+    "sha256": "4662f97e0b203009f709a63b6bf644d31aa2aba56c5778737693fbf290a0fb4a"
+  },
+  "Material_Samples.jpg": {
+    "bytes": 480528,
+    "sha256": "d31bae9853eefd360b94e8e3c19d729f9329612a0368f1d5cbe26179008a61ab"
+  },
+  "Four_Pool_Edge_Closeups.jpg": {
+    "bytes": 1044636,
+    "sha256": "1f3691f11ca13418d23ab3cc3bd117d2b657c5deded15e274e473989b23ca119"
+  },
+  "Four_Material_Options_Overview.jpg": {
+    "bytes": 1474197,
+    "sha256": "b37e3ae0bb989b4d9c30c7bb94465b303ddb32e25788ceed0f550e158ab6d448"
+  },
+  "Four_Textured_Options_Review.pdf": {
+    "bytes": 1541585,
+    "sha256": "7e2f0b9c159466a43f059d37c3f5f22333f7e57f58e833301cc10345e7b3386e"
+  },
+  "Gewan_Four_Textured_Options_One_SKP.zip": {
+    "bytes": 28603264,
+    "sha256": "1c6dd30100ac18f4156f6885de418813d6620ee667d2be37439c3cfc3187d03e"
+  }
+}

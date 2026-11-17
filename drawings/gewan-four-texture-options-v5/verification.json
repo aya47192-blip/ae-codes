@@ -1,0 +1,44 @@
+{
+  "file": "Gewan_Four_Textured_Material_Options.skp",
+  "format": "{17.0.1}",
+  "root_options": 4,
+  "components_per_option": 117,
+  "all_definitions_independent_between_options": true,
+  "definition_count": 472,
+  "native_face_count": 4264,
+  "embedded_texture_materials": 60,
+  "embedded_texture_pixels_match_sources": true,
+  "all_textured_faces_have_front_and_back_UV": true,
+  "textured_faces_checked": 456,
+  "maximum_UV_error": 7.958078640513122e-13,
+  "maximum_vertex_difference_from_approved_model_m": 5.684341886080802e-14,
+  "loose_edges": 0,
+  "entry_circle_diameter_each_option_m": 25,
+  "same_geometry_all_four": true,
+  "plan_remains_flat": true,
+  "shore_and_anatomy_preserved": true,
+  "four_option_placements_m": [
+    [
+      0,
+      0
+    ],
+    [
+      700,
+      0
+    ],
+    [
+      0,
+      -650
+    ],
+    [
+      700,
+      -650
+    ]
+  ],
+  "units": "authored metres, native SketchUp internal inches",
+  "wet_surrounds": "rough matte visual material proposal; actual slip resistance requires product selection/testing",
+  "material_scope": "embedded bitmap textures for SketchUp2023 native shaded-with-textures view; not native PBR normal/displacement or animated water",
+  "Desktop_tested": false,
+  "sha256": "d3f5c14ccef0b9b8510368d4dcfe077f90fd8835a2040f1b38fec8629281d500",
+  "bytes": 52346007
+}

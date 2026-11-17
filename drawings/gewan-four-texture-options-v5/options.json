@@ -1,0 +1,194 @@
+[
+  {
+    "title": "01 Grey Coastal",
+    "pattern": "square",
+    "floor": [
+      167,
+      173,
+      172
+    ],
+    "deck": [
+      204,
+      205,
+      190
+    ],
+    "water": [
+      57,
+      167,
+      202
+    ],
+    "sea": [
+      29,
+      123,
+      158
+    ],
+    "sand": [
+      224,
+      207,
+      165
+    ],
+    "materials": {
+      "path": "O1_Paving_square",
+      "deck": "O1_Pool_Surround_Textured_Matte",
+      "green": "O1_Photographic_Lawn",
+      "sand": "O1_Photographic_Beach_Sand",
+      "sea": "O1_Sea_Ripple_Image",
+      "shallow": "O1_Shallow_Water_Ripple_Image",
+      "pool": "O1_Pool_Tile_Caustic_Image",
+      "aqua": "O1_Aqua_Tile_Caustic_Image",
+      "building": "O1_Ivory_Plaster",
+      "spa": "O1_Spa_Mineral_Tiles",
+      "gym": "O1_Gym_Rubber_Granules",
+      "food": "O1_Dining_Terrace_Porcelain",
+      "kids": "O1_Play_Area_Granular_Surface",
+      "road": "O1_Photographic_Asphalt",
+      "pier": "O1_Grooved_Concrete_Pier",
+      "entry": "O1_Paving_square",
+      "centerpiece": "O1_Ivory_Plaster"
+    }
+  },
+  {
+    "title": "02 Pearl Ivory",
+    "pattern": "running",
+    "floor": [
+      229,
+      225,
+      211
+    ],
+    "deck": [
+      220,
+      216,
+      196
+    ],
+    "water": [
+      110,
+      207,
+      224
+    ],
+    "sea": [
+      35,
+      149,
+      175
+    ],
+    "sand": [
+      237,
+      220,
+      182
+    ],
+    "materials": {
+      "path": "O2_Paving_running",
+      "deck": "O2_Pool_Surround_Textured_Matte",
+      "green": "O2_Photographic_Lawn",
+      "sand": "O2_Photographic_Beach_Sand",
+      "sea": "O2_Sea_Ripple_Image",
+      "shallow": "O2_Shallow_Water_Ripple_Image",
+      "pool": "O2_Pool_Tile_Caustic_Image",
+      "aqua": "O2_Aqua_Tile_Caustic_Image",
+      "building": "O2_Ivory_Plaster",
+      "spa": "O2_Spa_Mineral_Tiles",
+      "gym": "O2_Gym_Rubber_Granules",
+      "food": "O2_Dining_Terrace_Porcelain",
+      "kids": "O2_Play_Area_Granular_Surface",
+      "road": "O2_Photographic_Asphalt",
+      "pier": "O2_Grooved_Concrete_Pier",
+      "entry": "O2_Paving_running",
+      "centerpiece": "O2_Ivory_Plaster"
+    }
+  },
+  {
+    "title": "03 Warm Stone",
+    "pattern": "roman",
+    "floor": [
+      212,
+      193,
+      157
+    ],
+    "deck": [
+      226,
+      208,
+      176
+    ],
+    "water": [
+      34,
+      162,
+      178
+    ],
+    "sea": [
+      22,
+      126,
+      151
+    ],
+    "sand": [
+      223,
+      199,
+      147
+    ],
+    "materials": {
+      "path": "O3_Paving_roman",
+      "deck": "O3_Pool_Surround_Textured_Matte",
+      "green": "O3_Photographic_Lawn",
+      "sand": "O3_Photographic_Beach_Sand",
+      "sea": "O3_Sea_Ripple_Image",
+      "shallow": "O3_Shallow_Water_Ripple_Image",
+      "pool": "O3_Pool_Tile_Caustic_Image",
+      "aqua": "O3_Aqua_Tile_Caustic_Image",
+      "building": "O3_Ivory_Plaster",
+      "spa": "O3_Spa_Mineral_Tiles",
+      "gym": "O3_Gym_Rubber_Granules",
+      "food": "O3_Dining_Terrace_Porcelain",
+      "kids": "O3_Play_Area_Granular_Surface",
+      "road": "O3_Photographic_Asphalt",
+      "pier": "O3_Grooved_Concrete_Pier",
+      "entry": "O3_Paving_roman",
+      "centerpiece": "O3_Ivory_Plaster"
+    }
+  },
+  {
+    "title": "04 Blue Slate",
+    "pattern": "linear",
+    "floor": [
+      112,
+      127,
+      132
+    ],
+    "deck": [
+      176,
+      185,
+      182
+    ],
+    "water": [
+      26,
+      70,
+      108
+    ],
+    "sea": [
+      18,
+      79,
+      118
+    ],
+    "sand": [
+      218,
+      206,
+      177
+    ],
+    "materials": {
+      "path": "O4_Paving_linear",
+      "deck": "O4_Pool_Surround_Textured_Matte",
+      "green": "O4_Photographic_Lawn",
+      "sand": "O4_Photographic_Beach_Sand",
+      "sea": "O4_Sea_Ripple_Image",
+      "shallow": "O4_Shallow_Water_Ripple_Image",
+      "pool": "O4_Pool_Tile_Caustic_Image",
+      "aqua": "O4_Aqua_Tile_Caustic_Image",
+      "building": "O4_Ivory_Plaster",
+      "spa": "O4_Spa_Mineral_Tiles",
+      "gym": "O4_Gym_Rubber_Granules",
+      "food": "O4_Dining_Terrace_Porcelain",
+      "kids": "O4_Play_Area_Granular_Surface",
+      "road": "O4_Photographic_Asphalt",
+      "pier": "O4_Grooved_Concrete_Pier",
+      "entry": "O4_Paving_linear",
+      "centerpiece": "O4_Ivory_Plaster"
+    }
+  }
+]
