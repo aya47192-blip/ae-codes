@@ -1,0 +1,75 @@
+{
+  "brand": "GEWAN PALACE",
+  "boards": 4,
+  "options_per_board": 4,
+  "total_options": 16,
+  "pool_options": 8,
+  "exterior_options": 8,
+  "type": "AI-generated visual concept images, not CAD or verified construction drawings",
+  "records": [
+    {
+      "concept": "star",
+      "file": "01_Starfish_Four_Options.png",
+      "pixels": [
+        887,
+        1774
+      ],
+      "options": [
+        "S-P1",
+        "S-P2",
+        "S-E1",
+        "S-E2"
+      ],
+      "pool_top": "straight level with full-height ends",
+      "original_generated_image_unchanged": true
+    },
+    {
+      "concept": "shell",
+      "file": "02_Geometric_Shell_Four_Options.png",
+      "pixels": [
+        1086,
+        1448
+      ],
+      "options": [
+        "G-P1",
+        "G-P2",
+        "G-E1",
+        "G-E2"
+      ],
+      "pool_top": "descending curved right end",
+      "original_generated_image_unchanged": true
+    },
+    {
+      "concept": "turtle",
+      "file": "03_Turtle_Four_Options.png",
+      "pixels": [
+        887,
+        1774
+      ],
+      "options": [
+        "T-P1",
+        "T-P2",
+        "T-E1",
+        "T-E2"
+      ],
+      "pool_top": "descending curved right end",
+      "original_generated_image_unchanged": true
+    },
+    {
+      "concept": "fish",
+      "file": "04_Fish_Scales_Four_Options.png",
+      "pixels": [
+        1086,
+        1448
+      ],
+      "options": [
+        "F-P1",
+        "F-P2",
+        "F-E1",
+        "F-E2"
+      ],
+      "pool_top": "straight level with full-height ends",
+      "original_generated_image_unchanged": true
+    }
+  ]
+}
