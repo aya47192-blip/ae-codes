@@ -1,0 +1,136 @@
+{
+  "source": "/tmp/Gewan_Starfish_Anatomy_V3/Starfish_V3_Anatomy_Presentation.dxf",
+  "source_sha256": "f72e9832cb04d13fe31c2386e2840f088f0a7029ed17790cfedfc38a84a0bc84",
+  "source_units": "mm",
+  "working_units": "m",
+  "target": "SketchUp 2023 native SKP v17",
+  "source_CAD_faces": 120,
+  "source_dangling_edges": 0,
+  "source_invalid_rings": 0,
+  "semantic_regions": 114,
+  "removable_anatomy_components": 2,
+  "plan_Z_m": 0,
+  "guide_Z_m": 0.05,
+  "labels_Z_m": 0.07,
+  "buildings_extruded": false,
+  "approved_courtyard_moved_or_redesigned": false,
+  "new_context_overlap_with_courtyard_m2": 0.0,
+  "new_context_overlap_with_source_site_m2": 2.7725721687176267e-14,
+  "shoreline": "proposed visual wavy coast, not a surveyed coastline",
+  "shoreline_points": 1017,
+  "beach_area_m2": 9375.543172475409,
+  "sea_shallow_area_m2": 4298.534343037561,
+  "sea_deep_area_m2": 78872.58654216638,
+  "colors": {
+    "building": [
+      231,
+      229,
+      223
+    ],
+    "pool": [
+      50,
+      185,
+      233
+    ],
+    "aqua": [
+      0,
+      136,
+      183
+    ],
+    "kids": [
+      246,
+      160,
+      0
+    ],
+    "spa": [
+      167,
+      139,
+      245
+    ],
+    "food": [
+      250,
+      104,
+      138
+    ],
+    "deck": [
+      191,
+      154,
+      93
+    ],
+    "path": [
+      221,
+      209,
+      190
+    ],
+    "green": [
+      103,
+      161,
+      36
+    ],
+    "entry": [
+      225,
+      231,
+      237
+    ],
+    "pier": [
+      163,
+      171,
+      180
+    ],
+    "road": [
+      235,
+      235,
+      230
+    ],
+    "centerpiece": [
+      243,
+      238,
+      218
+    ],
+    "sand": [
+      233,
+      214,
+      171
+    ],
+    "shallow": [
+      86,
+      193,
+      205
+    ],
+    "sea": [
+      28,
+      139,
+      175
+    ],
+    "anatomy": [
+      167,
+      43,
+      68
+    ],
+    "labels": [
+      45,
+      61,
+      66
+    ]
+  },
+  "chalet_footprints": "not in source, not invented",
+  "Desktop_tested": false,
+  "native_file": "Gewan_Starfish_Colored_Separated_With_Beach.skp",
+  "native_format": "{17.0.1}",
+  "independent_top_level_components": 117,
+  "plan_and_context_components": 114,
+  "annotation_components": 1,
+  "native_faces": 1066,
+  "native_holes": 67,
+  "native_materials_verified": true,
+  "native_tags_verified": true,
+  "native_face_normals_up": true,
+  "loose_edges_inside_components": 0,
+  "maximum_native_vertex_difference_m": 6.355287432313019e-14,
+  "entry_circle_diameter_readback_m": 25.0,
+  "native_area_comparison_passed": true,
+  "geometry_preserved_in_CAD_coordinates": true,
+  "all_source_planning_faces_remain_flat": true,
+  "sha256": "62c67a456616f6b09baa1892ab0ba4a8126b3dcb169a5cd0b1347d784d991201",
+  "bytes": 8403437
+}

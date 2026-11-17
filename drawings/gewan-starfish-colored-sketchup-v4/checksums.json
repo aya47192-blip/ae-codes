@@ -1,0 +1,50 @@
+{
+  "README_AR.md": {
+    "bytes": 5554,
+    "sha256": "fa6a9eb02da1134392ed33da7638f3aa3cc640206cf0c2ece8fe4ba49df30f01"
+  },
+  "verification.json": {
+    "bytes": 2696,
+    "sha256": "603c5a34119e00fdc8af3854dd63daa6ebc855c6ea8707f2482c8eb7bcf0ba61"
+  },
+  "Side_Heights_Check.png": {
+    "bytes": 20819,
+    "sha256": "269f7f79c885d32623726c8c74510f40a19b1824397c965477d32aefd409adff"
+  },
+  "05_Shore_Detail.png": {
+    "bytes": 438438,
+    "sha256": "3a893bcc25180c1bbe952121d0130491872c28e4d1221987ddbea010d74efa35"
+  },
+  "04_Oblique_Readback.png": {
+    "bytes": 257596,
+    "sha256": "c37291bfa69416aa5b57e8fbe30fa55e07a5ae40abd58416c24a8282903d1911"
+  },
+  "03_Clean_No_Anatomy.png": {
+    "bytes": 535725,
+    "sha256": "0679dfeb0ebb63449a82ab49c1e533145ef77c8d69acdbb26c88d56615be750a"
+  },
+  "02_Site_Detail.png": {
+    "bytes": 588507,
+    "sha256": "329240690700c2cadedc7bc6b320796397e40c774f131e0225598241a4a1854e"
+  },
+  "01_Colored_Masterplan.png": {
+    "bytes": 439180,
+    "sha256": "18d24a79a33e90f9e3c7e5c20de1fd5598ee10963304754a12b129ee3840608f"
+  },
+  "Colored_Plan_Quick_Preview.png": {
+    "bytes": 449779,
+    "sha256": "781569a7af13c8e194fbd2fea0b82dcd20fc6fae68f236fd8762db976e153d73"
+  },
+  "Gewan_Colored_Plan_Review.png": {
+    "bytes": 606842,
+    "sha256": "de7fed3e4ed26edf15d6a54924daede0defdc98e7173f0fcfd47733aac889e00"
+  },
+  "Gewan_Colored_Plan_Review.pdf": {
+    "bytes": 525272,
+    "sha256": "d18fc9dc395a84836d6359508ddd0a1a3e14e64e2832697f5197d905e90125ee"
+  },
+  "Gewan_Colored_Separated_One_SKP.zip": {
+    "bytes": 2725049,
+    "sha256": "044993a3176dc1de5c06a90b951edefda3da47182ebbcf8fd40b6b5f96f2f101"
+  }
+}
