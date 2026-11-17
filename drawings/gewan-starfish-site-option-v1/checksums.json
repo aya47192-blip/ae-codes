@@ -1,0 +1,30 @@
+{
+  "README_AR.md": {
+    "bytes": 5819,
+    "sha256": "05f32c290a7b5ca955ae497d8d1817dc33acc6b540e0aa645ad4cf02de3ad784"
+  },
+  "design_report.json": {
+    "bytes": 3386,
+    "sha256": "2bedf88d90cb6cfdfa3cea16746bc782f3c16ed071895722f419b2edc9e50a9a"
+  },
+  "CAD_Readback.png": {
+    "bytes": 457617,
+    "sha256": "e297344d305b15edd1594eaec737f52d70d4de45b7eb8cca167729207d3afc84"
+  },
+  "Starfish_Plan.png": {
+    "bytes": 448691,
+    "sha256": "7b5473a6c6b061d91e389f576eb93c8021a279b7f78ee4cd7509d6c9f12621cb"
+  },
+  "Starfish_Review.png": {
+    "bytes": 656214,
+    "sha256": "73a671d3245c1984c0b4b3be7984b80bbf05615599b87aa67618d6c63840476c"
+  },
+  "Starfish_Review.pdf": {
+    "bytes": 274379,
+    "sha256": "79a2a6654c3156fd3fdb2139ff5f9e4bc4b15835ff65b9c9f3b575fec746dc69"
+  },
+  "Starfish_Option_One_CAD_File.zip": {
+    "bytes": 598061,
+    "sha256": "9b0f1bbb5e1685040c15e47f5765b8b486432b25176a14728413a251cf07641e"
+  }
+}

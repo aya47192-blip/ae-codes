@@ -1,0 +1,139 @@
+{
+  "concept": "Starfish replaces Turtle only",
+  "source_file": "/workspace/attachments/e7f50cb6-6d1c-4d05-8373-3140ff6b4cd0/\u0633\u0644\u062d\u0641\u0627\u0621 \u0643\u0627\u062f.dxf",
+  "source_sha256": "b2b15e64010884386b0767e6565cb297b250f89fcd6e800bae0e65fb9973b8d7",
+  "source_units": "millimetres, INSUNITS=4",
+  "design_units": "meters, converted to millimetres for CAD",
+  "source_modified_regions": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "source_preserved_regions": 79,
+  "protected_main_hotel_source_id": 96,
+  "main_hotel_area_m2": 6000.023619427223,
+  "chalet_plot_locations_preserved": 12,
+  "existing_private_pools_preserved": 12,
+  "source_chalet_building_footprints": "absent in source, not invented",
+  "reference_entry_circle_diameter_m": 25,
+  "aquapark_pool_area_m2": 644.8881784602731,
+  "pool_count_central": 3,
+  "quiet_pool_details": [
+    {
+      "center_m": [
+        102.64304866451972,
+        79.35124094481823
+      ],
+      "radius_m": 10.0,
+      "water_area_m2": 314.10319508905076
+    },
+    {
+      "center_m": [
+        33.39564267038327,
+        129.97747773069153
+      ],
+      "radius_m": 10.0,
+      "water_area_m2": 314.1031950890509
+    }
+  ],
+  "aquapark_pool": "one connected rounded five-arm starfish pool; slide equipment not added",
+  "pedestrian_widths_m": {
+    "perimeter": 3,
+    "spokes": 3,
+    "star_ring": 3,
+    "main_pool_deck": 2.5,
+    "quiet_pool_decks": 1.6
+  },
+  "central_path_connected": true,
+  "service_zones": [
+    {
+      "name": "KIDS",
+      "area_m2": 1038.6926950454342,
+      "connected": true
+    },
+    {
+      "name": "GYM",
+      "area_m2": 437.4313951039864,
+      "connected": true
+    },
+    {
+      "name": "SPA",
+      "area_m2": 331.5749687450438,
+      "connected": true
+    },
+    {
+      "name": "REST",
+      "area_m2": 620.1921324637116,
+      "connected": true
+    },
+    {
+      "name": "CAFE",
+      "area_m2": 327.34557662037946,
+      "connected": true
+    }
+  ],
+  "central_partition_gap_area_m2": 0.0,
+  "service_partition_gap_area_m2": 1.444157293750692e-16,
+  "source_piers": "existing corresponding SKP road face, aligned by source entry circle",
+  "other_two_concepts_modified": false,
+  "desktop_AutoCAD_tested": false,
+  "status": "planning proposal, site dimensions preserved; not construction design",
+  "output_file": "Starfish_Option_Replaces_Turtle.dxf",
+  "output_format": "DXF R2000, mm",
+  "native_curve_replacements": [
+    "ENTRY_CENTERPIECE",
+    "ORIGINAL_CIRCLE_93",
+    "POOL_2",
+    "AQUA_STAR",
+    "POOL_1",
+    "ORIGINAL_CIRCLE_94"
+  ],
+  "maximum_native_curve_fitting_difference_m": 0.004008677324817068,
+  "declared_curve_fit_tolerance_m": 0.006,
+  "source_boundary_coverage_test_tolerance_m": 0.006,
+  "protected_source_boundary_length_outside_tolerance_m": 0.0,
+  "dxf_audit_errors": 0,
+  "dxf_audit_fixes": 0,
+  "closed_graph_faces": 138,
+  "dangling_edges": 0,
+  "invalid_network_rings": 0,
+  "unique_network_chains": 328,
+  "dxf_entity_types": {
+    "LWPOLYLINE": 322,
+    "SPLINE": 2,
+    "CIRCLE": 4,
+    "TEXT": 23,
+    "LINE": 1
+  },
+  "dxf_sha256": "496e7d5d740b08026a5e9e6610e57aeaa328568acee3669b5cc652532b77b7f6"
+}
