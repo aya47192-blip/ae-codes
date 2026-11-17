@@ -1,0 +1,167 @@
+{
+  "concept": "Starfish V2 - tapered five-arm layout offset left; connected service wing compositions",
+  "source_file": "/workspace/attachments/e7f50cb6-6d1c-4d05-8373-3140ff6b4cd0/\u0633\u0644\u062d\u0641\u0627\u0621 \u0643\u0627\u062f.dxf",
+  "source_sha256": "b2b15e64010884386b0767e6565cb297b250f89fcd6e800bae0e65fb9973b8d7",
+  "source_units": "millimetres, INSUNITS=4",
+  "design_units": "meters, converted to millimetres for CAD",
+  "source_modified_regions": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "source_preserved_regions": 79,
+  "protected_main_hotel_source_id": 96,
+  "main_hotel_area_m2": 6000.023619427223,
+  "chalet_plot_locations_preserved": 12,
+  "existing_private_pools_preserved": 12,
+  "source_chalet_building_footprints": "absent in source, not invented",
+  "reference_entry_circle_diameter_m": 25,
+  "aquapark_pool_area_m2": 958.7781806806377,
+  "pool_count_central": 3,
+  "quiet_pool_details": [
+    {
+      "center_m": [
+        101.81615732543406,
+        78.94897539733155
+      ],
+      "water_area_m2": 265.0239040335721,
+      "outline": "tapered rounded triangular arm fragment"
+    },
+    {
+      "center_m": [
+        101.8799991659924,
+        114.90308408296052
+      ],
+      "water_area_m2": 77.84505751320252,
+      "outline": "tapered rounded triangular arm fragment"
+    }
+  ],
+  "aquapark_pool": "one connected tapered five-arm pool, offset left; slide equipment not added",
+  "star_center_m": [
+    53.0,
+    120.0
+  ],
+  "source_courtyard_centroid_m": [
+    75.29952550640404,
+    108.73786496930407
+  ],
+  "star_offset_from_courtyard_centroid_m": [
+    -22.299525506404038,
+    11.26213503069593
+  ],
+  "arm_tip_distances_m": [
+    23.77293543811191,
+    31.014329509907224,
+    22.818246734616697,
+    45,
+    47.32910233150729
+  ],
+  "pedestrian_widths_m": {
+    "perimeter": 3,
+    "spokes": 3,
+    "star_ring": 3,
+    "main_pool_deck": 2.7,
+    "quiet_pool_decks": 1.8
+  },
+  "central_path_connected": true,
+  "service_zones": [
+    {
+      "name": "KIDS",
+      "area_m2": 1610.1620204318222,
+      "connected": true
+    },
+    {
+      "name": "GYM",
+      "area_m2": 787.6142834378953,
+      "connected": true
+    },
+    {
+      "name": "SPA",
+      "area_m2": 452.81605887072845,
+      "connected": true
+    },
+    {
+      "name": "REST",
+      "area_m2": 718.1906699711143,
+      "connected": true
+    },
+    {
+      "name": "CAFE",
+      "area_m2": 1455.72271585411,
+      "connected": true
+    }
+  ],
+  "central_partition_gap_area_m2": 0.0,
+  "service_partition_gap_area_m2": 3.772495725068865e-14,
+  "source_piers": "existing corresponding SKP road face, aligned by source entry circle",
+  "other_two_concepts_modified": false,
+  "desktop_AutoCAD_tested": false,
+  "status": "planning proposal, site dimensions preserved; not construction design",
+  "output_file": "Starfish_V2_Offset_Connected_Plan.dxf",
+  "output_format": "DXF R2000, mm",
+  "native_curve_replacements": [
+    "ENTRY_CENTERPIECE",
+    "ORIGINAL_CIRCLE_93",
+    "AQUA_STAR",
+    "POOL_1_DECK",
+    "POOL_1",
+    "POOL_2_DECK",
+    "POOL_2",
+    "ORIGINAL_CIRCLE_94"
+  ],
+  "maximum_native_curve_fitting_difference_m": 0.003453511180186061,
+  "service_path_connected": true,
+  "service_frontage_to_walk_m": {
+    "KIDS": 152.46346257476182,
+    "GYM": 144.350773184413,
+    "SPA": 119.09951920013323,
+    "REST": 114.53703035215273,
+    "CAFE": 164.7210721528146
+  },
+  "declared_curve_fit_tolerance_m": 0.006,
+  "source_boundary_coverage_test_tolerance_m": 0.006,
+  "protected_source_boundary_length_outside_tolerance_m": 0.0,
+  "dxf_audit_errors": 0,
+  "dxf_audit_fixes": 0,
+  "closed_graph_faces": 123,
+  "dangling_edges": 0,
+  "invalid_network_rings": 0,
+  "unique_network_chains": 268,
+  "dxf_entity_types": {
+    "LWPOLYLINE": 266,
+    "CIRCLE": 2,
+    "TEXT": 23,
+    "LINE": 1
+  },
+  "dxf_sha256": "8efead0f31e9e6c8f5ff9dffd9ef34d761f74992d76dc7e0e429808d7345f0ef"
+}
