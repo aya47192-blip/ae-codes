@@ -1,0 +1,178 @@
+{
+  "nodes": 236,
+  "unique_faces": 119335,
+  "instances": 372,
+  "bounds_m": [
+    [
+      -10.992686502710772,
+      -155.7939,
+      0.0
+    ],
+    [
+      135.412246248459,
+      10.081709285364445,
+      5.379999999999999
+    ]
+  ],
+  "materials": [
+    "AubergineFrame",
+    "BathStone",
+    "Black",
+    "BlueFabricNew",
+    "BoneRoof",
+    "Book",
+    "Ceramic",
+    "ChalkRoof",
+    "ClayFabric",
+    "Coffee",
+    "CreamFrame",
+    "DarkStone",
+    "Display",
+    "DoorGlass",
+    "FacadeGlass",
+    "Glass_Clear",
+    "GymFloor",
+    "InkFabric",
+    "InkFrame",
+    "Ivory",
+    "LED",
+    "Leaf",
+    "Leaf_Light",
+    "Limestone",
+    "MarineDeck",
+    "Microplaster",
+    "MintFabric",
+    "Mirror",
+    "Napkin",
+    "OatFabric",
+    "OliveFabric",
+    "PlayBlue",
+    "PlayCream",
+    "PlayRose",
+    "Porcelain",
+    "Rubber",
+    "SageFrame",
+    "SaunaMineral",
+    "SeaFogRoof",
+    "SilverFrame",
+    "Soil",
+    "SpaTile",
+    "Steel",
+    "TerrazzoWhite",
+    "Towel",
+    "Water"
+  ],
+  "size_bytes": 33301884,
+  "sha256": "f27c1aaaa11e9c251dc349981d4b7213281c884c01d6b32caac6d02ad1f5458b",
+  "root_independent_blocks": 16,
+  "enclosed_buildings": 13,
+  "centerpieces": 3,
+  "closed_opaque_continuous_roofs": 13,
+  "roof_groups_per_building": 1,
+  "furniture_inside_envelope": true,
+  "real_door_openings": 13,
+  "embedded_textures": 14,
+  "UV_faces": 21557,
+  "loose_edges": 0,
+  "native_readback": true,
+  "desktop_tested": false,
+  "native_version": "{17.0.1}",
+  "new_furniture": true,
+  "no_timber": true,
+  "build_seconds": 93.7,
+  "all_native_bounds_and_transforms_match": true,
+  "max_native_bounds_error_m": 1.7763568394002505e-15,
+  "native_roof_coverage_tests": [
+    {
+      "building": "Star_New_01_Spa",
+      "floor_m2": 186.453,
+      "roof_m2": 213.52,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_02_Spa",
+      "floor_m2": 196.038,
+      "roof_m2": 223.819,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_03_Gym",
+      "floor_m2": 148.061,
+      "roof_m2": 172.276,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_04_Gym",
+      "floor_m2": 273.852,
+      "roof_m2": 306.535,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_05_Restaurant",
+      "floor_m2": 211.01,
+      "roof_m2": 239.746,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_06_Restaurant",
+      "floor_m2": 305.388,
+      "roof_m2": 339.852,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_07_Cafe",
+      "floor_m2": 97.486,
+      "roof_m2": 117.286,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_08_Cafe",
+      "floor_m2": 260.097,
+      "roof_m2": 291.977,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_09_Chalet",
+      "floor_m2": 160.961,
+      "roof_m2": 186.068,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_10_Chalet",
+      "floor_m2": 166.655,
+      "roof_m2": 192.231,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_11_Kids",
+      "floor_m2": 168.001,
+      "roof_m2": 193.671,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_12_MarineRestaurant",
+      "floor_m2": 331.659,
+      "roof_m2": 367.437,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    },
+    {
+      "building": "Star_New_13_MarineLounge",
+      "floor_m2": 89.211,
+      "roof_m2": 108.051,
+      "opaque_roof_holes": 0,
+      "two_editable_door_leaves": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Stone/plaster/porcelain/spa tile/rubber/deck maps reused from the project CC0 ambientCG-derived texture pack. Fabric weave maps generated for this design. All image textures are embedded in the native SKP; no external paths or installed extension are required. New furniture and architecture are editable geometry.

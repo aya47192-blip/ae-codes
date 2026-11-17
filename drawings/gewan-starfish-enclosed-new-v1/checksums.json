@@ -1,0 +1,34 @@
+{
+  "Gewan_Starfish_New_Enclosed_All_16_One_SKP.zip": {
+    "bytes": 14067600,
+    "sha256": "477237301c31346b1934a4e5c0aba186b81ce7610621cf92ed3e3341c2d49eff"
+  },
+  "Gewan_Starfish_Enclosed_Review.pdf": {
+    "bytes": 1317298,
+    "sha256": "d9da977f7412ae030cb29722bbe7049ea315361fd967d83682a94edfd10b21ae"
+  },
+  "README_AR.md": {
+    "bytes": 2901,
+    "sha256": "604c7b7f3b9cf2a2d80876417c1c09bf6c9d83fd62c4033508dd280e4efbb6c7"
+  },
+  "verification.json": {
+    "bytes": 3981,
+    "sha256": "74b4ed4cb226594522933b76e986b327ff24470d323def2ff7a63e94b8cee45f"
+  },
+  "TEXTURE_CREDITS.md": {
+    "bytes": 315,
+    "sha256": "0f5418ee65eefa72be9360ad4376394d0b364eb4ccd0c41d1bebaf043c451fb5"
+  },
+  "Star_New_05_Restaurant_Sheet.jpg": {
+    "bytes": 223421,
+    "sha256": "5c26c6e5ae05887570b03035547e4ad906e23299cbb9f0e31bb28cc0c91d2cb2"
+  },
+  "Star_New_01_Spa_Sheet.jpg": {
+    "bytes": 206730,
+    "sha256": "7a47a4dd0e2c3bb9e4748cd75e1582f0ddbfd7d0e27676576281fda7ac3a94b6"
+  },
+  "Star_New_03_Gym_Sheet.jpg": {
+    "bytes": 211331,
+    "sha256": "a3187346b1e6b353c438487890f1ef26658e39963be7654a47745ea71bdba347"
+  }
+}
