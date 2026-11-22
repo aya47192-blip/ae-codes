@@ -1,0 +1,848 @@
+{
+  "release": "DAE transform fix v3",
+  "root_cause": "v2 serialized column-major internal matrices as COLLADA matrix text; the loader expects row-major serialized matrix values. v3 avoids matrix serialization completely.",
+  "old_file_regression_result": "Error: Non-affine COLLADA matrix: translations serialized into the last row",
+  "new_transform_format": "explicit translate, axis-angle rotate, scale",
+  "actual_exported_dae_readback": [
+    {
+      "family": "Star",
+      "independent_root_units": 16,
+      "every_exported_vertex_world_position_checked": true,
+      "vertices_checked": 234048,
+      "max_world_vertex_error_m": 4.999387002158073e-7,
+      "invalid_affine_matrices": 0,
+      "matrix_tags": 0,
+      "transform_method": "Explicit translate/axis-angle rotate/scale read back using COLLADA loader ordering",
+      "records": [
+        {
+          "unit": "Root_Star_0",
+          "leaf_instances": 15,
+          "max_world_vertex_error_m": 4.99744926552026e-7,
+          "actual_bounds_m": [
+            [
+              -7.117005,
+              -7.3,
+              0
+            ],
+            [
+              7.064519,
+              6.354988,
+              3.38
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_1",
+          "leaf_instances": 15,
+          "max_world_vertex_error_m": 4.996744564778055e-7,
+          "actual_bounds_m": [
+            [
+              25.925356999999998,
+              -8.186528,
+              0
+            ],
+            [
+              42.042604,
+              7.110045,
+              3.48
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_2",
+          "leaf_instances": 14,
+          "max_world_vertex_error_m": 4.994778208811113e-7,
+          "actual_bounds_m": [
+            [
+              61.060228,
+              -7.041896,
+              0
+            ],
+            [
+              74.961026,
+              6.1221,
+              3.48
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_3",
+          "leaf_instances": 14,
+          "max_world_vertex_error_m": 4.995529536699905e-7,
+          "actual_bounds_m": [
+            [
+              94.233804,
+              -8.01281,
+              0
+            ],
+            [
+              109.823286,
+              6.970251,
+              3.58
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_4",
+          "leaf_instances": 88,
+          "max_world_vertex_error_m": 4.999387002158073e-7,
+          "actual_bounds_m": [
+            [
+              -7.69612,
+              -45.05449,
+              0
+            ],
+            [
+              7.733693,
+              -30.02647,
+              3.48
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_5",
+          "leaf_instances": 122,
+          "max_world_vertex_error_m": 4.992553179761217e-7,
+          "actual_bounds_m": [
+            [
+              25.297337,
+              -46.118018,
+              0
+            ],
+            [
+              42.684246,
+              -29.140053,
+              3.58
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_6",
+          "leaf_instances": 32,
+          "max_world_vertex_error_m": 4.99354484873038e-7,
+          "actual_bounds_m": [
+            [
+              61.574038,
+              -43.616597,
+              0
+            ],
+            [
+              74.380386,
+              -31.238673,
+              3.28
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_7",
+          "leaf_instances": 41,
+          "max_world_vertex_error_m": 4.998156271085463e-7,
+          "actual_bounds_m": [
+            [
+              94.697806,
+              -44.413902,
+              0
+            ],
+            [
+              109.261762,
+              -30.547248,
+              3.38
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_8",
+          "leaf_instances": 14,
+          "max_world_vertex_error_m": 4.995287099518464e-7,
+          "actual_bounds_m": [
+            [
+              -5.885848,
+              -79.946575,
+              0
+            ],
+            [
+              5.892133,
+              -68.827341,
+              3.13
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_9",
+          "leaf_instances": 14,
+          "max_world_vertex_error_m": 4.99305087942048e-7,
+          "actual_bounds_m": [
+            [
+              27.408792,
+              -80.754853,
+              0
+            ],
+            [
+              40.635645,
+              -68.1114,
+              3.23
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_10",
+          "leaf_instances": 26,
+          "max_world_vertex_error_m": 4.992553215288353e-7,
+          "actual_bounds_m": [
+            [
+              61.344643,
+              -80.933784,
+              0
+            ],
+            [
+              74.696983,
+              -67.975273,
+              3.48
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_11",
+          "leaf_instances": 123,
+          "max_world_vertex_error_m": 4.998192792982081e-7,
+          "actual_bounds_m": [
+            [
+              92.135568,
+              -89.080999,
+              -0.15
+            ],
+            [
+              111.864104,
+              -65.102172,
+              3.58
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_12",
+          "leaf_instances": 33,
+          "max_world_vertex_error_m": 4.993968616417988e-7,
+          "actual_bounds_m": [
+            [
+              -7.174638,
+              -123.53139,
+              -0.15
+            ],
+            [
+              7.129466,
+              -104.554509,
+              3.48
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_13",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.991469246817815e-7,
+          "actual_bounds_m": [
+            [
+              30.92,
+              -114.08,
+              0
+            ],
+            [
+              37.08,
+              -107.92,
+              0.94
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_14",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.955265495709682e-7,
+          "actual_bounds_m": [
+            [
+              66.79,
+              -112.21,
+              0
+            ],
+            [
+              69.21,
+              -109.79,
+              0.61
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Star_15",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.988241357750667e-7,
+          "actual_bounds_m": [
+            [
+              100.02,
+              -112.98,
+              0
+            ],
+            [
+              103.98,
+              -109.02,
+              0.61
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Fish",
+      "independent_root_units": 16,
+      "every_exported_vertex_world_position_checked": true,
+      "vertices_checked": 258456,
+      "max_world_vertex_error_m": 4.998893379237757e-7,
+      "invalid_affine_matrices": 0,
+      "matrix_tags": 0,
+      "transform_method": "Explicit translate/axis-angle rotate/scale read back using COLLADA loader ordering",
+      "records": [
+        {
+          "unit": "Root_Fish_0",
+          "leaf_instances": 13,
+          "max_world_vertex_error_m": 4.992553197524785e-7,
+          "actual_bounds_m": [
+            [
+              -7.368557,
+              -6.395323,
+              0
+            ],
+            [
+              7.368557,
+              7.374905,
+              3.401
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_1",
+          "leaf_instances": 13,
+          "max_world_vertex_error_m": 4.995532569829209e-7,
+          "actual_bounds_m": [
+            [
+              25.68328,
+              -7.218513,
+              0
+            ],
+            [
+              42.316720000000004,
+              8.323905,
+              3.501
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_2",
+          "leaf_instances": 12,
+          "max_world_vertex_error_m": 4.994001727709474e-7,
+          "actual_bounds_m": [
+            [
+              60.831266,
+              -6.221837,
+              0
+            ],
+            [
+              75.168734,
+              7.174905,
+              3.501
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_3",
+          "leaf_instances": 12,
+          "max_world_vertex_error_m": 4.998893379237757e-7,
+          "actual_bounds_m": [
+            [
+              93.909081,
+              -7.022474,
+              0
+            ],
+            [
+              110.090919,
+              8.097905,
+              3.601
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_4",
+          "leaf_instances": 79,
+          "max_world_vertex_error_m": 4.998206577511155e-7,
+          "actual_bounds_m": [
+            [
+              -8.06794,
+              -44.002523,
+              0
+            ],
+            [
+              8.06794,
+              -28.925095,
+              3.501
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_5",
+          "leaf_instances": 113,
+          "max_world_vertex_error_m": 4.997725575606182e-7,
+          "actual_bounds_m": [
+            [
+              24.892978,
+              -44.904649,
+              0
+            ],
+            [
+              43.107022,
+              -27.885095,
+              3.601
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_6",
+          "leaf_instances": 23,
+          "max_world_vertex_error_m": 4.992553215288353e-7,
+          "actual_bounds_m": [
+            [
+              61.330825,
+              -42.788123,
+              0
+            ],
+            [
+              74.669175,
+              -30.325095,
+              3.301
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_7",
+          "leaf_instances": 32,
+          "max_world_vertex_error_m": 4.994402260649622e-7,
+          "actual_bounds_m": [
+            [
+              94.473582,
+              -43.532377,
+              0
+            ],
+            [
+              109.526418,
+              -29.467095,
+              3.401
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_8",
+          "leaf_instances": 14,
+          "max_world_vertex_error_m": 4.992553197524785e-7,
+          "actual_bounds_m": [
+            [
+              -6.069704,
+              -79.267666,
+              0
+            ],
+            [
+              6.069704,
+              -67.925095,
+              3.151
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_9",
+          "leaf_instances": 14,
+          "max_world_vertex_error_m": 4.992553179761217e-7,
+          "actual_bounds_m": [
+            [
+              27.150984,
+              -79.94426,
+              0
+            ],
+            [
+              40.849016,
+              -67.145095,
+              3.251
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_10",
+          "leaf_instances": 26,
+          "max_world_vertex_error_m": 4.997038303145018e-7,
+          "actual_bounds_m": [
+            [
+              61.03109,
+              -80.048352,
+              0
+            ],
+            [
+              74.96891,
+              -67.025095,
+              3.501
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_11",
+          "leaf_instances": 114,
+          "max_world_vertex_error_m": 4.99855559610296e-7,
+          "actual_bounds_m": [
+            [
+              91.659131,
+              -87.80685700000001,
+              -0.15
+            ],
+            [
+              112.340869,
+              -63.65,
+              3.601
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_12",
+          "leaf_instances": 24,
+          "max_world_vertex_error_m": 4.996662337219959e-7,
+          "actual_bounds_m": [
+            [
+              -7.468406,
+              -122.638286,
+              -0.15
+            ],
+            [
+              7.468406,
+              -103.525,
+              3.501
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_13",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.960498785067102e-7,
+          "actual_bounds_m": [
+            [
+              30.92,
+              -114.08,
+              0
+            ],
+            [
+              37.08,
+              -107.92,
+              0.94
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_14",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.958756250061924e-7,
+          "actual_bounds_m": [
+            [
+              66.79,
+              -112.21,
+              0
+            ],
+            [
+              69.21,
+              -109.79,
+              0.61
+            ]
+          ]
+        },
+        {
+          "unit": "Root_Fish_15",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.90915283535287e-7,
+          "actual_bounds_m": [
+            [
+              100.02,
+              -112.98,
+              0
+            ],
+            [
+              103.98,
+              -109.02,
+              0.61
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Photo",
+      "independent_root_units": 15,
+      "every_exported_vertex_world_position_checked": true,
+      "vertices_checked": 889335,
+      "max_world_vertex_error_m": 7.491550131355496e-7,
+      "invalid_affine_matrices": 0,
+      "matrix_tags": 0,
+      "transform_method": "Explicit translate/axis-angle rotate/scale read back using COLLADA loader ordering",
+      "records": [
+        {
+          "unit": "p0",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 7.491550131355496e-7,
+          "actual_bounds_m": [
+            [
+              -2.2155,
+              -2.0250000000000004,
+              0
+            ],
+            [
+              2.2155,
+              1.85,
+              1.595
+            ]
+          ]
+        },
+        {
+          "unit": "p3",
+          "leaf_instances": 4,
+          "max_world_vertex_error_m": 7.131325934217614e-7,
+          "actual_bounds_m": [
+            [
+              7.8,
+              -1.539967432217769,
+              0
+            ],
+            [
+              12.2,
+              1.4708236338959595,
+              3.179190205748632
+            ]
+          ]
+        },
+        {
+          "unit": "p5",
+          "leaf_instances": 2,
+          "max_world_vertex_error_m": 4.995349591752074e-7,
+          "actual_bounds_m": [
+            [
+              18,
+              -1.1,
+              0
+            ],
+            [
+              22,
+              1.1,
+              2.964992
+            ]
+          ]
+        },
+        {
+          "unit": "p7",
+          "leaf_instances": 4,
+          "max_world_vertex_error_m": 4.99954512012124e-7,
+          "actual_bounds_m": [
+            [
+              -2.25,
+              -8.75,
+              0
+            ],
+            [
+              2.25,
+              -7.25,
+              1.7061000000000002
+            ]
+          ]
+        },
+        {
+          "unit": "p10",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.976568241943369e-7,
+          "actual_bounds_m": [
+            [
+              8.6950705,
+              -8.55,
+              0
+            ],
+            [
+              11.3049295,
+              -7.45,
+              2.7824999999999998
+            ]
+          ]
+        },
+        {
+          "unit": "p13",
+          "leaf_instances": 9,
+          "max_world_vertex_error_m": 4.992386273272587e-7,
+          "actual_bounds_m": [
+            [
+              18.65,
+              -8.5,
+              0
+            ],
+            [
+              21.35,
+              -7.5,
+              1.995
+            ]
+          ]
+        },
+        {
+          "unit": "p16",
+          "leaf_instances": 4,
+          "max_world_vertex_error_m": 4.994623061804759e-7,
+          "actual_bounds_m": [
+            [
+              -1.662,
+              -16.4,
+              0
+            ],
+            [
+              1.659053,
+              -15.6,
+              1.538668
+            ]
+          ]
+        },
+        {
+          "unit": "p20",
+          "leaf_instances": 8,
+          "max_world_vertex_error_m": 5.746561839714559e-7,
+          "actual_bounds_m": [
+            [
+              8.65,
+              -16.95,
+              0
+            ],
+            [
+              11.35,
+              -15.05,
+              0.9421862590165558
+            ]
+          ]
+        },
+        {
+          "unit": "p22",
+          "leaf_instances": 4,
+          "max_world_vertex_error_m": 5.00000002290335e-7,
+          "actual_bounds_m": [
+            [
+              18.88,
+              -16.45,
+              0
+            ],
+            [
+              21.12,
+              -15.55,
+              2.85
+            ]
+          ]
+        },
+        {
+          "unit": "p26",
+          "leaf_instances": 2,
+          "max_world_vertex_error_m": 4.977057059818435e-7,
+          "actual_bounds_m": [
+            [
+              -0.83,
+              -24.471947,
+              0
+            ],
+            [
+              0.83,
+              -23.6,
+              2
+            ]
+          ]
+        },
+        {
+          "unit": "p28",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 5.00000000069889e-7,
+          "actual_bounds_m": [
+            [
+              9.15,
+              -24.55,
+              0
+            ],
+            [
+              10.85,
+              -23.45,
+              2.48
+            ]
+          ]
+        },
+        {
+          "unit": "p31",
+          "leaf_instances": 3,
+          "max_world_vertex_error_m": 4.998215068496847e-7,
+          "actual_bounds_m": [
+            [
+              18.82,
+              -24.5,
+              0
+            ],
+            [
+              21.18,
+              -23.5,
+              2.33
+            ]
+          ]
+        },
+        {
+          "unit": "p33",
+          "leaf_instances": 4,
+          "max_world_vertex_error_m": 2.7124746204698624e-7,
+          "actual_bounds_m": [
+            [
+              -1.479743052807505,
+              -32.58345290992367,
+              0
+            ],
+            [
+              1.5238684028475986,
+              -31.399014144754084,
+              1.4915
+            ]
+          ]
+        },
+        {
+          "unit": "p35",
+          "leaf_instances": 13,
+          "max_world_vertex_error_m": 4.972242777512292e-7,
+          "actual_bounds_m": [
+            [
+              8.555,
+              -32.36,
+              0
+            ],
+            [
+              11.445,
+              -31.64,
+              3.13
+            ]
+          ]
+        },
+        {
+          "unit": "p48",
+          "leaf_instances": 6,
+          "max_world_vertex_error_m": 6.215924770458514e-7,
+          "actual_bounds_m": [
+            [
+              17.64552,
+              -32.2808,
+              0.003
+            ],
+            [
+              22.645,
+              -31.342645358949973,
+              0.053500000000000006
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "original_32_model_geometry_unchanged": true,
+  "source_and_reference_models_unchanged": true,
+  "desktop_sketchup_tested": false,
+  "reference_importer": "https://github.com/mrdoob/three.js/blob/r161/examples/jsm/loaders/ColladaLoader.js",
+  "optional_viewer": "Parses the actual selected .dae file using pinned Three.js ColladaLoader, rather than showing the source model graph."
+}
