@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-22",
+  "method": "Knowledge-based preliminary technical guide. Not a completed live-web research task.",
+  "live_web_verified": false,
+  "HTTP_attempts": [
+    {
+      "url": "https://www.wbdg.org/resources/rain-screen-wall-systems",
+      "result": "proxy destination denied: 403 Forbidden"
+    },
+    {
+      "url": "https://www.grca.org.uk/",
+      "result": "proxy destination denied: 403 Forbidden"
+    },
+    {
+      "url": "https://www.dekton.com/",
+      "result": "proxy destination denied: 403 Forbidden"
+    },
+    {
+      "url": "https://www.qualicoat.net/",
+      "result": "proxy destination denied: 403 Forbidden"
+    }
+  ],
+  "references": [
+    {
+      "id": "R01",
+      "name": "WBDG، أدلة الغلاف الخارجي والمياه والواجهات",
+      "url": "https://www.wbdg.org/",
+      "read_in_this_session": false,
+      "note": "تفاصيل إدارة المياه والهواء والكسوات؛ رابط مرجعي مقترح، لم يُفتح في الجلسة."
+    },
+    {
+      "id": "R02",
+      "name": "GRCA، جمعية الخرسانة المسلحة بالألياف الزجاجية",
+      "url": "https://www.grca.org.uk/",
+      "read_in_this_session": false,
+      "note": "أدلة تصنيع وتصميم واختبار GRC؛ الموقع محجوب في الجلسة."
+    },
+    {
+      "id": "R03",
+      "name": "Natural Stone Institute",
+      "url": "https://www.naturalstoneinstitute.org/",
+      "read_in_this_session": false,
+      "note": "أدلة اختيار وتفصيل وتركيب الحجر الطبيعي؛ لم تُقرأ صفحاته في الجلسة."
+    },
+    {
+      "id": "R04",
+      "name": "PCI، الخرسانة المعمارية مسبقة الصب",
+      "url": "https://www.pci.org/",
+      "read_in_this_session": false,
+      "note": "مراجع تصميم وتفاصيل وتصنيع precast؛ لم تُقرأ صفحاته في الجلسة."
+    },
+    {
+      "id": "R05",
+      "name": "QUALICOAT",
+      "url": "https://www.qualicoat.net/",
+      "read_in_this_session": false,
+      "note": "اشتراطات الطلاء والمعالجة وSEASIDE؛ الموقع محجوب في الجلسة."
+    },
+    {
+      "id": "R06",
+      "name": "FGIA، المواصفات المرتبطة بالألمنيوم والزجاج",
+      "url": "https://fgiaonline.org/",
+      "read_in_this_session": false,
+      "note": "سلاسل AAMA وتقارير واعتمادات الواجهات؛ لم تُراجع الإصدارات الحالية."
+    },
+    {
+      "id": "R07",
+      "name": "ASTM International",
+      "url": "https://www.astm.org/",
+      "read_in_this_session": false,
+      "note": "دليل مواصفات واختبارات الحجر والتثبيت وغيرها؛ لا تفترض الوثيقة الاطلاع على نصوص مدفوعة."
+    },
+    {
+      "id": "R08",
+      "name": "ISO",
+      "url": "https://www.iso.org/",
+      "read_in_this_session": false,
+      "note": "مراجع الامتصاص والتجوية والتآكل والأداء البيئي؛ يراجع الإصدار الساري."
+    },
+    {
+      "id": "R09",
+      "name": "NFPA",
+      "url": "https://www.nfpa.org/",
+      "read_in_this_session": false,
+      "note": "مرجع اختبار انتشار الحريق للنظام NFPA 285 حين ينطبق؛ لم تُراجع اشتراطات محلية حديثة."
+    },
+    {
+      "id": "R10",
+      "name": "EOTA",
+      "url": "https://www.eota.eu/",
+      "read_in_this_session": false,
+      "note": "مراجع ETA/EAD للأنظمة حين تنطبق؛ لا تعتمد الوثيقة إصدارًا محددًا."
+    },
+    {
+      "id": "R11",
+      "name": "Cosentino / Neolith / Laminam",
+      "url": "https://www.cosentino.com/",
+      "read_in_this_session": false,
+      "note": "كتالوجات ألواح وواجهات وتفاصيل تثبيت؛ أمثلة جهات لطلب بيانات وليست توصية بمنتج بعينه."
+    },
+    {
+      "id": "R12",
+      "name": "Neolith",
+      "url": "https://www.neolith.com/",
+      "read_in_this_session": false,
+      "note": "معلومات المنتج الخارجي والأنظمة؛ رابط مقترح غير متحقق مباشرة."
+    },
+    {
+      "id": "R13",
+      "name": "Laminam",
+      "url": "https://www.laminam.com/",
+      "read_in_this_session": false,
+      "note": "الألواح والواجهات والتثبيت؛ رابط مقترح غير متحقق مباشرة."
+    },
+    {
+      "id": "R14",
+      "name": "EQUITONE / Swisspearl",
+      "url": "https://www.equitone.com/",
+      "read_in_this_session": false,
+      "note": "أدلة فايبر سمنت وواجهات مهواة؛ يلزم دليل السلسلة المتاحة محليًا."
+    },
+    {
+      "id": "R15",
+      "name": "Swisspearl",
+      "url": "https://www.swisspearl.com/",
+      "read_in_this_session": false,
+      "note": "تفاصيل تصنيع وألواح وحواف ومثبتات؛ لم تُقرأ صفحات الموقع."
+    },
+    {
+      "id": "R16",
+      "name": "AGROB BUCHTAL",
+      "url": "https://www.agrob-buchtal.de/",
+      "read_in_this_session": false,
+      "note": "أنظمة كسوات خزفية؛ مثال مورد يطلب منه توثيق النظام."
+    },
+    {
+      "id": "R17",
+      "name": "Ductal",
+      "url": "https://www.ductal.com/",
+      "read_in_this_session": false,
+      "note": "UHPC وتطبيقات ألواح وتفاصيل؛ لم تُقرأ صفحات الموقع."
+    },
+    {
+      "id": "R18",
+      "name": "Guardian Glass / Saint-Gobain / Pilkington",
+      "url": "https://www.guardianglass.com/",
+      "read_in_this_session": false,
+      "note": "بيانات الزجاج الحراري والضوئي؛ يلزم منتج وتكوين زجاج محددان."
+    },
+    {
+      "id": "R19",
+      "name": "Schüco",
+      "url": "https://www.schueco.com/",
+      "read_in_this_session": false,
+      "note": "بيانات أنظمة زجاج وإطارات وتفاصيل واجهات؛ لم تُقرأ صفحات الموقع."
+    },
+    {
+      "id": "R20",
+      "name": "Trespa / Fundermax",
+      "url": "https://www.trespa.com/",
+      "read_in_this_session": false,
+      "note": "اعتماد HPL الخارجي والحريق والتثبيت؛ لا يُعمم أداء السلسلة على HPL كله."
+    },
+    {
+      "id": "R21",
+      "name": "Accoya",
+      "url": "https://www.accoya.com/",
+      "read_in_this_session": false,
+      "note": "بيانات خشب معدل والصيانة والتقادم؛ لم تُقرأ صفحات الموقع."
+    },
+    {
+      "id": "R22",
+      "name": "Sto",
+      "url": "https://www.sto.com/",
+      "read_in_this_session": false,
+      "note": "أنظمة تشطيب وعزل خارجي؛ يطلب دليل نظام وليس اسم دهان فقط."
+    },
+    {
+      "id": "R23",
+      "name": "International EPD System",
+      "url": "https://www.environdec.com/",
+      "read_in_this_session": false,
+      "note": "إعلانات بيئية للمنتجات؛ EPD لا يثبت وحده صلاحية منتج فنيًا أو بحريًا."
+    }
+  ]
+}
