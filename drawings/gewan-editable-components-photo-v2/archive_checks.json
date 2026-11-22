@@ -1,0 +1,95 @@
+{
+  "packages": [
+    {
+      "name": "01_Star_Fish_32_Independent_DAE.zip",
+      "entries": [
+        "01_Star_16_Independent_Components.dae",
+        "02_Fish_16_Independent_Components.dae",
+        "README_AR.txt",
+        "verification.json"
+      ],
+      "bytes": 3385946
+    },
+    {
+      "name": "02_Turtle_Photo_15_DAE_With_Textures.zip",
+      "entries": [
+        "03_Turtle_Photo_15_Artworks.dae",
+        "assets/Limestone.png",
+        "assets/Sandstone.png",
+        "assets/Bronze.png",
+        "assets/AquaGlaze.png",
+        "assets/EmeraldGlaze.png",
+        "README_AR.txt",
+        "verification.json"
+      ],
+      "bytes": 4060572
+    },
+    {
+      "name": "03_Turtle_Actual_3D_Viewer.zip",
+      "entries": [
+        "Turtle_Actual_3D_Viewer.html",
+        "README_AR.txt",
+        "verification.json"
+      ],
+      "bytes": 2383703
+    }
+  ],
+  "native_rbz_bytes": 3724359,
+  "all_changed_entries_deflate_roundtrip": true,
+  "native_entries": [
+    {
+      "name": "gewan_editable.rb",
+      "bytes": 403,
+      "crc32": "8b5127df",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/main.rb",
+      "bytes": 4605,
+      "crc32": "6a6ae43b",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/models.json",
+      "bytes": 17290824,
+      "crc32": "b418e187",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/README.txt",
+      "bytes": 416,
+      "crc32": "5b7b54",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/Limestone.png",
+      "bytes": 115703,
+      "crc32": "65ac3136",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/Sandstone.png",
+      "bytes": 117313,
+      "crc32": "3f86a83d",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/Bronze.png",
+      "bytes": 137983,
+      "crc32": "43195110",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/AquaGlaze.png",
+      "bytes": 107314,
+      "crc32": "1da4a0d8",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/EmeraldGlaze.png",
+      "bytes": 114827,
+      "crc32": "7a1a067",
+      "decompressed_exactly": true
+    }
+  ]
+}

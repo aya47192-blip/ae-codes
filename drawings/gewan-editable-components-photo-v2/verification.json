@@ -1,0 +1,419 @@
+{
+  "units": 47,
+  "stars": 16,
+  "fish": 16,
+  "photo_artworks": 15,
+  "independent_geometry_definitions": 366,
+  "original_building_geometry": [
+    {
+      "concept": "Star",
+      "index": 1,
+      "world_triangles": 3340,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 15
+    },
+    {
+      "concept": "Star",
+      "index": 2,
+      "world_triangles": 3340,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 15
+    },
+    {
+      "concept": "Star",
+      "index": 3,
+      "world_triangles": 3336,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 14
+    },
+    {
+      "concept": "Star",
+      "index": 4,
+      "world_triangles": 3336,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 14
+    },
+    {
+      "concept": "Star",
+      "index": 5,
+      "world_triangles": 9732,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 88
+    },
+    {
+      "concept": "Star",
+      "index": 6,
+      "world_triangles": 13036,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 122
+    },
+    {
+      "concept": "Star",
+      "index": 7,
+      "world_triangles": 4996,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 32
+    },
+    {
+      "concept": "Star",
+      "index": 8,
+      "world_triangles": 5904,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 41
+    },
+    {
+      "concept": "Star",
+      "index": 9,
+      "world_triangles": 3220,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 14
+    },
+    {
+      "concept": "Star",
+      "index": 10,
+      "world_triangles": 3220,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 14
+    },
+    {
+      "concept": "Star",
+      "index": 11,
+      "world_triangles": 4060,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 26
+    },
+    {
+      "concept": "Star",
+      "index": 12,
+      "world_triangles": 13284,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 123
+    },
+    {
+      "concept": "Star",
+      "index": 13,
+      "world_triangles": 5244,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 33
+    },
+    {
+      "concept": "Star",
+      "index": 14,
+      "world_triangles": 656,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 3
+    },
+    {
+      "concept": "Star",
+      "index": 15,
+      "world_triangles": 656,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 3
+    },
+    {
+      "concept": "Star",
+      "index": 16,
+      "world_triangles": 656,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 3
+    },
+    {
+      "concept": "Fish",
+      "index": 1,
+      "world_triangles": 4284,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 13
+    },
+    {
+      "concept": "Fish",
+      "index": 2,
+      "world_triangles": 4284,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 13
+    },
+    {
+      "concept": "Fish",
+      "index": 3,
+      "world_triangles": 4184,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 12
+    },
+    {
+      "concept": "Fish",
+      "index": 4,
+      "world_triangles": 4184,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 12
+    },
+    {
+      "concept": "Fish",
+      "index": 5,
+      "world_triangles": 9816,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 79
+    },
+    {
+      "concept": "Fish",
+      "index": 6,
+      "world_triangles": 13056,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 113
+    },
+    {
+      "concept": "Fish",
+      "index": 7,
+      "world_triangles": 5192,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 23
+    },
+    {
+      "concept": "Fish",
+      "index": 8,
+      "world_triangles": 6084,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 32
+    },
+    {
+      "concept": "Fish",
+      "index": 9,
+      "world_triangles": 4340,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 14
+    },
+    {
+      "concept": "Fish",
+      "index": 10,
+      "world_triangles": 4340,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 14
+    },
+    {
+      "concept": "Fish",
+      "index": 11,
+      "world_triangles": 5164,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 26
+    },
+    {
+      "concept": "Fish",
+      "index": 12,
+      "world_triangles": 13368,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 114
+    },
+    {
+      "concept": "Fish",
+      "index": 13,
+      "world_triangles": 5504,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 24
+    },
+    {
+      "concept": "Fish",
+      "index": 14,
+      "world_triangles": 784,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 3
+    },
+    {
+      "concept": "Fish",
+      "index": 15,
+      "world_triangles": 784,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 3
+    },
+    {
+      "concept": "Fish",
+      "index": 16,
+      "world_triangles": 784,
+      "exact_world_triangles_at_0_00001_m": true,
+      "direct_component_count": 3
+    }
+  ],
+  "photo14": [
+    {
+      "x": -0.6,
+      "z": 0.4,
+      "hits": 0
+    },
+    {
+      "x": -0.6,
+      "z": 1,
+      "hits": 0
+    },
+    {
+      "x": -0.6,
+      "z": 1.95,
+      "hits": 0
+    },
+    {
+      "x": 0,
+      "z": 0.4,
+      "hits": 0
+    },
+    {
+      "x": 0,
+      "z": 1,
+      "hits": 0
+    },
+    {
+      "x": 0,
+      "z": 1.95,
+      "hits": 0
+    },
+    {
+      "x": 0.6,
+      "z": 0.4,
+      "hits": 0
+    },
+    {
+      "x": 0.6,
+      "z": 1,
+      "hits": 0
+    },
+    {
+      "x": 0.6,
+      "z": 1.95,
+      "hits": 0
+    }
+  ],
+  "photo14_opening_m": [
+    2.17,
+    2.17
+  ],
+  "dae": [
+    {
+      "family": "Star",
+      "root_units": 16,
+      "definitions": 147,
+      "mesh_definitions": 131,
+      "unique_triangles": 33140,
+      "all_id_references_resolved": true,
+      "hierarchy": "library_nodes + instance_node",
+      "materials": 13,
+      "texture_images": 0,
+      "xml_characters": 8120945,
+      "desktop_import_tested": false
+    },
+    {
+      "family": "Fish",
+      "root_units": 16,
+      "definitions": 145,
+      "mesh_definitions": 129,
+      "unique_triangles": 48180,
+      "all_id_references_resolved": true,
+      "hierarchy": "library_nodes + instance_node",
+      "materials": 13,
+      "texture_images": 0,
+      "xml_characters": 11876660,
+      "desktop_import_tested": false
+    },
+    {
+      "family": "Photo",
+      "root_units": 15,
+      "definitions": 74,
+      "mesh_definitions": 49,
+      "unique_triangles": 80173,
+      "all_id_references_resolved": true,
+      "hierarchy": "library_nodes + instance_node",
+      "materials": 12,
+      "texture_images": 5,
+      "xml_characters": 20758097,
+      "desktop_import_tested": false
+    }
+  ],
+  "texture_png_checks": [
+    {
+      "file": "assets/Limestone.png",
+      "width": 256,
+      "height": 256,
+      "png_crc_and_pixels_decode": true
+    },
+    {
+      "file": "assets/Sandstone.png",
+      "width": 256,
+      "height": 256,
+      "png_crc_and_pixels_decode": true
+    },
+    {
+      "file": "assets/Bronze.png",
+      "width": 256,
+      "height": 256,
+      "png_crc_and_pixels_decode": true
+    },
+    {
+      "file": "assets/AquaGlaze.png",
+      "width": 256,
+      "height": 256,
+      "png_crc_and_pixels_decode": true
+    },
+    {
+      "file": "assets/EmeraldGlaze.png",
+      "width": 256,
+      "height": 256,
+      "png_crc_and_pixels_decode": true
+    }
+  ],
+  "native_component_method": "SketchUp ComponentDefinition + ComponentInstance for each geometry item; only container definitions can be exploded to expose independent instances",
+  "native_rbz_untested_in_Desktop": true,
+  "dae_import_untested_in_Desktop": true,
+  "photo_model_fidelity": "Interpretive 3D artwork based on approved moodboard; not exact millimetre replicas. Source images are not final model renders.",
+  "viewer": "Optional HTML viewer of the actual included sculpture geometry; Three.js loaded from a pinned public CDN; browser execution not tested here.",
+  "native_rbz_archive_validation": [
+    {
+      "name": "gewan_editable.rb",
+      "bytes": 403,
+      "crc32": "8b5127df",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/main.rb",
+      "bytes": 4605,
+      "crc32": "6a6ae43b",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/models.json",
+      "bytes": 17290824,
+      "crc32": "b418e187",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/README.txt",
+      "bytes": 416,
+      "crc32": "5b7b54",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/Limestone.png",
+      "bytes": 115703,
+      "crc32": "65ac3136",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/Sandstone.png",
+      "bytes": 117313,
+      "crc32": "3f86a83d",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/Bronze.png",
+      "bytes": 137983,
+      "crc32": "43195110",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/AquaGlaze.png",
+      "bytes": 107314,
+      "crc32": "1da4a0d8",
+      "decompressed_exactly": true
+    },
+    {
+      "name": "gewan_editable/assets/EmeraldGlaze.png",
+      "bytes": 114827,
+      "crc32": "7a1a067",
+      "decompressed_exactly": true
+    }
+  ],
+  "photo14_expanded_square": true
+}
