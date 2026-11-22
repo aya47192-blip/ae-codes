@@ -1,0 +1,472 @@
+{
+  "format": "COLLADA 1.4.1",
+  "units": "metres",
+  "independent_root_nodes_per_file": 16,
+  "files": 2,
+  "total_units": 32,
+  "main_buildings": 26,
+  "centerpieces": 6,
+  "new_layouts_and_furniture": true,
+  "opaque_low_roof": true,
+  "wood": false,
+  "desktop_tested": false,
+  "limitations": "New minimal mesh models, not edited old SKP files. Materials are simple colours, without photographic textures. DAE geometry and index checks executed in JavaScript; no SketchUp Desktop import test available.",
+  "nodes": 211,
+  "unique_triangles": 78940,
+  "records": [
+    {
+      "concept": "Star",
+      "index": 1,
+      "category": "Spa",
+      "name": "Star_01_Spa",
+      "area_m2": 127.71481151772343,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 2,
+      "category": "Spa",
+      "name": "Star_02_Spa",
+      "area_m2": 163.0790428269811,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        34,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 3,
+      "category": "Gym",
+      "name": "Star_03_Gym",
+      "area_m2": 120.81260365187538,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        68,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 4,
+      "category": "Gym",
+      "name": "Star_04_Gym",
+      "area_m2": 154.26561360307971,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        102,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 5,
+      "category": "Restaurant",
+      "name": "Star_05_Restaurant",
+      "area_m2": 153.38239701884592,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "tables": 5,
+      "at": [
+        0,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 6,
+      "category": "Restaurant",
+      "name": "Star_06_Restaurant",
+      "area_m2": 195.85398275336436,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "tables": 7,
+      "at": [
+        34,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 7,
+      "category": "Cafe",
+      "name": "Star_07_Cafe",
+      "area_m2": 104.39589397095203,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        68,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 8,
+      "category": "Cafe",
+      "name": "Star_08_Cafe",
+      "area_m2": 133.30311701150862,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        102,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 9,
+      "category": "Chalet",
+      "name": "Star_09_Chalet",
+      "area_m2": 86.27759832310082,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        0,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 10,
+      "category": "Chalet",
+      "name": "Star_10_Chalet",
+      "area_m2": 110.16786529876745,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        34,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 11,
+      "category": "Kids",
+      "name": "Star_11_Kids",
+      "area_m2": 114.10212378230086,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        68,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 12,
+      "category": "MarineRestaurant",
+      "name": "Star_12_MarineRestaurant",
+      "area_m2": 194.12459622697693,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "tables": 7,
+      "at": [
+        102,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 13,
+      "category": "MarineLounge",
+      "name": "Star_13_MarineLounge",
+      "area_m2": 101.25634803197248,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        0,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 14,
+      "category": "CenterpieceLarge",
+      "name": "Star_14_CenterpieceLarge",
+      "area_m2": 18.789343634808628,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 0,
+      "at": [
+        34,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 15,
+      "category": "CenterpieceSmall",
+      "name": "Star_15_CenterpieceSmall",
+      "area_m2": 2.8998859436375573,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 0,
+      "at": [
+        68,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Star",
+      "index": 16,
+      "category": "CenterpieceArrival",
+      "name": "Star_16_CenterpieceArrival",
+      "area_m2": 7.764983849079077,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 0,
+      "at": [
+        102,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 1,
+      "category": "Spa",
+      "name": "Fish_01_Spa",
+      "area_m2": 149.04944497426803,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 2,
+      "category": "Spa",
+      "name": "Fish_02_Spa",
+      "area_m2": 190.32123628764276,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        34,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 3,
+      "category": "Gym",
+      "name": "Fish_03_Gym",
+      "area_m2": 140.9942300835588,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        68,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 4,
+      "category": "Gym",
+      "name": "Fish_04_Gym",
+      "area_m2": 180.03553239369623,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        102,
+        0,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 5,
+      "category": "Restaurant",
+      "name": "Fish_05_Restaurant",
+      "area_m2": 179.00477534909257,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "tables": 4,
+      "at": [
+        0,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 6,
+      "category": "Restaurant",
+      "name": "Fish_06_Restaurant",
+      "area_m2": 228.57119764325648,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "tables": 6,
+      "at": [
+        34,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 7,
+      "category": "Cafe",
+      "name": "Fish_07_Cafe",
+      "area_m2": 121.83512522197618,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        68,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 8,
+      "category": "Cafe",
+      "name": "Fish_08_Cafe",
+      "area_m2": 155.5712713959415,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        102,
+        -37,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 9,
+      "category": "Chalet",
+      "name": "Fish_09_Chalet",
+      "area_m2": 100.69018613386456,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        0,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 10,
+      "category": "Chalet",
+      "name": "Fish_10_Chalet",
+      "area_m2": 128.57129867433167,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        34,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 11,
+      "category": "Kids",
+      "name": "Fish_11_Kids",
+      "area_m2": 133.162771162036,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        68,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 12,
+      "category": "MarineRestaurant",
+      "name": "Fish_12_MarineRestaurant",
+      "area_m2": 226.55291880119543,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "tables": 6,
+      "at": [
+        102,
+        -74,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 13,
+      "category": "MarineLounge",
+      "name": "Fish_13_MarineLounge",
+      "area_m2": 118.17112122654945,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 1,
+      "at": [
+        0,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 14,
+      "category": "CenterpieceLarge",
+      "name": "Fish_14_CenterpieceLarge",
+      "area_m2": 21.928084980263844,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 0,
+      "at": [
+        34,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 15,
+      "category": "CenterpieceSmall",
+      "name": "Fish_15_CenterpieceSmall",
+      "area_m2": 3.3843090339437842,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 0,
+      "at": [
+        68,
+        -111,
+        0
+      ]
+    },
+    {
+      "concept": "Fish",
+      "index": 16,
+      "category": "CenterpieceArrival",
+      "name": "Fish_16_CenterpieceArrival",
+      "area_m2": 9.062116752047816,
+      "roof_style": "flat low ordinary slab",
+      "main_volume": 0,
+      "at": [
+        102,
+        -111,
+        0
+      ]
+    }
+  ]
+}

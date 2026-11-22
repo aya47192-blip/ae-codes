@@ -1,0 +1,49 @@
+{
+  "zip_bytes": 1368531,
+  "compression": "DEFLATE fixed Huffman",
+  "all_entries_decompressed_and_compared_byte_for_byte": true,
+  "checks": [
+    {
+      "name": "01_Star_Minimal_16_Blocks.dae",
+      "raw_bytes": 2728848,
+      "compressed_bytes": 514364,
+      "crc32": "ef22d356",
+      "deflate_roundtrip": true
+    },
+    {
+      "name": "02_Fish_Scale_Minimal_16_Blocks.dae",
+      "raw_bytes": 3944806,
+      "compressed_bytes": 798140,
+      "crc32": "c48c798d",
+      "deflate_roundtrip": true
+    },
+    {
+      "name": "Star_Actual_Footprints.svg",
+      "raw_bytes": 37096,
+      "compressed_bytes": 25378,
+      "crc32": "b72ab7c1",
+      "deflate_roundtrip": true
+    },
+    {
+      "name": "Fish_Actual_Footprints.svg",
+      "raw_bytes": 46485,
+      "compressed_bytes": 26768,
+      "crc32": "3b5bbaa3",
+      "deflate_roundtrip": true
+    },
+    {
+      "name": "verification.json",
+      "raw_bytes": 9798,
+      "compressed_bytes": 1761,
+      "crc32": "f371e0b6",
+      "deflate_roundtrip": true
+    },
+    {
+      "name": "README_AR.txt",
+      "raw_bytes": 2402,
+      "compressed_bytes": 1350,
+      "crc32": "40410dbb",
+      "deflate_roundtrip": true
+    }
+  ]
+}
