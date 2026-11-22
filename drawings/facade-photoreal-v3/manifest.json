@@ -1,0 +1,62 @@
+{
+  "images": [
+    {
+      "name": "01_Sustainable_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dc5d2b8e717df445f15ef70c0de23948659a71d88278fe9e4661ec036852bb14"
+    },
+    {
+      "name": "01_Sustainable_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "265afc6ee637fee13bde91cc8fc7cc133dbc0d666153fd5ed75db205bed82612"
+    },
+    {
+      "name": "02_Andalusian_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d6897b8280947cd120b0e68be9a83633addc544cdcb870ade0a9892ebbbae2d3"
+    },
+    {
+      "name": "02_Andalusian_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9aff0bedf99b2f864212999b67652587fd9db946f45db407e6ad132fdf716318"
+    },
+    {
+      "name": "03_Baroque_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5548fa47b228233c02c41ed40f916e538ea64fe4c393015b3675b32b55539360"
+    },
+    {
+      "name": "03_Baroque_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d9934572d527a2aeafcd105dd32c5c1a2d40c325c279e6d00eb1b78f2771f0ca"
+    },
+    {
+      "name": "04_Greek_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a726fde00d18f7be5fa4f71b5ed9fd597a01511f9f3058bea629394b7acd86c8"
+    },
+    {
+      "name": "04_Greek_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "32981fd2715d65e0f1d1d398992a398a45c1d0b1f8e291ea057efefcdb4edc3c"
+    }
+  ],
+  "method": "AI photorealistic enhancement of CAD-derived facade previews; oblique side returns are conceptual.",
+  "cad_sources_modified": false,
+  "approved_render_geometry_changes": [
+    "Baroque ground floor: mirror the two left openings on the right of the central entrance"
+  ],
+  "lighting": {
+    "front": "neutral natural daylight",
+    "oblique": "early blue hour after sunset"
+  },
+  "materials_research": "Manufacturer access attempted but blocked by HTTP 403; material families remain design proposals, not verified product specifications"
+}
