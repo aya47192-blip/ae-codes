@@ -1,0 +1,54 @@
+{
+  "images": [
+    {
+      "name": "01_Sustainable_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "54413d749806a7ac04fc674e5fef4e4edb758b26d2a190d1494c231fc2648208"
+    },
+    {
+      "name": "01_Sustainable_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "576e39d10143605056092768df467c8bb00b2c7fd2502970e4f6ffdc635a120c"
+    },
+    {
+      "name": "02_Andalusian_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3903d569e28d6751608e1d55c0dbfbbdfa176ed85065c631530d4c64ee6fc692"
+    },
+    {
+      "name": "02_Andalusian_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e63b5d6b04c2b1a80422cbbdd1eb99afb64e3777c2af3f4a4b046151f2bb0df0"
+    },
+    {
+      "name": "03_Baroque_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "808b0feeab9fafe29c0be71b2e2413e44912a955dfa643b8f3cfd41878b54fe1"
+    },
+    {
+      "name": "03_Baroque_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "683ff4c7accb495d9da5257a902ece0710444c15b1f44a7ff275a5910738dc89"
+    },
+    {
+      "name": "04_Greek_Front.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f232867d928be4c2eb67d6b7d1e26a0d5254017c404a19498abf378cb8591262"
+    },
+    {
+      "name": "04_Greek_Oblique.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e577d3669f3a045b3c64a8dfb703ba53e4af43b8b2a6dcbf4552f2b8b252afe5"
+    }
+  ],
+  "method": "AI photorealistic enhancement of CAD-derived facade previews; oblique side returns are conceptual.",
+  "cad_sources_modified": false
+}
